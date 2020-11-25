@@ -1,0 +1,3166 @@
+>Cluster 0
+0	14aa, >2423_Hemolytik_Free_Free_Very... at 100.00%
+1	14aa, >2292_Hemolytik_Free_Free_100%... at 100.00%
+2	14aa, >2295_Hemolytik_Free_Free_100%... at 100.00%
+3	14aa, >2296_Hemolytik_Free_Free_100%... at 100.00%
+4	14aa, >2297_Hemolytik_Free_Free_100%... at 100.00%
+5	14aa, >2299_Hemolytik_Free_Free_100%... at 100.00%
+6	14aa, >2300_Hemolytik_Free_Free_100%... at 100.00%
+7	14aa, >2301_Hemolytik_Free_Free_100%... at 100.00%
+8	14aa, >2302_Hemolytik_Free_Free_100%... at 100.00%
+9	14aa, >2303_Hemolytik_Free_Free_100%... at 100.00%
+10	14aa, >2304_Hemolytik_Free_Free_100%... at 100.00%
+11	14aa, >2305_Hemolytik_Free_Free_100%... at 100.00%
+12	14aa, >2306_Hemolytik_Free_Free_100%... at 100.00%
+13	14aa, >2311_Hemolytik_Free_Free_100%... at 100.00%
+14	14aa, >2425_Hemolytik_Free_Free_100%... at 100.00%
+15	14aa, >2429_Hemolytik_Free_Free_100%... at 100.00%
+16	14aa, >2486_Hemolytik_Free_Free_100%... at 100.00%
+17	14aa, >2487_Hemolytik_Free_Free_100%... at 100.00%
+18	14aa, >2552_Hemolytik_Free_Free_100%... at 100.00%
+19	14aa, >2553_Hemolytik_Free_Free_100%... at 100.00%
+20	14aa, >2554_Hemolytik_Free_Free_100%... at 100.00%
+21	14aa, >2555_Hemolytik_Free_Free_100%... at 100.00%
+22	14aa, >2556_Hemolytik_Free_Free_100%... at 100.00%
+23	14aa, >2557_Hemolytik_Free_Free_100%... at 100.00%
+24	14aa, >2558_Hemolytik_Free_Free_100%... at 100.00%
+25	14aa, >2559_Hemolytik_Free_Free_100%... at 100.00%
+26	14aa, >2560_Hemolytik_Free_Free_100%... at 100.00%
+27	14aa, >2561_Hemolytik_Free_Free_100%... at 100.00%
+28	14aa, >2562_Hemolytik_Free_Free_100%... at 100.00%
+29	14aa, >2563_Hemolytik_Free_Free_100%... at 100.00%
+30	14aa, >2564_Hemolytik_Free_Free_100%... at 100.00%
+31	14aa, >2565_Hemolytik_Free_Free_100%... at 100.00%
+32	14aa, >2566_Hemolytik_Free_Free_100%... at 100.00%
+33	14aa, >2567_Hemolytik_Free_Free_100%... at 100.00%
+34	14aa, >2568_Hemolytik_Free_Free_100%... at 100.00%
+35	14aa, >3944_Hemolytik_Free_Free_MHC... at 100.00%
+36	14aa, >4160_Hemolytik_Free_Free_MHC... at 100.00%
+37	14aa, >1689_DBASSP_#_#_hem... at 100.00%
+38	14aa, >1693_DBASSP_#_#_hem... at 100.00%
+39	14aa, >1697_DBASSP_#_#_hem... at 100.00%
+40	14aa, >1701_DBASSP_#_#_hem... at 100.00%
+41	14aa, >1703_DBASSP_#_#_hem... at 100.00%
+42	14aa, >1705_DBASSP_#_#_hem... at 100.00%
+43	14aa, >1690_DBASSP_#_#_hem... at 100.00%
+44	14aa, >1691_DBASSP_#_#_hem... at 100.00%
+45	14aa, >1692_DBASSP_#_#_hem... at 100.00%
+46	14aa, >1695_DBASSP_#_#_hem... at 100.00%
+47	14aa, >1696_DBASSP_#_#_hem... at 100.00%
+48	14aa, >1698_DBASSP_#_#_hem... at 100.00%
+49	14aa, >1699_DBASSP_#_#_hem... at 100.00%
+50	14aa, >1700_DBASSP_#_#_hem... at 100.00%
+51	14aa, >1702_DBASSP_#_#_hem... at 100.00%
+52	14aa, >1704_DBASSP_#_#_hem... at 100.00%
+53	14aa, >1694_DBASSP_#_#_hem... at 100.00%
+54	15aa, >6194_DBASSP_#_#_hem... *
+>Cluster 1
+0	11aa, >1844_Hemolytik_Amidation_Benzoylation_71±2.3%... at 90.91%
+1	11aa, >1845_Hemolytik_Amidation_Free_84±6.5%... at 90.91%
+2	11aa, >1848_Hemolytik_Amidation_Tosylation_85±7.4%... at 90.91%
+3	11aa, >1851_Hemolytik_Amidation_Tosylation_79±6.5%... at 100.00%
+4	11aa, >1852_Hemolytik_Amidation_Benzoylation_83±13.5%... at 100.00%
+5	11aa, >1853_Hemolytik_Amidation_Free_91±6.2%... at 90.91%
+6	11aa, >2847_Hemolytik_Amidation_Free_54... at 100.00%
+7	11aa, >2855_Hemolytik_Amidation_Free_51±0.5%... at 100.00%
+8	11aa, >2856_Hemolytik_Amidation_Free_53... at 100.00%
+9	11aa, >2857_Hemolytik_Amidation_Free_71±0.4%... at 100.00%
+10	11aa, >2868_Hemolytik_Amidation_Free_58±5.7%... at 100.00%
+11	11aa, >2869_Hemolytik_Amidation_Free_65±1.9%... at 100.00%
+12	11aa, >2870_Hemolytik_Amidation_Free_66±2.9%... at 100.00%
+13	11aa, >2878_Hemolytik_Amidation_Free_50±2.1%... at 100.00%
+14	11aa, >197_DBASSP_AMD_#_hem... at 100.00%
+15	11aa, >205_DBASSP_AMD_#_hem... at 100.00%
+16	11aa, >206_DBASSP_AMD_#_hem... at 100.00%
+17	11aa, >207_DBASSP_AMD_#_hem... at 100.00%
+18	11aa, >218_DBASSP_AMD_#_hem... at 100.00%
+19	11aa, >219_DBASSP_AMD_#_hem... at 100.00%
+20	11aa, >220_DBASSP_AMD_#_hem... at 100.00%
+21	11aa, >228_DBASSP_AMD_#_hem... at 100.00%
+22	11aa, >913_DBASSP_AMD_#_hem... at 90.91%
+23	11aa, >915_DBASSP_AMD_#_hem... at 90.91%
+24	11aa, >4978_DBASSP_AMD_BZO_hem... at 90.91%
+25	11aa, >4980_DBASSP_AMD_#_hem... at 90.91%
+26	11aa, >4982_DBASSP_AMD_ACT_hem... at 90.91%
+27	11aa, >4983_DBASSP_AMD_TOS_hem... at 90.91%
+28	11aa, >4986_DBASSP_AMD_BZO_hem... at 100.00%
+29	11aa, >4987_DBASSP_AMD_#_hem... at 90.91%
+30	11aa, >5041_DBASSP_#_#_hem... at 90.91%
+31	11aa, >4985_DBASSP_AMD_TOS_hem... at 100.00%
+32	26aa, >7921_DBASSP_#_#_hem... at 100.00%
+33	27aa, >7922_DBASSP_#_#_hem... at 96.30%
+34	27aa, >7923_DBASSP_#_#_hem... at 96.30%
+35	30aa, >7924_DBASSP_#_#_hem... at 100.00%
+36	52aa, >7932_DBASSP_#_#_hem... *
+>Cluster 2
+0	28aa, >3693_Hemolytik_Free_Free_100%... *
+1	16aa, >107_DBASSP_AMD_#_hem... at 93.75%
+2	15aa, >79_DBASSP_AMD_#_hem... at 93.33%
+3	28aa, >606_DBASSP_#_#_hem... at 100.00%
+4	28aa, >607_DBASSP_#_#_hem... at 96.43%
+5	28aa, >608_DBASSP_#_#_hem... at 96.43%
+6	28aa, >611_DBASSP_#_#_hem... at 96.43%
+7	24aa, >616_DBASSP_#_#_hem... at 100.00%
+8	16aa, >618_DBASSP_#_#_hem... at 100.00%
+9	16aa, >619_DBASSP_#_#_hem... at 93.75%
+10	28aa, >102_DBASSP_#_#_hem... at 92.86%
+11	28aa, >609_DBASSP_#_#_hem... at 92.86%
+12	28aa, >610_DBASSP_#_#_hem... at 96.43%
+13	20aa, >612_DBASSP_#_#_hem... at 100.00%
+14	16aa, >613_DBASSP_#_#_hem... at 100.00%
+15	12aa, >614_DBASSP_#_#_hem... at 100.00%
+16	12aa, >615_DBASSP_#_#_hem... at 100.00%
+17	20aa, >617_DBASSP_#_#_hem... at 100.00%
+18	27aa, >5531_DBASSP_#_#_hem... at 100.00%
+19	27aa, >6454_DBASSP_AMD_#_hem... at 100.00%
+20	27aa, >6455_DBASSP_AMD_#_hem... at 96.30%
+21	27aa, >6460_DBASSP_AMD_#_hem... at 92.59%
+22	13aa, >6650_DBASSP_AMD_#_hem... at 100.00%
+23	13aa, >6654_DBASSP_AMD_ACT_hem... at 100.00%
+24	13aa, >6655_DBASSP_AMD_C4_hem... at 100.00%
+25	13aa, >6658_DBASSP_AMD_C6_hem... at 100.00%
+26	15aa, >7356_DBASSP_AMD_C12_hem... at 93.33%
+27	10aa, >7357_DBASSP_AMD_#_hem... at 100.00%
+28	10aa, >7358_DBASSP_AMD_C12_hem... at 100.00%
+29	9aa, >7359_DBASSP_AMD_#_hem... at 100.00%
+30	9aa, >7360_DBASSP_AMD_C12_hem... at 100.00%
+31	8aa, >7361_DBASSP_AMD_#_hem... at 100.00%
+32	8aa, >7362_DBASSP_AMD_C12_hem... at 100.00%
+33	7aa, >7363_DBASSP_AMD_#_hem... at 100.00%
+34	7aa, >7364_DBASSP_AMD_C12_hem... at 100.00%
+35	8aa, >7365_DBASSP_AMD_C14_hem... at 100.00%
+36	7aa, >7366_DBASSP_AMD_C14_hem... at 100.00%
+>Cluster 3
+0	22aa, >1249_Hemolytik_Amidation_Free_100%... *
+1	22aa, >1250_Hemolytik_Amidation_Free_96%... at 100.00%
+2	22aa, >1251_Hemolytik_Amidation_Free_92%hemolysis... at 100.00%
+3	22aa, >3410_Hemolytik_Free_Free_~90%... at 100.00%
+4	22aa, >3412_Hemolytik_Free_Free_~90%... at 95.45%
+5	22aa, >3422_Hemolytik_Amidation_Free_100%... at 95.45%
+6	22aa, >3423_Hemolytik_Amidation_Free_80%... at 95.45%
+7	22aa, >3424_Hemolytik_Amidation_Free_100%... at 95.45%
+8	22aa, >9006_DBASSP_AMD_#_hem... at 95.45%
+9	22aa, >9004_DBASSP_AMD_#_hem... at 95.45%
+10	22aa, >9007_DBASSP_AMD_#_hem... at 95.45%
+11	22aa, >9008_DBASSP_AMD_#_hem... at 95.45%
+12	22aa, >9009_DBASSP_AMD_#_hem... at 90.91%
+13	22aa, >9010_DBASSP_AMD_#_hem... at 95.45%
+14	22aa, >9986_DBASSP_AMD_#_hem... at 95.45%
+15	22aa, >9987_DBASSP_#_#_hem... at 95.45%
+16	22aa, >4867_DBASSP_#_#_hem... at 100.00%
+17	22aa, >4868_DBASSP_#_#_hem... at 95.45%
+18	22aa, >4869_DBASSP_#_#_hem... at 95.45%
+19	22aa, >4873_DBASSP_#_#_hem... at 90.91%
+20	22aa, >4874_DBASSP_#_#_hem... at 95.45%
+21	22aa, >4875_DBASSP_#_#_hem... at 95.45%
+22	22aa, >4882_DBASSP_#_#_hem... at 90.91%
+23	22aa, >4884_DBASSP_#_#_hem... at 90.91%
+24	22aa, >4887_DBASSP_#_#_hem... at 90.91%
+25	22aa, >4892_DBASSP_#_#_hem... at 90.91%
+26	22aa, >6450_DBASSP_AMD_#_hem... at 100.00%
+27	22aa, >6451_DBASSP_AMD_#_hem... at 95.45%
+28	22aa, >6452_DBASSP_AMD_#_hem... at 95.45%
+29	22aa, >6453_DBASSP_AMD_#_hem... at 95.45%
+30	22aa, >7167_DBASSP_#_#_hem... at 95.45%
+31	22aa, >7169_DBASSP_#_#_hem... at 95.45%
+32	22aa, >7170_DBASSP_#_#_hem... at 95.45%
+33	22aa, >7188_DBASSP_#_#_hem... at 95.45%
+34	22aa, >7189_DBASSP_#_#_hem... at 95.45%
+35	22aa, >7190_DBASSP_#_#_hem... at 95.45%
+36	22aa, >7213_DBASSP_#_#_hem... at 95.45%
+>Cluster 4
+0	26aa, >1076_Hemolytik_Amidation_Free_100%... *
+1	26aa, >2441_Hemolytik_Free_Free_94.6%... at 100.00%
+2	26aa, >2472_Hemolytik_Amidation_Free_50%... at 100.00%
+3	26aa, >2473_Hemolytik_Amidation_Free_50%... at 96.15%
+4	26aa, >2700_Hemolytik_Free_Free_>80%... at 100.00%
+5	26aa, >2701_Hemolytik_Free_Free_<60%... at 100.00%
+6	20aa, >2702_Hemolytik_Free_Free_<80%... at 100.00%
+7	26aa, >2770_Hemolytik_Amidation_Free_100%... at 100.00%
+8	26aa, >3294_Hemolytik_Amidation_Free_100%... at 100.00%
+9	26aa, >3295_Hemolytik_Amidation_Acetylation_100%... at 100.00%
+10	26aa, >3296_Hemolytik_Lac=p-amidophenyl-β-D-lactopyranoside_Free_120%... at 100.00%
+11	16aa, >3843_Hemolytik_Amidation_Free_100%... at 93.75%
+12	26aa, >8209_DBASSP_#_#_hem... at 96.15%
+13	26aa, >806_DBASSP_AMD_#_hem... at 100.00%
+14	15aa, >932_DBASSP_AMD_#_hem... at 93.33%
+15	15aa, >933_DBASSP_AMD_#_hem... at 93.33%
+16	26aa, >9386_DBASSP_#_#_hem... at 92.31%
+17	26aa, >1790_DBASSP_AMD_#_hem... at 96.15%
+18	26aa, >1791_DBASSP_AMD_#_hem... at 96.15%
+19	26aa, >1792_DBASSP_AMD_#_hem... at 96.15%
+20	23aa, >2260_DBASSP_#_#_hem... at 100.00%
+21	14aa, >2426_DBASSP_AMD_#_hem... at 100.00%
+22	26aa, >1793_DBASSP_AMD_#_hem... at 96.15%
+23	26aa, >1795_DBASSP_AMD_#_hem... at 96.15%
+24	26aa, >1796_DBASSP_AMD_#_hem... at 96.15%
+25	26aa, >1797_DBASSP_AMD_#_hem... at 96.15%
+26	26aa, >1794_DBASSP_AMD_#_hem... at 96.15%
+27	26aa, >5417_DBASSP_#_#_hem... at 100.00%
+28	26aa, >5428_DBASSP_AMD_#_hem... at 100.00%
+29	26aa, >5429_DBASSP_AMD_#_hem... at 96.15%
+30	26aa, >5455_DBASSP_#_#_hem... at 96.15%
+31	26aa, >9385_DBASSP_#_#_hem... at 92.31%
+>Cluster 5
+0	13aa, >1038_Hemolytik_Amidation_Free_100%... *
+1	13aa, >1450_Hemolytik_Amidation_Free_100%... at 100.00%
+2	13aa, >2212_Hemolytik_Amidation_Free_~... at 100.00%
+3	13aa, >3657_Hemolytik_Amidation_Free_~100%... at 100.00%
+4	13aa, >1495_Hemolytik_Amidation_Free_MHC... at 100.00%
+5	13aa, >3947_Hemolytik_Amidation_Free_MHC... at 100.00%
+6	13aa, >1748_DBASSP_AMD_#_hem... at 92.31%
+7	13aa, >3068_DBASSP_AMD_#_hem... at 92.31%
+8	13aa, >4752_DBASSP_AMD_#_hem... at 92.31%
+9	13aa, >4805_DBASSP_AMD_ACT_hem... at 100.00%
+10	13aa, >4806_DBASSP_#_#_hem... at 100.00%
+11	12aa, >4807_DBASSP_AMD_#_hem... at 100.00%
+12	11aa, >4808_DBASSP_AMD_#_hem... at 100.00%
+13	10aa, >4809_DBASSP_AMD_#_hem... at 100.00%
+14	9aa, >4810_DBASSP_AMD_#_hem... at 100.00%
+15	8aa, >4811_DBASSP_AMD_#_hem... at 100.00%
+16	12aa, >4812_DBASSP_AMD_#_hem... at 100.00%
+17	11aa, >4813_DBASSP_AMD_#_hem... at 100.00%
+18	13aa, >4816_DBASSP_AMD_#_hem... at 92.31%
+19	13aa, >4817_DBASSP_AMD_#_hem... at 92.31%
+20	13aa, >4818_DBASSP_AMD_#_hem... at 92.31%
+21	13aa, >4819_DBASSP_AMD_#_hem... at 92.31%
+22	13aa, >4825_DBASSP_AMD_#_hem... at 92.31%
+23	13aa, >4826_DBASSP_AMD_#_hem... at 92.31%
+24	13aa, >4827_DBASSP_AMD_#_hem... at 92.31%
+25	13aa, >4841_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 6
+0	26aa, >1626_Hemolytik_Free_Formylation_~90%... *
+1	26aa, >1627_Hemolytik_Free_Free_~95%... at 100.00%
+2	25aa, >1628_Hemolytik_Free_Free_>75%... at 100.00%
+3	22aa, >1629_Hemolytik_Free_Free_100%... at 100.00%
+4	18aa, >1631_Hemolytik_Free_Free_<50%... at 100.00%
+5	26aa, >3313_Hemolytik_Free_Formylation_82%... at 96.15%
+6	26aa, >3314_Hemolytik_Free_Formylation_100%... at 96.15%
+7	26aa, >3315_Hemolytik_Free_Formylation_73%... at 96.15%
+8	26aa, >3316_Hemolytik_Free_Formylation_85%... at 96.15%
+9	26aa, >3317_Hemolytik_Free_Formylation_92%... at 96.15%
+10	26aa, >3318_Hemolytik_Free_Formylation_100%... at 96.15%
+11	26aa, >3319_Hemolytik_Free_Formylation_87%... at 96.15%
+12	26aa, >3320_Hemolytik_Free_Formylation_100%... at 96.15%
+13	26aa, >3322_Hemolytik_Free_Formylation_80%... at 96.15%
+14	26aa, >3324_Hemolytik_Free_Formylation_55%... at 96.15%
+15	26aa, >3328_Hemolytik_Free_Formylation_55%... at 96.15%
+16	26aa, >3332_Hemolytik_Free_Free_60%... at 96.15%
+17	26aa, >3333_Hemolytik_Free_Free_50%... at 96.15%
+18	26aa, >3334_Hemolytik_Free_Free_58%... at 96.15%
+19	16aa, >3345_Hemolytik_Free_Free_51%... at 100.00%
+20	16aa, >3599_Hemolytik_Free_Free_100%... at 93.75%
+21	16aa, >3601_Hemolytik_Free_Free_>50%... at 93.75%
+22	16aa, >3602_Hemolytik_Free_Free_80%... at 93.75%
+23	16aa, >3603_Hemolytik_Free_Free_~90%... at 93.75%
+24	16aa, >3604_Hemolytik_Free_Free_100%... at 93.75%
+>Cluster 7
+0	18aa, >1163_Hemolytik_Free_Free_>50%... *
+1	18aa, >1164_Hemolytik_Free_Free_>50%... at 94.44%
+2	18aa, >1166_Hemolytik_Free_Free_>50%... at 94.44%
+3	14aa, >1169_Hemolytik_Free_Free_>50%... at 100.00%
+4	16aa, >1171_Hemolytik_Free_Free_>50%... at 100.00%
+5	16aa, >1172_Hemolytik_Free_Free_>50%... at 93.75%
+6	12aa, >1175_Hemolytik_Free_Free_>50%... at 100.00%
+7	14aa, >1198_Hemolytik_Free_Free_>50%... at 92.86%
+8	14aa, >1199_Hemolytik_Free_Free_>50%... at 92.86%
+9	14aa, >1200_Hemolytik_Free_Free_>50%... at 92.86%
+10	14aa, >1201_Hemolytik_Free_Free_>50%... at 92.86%
+11	16aa, >1203_Hemolytik_Free_Free_>50%... at 93.75%
+12	16aa, >1206_Hemolytik_Free_Free_>50%... at 93.75%
+13	16aa, >1207_Hemolytik_Free_Free_>50%... at 93.75%
+14	16aa, >1208_Hemolytik_Free_Free_>50%... at 93.75%
+15	16aa, >1209_Hemolytik_Free_Free_>50%... at 93.75%
+16	12aa, >1217_Hemolytik_Free_Free_>50%... at 91.67%
+17	18aa, >1733_Hemolytik_Amidation_Free_~100%... at 100.00%
+18	18aa, >2436_Hemolytik_Amidation_Free_70.3%... at 100.00%
+19	18aa, >2437_Hemolytik_Amidation_Free_90%... at 100.00%
+20	18aa, >11385_DBASSP_#_#_hem... at 100.00%
+21	18aa, >672_DBASSP_AMD_#_hem... at 100.00%
+22	16aa, >4680_DBASSP_#_#_hem... at 93.75%
+23	18aa, >5405_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 8
+0	13aa, >108_DBASSP_AMD_#_hem... at 100.00%
+1	10aa, >620_DBASSP_AMD_#_hem... at 100.00%
+2	14aa, >6649_DBASSP_AMD_#_hem... *
+3	14aa, >6651_DBASSP_AMD_NC2_hem... at 100.00%
+4	14aa, >6652_DBASSP_AMD_NC4_hem... at 100.00%
+5	14aa, >6653_DBASSP_AMD_NC6_hem... at 100.00%
+6	13aa, >6660_DBASSP_AMD_Ch_hem... at 100.00%
+7	13aa, >6663_DBASSP_AMD_FMOC_hem... at 100.00%
+8	13aa, >6664_DBASSP_AMD_SUC_hem... at 100.00%
+9	14aa, >6665_DBASSP_AMD_C4_hem... at 100.00%
+10	14aa, >6666_DBASSP_AMD_C8_hem... at 100.00%
+11	14aa, >6667_DBASSP_AMD_NC12_hem... at 100.00%
+12	13aa, >6668_DBASSP_AMD_NC12_hem... at 100.00%
+13	13aa, >6985_DBASSP_AMD_C3_hem... at 100.00%
+14	13aa, >6986_DBASSP_AMD_C4_hem... at 100.00%
+15	13aa, >6987_DBASSP_AMD_C5_hem... at 100.00%
+16	13aa, >6988_DBASSP_AMD_C6_hem... at 100.00%
+17	13aa, >6989_DBASSP_AMD_C8_hem... at 100.00%
+18	13aa, >6990_DBASSP_AMD_C10_hem... at 100.00%
+19	13aa, >6998_DBASSP_AMD_C12_hem... at 100.00%
+20	13aa, >6999_DBASSP_AMD_C14_hem... at 100.00%
+21	13aa, >7000_DBASSP_AMD_C16_hem... at 100.00%
+22	13aa, >7001_DBASSP_AMD_NC2_hem... at 100.00%
+23	13aa, >7002_DBASSP_AMD_NC4_hem... at 100.00%
+>Cluster 9
+0	21aa, >3938_Hemolytik_Free_Free_MHC... *
+1	21aa, >3939_Hemolytik_Free_Free_MHC... at 90.48%
+2	21aa, >7856_DBASSP_#_#_hem... at 95.24%
+3	21aa, >7857_DBASSP_#_#_hem... at 95.24%
+4	21aa, >7858_DBASSP_#_#_hem... at 95.24%
+5	21aa, >7864_DBASSP_#_#_hem... at 95.24%
+6	21aa, >7865_DBASSP_#_#_hem... at 95.24%
+7	21aa, >7867_DBASSP_#_#_hem... at 95.24%
+8	21aa, >7870_DBASSP_#_#_hem... at 95.24%
+9	21aa, >7877_DBASSP_#_#_hem... at 95.24%
+10	21aa, >7879_DBASSP_#_#_hem... at 95.24%
+11	21aa, >7880_DBASSP_#_#_hem... at 95.24%
+12	21aa, >7881_DBASSP_#_#_hem... at 95.24%
+13	21aa, >7882_DBASSP_#_#_hem... at 95.24%
+14	21aa, >7883_DBASSP_#_#_hem... at 95.24%
+15	21aa, >7884_DBASSP_#_#_hem... at 95.24%
+16	21aa, >7885_DBASSP_#_#_hem... at 95.24%
+17	21aa, >7897_DBASSP_#_#_hem... at 95.24%
+18	21aa, >7902_DBASSP_#_#_hem... at 95.24%
+19	21aa, >7903_DBASSP_#_#_hem... at 95.24%
+20	21aa, >7905_DBASSP_#_#_hem... at 95.24%
+>Cluster 10
+0	26aa, >1089_Hemolytik_Amidation_Acetylation_MHC... *
+1	26aa, >1090_Hemolytik_Amidation_Acetylation_MHC... at 96.15%
+2	26aa, >2634_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+3	26aa, >2635_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+4	26aa, >2636_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+5	26aa, >2637_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+6	26aa, >2638_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+7	26aa, >2639_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+8	26aa, >2644_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+9	26aa, >2645_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+10	26aa, >2646_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+11	26aa, >2647_Hemolytik_Amidation_Acetylation_MHC... at 100.00%
+12	26aa, >270_DBASSP_AMD_ACT_hem... at 100.00%
+13	26aa, >271_DBASSP_AMD_ACT_hem... at 96.15%
+14	26aa, >4732_DBASSP_AMD_ACT_hem... at 96.15%
+15	26aa, >4733_DBASSP_AMD_ACT_hem... at 100.00%
+16	26aa, >4734_DBASSP_AMD_ACT_hem... at 96.15%
+17	26aa, >4735_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 11
+0	34aa, >3690_Hemolytik_Free_Free_100%... *
+1	34aa, >3691_Hemolytik_Free_Free_100%... at 94.12%
+2	34aa, >991_DBASSP_#_#_hem... at 100.00%
+3	29aa, >10085_DBASSP_AMD_#_hem... at 100.00%
+4	29aa, >10087_DBASSP_AMD_#_hem... at 93.10%
+5	19aa, >10088_DBASSP_AMD_#_hem... at 100.00%
+6	15aa, >10090_DBASSP_AMD_#_hem... at 93.33%
+7	14aa, >10092_DBASSP_AMD_#_hem... at 100.00%
+8	13aa, >10093_DBASSP_AMD_#_hem... at 100.00%
+9	12aa, >10094_DBASSP_AMD_#_hem... at 100.00%
+10	15aa, >10095_DBASSP_AMD_#_hem... at 100.00%
+11	15aa, >10098_DBASSP_AMD_#_hem... at 93.33%
+12	15aa, >10103_DBASSP_AMD_#_hem... at 93.33%
+13	15aa, >10104_DBASSP_AMD_#_hem... at 93.33%
+14	16aa, >10105_DBASSP_AMD_#_hem... at 93.75%
+15	31aa, >3194_DBASSP_#_#_hem... at 96.77%
+16	34aa, >5530_DBASSP_#_#_hem... at 94.12%
+>Cluster 12
+0	13aa, >7251_DBASSP_AMD_#_hem... *
+1	13aa, >3442_DBASSP_AMD_#_hem... at 100.00%
+2	13aa, >3444_DBASSP_AMD_#_hem... at 100.00%
+3	13aa, >3445_DBASSP_AMD_#_hem... at 92.31%
+4	13aa, >3446_DBASSP_AMD_#_hem... at 92.31%
+5	13aa, >3447_DBASSP_AMD_#_hem... at 100.00%
+6	13aa, >3448_DBASSP_AMD_#_hem... at 100.00%
+7	13aa, >3449_DBASSP_AMD_#_hem... at 92.31%
+8	13aa, >3451_DBASSP_AMD_#_hem... at 100.00%
+9	13aa, >3452_DBASSP_AMD_#_hem... at 100.00%
+10	13aa, >7252_DBASSP_AMD_#_hem... at 100.00%
+11	13aa, >7253_DBASSP_AMD_#_hem... at 100.00%
+12	13aa, >7254_DBASSP_AMD_#_hem... at 100.00%
+13	13aa, >7255_DBASSP_AMD_#_hem... at 100.00%
+14	13aa, >7256_DBASSP_AMD_#_hem... at 100.00%
+15	13aa, >7257_DBASSP_AMD_#_hem... at 100.00%
+16	13aa, >7284_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 13
+0	14aa, >1586_Hemolytik_Free_Free_MHC... *
+1	14aa, >1587_Hemolytik_Free_Free_MHC... at 92.86%
+2	14aa, >1588_Hemolytik_Free_Free_MHC... at 92.86%
+3	14aa, >4162_Hemolytik_Free_Free_MHC... at 100.00%
+4	14aa, >4163_Hemolytik_Free_Free_MHC... at 92.86%
+5	14aa, >4164_Hemolytik_Free_Free_MHC... at 92.86%
+6	14aa, >4165_Hemolytik_Free_Free_MHC... at 92.86%
+7	14aa, >5099_DBASSP_#_#_hem... at 100.00%
+8	14aa, >5101_DBASSP_#_#_hem... at 100.00%
+9	14aa, >5103_DBASSP_#_#_hem... at 92.86%
+10	14aa, >5104_DBASSP_#_#_hem... at 92.86%
+11	14aa, >5120_DBASSP_#_#_hem... at 92.86%
+12	14aa, >5121_DBASSP_#_#_hem... at 92.86%
+13	14aa, >5122_DBASSP_#_#_hem... at 92.86%
+14	13aa, >6190_DBASSP_#_#_hem... at 92.31%
+15	13aa, >6191_DBASSP_#_#_hem... at 100.00%
+>Cluster 14
+0	23aa, >2944_Hemolytik_Amidation_Free_50%... *
+1	23aa, >120_DBASSP_AMD_#_hem... at 91.30%
+2	23aa, >8388_DBASSP_#_#_hem... at 95.65%
+3	23aa, >8392_DBASSP_#_#_hem... at 95.65%
+4	23aa, >8389_DBASSP_#_#_hem... at 95.65%
+5	23aa, >8390_DBASSP_#_#_hem... at 95.65%
+6	23aa, >8394_DBASSP_#_#_hem... at 95.65%
+7	23aa, >8396_DBASSP_#_#_hem... at 95.65%
+8	23aa, >8397_DBASSP_#_#_hem... at 95.65%
+9	23aa, >8398_DBASSP_#_#_hem... at 95.65%
+10	23aa, >8399_DBASSP_#_#_hem... at 95.65%
+11	23aa, >8400_DBASSP_#_#_hem... at 95.65%
+12	23aa, >8401_DBASSP_#_#_hem... at 95.65%
+13	23aa, >5368_DBASSP_AMD_#_hem... at 100.00%
+14	23aa, >8391_DBASSP_#_#_hem... at 95.65%
+>Cluster 15
+0	22aa, >10118_DBASSP_AMD_#_hem... at 95.45%
+1	24aa, >10119_DBASSP_AMD_#_hem... at 95.83%
+2	26aa, >10120_DBASSP_AMD_#_hem... at 100.00%
+3	28aa, >10121_DBASSP_AMD_#_hem... *
+4	22aa, >10125_DBASSP_AMD_#_hem... at 90.91%
+5	24aa, >10126_DBASSP_AMD_#_hem... at 91.67%
+6	26aa, >10127_DBASSP_AMD_#_hem... at 92.31%
+7	28aa, >10128_DBASSP_AMD_#_hem... at 92.86%
+8	22aa, >10133_DBASSP_AMD_#_hem... at 90.91%
+9	24aa, >10134_DBASSP_AMD_#_hem... at 91.67%
+10	26aa, >10135_DBASSP_AMD_#_hem... at 92.31%
+11	28aa, >10136_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 16
+0	29aa, >3009_Hemolytik_Free_Free_51.3±1.6%... *
+1	29aa, >3011_Hemolytik_Free_Free_54.5±0.9%... at 93.10%
+2	29aa, >3013_Hemolytik_Free_Free_64.4±2.2%... at 93.10%
+3	29aa, >734_DBASSP_#_#_hem... at 96.55%
+4	29aa, >1770_DBASSP_#_#_hem... at 96.55%
+5	29aa, >2451_DBASSP_#_#_hem... at 93.10%
+6	29aa, >2496_DBASSP_#_#_hem... at 93.10%
+7	29aa, >5185_DBASSP_#_#_hem... at 96.55%
+8	29aa, >5382_DBASSP_#_#_hem... at 100.00%
+9	29aa, >5389_DBASSP_#_#_hem... at 93.10%
+10	29aa, >5386_DBASSP_#_#_hem... at 93.10%
+>Cluster 17
+0	26aa, >1085_Hemolytik_Amidation_Acetylation_MHC... *
+1	26aa, >1086_Hemolytik_Amidation_Acetylation_MHC... at 92.31%
+2	26aa, >1087_Hemolytik_Amidation_Acetylation_MHC... at 92.31%
+3	26aa, >1088_Hemolytik_Amidation_Acetylation_MHC... at 96.15%
+4	26aa, >3973_Hemolytik_Amidation_Acetylation_MHC... at 92.31%
+5	26aa, >3974_Hemolytik_Amidation_Acetylation_MHC... at 92.31%
+6	26aa, >3975_Hemolytik_Amidation_Acetylation_MHC... at 92.31%
+7	26aa, >1440_DBASSP_AMD_ACT_hem... at 92.31%
+8	26aa, >2012_DBASSP_#_#_hem... at 92.31%
+9	26aa, >2758_DBASSP_AMD_ACT_hem... at 92.31%
+10	26aa, >2812_DBASSP_AMD_ACT_hem... at 96.15%
+>Cluster 18
+0	18aa, >1030_DBASSP_AMD_#_hem... *
+1	18aa, >1031_DBASSP_AMD_ACT_hem... at 100.00%
+2	18aa, >5481_DBASSP_AMD_#_hem... at 100.00%
+3	18aa, >5482_DBASSP_AMD_#_hem... at 100.00%
+4	18aa, >5483_DBASSP_AMD_#_hem... at 100.00%
+5	18aa, >5484_DBASSP_AMD_#_hem... at 100.00%
+6	18aa, >5485_DBASSP_AMD_#_hem... at 100.00%
+7	18aa, >5487_DBASSP_AMD_#_hem... at 100.00%
+8	18aa, >5488_DBASSP_AMD_#_hem... at 100.00%
+9	18aa, >5489_DBASSP_AMD_#_hem... at 100.00%
+10	18aa, >103_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 19
+0	10aa, >10001_DBASSP_AMD_C8_hem... at 100.00%
+1	10aa, >10003_DBASSP_AMD_C12_hem... at 100.00%
+2	10aa, >10004_DBASSP_AMD_C14_hem... at 100.00%
+3	10aa, >10005_DBASSP_AMD_C16_hem... at 100.00%
+4	10aa, >10006_DBASSP_AMD_4-OMe-C10_hem... at 100.00%
+5	10aa, >10007_DBASSP_AMD_C11_hem... at 100.00%
+6	10aa, >10008_DBASSP_AMD_17-ME-C18_hem... at 100.00%
+7	10aa, >10009_DBASSP_AMD_C17_hem... at 100.00%
+8	10aa, >10010_DBASSP_AMD_C20_hem... at 100.00%
+9	17aa, >6400_DBASSP_AMD_C12_hem... *
+10	17aa, >6406_DBASSP_AMD_C8_hem... at 94.12%
+>Cluster 20
+0	13aa, >2152_Hemolytik_Amidation_Free_100%... *
+1	13aa, >2881_Hemolytik_Amidation_Free_62.5%... at 92.31%
+2	13aa, >2885_Hemolytik_Amidation_Free_100%... at 92.31%
+3	13aa, >2899_Hemolytik_Amidation_Free_70%... at 92.31%
+4	13aa, >2901_Hemolytik_Amidation_Free_100%... at 92.31%
+5	13aa, >506_DBASSP_AMD_#_hem... at 100.00%
+6	13aa, >4654_DBASSP_AMD_#_hem... at 92.31%
+7	13aa, >4656_DBASSP_AMD_#_hem... at 92.31%
+8	13aa, >4658_DBASSP_AMD_#_hem... at 92.31%
+9	13aa, >4667_DBASSP_AMD_#_hem... at 92.31%
+10	13aa, >4668_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 21
+0	9aa, >3099_Hemolytik_Amidation_Free_60%... at 100.00%
+1	11aa, >3103_Hemolytik_Amidation_Free_55-60%... *
+2	9aa, >3108_Hemolytik_Amidation_Free_65%... at 100.00%
+3	9aa, >3109_Hemolytik_Amidation_Free_70%... at 100.00%
+4	11aa, >3112_Hemolytik_Amidation_Free_50-60%... at 90.91%
+5	11aa, >3113_Hemolytik_Amidation_Free_60-65%... at 90.91%
+6	11aa, >3114_Hemolytik_Amidation_Free_60-70%... at 100.00%
+7	11aa, >3115_Hemolytik_Amidation_Free_70-75%... at 100.00%
+8	9aa, >2862_DBASSP_AMD_#_hem... at 100.00%
+9	11aa, >2865_DBASSP_AMD_#_hem... at 90.91%
+10	11aa, >2866_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 22
+0	28aa, >5229_DBASSP_AMD_#_hem... at 96.43%
+1	59aa, >6505_DBASSP_AMD_ACT_hem... *
+2	29aa, >6525_DBASSP_AMD_ACT_hem... at 93.10%
+3	29aa, >6526_DBASSP_AMD_ACT_hem... at 96.55%
+4	29aa, >6528_DBASSP_AMD_ACT_hem... at 96.55%
+5	35aa, >6529_DBASSP_AMD_ACT_hem... at 97.14%
+6	29aa, >6532_DBASSP_AMD_ACT_hem... at 100.00%
+7	17aa, >6533_DBASSP_AMD_ACT_hem... at 100.00%
+8	18aa, >6535_DBASSP_AMD_ACT_hem... at 100.00%
+9	57aa, >6503_DBASSP_AMD_ACT_hem... at 94.74%
+>Cluster 23
+0	11aa, >2601_Hemolytik_Amidation_Free_MHC... at 90.91%
+1	15aa, >256_DBASSP_AMD_#_hem... at 93.33%
+2	18aa, >5000_DBASSP_AMD_#_hem... at 100.00%
+3	25aa, >5064_DBASSP_AMD_#_hem... *
+4	21aa, >5066_DBASSP_AMD_#_hem... at 100.00%
+5	21aa, >5067_DBASSP_AMD_#_hem... at 95.24%
+6	17aa, >5068_DBASSP_AMD_#_hem... at 100.00%
+7	18aa, >5220_DBASSP_AMD_#_hem... at 94.44%
+8	18aa, >5221_DBASSP_AMD_#_hem... at 94.44%
+9	13aa, >5345_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 24
+0	11aa, >904_DBASSP_AMD_#_hem... at 100.00%
+1	11aa, >905_DBASSP_AMD_ACT_hem... at 100.00%
+2	11aa, >906_DBASSP_AMD_TOS_hem... at 100.00%
+3	11aa, >907_DBASSP_AMD_BZO_hem... at 100.00%
+4	11aa, >908_DBASSP_AMD_BZY_hem... at 100.00%
+5	11aa, >909_DBASSP_AMD_C16_hem... at 100.00%
+6	11aa, >911_DBASSP_AMD_#_hem... at 90.91%
+7	11aa, >914_DBASSP_AMD_#_hem... at 90.91%
+8	12aa, >2580_DBASSP_AMD_#_hem... *
+9	11aa, >6045_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 25
+0	45aa, >6543_DBASSP_#_#_hem... at 95.56%
+1	22aa, >6544_DBASSP_#_#_hem... at 95.45%
+2	19aa, >6545_DBASSP_#_#_hem... at 100.00%
+3	38aa, >6546_DBASSP_#_#_hem... at 94.74%
+4	29aa, >6547_DBASSP_#_#_hem... at 96.55%
+5	27aa, >6548_DBASSP_#_#_hem... at 92.59%
+6	23aa, >6549_DBASSP_#_#_hem... at 91.30%
+7	30aa, >6551_DBASSP_#_#_hem... at 93.33%
+8	133aa, >6552_DBASSP_#_#_hem... *
+>Cluster 26
+0	33aa, >3675_Hemolytik_[NH(CH2)2NH2]2_Free_>100%... *
+1	33aa, >3789_Hemolytik_Free_Free_100%... at 96.97%
+2	18aa, >3791_Hemolytik_Amidation_Free_100%... at 94.44%
+3	33aa, >3829_DBASSP_EN_#_hem... at 96.97%
+4	33aa, >3830_DBASSP_EN_#_hem... at 96.97%
+5	33aa, >3831_DBASSP_EN_#_hem... at 96.97%
+6	33aa, >4612_DBASSP_#_#_hem... at 96.97%
+7	18aa, >4614_DBASSP_AMD_#_hem... at 94.44%
+8	22aa, >5550_DBASSP_AMD_#_hem... at 95.45%
+>Cluster 27
+0	24aa, >3554_Hemolytik_Free_Free_90.5±0.8%... at 95.83%
+1	24aa, >3555_Hemolytik_Free_Free_51.4±0.5%... at 95.83%
+2	24aa, >4064_Hemolytik_Free_Free_50%... at 95.83%
+3	24aa, >4065_Hemolytik_Free_Free_85%... at 95.83%
+4	24aa, >4066_Hemolytik_Free_Free_100%... at 95.83%
+5	24aa, >9073_DBASSP_#_#_hem... at 95.83%
+6	24aa, >948_DBASSP_#_#_hem... at 95.83%
+7	24aa, >5842_DBASSP_#_#_hem... at 100.00%
+8	26aa, >5843_DBASSP_#_#_hem... *
+>Cluster 28
+0	16aa, >9370_DBASSP_#_#_hem... *
+1	16aa, >9371_DBASSP_AMD_#_hem... at 100.00%
+2	16aa, >9372_DBASSP_EN_#_hem... at 100.00%
+3	16aa, >9373_DBASSP_#_ACT_hem... at 100.00%
+4	16aa, >9374_DBASSP_AMD_ACT_hem... at 100.00%
+5	16aa, >9376_DBASSP_#_SUC_hem... at 100.00%
+6	16aa, >9377_DBASSP_AMD_SUC_hem... at 100.00%
+7	16aa, >9378_DBASSP_EN_SUC_hem... at 100.00%
+8	16aa, >9375_DBASSP_EN_ACT_hem... at 100.00%
+>Cluster 29
+0	7aa, >11098_DBASSP_#_#_hem... *
+1	7aa, >10031_DBASSP_AMD_#_hem... at 100.00%
+2	7aa, >10033_DBASSP_AMD_#_hem... at 100.00%
+3	7aa, >10068_DBASSP_AMD_#_hem... at 100.00%
+4	7aa, >10084_DBASSP_AMD_#_hem... at 100.00%
+5	7aa, >10151_DBASSP_AMD_#_hem... at 100.00%
+6	7aa, >10199_DBASSP_AMD_#_hem... at 100.00%
+7	7aa, >10200_DBASSP_AMD_#_hem... at 100.00%
+8	7aa, >11099_DBASSP_#_#_hem... at 100.00%
+>Cluster 30
+0	27aa, >1672_Hemolytik_Free_Free_50%... at 100.00%
+1	32aa, >1673_Hemolytik_Free_Free_50%... *
+2	27aa, >1674_Hemolytik_Free_Free_50%... at 100.00%
+3	27aa, >5080_DBASSP_#_#_hem... at 100.00%
+4	32aa, >5081_DBASSP_#_#_hem... at 100.00%
+5	27aa, >5083_DBASSP_#_#_hem... at 100.00%
+6	32aa, >5084_DBASSP_#_#_hem... at 93.75%
+7	32aa, >5085_DBASSP_#_#_hem... at 93.75%
+>Cluster 31
+0	20aa, >2917_Hemolytik_Amidation_Free_50%... at 100.00%
+1	26aa, >2918_Hemolytik_Amidation_Free_50%... *
+2	26aa, >2942_Hemolytik_Amidation_Free_50%... at 100.00%
+3	26aa, >2943_Hemolytik_Amidation_Biotin_50%... at 100.00%
+4	26aa, >1412_DBASSP_AMD_#_hem... at 100.00%
+5	20aa, >5344_DBASSP_AMD_#_hem... at 100.00%
+6	26aa, >5366_DBASSP_AMD_#_hem... at 100.00%
+7	26aa, >5367_DBASSP_AMD_Biotin_hem... at 100.00%
+>Cluster 32
+0	24aa, >3355_DBASSP_AMD_#_hem... *
+1	24aa, >6501_DBASSP_AMD_ACT_hem... at 91.67%
+2	24aa, >6924_DBASSP_#_#_hem... at 95.83%
+3	24aa, >6925_DBASSP_#_#_hem... at 95.83%
+4	24aa, >6926_DBASSP_#_#_hem... at 95.83%
+5	24aa, >6928_DBASSP_#_#_hem... at 91.67%
+6	24aa, >6934_DBASSP_#_#_hem... at 95.83%
+7	24aa, >6936_DBASSP_#_#_hem... at 95.83%
+>Cluster 33
+0	19aa, >547_DBASSP_AMD_#_hem... *
+1	19aa, >549_DBASSP_AMD_#_hem... at 100.00%
+2	17aa, >551_DBASSP_AMD_#_hem... at 94.12%
+3	15aa, >552_DBASSP_AMD_#_hem... at 93.33%
+4	14aa, >553_DBASSP_AMD_#_hem... at 92.86%
+5	13aa, >555_DBASSP_AMD_#_hem... at 92.31%
+6	14aa, >556_DBASSP_AMD_#_hem... at 92.86%
+7	13aa, >554_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 34
+0	18aa, >2945_Hemolytik_Free_Free_MHC... *
+1	18aa, >2946_Hemolytik_Free_Free_MHC... at 94.44%
+2	18aa, >2947_Hemolytik_Free_Free_MHC... at 94.44%
+3	18aa, >2948_Hemolytik_Free_Free_MHC... at 94.44%
+4	18aa, >2954_Hemolytik_Free_Free_MHC... at 94.44%
+5	18aa, >2955_Hemolytik_Free_Free_MHC... at 94.44%
+6	18aa, >2956_Hemolytik_Free_Free_MHC... at 94.44%
+7	18aa, >2957_Hemolytik_Free_Free_MHC... at 94.44%
+>Cluster 35
+0	14aa, >1973_Hemolytik_Amidation_Free_~85%... *
+1	14aa, >3497_Hemolytik_Amidation_Free_>95%... at 100.00%
+2	14aa, >3501_Hemolytik_Amidation_Free_>95%... at 92.86%
+3	14aa, >3503_Hemolytik_Amidation_Free_~80%... at 92.86%
+4	14aa, >3511_Hemolytik_Amidation_Free_>80%... at 92.86%
+5	14aa, >3513_Hemolytik_Amidation_Free_~70%... at 92.86%
+6	14aa, >4952_DBASSP_AMD_#_hem... at 92.86%
+7	14aa, >4954_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 36
+0	25aa, >2389_DBASSP_#_#_hem... *
+1	25aa, >2391_DBASSP_#_#_hem... at 92.00%
+2	25aa, >2395_DBASSP_#_#_hem... at 96.00%
+3	25aa, >2401_DBASSP_#_#_hem... at 92.00%
+4	25aa, >2398_DBASSP_#_#_hem... at 92.00%
+5	25aa, >2399_DBASSP_#_#_hem... at 92.00%
+6	25aa, >2400_DBASSP_#_#_hem... at 92.00%
+>Cluster 37
+0	21aa, >5304_DBASSP_#_#_hem... at 95.24%
+1	21aa, >5305_DBASSP_#_#_hem... at 90.48%
+2	23aa, >5309_DBASSP_#_#_hem... *
+3	23aa, >5310_DBASSP_#_#_hem... at 95.65%
+4	23aa, >5311_DBASSP_#_#_hem... at 91.30%
+5	21aa, >5312_DBASSP_AMD_#_hem... at 95.24%
+6	21aa, >5313_DBASSP_#_#_hem... at 95.24%
+>Cluster 38
+0	21aa, >2510_DBASSP_AMD_#_hem... *
+1	21aa, >2513_DBASSP_#_#_hem... at 95.24%
+2	21aa, >2514_DBASSP_#_#_hem... at 100.00%
+3	21aa, >2517_DBASSP_AMD_#_hem... at 95.24%
+4	21aa, >2508_DBASSP_AMD_#_hem... at 95.24%
+5	21aa, >2509_DBASSP_AMD_#_hem... at 95.24%
+6	21aa, >2519_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 39
+0	9aa, >1756_DBASSP_AMD_#_hem... at 100.00%
+1	7aa, >1760_DBASSP_AMD_#_hem... at 100.00%
+2	10aa, >4814_DBASSP_AMD_#_hem... at 100.00%
+3	8aa, >4815_DBASSP_AMD_#_hem... at 100.00%
+4	17aa, >10706_DBASSP_AMD_#_hem... *
+5	16aa, >10707_DBASSP_AMD_#_hem... at 100.00%
+6	15aa, >10708_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 40
+0	16aa, >4362_DBASSP_AMD_#_hem... *
+1	16aa, >4365_DBASSP_AMD_#_hem... at 93.75%
+2	16aa, >4366_DBASSP_AMD_#_hem... at 93.75%
+3	16aa, >4372_DBASSP_AMD_#_hem... at 100.00%
+4	16aa, >4374_DBASSP_AMD_#_hem... at 93.75%
+5	16aa, >4375_DBASSP_AMD_#_hem... at 93.75%
+6	16aa, >4376_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 41
+0	13aa, >2207_Hemolytik_Free_Free_>80%... *
+1	11aa, >2285_Hemolytik_Free_Free_~60%... at 90.91%
+2	13aa, >3965_Hemolytik_Amidation_Free_MHC... at 100.00%
+3	13aa, >3966_Hemolytik_Amidation_Free_MHC... at 100.00%
+4	13aa, >160_DBASSP_#_#_hem... at 100.00%
+5	11aa, >952_DBASSP_#_#_hem... at 90.91%
+6	13aa, >5135_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 42
+0	13aa, >2834_Hemolytik_Amidation_Free_80%... *
+1	13aa, >3188_Hemolytik_Amidation_Free_100%... at 92.31%
+2	13aa, >3189_Hemolytik_Amidation_Free_94%... at 92.31%
+3	13aa, >3190_Hemolytik_Amidation_Free_92%... at 92.31%
+4	13aa, >1026_DBASSP_AMD_#_hem... at 92.31%
+5	13aa, >4618_DBASSP_AMD_#_hem... at 100.00%
+6	13aa, >4629_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 43
+0	13aa, >2842_Hemolytik_Amidation_Free_52%... *
+1	13aa, >3194_Hemolytik_Amidation_Free_100%... at 92.31%
+2	13aa, >3195_Hemolytik_Amidation_Free_92%... at 92.31%
+3	13aa, >3206_Hemolytik_Amidation_Free_94%... at 92.31%
+4	13aa, >4619_DBASSP_AMD_#_hem... at 92.31%
+5	13aa, >4626_DBASSP_AMD_#_hem... at 100.00%
+6	13aa, >5504_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 44
+0	35aa, >8751_DBASSP_AMD_#_hem... *
+1	35aa, >1005_DBASSP_AMD_#_hem... at 100.00%
+2	35aa, >1006_DBASSP_#_#_hem... at 100.00%
+3	35aa, >1008_DBASSP_#_#_hem... at 91.43%
+4	35aa, >5447_DBASSP_AMD_#_hem... at 94.29%
+5	35aa, >5448_DBASSP_AMD_#_hem... at 94.29%
+>Cluster 45
+0	29aa, >4425_DBASSP_AMD_#_hem... *
+1	29aa, >3785_DBASSP_AMD_#_hem... at 93.10%
+2	29aa, >4407_DBASSP_AMD_#_hem... at 100.00%
+3	29aa, >4421_DBASSP_AMD_#_hem... at 96.55%
+4	29aa, >4422_DBASSP_AMD_#_hem... at 96.55%
+5	29aa, >4426_DBASSP_AMD_#_hem... at 96.55%
+>Cluster 46
+0	26aa, >536_DBASSP_#_#_hem... *
+1	26aa, >968_DBASSP_#_#_hem... at 96.15%
+2	26aa, >969_DBASSP_#_#_hem... at 96.15%
+3	26aa, >970_DBASSP_#_#_hem... at 96.15%
+4	23aa, >971_DBASSP_#_#_hem... at 100.00%
+5	26aa, >6489_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 47
+0	24aa, >8957_DBASSP_#_#_hem... at 95.83%
+1	25aa, >8981_DBASSP_#_#_hem... *
+2	24aa, >8982_DBASSP_#_#_hem... at 100.00%
+3	23aa, >8983_DBASSP_#_#_hem... at 100.00%
+4	22aa, >8984_DBASSP_#_#_hem... at 100.00%
+5	25aa, >8956_DBASSP_#_#_hem... at 96.00%
+>Cluster 48
+0	22aa, >7709_DBASSP_#_C16_hem... *
+1	22aa, >7707_DBASSP_#_C16_hem... at 90.91%
+2	22aa, >7710_DBASSP_#_C16_hem... at 90.91%
+3	22aa, >7711_DBASSP_#_ACT_hem... at 90.91%
+4	22aa, >7713_DBASSP_#_ACT_hem... at 100.00%
+5	22aa, >7714_DBASSP_#_ACT_hem... at 90.91%
+>Cluster 49
+0	21aa, >14_DBASSP_AMD_#_hem... *
+1	21aa, >699_DBASSP_AMD_#_hem... at 95.24%
+2	21aa, >700_DBASSP_AMD_#_hem... at 95.24%
+3	21aa, >701_DBASSP_AMD_#_hem... at 95.24%
+4	21aa, >702_DBASSP_AMD_#_hem... at 95.24%
+5	21aa, >704_DBASSP_AMD_#_hem... at 90.48%
+>Cluster 50
+0	7aa, >4726_DBASSP_#_#_hem... at 100.00%
+1	11aa, >7589_DBASSP_AMD_#_hem... at 100.00%
+2	17aa, >7584_DBASSP_#_#_hem... at 100.00%
+3	18aa, >7585_DBASSP_#_#_hem... at 100.00%
+4	19aa, >7587_DBASSP_AMD_#_hem... *
+5	10aa, >7588_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 51
+0	18aa, >8943_DBASSP_#_#_hem... *
+1	18aa, >8944_DBASSP_#_#_hem... at 94.44%
+2	18aa, >8945_DBASSP_#_#_hem... at 94.44%
+3	18aa, >8946_DBASSP_#_#_hem... at 94.44%
+4	18aa, >8947_DBASSP_#_#_hem... at 94.44%
+5	18aa, >8948_DBASSP_#_#_hem... at 94.44%
+>Cluster 52
+0	14aa, >2307_Hemolytik_Free_Free_100%... *
+1	14aa, >1585_Hemolytik_Free_Free_MHC... at 92.86%
+2	14aa, >4161_Hemolytik_Free_Free_MHC... at 92.86%
+3	14aa, >5097_DBASSP_#_#_hem... at 92.86%
+4	14aa, >5098_DBASSP_#_#_hem... at 92.86%
+5	14aa, >5288_DBASSP_#_#_hem... at 100.00%
+>Cluster 53
+0	11aa, >1418_Hemolytik_Amidation_Free_57.58%... at 100.00%
+1	11aa, >1424_Hemolytik_Amidation_Free_64.43%... at 90.91%
+2	11aa, >3257_DBASSP_AMD_#_hem... at 100.00%
+3	11aa, >3258_DBASSP_AMD_#_hem... at 90.91%
+4	13aa, >3259_DBASSP_AMD_#_hem... *
+5	13aa, >3260_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 54
+0	12aa, >3360_DBASSP_AMD_#_hem... *
+1	12aa, >3362_DBASSP_AMD_#_hem... at 91.67%
+2	12aa, >3363_DBASSP_AMD_#_hem... at 91.67%
+3	12aa, >3364_DBASSP_AMD_#_hem... at 91.67%
+4	12aa, >3370_DBASSP_AMD_#_hem... at 91.67%
+5	12aa, >3371_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 55
+0	30aa, >7928_DBASSP_#_#_hem... at 100.00%
+1	31aa, >7930_DBASSP_#_#_hem... at 96.77%
+2	31aa, >7931_DBASSP_#_#_hem... at 96.77%
+3	41aa, >7934_DBASSP_#_#_hem... at 100.00%
+4	45aa, >7935_DBASSP_#_#_hem... *
+>Cluster 56
+0	37aa, >764_DBASSP_#_#_hem... *
+1	37aa, >1777_DBASSP_#_#_hem... at 91.89%
+2	19aa, >2842_DBASSP_#_#_hem... at 94.74%
+3	30aa, >4105_DBASSP_#_#_hem... at 100.00%
+4	37aa, >10789_DBASSP_#_#_hem... at 100.00%
+>Cluster 57
+0	30aa, >1532_Hemolytik_Free_Free_100%... *
+1	30aa, >1533_Hemolytik_Free_Free_100%... at 96.67%
+2	30aa, >1534_Hemolytik_Free_Free_90%... at 96.67%
+3	30aa, >1535_Hemolytik_Free_Free_80%... at 96.67%
+4	30aa, >1536_Hemolytik_Free_Free_95%... at 96.67%
+>Cluster 58
+0	15aa, >1260_Hemolytik_Amidation_Acetylation_67%... at 93.33%
+1	28aa, >167_DBASSP_#_#_hem... *
+2	15aa, >447_DBASSP_AMD_#_hem... at 100.00%
+3	15aa, >1187_DBASSP_#_#_hem... at 100.00%
+4	15aa, >1189_DBASSP_#_#_hem... at 93.33%
+>Cluster 59
+0	26aa, >11_DBASSP_#_#_hem... *
+1	23aa, >774_DBASSP_#_#_hem... at 100.00%
+2	22aa, >776_DBASSP_#_#_hem... at 100.00%
+3	26aa, >777_DBASSP_#_#_hem... at 96.15%
+4	19aa, >6480_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 60
+0	25aa, >2278_Hemolytik_Amidation_Free_100%... *
+1	25aa, >2279_Hemolytik_Amidation_Free_100%... at 96.00%
+2	25aa, >3173_DBASSP_AMD_#_hem... at 100.00%
+3	25aa, >3174_DBASSP_AMD_#_hem... at 96.00%
+4	25aa, >4652_DBASSP_#_#_hem... at 100.00%
+>Cluster 61
+0	25aa, >7265_DBASSP_AMD_#_hem... *
+1	25aa, >7269_DBASSP_AMD_#_hem... at 92.00%
+2	25aa, >7271_DBASSP_AMD_#_hem... at 92.00%
+3	25aa, >7273_DBASSP_AMD_#_hem... at 92.00%
+4	25aa, >7274_DBASSP_AMD_#_hem... at 92.00%
+>Cluster 62
+0	22aa, >763_DBASSP_AMD_#_hem... *
+1	22aa, >6497_DBASSP_AMD_ACT_hem... at 100.00%
+2	22aa, >7003_DBASSP_AMD_C12_hem... at 100.00%
+3	22aa, >7004_DBASSP_AMD_NC12_hem... at 100.00%
+4	21aa, >2593_DBASSP_AMD_#_hem... at 90.48%
+>Cluster 63
+0	12aa, >2031_Hemolytik_Amidation_Free_100%... at 100.00%
+1	12aa, >2054_DBASSP_#_DNS_hem... at 100.00%
+2	15aa, >2057_DBASSP_#_DNS_hem... at 100.00%
+3	19aa, >2058_DBASSP_#_DNS_hem... at 100.00%
+4	22aa, >2059_DBASSP_#_DNS_hem... *
+>Cluster 64
+0	21aa, >10137_DBASSP_#_#_hem... *
+1	21aa, >7670_DBASSP_AMD_#_hem... at 95.24%
+2	21aa, >7671_DBASSP_AMD_#_hem... at 95.24%
+3	21aa, >7673_DBASSP_AMD_#_hem... at 95.24%
+4	21aa, >7674_DBASSP_AMD_#_hem... at 90.48%
+>Cluster 65
+0	18aa, >9406_DBASSP_AMD_ACT_hem... at 100.00%
+1	19aa, >9407_DBASSP_AMD_#_hem... *
+2	18aa, >3892_DBASSP_AMD_#_hem... at 94.44%
+3	18aa, >9405_DBASSP_AMD_#_hem... at 100.00%
+4	19aa, >7010_DBASSP_AMD_#_hem... at 94.74%
+>Cluster 66
+0	18aa, >2176_Hemolytik_Free_Free_70.2%... *
+1	18aa, >2177_Hemolytik_Free_Free_55.0%... at 100.00%
+2	18aa, >1074_DBASSP_#_#_hem... at 100.00%
+3	18aa, >6493_DBASSP_AMD_ACT_hem... at 94.44%
+4	18aa, >6541_DBASSP_AMD_ACT_hem... at 94.44%
+>Cluster 67
+0	18aa, >2674_Hemolytik_Amidation_Free_~54%... *
+1	18aa, >5430_DBASSP_AMD_#_hem... at 94.44%
+2	18aa, >5432_DBASSP_AMD_#_hem... at 94.44%
+3	18aa, >5434_DBASSP_AMD_#_hem... at 94.44%
+4	18aa, >5436_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 68
+0	14aa, >9879_DBASSP_AMD_#_hem... at 100.00%
+1	16aa, >9880_DBASSP_AMD_#_hem... at 100.00%
+2	16aa, >9882_DBASSP_AMD_#_hem... at 93.75%
+3	16aa, >9883_DBASSP_AMD_#_hem... at 93.75%
+4	18aa, >9881_DBASSP_AMD_#_hem... *
+>Cluster 69
+0	16aa, >8905_DBASSP_AMD_#_hem... *
+1	16aa, >8913_DBASSP_AMD_#_hem... at 93.75%
+2	16aa, >8914_DBASSP_AMD_#_hem... at 93.75%
+3	16aa, >8917_DBASSP_AMD_#_hem... at 93.75%
+4	16aa, >8911_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 70
+0	12aa, >2664_Hemolytik_Amidation_Free_MHC... at 100.00%
+1	15aa, >2665_Hemolytik_Amidation_Free_MHC... *
+2	9aa, >4574_DBASSP_AMD_#_hem... at 100.00%
+3	12aa, >4575_DBASSP_AMD_#_hem... at 100.00%
+4	15aa, >4576_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 71
+0	11aa, >1658_Hemolytik_Amidation_Free_100%... *
+1	11aa, >2446_DBASSP_AMD_#_hem... at 100.00%
+2	11aa, >4946_DBASSP_AMD_#_hem... at 100.00%
+3	11aa, >4948_DBASSP_AMD_#_hem... at 90.91%
+4	11aa, >2448_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 72
+0	11aa, >1846_Hemolytik_Amidation_Free_63±5.9%... *
+1	11aa, >1849_Hemolytik_Amidation_Free_65±1.5%... at 90.91%
+2	11aa, >912_DBASSP_AMD_#_hem... at 90.91%
+3	11aa, >4981_DBASSP_AMD_#_hem... at 100.00%
+4	11aa, >4984_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 73
+0	10aa, >7490_DBASSP_#_#_hem... *
+1	10aa, >7491_DBASSP_#_#_hem... at 100.00%
+2	10aa, >7492_DBASSP_#_#_hem... at 100.00%
+3	10aa, >7493_DBASSP_#_#_hem... at 100.00%
+4	10aa, >7494_DBASSP_#_#_hem... at 100.00%
+>Cluster 74
+0	7aa, >9645_DBASSP_#_#_hem... *
+1	7aa, >9648_DBASSP_#_#_hem... at 100.00%
+2	7aa, >9655_DBASSP_#_#_hem... at 100.00%
+3	7aa, >9656_DBASSP_#_#_hem... at 100.00%
+4	7aa, >9647_DBASSP_#_#_hem... at 100.00%
+>Cluster 75
+0	56aa, >3528_Hemolytik_Free_Free_100%... *
+1	19aa, >3959_Hemolytik_Amidation_Free_MHC... at 100.00%
+2	20aa, >2189_DBASSP_AMD_#_hem... at 100.00%
+3	56aa, >5490_DBASSP_#_#_hem... at 100.00%
+>Cluster 76
+0	38aa, >6204_DBASSP_#_#_hem... *
+1	29aa, >6207_DBASSP_#_#_hem... at 96.55%
+2	23aa, >6208_DBASSP_#_#_hem... at 91.30%
+3	23aa, >6209_DBASSP_#_#_hem... at 91.30%
+>Cluster 77
+0	37aa, >4229_DBASSP_#_#_hem... *
+1	37aa, >4386_DBASSP_#_#_hem... at 94.59%
+2	37aa, >4387_DBASSP_#_#_hem... at 94.59%
+3	30aa, >4388_DBASSP_#_#_hem... at 100.00%
+>Cluster 78
+0	36aa, >10640_DBASSP_AMD_#_hem... *
+1	16aa, >7765_DBASSP_AMD_#_hem... at 93.75%
+2	16aa, >7766_DBASSP_AMD_#_hem... at 93.75%
+3	16aa, >7767_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 79
+0	27aa, >1365_Hemolytik_Free_Free_50%... at 96.30%
+1	26aa, >1366_Hemolytik_Amidation_Free_60%... at 100.00%
+2	31aa, >5859_DBASSP_#_#_hem... *
+3	17aa, >5863_DBASSP_#_#_hem... at 100.00%
+>Cluster 80
+0	30aa, >1985_Hemolytik_Free_Free_65-70%... *
+1	30aa, >1986_Hemolytik_Free_Free_80-85%... at 100.00%
+2	30aa, >1987_Hemolytik_Free_Free_50-60%... at 100.00%
+3	30aa, >1988_Hemolytik_Free_Free_90-95%... at 100.00%
+>Cluster 81
+0	24aa, >1606_Hemolytik_Free_Free_189.2%... at 100.00%
+1	24aa, >2147_Hemolytik_Free_Free_100%... at 100.00%
+2	30aa, >2148_Hemolytik_Free_Free_100%... *
+3	24aa, >1077_DBASSP_#_#_hem... at 100.00%
+>Cluster 82
+0	30aa, >3692_Hemolytik_Free_Free_100%... *
+1	30aa, >3195_DBASSP_#_#_hem... at 93.33%
+2	16aa, >5535_DBASSP_AMD_#_hem... at 100.00%
+3	10aa, >5538_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 83
+0	28aa, >2383_DBASSP_AMD_#_hem... *
+1	27aa, >5998_DBASSP_AMD_#_hem... at 96.30%
+2	27aa, >6001_DBASSP_AMD_#_hem... at 96.30%
+3	27aa, >6003_DBASSP_AMD_#_hem... at 92.59%
+>Cluster 84
+0	27aa, >3785_Hemolytik_Free_Free_50%... *
+1	27aa, >3786_Hemolytik_Free_Free_85%... at 100.00%
+2	27aa, >3787_Hemolytik_Free_Free_90%... at 100.00%
+3	27aa, >3788_Hemolytik_Free_Free_100%... at 100.00%
+>Cluster 85
+0	26aa, >2704_Hemolytik_Free_Free_<70%... *
+1	26aa, >2705_Hemolytik_Free_Free_~80%... at 100.00%
+2	20aa, >2706_Hemolytik_Free_Free_<60%... at 100.00%
+3	20aa, >2707_Hemolytik_Free_Free_~80%... at 100.00%
+>Cluster 86
+0	25aa, >2937_Hemolytik_Free_Free_50%... *
+1	25aa, >2941_Hemolytik_Amidation_Free_50%... at 92.00%
+2	25aa, >5361_DBASSP_#_#_hem... at 100.00%
+3	25aa, >5365_DBASSP_AMD_#_hem... at 92.00%
+>Cluster 87
+0	24aa, >10248_DBASSP_#_#_hem... *
+1	24aa, >10252_DBASSP_AMD_#_hem... at 95.83%
+2	24aa, >10249_DBASSP_AMD_#_hem... at 100.00%
+3	24aa, >10251_DBASSP_#_#_hem... at 95.83%
+>Cluster 88
+0	24aa, >3536_DBASSP_#_#_hem... *
+1	24aa, >3537_DBASSP_#_#_hem... at 95.83%
+2	24aa, >4418_DBASSP_#_#_hem... at 91.67%
+3	24aa, >4419_DBASSP_#_#_hem... at 91.67%
+>Cluster 89
+0	19aa, >2931_Hemolytik_Amidation_Free_50%... at 100.00%
+1	23aa, >2932_Hemolytik_Free_Free_50%... *
+2	19aa, >1434_DBASSP_AMD_#_hem... at 100.00%
+3	23aa, >1435_DBASSP_#_#_hem... at 100.00%
+>Cluster 90
+0	23aa, >10969_DBASSP_AMD_#_hem... *
+1	23aa, >10970_DBASSP_AMD_#_hem... at 91.30%
+2	23aa, >10973_DBASSP_AMD_#_hem... at 95.65%
+3	23aa, >2156_DBASSP_AMD_#_hem... at 95.65%
+>Cluster 91
+0	21aa, >2504_DBASSP_AMD_#_hem... *
+1	21aa, >2512_DBASSP_#_#_hem... at 95.24%
+2	21aa, >2515_DBASSP_AMD_#_hem... at 95.24%
+3	21aa, >2507_DBASSP_AMD_#_hem... at 95.24%
+>Cluster 92
+0	18aa, >1042_Hemolytik_Amidation_Free_100%... at 100.00%
+1	19aa, >1043_Hemolytik_Amidation_Free_100%... *
+2	18aa, >2015_DBASSP_AMD_#_hem... at 100.00%
+3	19aa, >5226_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 93
+0	19aa, >2278_DBASSP_AMD_#_hem... *
+1	19aa, >2300_DBASSP_AMD_#_hem... at 94.74%
+2	19aa, >2302_DBASSP_#_#_hem... at 94.74%
+3	19aa, >4900_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 94
+0	18aa, >2712_DBASSP_AMD_#_hem... *
+1	18aa, >2713_DBASSP_AMD_#_hem... at 94.44%
+2	18aa, >2714_DBASSP_AMD_#_hem... at 94.44%
+3	18aa, >2716_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 95
+0	18aa, >3157_DBASSP_AMD_#_hem... *
+1	18aa, >4922_DBASSP_AMD_#_hem... at 94.44%
+2	18aa, >4924_DBASSP_AMD_#_hem... at 94.44%
+3	18aa, >4926_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 96
+0	18aa, >4548_DBASSP_#_#_hem... *
+1	18aa, >815_DBASSP_#_#_hem... at 94.44%
+2	18aa, >5588_DBASSP_AMD_#_hem... at 94.44%
+3	18aa, >7657_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 97
+0	18aa, >4798_DBASSP_AMD_#_hem... *
+1	18aa, >4800_DBASSP_AMD_#_hem... at 100.00%
+2	18aa, >4801_DBASSP_AMD_#_hem... at 100.00%
+3	18aa, >4804_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 98
+0	15aa, >10089_DBASSP_AMD_#_hem... at 100.00%
+1	16aa, >10091_DBASSP_AMD_#_hem... *
+2	15aa, >10096_DBASSP_AMD_#_hem... at 100.00%
+3	15aa, >10097_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 99
+0	13aa, >2095_Hemolytik_Free_Free_100%... at 100.00%
+1	13aa, >3454_Hemolytik_Free_Free_100%... at 100.00%
+2	13aa, >3836_Hemolytik_Free_Free_100%... at 100.00%
+3	15aa, >3838_Hemolytik_Free_Free_100%... *
+>Cluster 100
+0	14aa, >2203_DBASSP_AMD_#_hem... *
+1	14aa, >2336_DBASSP_AMD_#_hem... at 92.86%
+2	14aa, >5029_DBASSP_AMD_#_hem... at 92.86%
+3	14aa, >2335_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 101
+0	12aa, >1731_Hemolytik_Amidation_Free_97%... *
+1	12aa, >1241_DBASSP_AMD_#_hem... at 100.00%
+2	12aa, >1585_DBASSP_AMD_#_hem... at 91.67%
+3	12aa, >10111_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 102
+0	11aa, >1553_Hemolytik_Amidation_Free_MHC... *
+1	11aa, >1554_Hemolytik_Amidation_Free_MHC... at 90.91%
+2	11aa, >1556_Hemolytik_Amidation_Free_MHC... at 90.91%
+3	11aa, >671_DBASSP_#_#_hem... at 100.00%
+>Cluster 103
+0	11aa, >4947_DBASSP_AMD_#_hem... *
+1	11aa, >4950_DBASSP_AMD_#_hem... at 90.91%
+2	11aa, >2447_DBASSP_AMD_#_hem... at 100.00%
+3	11aa, >2449_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 104
+0	10aa, >4886_DBASSP_#_#_hem... *
+1	10aa, >4890_DBASSP_#_#_hem... at 100.00%
+2	10aa, >4895_DBASSP_#_#_hem... at 100.00%
+3	10aa, >4891_DBASSP_#_#_hem... at 100.00%
+>Cluster 105
+0	7aa, >11094_DBASSP_#_#_hem... *
+1	7aa, >11091_DBASSP_#_#_hem... at 100.00%
+2	7aa, >11092_DBASSP_#_#_hem... at 100.00%
+3	7aa, >11093_DBASSP_#_#_hem... at 100.00%
+>Cluster 106
+0	7aa, >9636_DBASSP_#_#_hem... *
+1	7aa, >9637_DBASSP_#_#_hem... at 100.00%
+2	7aa, >9638_DBASSP_#_#_hem... at 100.00%
+3	7aa, >9639_DBASSP_#_#_hem... at 100.00%
+>Cluster 107
+0	37aa, >3398_DBASSP_#_#_hem... *
+1	37aa, >3399_DBASSP_#_#_hem... at 94.59%
+2	37aa, >3400_DBASSP_#_#_hem... at 91.89%
+>Cluster 108
+0	36aa, >2369_Hemolytik_Free_Free_Hemolytic... *
+1	29aa, >2372_Hemolytik_Free_Free_Hemolytic... at 100.00%
+2	36aa, >5299_DBASSP_#_#_hem... at 100.00%
+>Cluster 109
+0	12aa, >732_DBASSP_AMD_#_hem... at 100.00%
+1	24aa, >10022_DBASSP_AMD_#_hem... at 100.00%
+2	36aa, >10023_DBASSP_AMD_#_hem... *
+>Cluster 110
+0	32aa, >4219_DBASSP_#_#_hem... *
+1	32aa, >1804_DBASSP_#_#_hem... at 90.62%
+2	32aa, >2200_DBASSP_#_#_hem... at 90.62%
+>Cluster 111
+0	31aa, >1815_Hemolytik_Amidation_Free_Hemolytic... *
+1	30aa, >1816_Hemolytik_Amidation_Free_Hemolytic... at 100.00%
+2	20aa, >1817_Hemolytik_Amidation_Free_Hemolytic... at 100.00%
+>Cluster 112
+0	29aa, >4420_DBASSP_AMD_#_hem... *
+1	29aa, >4423_DBASSP_AMD_#_hem... at 96.55%
+2	29aa, >4424_DBASSP_AMD_#_hem... at 96.55%
+>Cluster 113
+0	28aa, >565_DBASSP_AMD_#_hem... *
+1	28aa, >972_DBASSP_AMD_#_hem... at 96.43%
+2	25aa, >973_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 114
+0	27aa, >1119_Hemolytik_Amidation_Free_~50%... *
+1	27aa, >2018_DBASSP_AMD_#_hem... at 100.00%
+2	27aa, >2020_DBASSP_AMD_#_hem... at 96.30%
+>Cluster 115
+0	13aa, >2586_Hemolytik_Free_Free_50%... at 100.00%
+1	13aa, >779_DBASSP_AMD_#_hem... at 100.00%
+2	27aa, >5351_DBASSP_#_#_hem... *
+>Cluster 116
+0	26aa, >3365_Hemolytik_Free_Fmoc_59%... *
+1	26aa, >3367_Hemolytik_Free_Fmoc_91%... at 100.00%
+2	26aa, >3371_Hemolytik_Free_Free_66%... at 100.00%
+>Cluster 117
+0	25aa, >2610_Hemolytik_Free_Free_100%... *
+1	25aa, >4199_DBASSP_AMD_#_hem... at 100.00%
+2	25aa, >5623_DBASSP_#_#_hem... at 100.00%
+>Cluster 118
+0	24aa, >1889_DBASSP_#_#_hem... *
+1	24aa, >1892_DBASSP_#_#_hem... at 91.67%
+2	24aa, >8040_DBASSP_#_#_hem... at 91.67%
+>Cluster 119
+0	23aa, >3534_Hemolytik_Amidation_Free_~70%... *
+1	23aa, >3535_Hemolytik_Amidation_Free_75%... at 100.00%
+2	23aa, >4193_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 120
+0	23aa, >2303_DBASSP_#_#_hem... *
+1	23aa, >2304_DBASSP_AMD_#_hem... at 100.00%
+2	23aa, >3358_DBASSP_AMD_#_hem... at 95.65%
+>Cluster 121
+0	23aa, >2403_DBASSP_AMD_#_hem... *
+1	23aa, >2404_DBASSP_AMD_#_hem... at 95.65%
+2	23aa, >4416_DBASSP_AMD_C16_hem... at 91.30%
+>Cluster 122
+0	13aa, >10827_DBASSP_#_#_hem... at 92.31%
+1	23aa, >10828_DBASSP_#_#_hem... *
+2	13aa, >3347_DBASSP_#_#_hem... at 92.31%
+>Cluster 123
+0	22aa, >9737_DBASSP_#_#_hem... *
+1	22aa, >9736_DBASSP_#_#_hem... at 90.91%
+2	22aa, >4146_DBASSP_#_#_hem... at 95.45%
+>Cluster 124
+0	21aa, >3650_Hemolytik_Free_Free_60±7.1%... *
+1	21aa, >1544_DBASSP_#_#_hem... at 100.00%
+2	21aa, >2198_DBASSP_#_#_hem... at 90.48%
+>Cluster 125
+0	21aa, >3651_Hemolytik_Free_Free_65.5±7.7%... *
+1	21aa, >1542_DBASSP_#_#_hem... at 100.00%
+2	21aa, >2197_DBASSP_#_#_hem... at 90.48%
+>Cluster 126
+0	20aa, >3430_Hemolytik_Amidation_Free_90-100%... *
+1	20aa, >4166_DBASSP_AMD_#_hem... at 95.00%
+2	17aa, >4168_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 127
+0	17aa, >2711_Hemolytik_Free_Free_52%... at 100.00%
+1	20aa, >5354_DBASSP_#_#_hem... *
+2	17aa, >5355_DBASSP_#_#_hem... at 100.00%
+>Cluster 128
+0	19aa, >6716_DBASSP_AMD_ACT_hem... at 100.00%
+1	19aa, >6719_DBASSP_AMD_ACT_hem... at 100.00%
+2	20aa, >6727_DBASSP_AMD_ACT_hem... *
+>Cluster 129
+0	19aa, >532_DBASSP_AMD_#_hem... *
+1	19aa, >533_DBASSP_AMD_#_hem... at 94.74%
+2	19aa, >537_DBASSP_AMD_#_hem... at 94.74%
+>Cluster 130
+0	18aa, >1044_Hemolytik_Amidation_Free_100%... *
+1	18aa, >1427_DBASSP_AMD_#_hem... at 100.00%
+2	18aa, >5227_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 131
+0	18aa, >3616_Hemolytik_Free_Free_74%... *
+1	18aa, >3617_Hemolytik_Free_Free_>90%... at 100.00%
+2	18aa, >3618_Hemolytik_Free_Free_>95%... at 100.00%
+>Cluster 132
+0	17aa, >2435_Hemolytik_Amidation_Free_66.5%... *
+1	17aa, >2229_DBASSP_AMD_#_hem... at 100.00%
+2	17aa, >2261_DBASSP_#_#_hem... at 100.00%
+>Cluster 133
+0	15aa, >10808_DBASSP_AMD_ACT_hem... at 100.00%
+1	14aa, >6688_DBASSP_AMD_ACT_hem... at 92.86%
+2	17aa, >6725_DBASSP_AMD_ACT_hem... *
+>Cluster 134
+0	16aa, >4369_DBASSP_AMD_#_hem... *
+1	16aa, >4370_DBASSP_AMD_#_hem... at 93.75%
+2	16aa, >4377_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 135
+0	15aa, >6306_DBASSP_ETA_FOR_hem... *
+1	15aa, >6307_DBASSP_ETA_FOR_hem... at 93.33%
+2	15aa, >6308_DBASSP_ETA_FOR_hem... at 93.33%
+>Cluster 136
+0	14aa, >2308_Hemolytik_Free_Free_100%... *
+1	14aa, >2426_Hemolytik_Free_Free_100%... at 100.00%
+2	14aa, >5289_DBASSP_#_#_hem... at 100.00%
+>Cluster 137
+0	14aa, >2309_Hemolytik_Free_Free_100%... *
+1	14aa, >2427_Hemolytik_Free_Free_100%... at 100.00%
+2	14aa, >5290_DBASSP_#_#_hem... at 100.00%
+>Cluster 138
+0	14aa, >2310_Hemolytik_Free_Free_100%... *
+1	14aa, >2428_Hemolytik_Free_Free_100%... at 100.00%
+2	14aa, >5291_DBASSP_#_#_hem... at 100.00%
+>Cluster 139
+0	14aa, >488_DBASSP_#_#_hem... *
+1	14aa, >496_DBASSP_#_#_hem... at 92.86%
+2	14aa, >497_DBASSP_#_#_hem... at 92.86%
+>Cluster 140
+0	14aa, >2339_DBASSP_AMD_#_hem... *
+1	14aa, >5017_DBASSP_AMD_#_hem... at 92.86%
+2	14aa, >5027_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 141
+0	14aa, >2346_DBASSP_AMD_#_hem... *
+1	14aa, >5032_DBASSP_AMD_#_hem... at 100.00%
+2	14aa, >5033_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 142
+0	13aa, >2209_Hemolytik_Free_Free_~... *
+1	13aa, >3079_DBASSP_#_#_hem... at 100.00%
+2	13aa, >5137_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 143
+0	13aa, >2833_Hemolytik_Amidation_Free_78%... *
+1	13aa, >4616_DBASSP_AMD_#_hem... at 92.31%
+2	13aa, >4617_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 144
+0	13aa, >3270_Hemolytik_Amidation_Free_70%... *
+1	13aa, >3272_Hemolytik_Amidation_Free_100%... at 100.00%
+2	13aa, >3491_DBASSP_#_#_hem... at 100.00%
+>Cluster 145
+0	13aa, >1127_DBASSP_AMD_#_hem... *
+1	13aa, >1883_DBASSP_AMD_#_hem... at 92.31%
+2	13aa, >8038_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 146
+0	13aa, >9922_DBASSP_#_#_hem... *
+1	13aa, >9923_DBASSP_AMD_#_hem... at 100.00%
+2	13aa, >9924_DBASSP_#_#_hem... at 92.31%
+>Cluster 147
+0	12aa, >3378_Hemolytik_Amidation_Fmoc_100%... *
+1	12aa, >3379_Hemolytik_Amidation_Free_~90%... at 100.00%
+2	12aa, >3382_Hemolytik_Amidation_Fmoc_~80%... at 91.67%
+>Cluster 148
+0	12aa, >10300_DBASSP_#_#_hem... *
+1	12aa, >10301_DBASSP_#_#_hem... at 100.00%
+2	12aa, >10304_DBASSP_#_#_hem... at 100.00%
+>Cluster 149
+0	12aa, >10302_DBASSP_#_#_hem... *
+1	12aa, >10303_DBASSP_#_#_hem... at 100.00%
+2	12aa, >10305_DBASSP_#_#_hem... at 100.00%
+>Cluster 150
+0	12aa, >3375_DBASSP_AMD_#_hem... *
+1	12aa, >3380_DBASSP_AMD_#_hem... at 100.00%
+2	12aa, >3381_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 151
+0	11aa, >1857_Hemolytik_Free_Free_50-60%... *
+1	11aa, >1858_Hemolytik_Amidation_Free_100%... at 100.00%
+2	11aa, >3177_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 152
+0	10aa, >2420_Hemolytik_Free_Free_Strong... *
+1	10aa, >3943_Hemolytik_Free_Free_MHC... at 100.00%
+2	10aa, >1688_DBASSP_#_#_hem... at 100.00%
+>Cluster 153
+0	10aa, >2421_Hemolytik_Free_Free_Strong... *
+1	10aa, >2290_Hemolytik_Free_Free_100%... at 100.00%
+2	10aa, >5296_DBASSP_#_#_hem... at 100.00%
+>Cluster 154
+0	10aa, >8633_DBASSP_AMD_#_hem... *
+1	10aa, >7434_DBASSP_AMD_#_hem... at 100.00%
+2	10aa, >7456_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 155
+0	7aa, >9629_DBASSP_#_#_hem... *
+1	7aa, >9660_DBASSP_#_#_hem... at 100.00%
+2	7aa, >9661_DBASSP_#_#_hem... at 100.00%
+>Cluster 156
+0	77aa, >1104_DBASSP_#_#_hem... *
+1	25aa, >1105_DBASSP_#_#_hem... at 100.00%
+>Cluster 157
+0	50aa, >6530_DBASSP_AMD_ACT_hem... *
+1	21aa, >6531_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 158
+0	48aa, >4069_Hemolytik_Free_Free_50%... *
+1	48aa, >4070_Hemolytik_Free_Free_60%... at 100.00%
+>Cluster 159
+0	21aa, >7938_DBASSP_#_#_hem... at 95.24%
+1	48aa, >7945_DBASSP_#_#_hem... *
+>Cluster 160
+0	46aa, >1078_DBASSP_#_#_hem... *
+1	46aa, >1467_DBASSP_#_#_hem... at 93.48%
+>Cluster 161
+0	45aa, >3752_Hemolytik_Free_Free_50%... *
+1	45aa, >964_DBASSP_#_#_hem... at 100.00%
+>Cluster 162
+0	44aa, >5372_DBASSP_#_#_hem... *
+1	31aa, >5373_DBASSP_#_#_hem... at 100.00%
+>Cluster 163
+0	37aa, >3396_DBASSP_#_#_hem... *
+1	37aa, >3397_DBASSP_#_#_hem... at 97.30%
+>Cluster 164
+0	36aa, >2371_Hemolytik_Free_Free_Hemolytic... *
+1	36aa, >5306_DBASSP_#_#_hem... at 100.00%
+>Cluster 165
+0	35aa, >573_DBASSP_AMD_#_hem... *
+1	35aa, >2258_DBASSP_#_#_hem... at 97.14%
+>Cluster 166
+0	33aa, >1195_DBASSP_AMD_#_hem... *
+1	33aa, >3192_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 167
+0	22aa, >7920_DBASSP_#_#_hem... at 100.00%
+1	33aa, >7933_DBASSP_#_#_hem... *
+>Cluster 168
+0	31aa, >4025_Hemolytik_Free_Free_85.52±3.26%... *
+1	31aa, >1672_DBASSP_#_#_hem... at 100.00%
+>Cluster 169
+0	31aa, >1887_DBASSP_#_#_hem... *
+1	31aa, >8048_DBASSP_#_#_hem... at 90.32%
+>Cluster 170
+0	31aa, >10754_DBASSP_#_#_hem... *
+1	31aa, >10753_DBASSP_#_#_hem... at 93.55%
+>Cluster 171
+0	31aa, >4283_DBASSP_#_#_hem... *
+1	31aa, >4284_DBASSP_#_#_hem... at 96.77%
+>Cluster 172
+0	30aa, >1818_Hemolytik_Amidation_Free_Hemolytic... *
+1	20aa, >1819_Hemolytik_Amidation_Free_Hemolytic... at 100.00%
+>Cluster 173
+0	30aa, >759_DBASSP_#_#_hem... *
+1	24aa, >760_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 174
+0	30aa, >1740_DBASSP_#_#_hem... *
+1	30aa, >2452_DBASSP_#_#_hem... at 96.67%
+>Cluster 175
+0	30aa, >4276_DBASSP_#_#_hem... *
+1	30aa, >4278_DBASSP_#_#_hem... at 96.67%
+>Cluster 176
+0	29aa, >1265_Hemolytik_Free_Free_100%... *
+1	29aa, >5131_DBASSP_#_#_hem... at 100.00%
+>Cluster 177
+0	29aa, >1266_Hemolytik_Free_Free_100%... *
+1	29aa, >5132_DBASSP_#_#_hem... at 100.00%
+>Cluster 178
+0	29aa, >1267_Hemolytik_Free_Free_100%... *
+1	29aa, >5133_DBASSP_#_#_hem... at 100.00%
+>Cluster 179
+0	29aa, >3694_Hemolytik_Free_Free_100%... *
+1	29aa, >5532_DBASSP_#_#_hem... at 100.00%
+>Cluster 180
+0	29aa, >10537_DBASSP_#_#_hem... *
+1	29aa, >10539_DBASSP_#_#_hem... at 96.55%
+>Cluster 181
+0	29aa, >10540_DBASSP_#_#_hem... *
+1	29aa, >10541_DBASSP_#_#_hem... at 93.10%
+>Cluster 182
+0	29aa, >10805_DBASSP_AMD_#_hem... *
+1	27aa, >6672_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 183
+0	29aa, >4282_DBASSP_#_#_hem... *
+1	29aa, >4285_DBASSP_#_#_hem... at 93.10%
+>Cluster 184
+0	29aa, >10544_DBASSP_#_#_hem... *
+1	29aa, >10545_DBASSP_#_#_hem... at 96.55%
+>Cluster 185
+0	28aa, >8828_DBASSP_AMD_#_hem... *
+1	21aa, >8826_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 186
+0	28aa, >3783_DBASSP_#_#_hem... *
+1	28aa, >3784_DBASSP_#_#_hem... at 96.43%
+>Cluster 187
+0	28aa, >3787_DBASSP_#_#_hem... *
+1	28aa, >3788_DBASSP_#_#_hem... at 92.86%
+>Cluster 188
+0	28aa, >4289_DBASSP_#_#_hem... *
+1	28aa, >4290_DBASSP_#_#_hem... at 96.43%
+>Cluster 189
+0	27aa, >1671_Hemolytik_Free_Free_50%... *
+1	27aa, >5079_DBASSP_#_#_hem... at 100.00%
+>Cluster 190
+0	27aa, >2265_DBASSP_AMD_#_hem... *
+1	26aa, >5973_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 191
+0	27aa, >2291_DBASSP_#_#_hem... *
+1	27aa, >3154_DBASSP_#_#_hem... at 92.59%
+>Cluster 192
+0	26aa, >2929_Hemolytik_Amidation_Free_50%... *
+1	26aa, >998_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 193
+0	26aa, >2935_Hemolytik_Free_Free_50%... *
+1	26aa, >1002_DBASSP_#_#_hem... at 100.00%
+>Cluster 194
+0	26aa, >1143_Hemolytik_Amidation_Acetylation_MHC... *
+1	26aa, >1144_Hemolytik_Amidation_Acetylation_MHC... at 96.15%
+>Cluster 195
+0	26aa, >3590_Hemolytik_Free_Free_MHC... *
+1	26aa, >165_DBASSP_#_#_hem... at 100.00%
+>Cluster 196
+0	26aa, >3593_Hemolytik_Free_Free_MHC=64μg/ml... *
+1	26aa, >5520_DBASSP_#_#_hem... at 100.00%
+>Cluster 197
+0	26aa, >3595_Hemolytik_Free_Free_MHC... *
+1	26aa, >2014_DBASSP_#_#_hem... at 100.00%
+>Cluster 198
+0	26aa, >2814_DBASSP_AMD_ACT_hem... *
+1	26aa, >2813_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 199
+0	26aa, >9858_DBASSP_#_C14_hem... *
+1	26aa, >9859_DBASSP_#_C14_hem... at 100.00%
+>Cluster 200
+0	26aa, >1984_DBASSP_AMD_#_hem... *
+1	26aa, >1987_DBASSP_AMD_#_hem... at 96.15%
+>Cluster 201
+0	26aa, >10511_DBASSP_AMD_ACT_hem... *
+1	26aa, >10515_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 202
+0	26aa, >10512_DBASSP_AMD_ACT_hem... *
+1	26aa, >10516_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 203
+0	26aa, >10513_DBASSP_AMD_ACT_hem... *
+1	26aa, >10517_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 204
+0	26aa, >10514_DBASSP_AMD_ACT_hem... *
+1	26aa, >10518_DBASSP_AMD_ACT_hem... at 92.31%
+>Cluster 205
+0	26aa, >5521_DBASSP_#_#_hem... *
+1	26aa, >5522_DBASSP_#_#_hem... at 96.15%
+>Cluster 206
+0	26aa, >5523_DBASSP_#_#_hem... *
+1	26aa, >5524_DBASSP_#_#_hem... at 96.15%
+>Cluster 207
+0	25aa, >2615_Hemolytik_Free_Free_83%... *
+1	25aa, >4451_DBASSP_#_#_hem... at 100.00%
+>Cluster 208
+0	25aa, >2919_Hemolytik_Amidation_Free_50%... *
+1	25aa, >5165_DBASSP_#_#_hem... at 92.00%
+>Cluster 209
+0	25aa, >2921_Hemolytik_Amidation_Free_50%... *
+1	25aa, >1420_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 210
+0	25aa, >2922_Hemolytik_Amidation_Free_50%... *
+1	25aa, >997_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 211
+0	25aa, >2926_Hemolytik_Amidation_Free_50%... *
+1	25aa, >995_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 212
+0	25aa, >2927_Hemolytik_Amidation_Free_50%... *
+1	25aa, >996_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 213
+0	25aa, >2936_Hemolytik_Amidation_Free_50%... *
+1	25aa, >5360_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 214
+0	25aa, >2938_Hemolytik_Amidation_Free_50%... *
+1	25aa, >5362_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 215
+0	25aa, >2939_Hemolytik_Amidation_Free_50%... *
+1	25aa, >5363_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 216
+0	25aa, >2940_Hemolytik_Amidation_Free_50%... *
+1	25aa, >5364_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 217
+0	25aa, >8270_DBASSP_#_#_hem... *
+1	25aa, >6488_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 218
+0	25aa, >8439_DBASSP_#_#_hem... *
+1	22aa, >8440_DBASSP_#_#_hem... at 95.45%
+>Cluster 219
+0	25aa, >3383_DBASSP_#_#_hem... *
+1	25aa, >3385_DBASSP_#_#_hem... at 96.00%
+>Cluster 220
+0	25aa, >3384_DBASSP_#_#_hem... *
+1	25aa, >3386_DBASSP_#_#_hem... at 96.00%
+>Cluster 221
+0	25aa, >4499_DBASSP_AMD_#_hem... *
+1	25aa, >4500_DBASSP_AMD_#_hem... at 96.00%
+>Cluster 222
+0	25aa, >4501_DBASSP_AMD_#_hem... *
+1	25aa, >4502_DBASSP_AMD_#_hem... at 96.00%
+>Cluster 223
+0	24aa, >2450_Hemolytik_Free_Free_89%... *
+1	24aa, >3008_DBASSP_#_#_hem... at 100.00%
+>Cluster 224
+0	24aa, >2916_Hemolytik_Amidation_Free_50%... *
+1	24aa, >1410_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 225
+0	24aa, >2920_Hemolytik_Amidation_Free_50%... *
+1	24aa, >1413_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 226
+0	24aa, >2934_Hemolytik_Amidation_Free_50%... *
+1	24aa, >1001_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 227
+0	24aa, >8373_DBASSP_#_#_hem... *
+1	24aa, >8033_DBASSP_#_#_hem... at 95.83%
+>Cluster 228
+0	24aa, >1890_DBASSP_#_#_hem... *
+1	24aa, >1891_DBASSP_#_#_hem... at 91.67%
+>Cluster 229
+0	24aa, >3563_DBASSP_#_#_hem... *
+1	24aa, >3564_DBASSP_#_#_hem... at 91.67%
+>Cluster 230
+0	24aa, >3582_DBASSP_#_#_hem... *
+1	24aa, >3583_DBASSP_#_#_hem... at 95.83%
+>Cluster 231
+0	24aa, >4216_DBASSP_#_#_hem... *
+1	24aa, >4217_DBASSP_#_#_hem... at 95.83%
+>Cluster 232
+0	24aa, >4226_DBASSP_#_#_hem... *
+1	24aa, >4227_DBASSP_#_#_hem... at 91.67%
+>Cluster 233
+0	24aa, >6931_DBASSP_#_#_hem... *
+1	24aa, >6932_DBASSP_#_#_hem... at 95.83%
+>Cluster 234
+0	23aa, >1969_Hemolytik_Amidation_Free_~50%... *
+1	23aa, >1970_Hemolytik_Amidation_Free_55-60%... at 100.00%
+>Cluster 235
+0	23aa, >2508_Hemolytik_Amidation_Free_100%... *
+1	23aa, >1784_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 236
+0	23aa, >2928_Hemolytik_Amidation_Free_50%... *
+1	23aa, >1409_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 237
+0	23aa, >3526_Hemolytik_Amidation_Free_98%... *
+1	23aa, >121_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 238
+0	23aa, >3953_Hemolytik_Free_Free_MHC... *
+1	23aa, >2023_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 239
+0	23aa, >126_DBASSP_AMD_#_hem... *
+1	23aa, >5512_DBASSP_AMD_#_hem... at 95.65%
+>Cluster 240
+0	23aa, >3770_DBASSP_#_#_hem... *
+1	23aa, >3769_DBASSP_#_#_hem... at 95.65%
+>Cluster 241
+0	22aa, >2069_Hemolytik_Free_Free_~70%... *
+1	22aa, >4554_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 242
+0	22aa, >2608_Hemolytik_Free_Free_60%... *
+1	22aa, >4197_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 243
+0	18aa, >9888_DBASSP_AMD_#_hem... at 100.00%
+1	22aa, >9889_DBASSP_AMD_#_hem... *
+>Cluster 244
+0	22aa, >7708_DBASSP_#_C16_hem... *
+1	22aa, >7712_DBASSP_#_ACT_hem... at 100.00%
+>Cluster 245
+0	21aa, >2708_Hemolytik_Free_Free_58%... *
+1	21aa, >5352_DBASSP_#_#_hem... at 100.00%
+>Cluster 246
+0	21aa, >2923_Hemolytik_Amidation_Free_50%... *
+1	21aa, >1404_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 247
+0	21aa, >2930_Hemolytik_Amidation_Free_50%... *
+1	21aa, >999_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 248
+0	21aa, >3652_Hemolytik_Free_Free_87.2±2.6%... *
+1	21aa, >1543_DBASSP_#_#_hem... at 100.00%
+>Cluster 249
+0	21aa, >3653_Hemolytik_Free_Free_100%... *
+1	21aa, >1525_DBASSP_#_#_hem... at 100.00%
+>Cluster 250
+0	21aa, >8268_DBASSP_#_#_hem... *
+1	21aa, >6468_DBASSP_AMD_ACT_hem... at 100.00%
+>Cluster 251
+0	21aa, >705_DBASSP_AMD_#_hem... *
+1	21aa, >703_DBASSP_AMD_#_hem... at 95.24%
+>Cluster 252
+0	21aa, >7819_DBASSP_#_#_hem... *
+1	21aa, >7820_DBASSP_#_#_hem... at 95.24%
+>Cluster 253
+0	21aa, >8020_DBASSP_AMD_#_hem... *
+1	21aa, >8021_DBASSP_AMD_#_hem... at 95.24%
+>Cluster 254
+0	20aa, >2280_Hemolytik_Amidation_Free_100%... *
+1	20aa, >3175_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 255
+0	20aa, >3428_Hemolytik_Amidation_Free_90-100%... *
+1	20aa, >3431_Hemolytik_Amidation_Free_90-100%... at 95.00%
+>Cluster 256
+0	20aa, >4038_Hemolytik_Free_Free_57.1%... *
+1	17aa, >4048_Hemolytik_Free_Free_66.3%... at 100.00%
+>Cluster 257
+0	20aa, >3960_Hemolytik_Amidation_Free_MHC... *
+1	20aa, >2190_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 258
+0	20aa, >1348_DBASSP_AMD_#_hem... *
+1	20aa, >1352_DBASSP_AMD_#_hem... at 95.00%
+>Cluster 259
+0	20aa, >11229_DBASSP_AMD_#_hem... *
+1	20aa, >11228_DBASSP_AMD_#_hem... at 95.00%
+>Cluster 260
+0	20aa, >1469_DBASSP_#_#_hem... *
+1	20aa, >8094_DBASSP_#_#_hem... at 95.00%
+>Cluster 261
+0	18aa, >10601_DBASSP_#_#_hem... at 94.44%
+1	20aa, >10610_DBASSP_#_#_hem... *
+>Cluster 262
+0	20aa, >4210_DBASSP_#_#_hem... *
+1	20aa, >4211_DBASSP_#_#_hem... at 95.00%
+>Cluster 263
+0	19aa, >10806_DBASSP_AMD_#_hem... at 100.00%
+1	20aa, >6726_DBASSP_AMD_ACT_hem... *
+>Cluster 264
+0	20aa, >6979_DBASSP_AMD_#_hem... *
+1	20aa, >6980_DBASSP_AMD_#_hem... at 95.00%
+>Cluster 265
+0	19aa, >2924_Hemolytik_Amidation_Free_50%... *
+1	19aa, >1428_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 266
+0	19aa, >2925_Hemolytik_Amidation_Free_50%... *
+1	19aa, >1429_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 267
+0	19aa, >8437_DBASSP_AMD_#_hem... *
+1	17aa, >8438_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 268
+0	19aa, >538_DBASSP_AMD_#_hem... *
+1	19aa, >541_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 269
+0	19aa, >9466_DBASSP_AMD_#_hem... *
+1	19aa, >3889_DBASSP_AMD_#_hem... at 94.74%
+>Cluster 270
+0	19aa, >10807_DBASSP_AMD_#_hem... *
+1	18aa, >6687_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 271
+0	19aa, >2843_DBASSP_#_#_hem... *
+1	19aa, >2846_DBASSP_#_#_hem... at 94.74%
+>Cluster 272
+0	19aa, >2848_DBASSP_#_#_hem... *
+1	19aa, >2849_DBASSP_#_#_hem... at 94.74%
+>Cluster 273
+0	19aa, >4750_DBASSP_AMD_#_hem... *
+1	19aa, >4751_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 274
+0	19aa, >4906_DBASSP_AMD_#_hem... *
+1	19aa, >4911_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 275
+0	19aa, >4965_DBASSP_#_#_hem... *
+1	19aa, >7554_DBASSP_#_#_hem... at 94.74%
+>Cluster 276
+0	18aa, >2933_Hemolytik_Free_Free_50%... *
+1	18aa, >1000_DBASSP_#_#_hem... at 100.00%
+>Cluster 277
+0	12aa, >1455_Hemolytik_Amidation_Acetylation_100%... at 100.00%
+1	18aa, >3473_Hemolytik_Free_Free_100%... *
+>Cluster 278
+0	18aa, >3792_Hemolytik_Amidation_Free_100%... *
+1	18aa, >4615_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 279
+0	18aa, >10602_DBASSP_#_#_hem... *
+1	18aa, >7031_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 280
+0	18aa, >10604_DBASSP_#_#_hem... *
+1	18aa, >10607_DBASSP_#_#_hem... at 94.44%
+>Cluster 281
+0	18aa, >2715_DBASSP_AMD_#_hem... *
+1	18aa, >2717_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 282
+0	18aa, >11387_DBASSP_AMD_#_hem... *
+1	18aa, >11388_DBASSP_#_#_hem... at 100.00%
+>Cluster 283
+0	14aa, >4594_DBASSP_#_#_hem... at 100.00%
+1	18aa, >4595_DBASSP_#_#_hem... *
+>Cluster 284
+0	18aa, >4925_DBASSP_AMD_#_hem... *
+1	18aa, >4927_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 285
+0	18aa, >5324_DBASSP_AMD_#_hem... *
+1	18aa, >5326_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 286
+0	18aa, >5328_DBASSP_AMD_#_hem... *
+1	18aa, >5329_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 287
+0	18aa, >5330_DBASSP_AMD_#_hem... *
+1	18aa, >5331_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 288
+0	18aa, >5332_DBASSP_AMD_#_hem... *
+1	18aa, >5333_DBASSP_AMD_#_hem... at 94.44%
+>Cluster 289
+0	18aa, >7583_DBASSP_AMD_#_hem... *
+1	17aa, >7586_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 290
+0	17aa, >9868_DBASSP_AMD_#_hem... *
+1	17aa, >9869_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 291
+0	15aa, >10116_DBASSP_AMD_#_hem... at 100.00%
+1	17aa, >10117_DBASSP_AMD_#_hem... *
+>Cluster 292
+0	17aa, >10169_DBASSP_AMD_#_hem... *
+1	17aa, >10170_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 293
+0	17aa, >11270_DBASSP_AMD_#_hem... *
+1	17aa, >11271_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 294
+0	17aa, >10437_DBASSP_AMD_#_hem... *
+1	17aa, >10837_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 295
+0	17aa, >10525_DBASSP_#_#_hem... *
+1	17aa, >10526_DBASSP_#_#_hem... at 94.12%
+>Cluster 296
+0	17aa, >4542_DBASSP_AMD_#_hem... *
+1	17aa, >4543_DBASSP_AMD_#_hem... at 94.12%
+>Cluster 297
+0	17aa, >4544_DBASSP_AMD_#_hem... *
+1	15aa, >6701_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 298
+0	16aa, >8592_DBASSP_AMD_#_hem... *
+1	16aa, >8593_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 299
+0	16aa, >8804_DBASSP_AMD_#_hem... *
+1	16aa, >8805_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 300
+0	16aa, >8900_DBASSP_AMD_#_hem... *
+1	16aa, >8899_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 301
+0	16aa, >9380_DBASSP_#_#_hem... *
+1	16aa, >9383_DBASSP_#_#_hem... at 100.00%
+>Cluster 302
+0	16aa, >4363_DBASSP_AMD_#_hem... *
+1	16aa, >2407_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 303
+0	12aa, >3096_DBASSP_AMD_#_hem... at 100.00%
+1	16aa, >3100_DBASSP_AMD_#_hem... *
+>Cluster 304
+0	11aa, >2592_Hemolytik_Amidation_Free_MHC... at 90.91%
+1	16aa, >3102_DBASSP_AMD_#_hem... *
+>Cluster 305
+0	13aa, >8801_DBASSP_AMD_#_hem... at 100.00%
+1	16aa, >8798_DBASSP_AMD_#_hem... *
+>Cluster 306
+0	13aa, >8802_DBASSP_AMD_#_hem... at 100.00%
+1	16aa, >8799_DBASSP_AMD_#_hem... *
+>Cluster 307
+0	16aa, >4361_DBASSP_AMD_#_hem... *
+1	16aa, >4371_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 308
+0	16aa, >5369_DBASSP_AMD_#_hem... *
+1	16aa, >5370_DBASSP_AMD_#_hem... at 93.75%
+>Cluster 309
+0	15aa, >520_DBASSP_#_#_hem... *
+1	15aa, >522_DBASSP_#_#_hem... at 93.33%
+>Cluster 310
+0	15aa, >10284_DBASSP_AMD_#_hem... *
+1	15aa, >10285_DBASSP_AMD_#_hem... at 93.33%
+>Cluster 311
+0	15aa, >5061_DBASSP_AMD_#_hem... *
+1	15aa, >5070_DBASSP_AMD_#_hem... at 93.33%
+>Cluster 312
+0	15aa, >5340_DBASSP_AMD_#_hem... *
+1	15aa, >5343_DBASSP_AMD_#_hem... at 93.33%
+>Cluster 313
+0	15aa, >5341_DBASSP_AMD_#_hem... *
+1	15aa, >5342_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 314
+0	15aa, >6309_DBASSP_ETA_FOR_hem... *
+1	15aa, >6311_DBASSP_ETA_FOR_hem... at 93.33%
+>Cluster 315
+0	14aa, >1596_Hemolytik_Amidation_Free_100%... *
+1	14aa, >3553_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 316
+0	14aa, >2312_Hemolytik_Free_Free_100%... *
+1	14aa, >2430_Hemolytik_Free_Free_100%... at 100.00%
+>Cluster 317
+0	14aa, >2313_Hemolytik_Free_Free_100%... *
+1	14aa, >2431_Hemolytik_Free_Free_100%... at 100.00%
+>Cluster 318
+0	14aa, >2314_Hemolytik_Free_Free_100%... *
+1	14aa, >2432_Hemolytik_Free_Free_100%... at 100.00%
+>Cluster 319
+0	14aa, >3668_Hemolytik_Free_Free_100%... *
+1	14aa, >1711_DBASSP_#_#_hem... at 100.00%
+>Cluster 320
+0	14aa, >2340_DBASSP_AMD_#_hem... *
+1	14aa, >5018_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 321
+0	14aa, >2343_DBASSP_AMD_#_hem... *
+1	14aa, >5021_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 322
+0	14aa, >2344_DBASSP_AMD_#_hem... *
+1	14aa, >5031_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 323
+0	14aa, >10628_DBASSP_AMD_#_hem... *
+1	14aa, >7164_DBASSP_#_#_hem... at 100.00%
+>Cluster 324
+0	14aa, >3479_DBASSP_AMD_#_hem... *
+1	14aa, >3615_DBASSP_AMD_#_hem... at 92.86%
+>Cluster 325
+0	13aa, >2096_Hemolytik_Free_Free_95-100%... *
+1	13aa, >2097_Hemolytik_Amidation_Free_95-100%... at 100.00%
+>Cluster 326
+0	13aa, >2208_Hemolytik_Free_Free_>60%... *
+1	13aa, >3078_DBASSP_#_#_hem... at 100.00%
+>Cluster 327
+0	13aa, >2891_Hemolytik_Amidation_Free_97%... *
+1	13aa, >4661_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 328
+0	13aa, >3271_Hemolytik_Amidation_Free_81%... *
+1	13aa, >3273_Hemolytik_Amidation_Free_100%... at 100.00%
+>Cluster 329
+0	13aa, >3455_Hemolytik_Free_Free_100%... *
+1	13aa, >3456_Hemolytik_Amidation_Free_100%... at 100.00%
+>Cluster 330
+0	13aa, >3614_Hemolytik_Amidation_Free_59.2%... *
+1	13aa, >3615_Hemolytik_Amidation_Free_>90%... at 100.00%
+>Cluster 331
+0	13aa, >1881_DBASSP_AMD_#_hem... *
+1	13aa, >1885_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 332
+0	13aa, >3069_DBASSP_AMD_#_hem... *
+1	13aa, >3065_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 333
+0	13aa, >2159_DBASSP_AMD_#_hem... *
+1	13aa, >4330_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 334
+0	13aa, >1884_DBASSP_AMD_#_hem... *
+1	13aa, >3402_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 335
+0	13aa, >3455_DBASSP_AMD_#_hem... *
+1	13aa, >7247_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 336
+0	13aa, >3456_DBASSP_AMD_#_hem... *
+1	13aa, >7248_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 337
+0	13aa, >3457_DBASSP_AMD_#_hem... *
+1	13aa, >7249_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 338
+0	13aa, >640_DBASSP_#_#_hem... *
+1	13aa, >641_DBASSP_#_#_hem... at 92.31%
+>Cluster 339
+0	13aa, >4623_DBASSP_AMD_#_hem... *
+1	13aa, >4624_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 340
+0	13aa, >4625_DBASSP_AMD_#_hem... *
+1	13aa, >4627_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 341
+0	13aa, >4776_DBASSP_AMD_#_hem... *
+1	13aa, >4842_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 342
+0	13aa, >4843_DBASSP_AMD_#_hem... *
+1	13aa, >4845_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 343
+0	13aa, >5795_DBASSP_AMD_#_hem... *
+1	13aa, >5796_DBASSP_AMD_#_hem... at 92.31%
+>Cluster 344
+0	11aa, >2593_Hemolytik_Amidation_Free_MHC... at 90.91%
+1	13aa, >6897_DBASSP_AMD_#_hem... *
+>Cluster 345
+0	13aa, >7242_DBASSP_AMD_#_hem... *
+1	13aa, >7243_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 346
+0	13aa, >7826_DBASSP_AMD_#_hem... *
+1	13aa, >7831_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 347
+0	12aa, >3667_Hemolytik_Free_Free_100%... *
+1	12aa, >1710_DBASSP_#_#_hem... at 100.00%
+>Cluster 348
+0	12aa, >3669_Hemolytik_Free_Free_100%... *
+1	12aa, >1712_DBASSP_#_#_hem... at 100.00%
+>Cluster 349
+0	12aa, >3670_Hemolytik_Free_Free_100%... *
+1	12aa, >1713_DBASSP_#_#_hem... at 100.00%
+>Cluster 350
+0	12aa, >3365_DBASSP_AMD_#_hem... *
+1	12aa, >3373_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 351
+0	12aa, >3366_DBASSP_AMD_#_hem... *
+1	12aa, >3372_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 352
+0	12aa, >5193_DBASSP_#_#_hem... *
+1	12aa, >5196_DBASSP_#_C12_hem... at 100.00%
+>Cluster 353
+0	12aa, >6138_DBASSP_#_#_hem... *
+1	12aa, >6142_DBASSP_#_#_hem... at 100.00%
+>Cluster 354
+0	10aa, >6247_DBASSP_#_#_hem... at 100.00%
+1	12aa, >6249_DBASSP_#_#_hem... *
+>Cluster 355
+0	12aa, >6830_DBASSP_AMD_#_hem... *
+1	12aa, >6831_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 356
+0	12aa, >6898_DBASSP_AMD_#_hem... *
+1	12aa, >6962_DBASSP_AMD_#_hem... at 91.67%
+>Cluster 357
+0	11aa, >1854_Hemolytik_Amidation_Tosylation_81±3.7%... *
+1	11aa, >4988_DBASSP_AMD_TOS_hem... at 100.00%
+>Cluster 358
+0	11aa, >1557_Hemolytik_Amidation_Free_MHC... *
+1	11aa, >943_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 359
+0	11aa, >1558_Hemolytik_Amidation_Free_MHC... *
+1	11aa, >944_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 360
+0	11aa, >2596_Hemolytik_Amidation_Free_MHC... *
+1	11aa, >2597_Hemolytik_Amidation_Free_MHC... at 90.91%
+>Cluster 361
+0	11aa, >9744_DBASSP_#_#_hem... *
+1	11aa, >4584_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 362
+0	11aa, >10015_DBASSP_AMD_C6_hem... *
+1	11aa, >10016_DBASSP_AMD_C6_hem... at 100.00%
+>Cluster 363
+0	11aa, >2873_DBASSP_AMD_#_hem... *
+1	11aa, >2874_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 364
+0	11aa, >6279_DBASSP_AMD_ACT_hem... *
+1	11aa, >6280_DBASSP_AMD_ACT_hem... at 90.91%
+>Cluster 365
+0	11aa, >6841_DBASSP_AMD_#_hem... *
+1	11aa, >6842_DBASSP_AMD_#_hem... at 90.91%
+>Cluster 366
+0	10aa, >1562_Hemolytik_Free_Free_91.73%... *
+1	10aa, >4727_DBASSP_#_#_hem... at 100.00%
+>Cluster 367
+0	8aa, >1685_Hemolytik_Free_Free_68±7.5%... at 100.00%
+1	10aa, >1686_Hemolytik_Free_Free_81... *
+>Cluster 368
+0	10aa, >3666_Hemolytik_Free_Free_100%... *
+1	10aa, >1709_DBASSP_#_#_hem... at 100.00%
+>Cluster 369
+0	10aa, >10013_DBASSP_AMD_C5_hem... *
+1	10aa, >10014_DBASSP_AMD_C5_hem... at 100.00%
+>Cluster 370
+0	10aa, >8635_DBASSP_AMD_#_hem... *
+1	10aa, >7461_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 371
+0	10aa, >7437_DBASSP_AMD_#_hem... *
+1	10aa, >7459_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 372
+0	9aa, >3661_Hemolytik_Free_Free_Strongly... *
+1	9aa, >5541_DBASSP_#_#_hem... at 100.00%
+>Cluster 373
+0	9aa, >526_DBASSP_#_#_hem... *
+1	9aa, >527_DBASSP_#_#_hem... at 100.00%
+>Cluster 374
+0	8aa, >2289_Hemolytik_Free_Free_100%... *
+1	8aa, >5297_DBASSP_#_#_hem... at 100.00%
+>Cluster 375
+0	8aa, >9821_DBASSP_#_#_hem... *
+1	8aa, >10629_DBASSP_AMD_#_hem... at 100.00%
+>Cluster 376
+0	7aa, >9644_DBASSP_#_#_hem... *
+1	7aa, >9646_DBASSP_#_#_hem... at 100.00%
+>Cluster 377
+0	76aa, >5539_DBASSP_#_#_hem... *
+>Cluster 378
+0	69aa, >2007_DBASSP_#_#_hem... *
+>Cluster 379
+0	64aa, >8266_DBASSP_#_#_hem... *
+>Cluster 380
+0	64aa, >6320_DBASSP_#_#_hem... *
+>Cluster 381
+0	57aa, >5540_DBASSP_#_#_hem... *
+>Cluster 382
+0	47aa, >4724_DBASSP_#_#_hem... *
+>Cluster 383
+0	46aa, >2193_DBASSP_#_#_hem... *
+>Cluster 384
+0	46aa, >5282_DBASSP_#_#_hem... *
+>Cluster 385
+0	46aa, >5283_DBASSP_#_#_hem... *
+>Cluster 386
+0	45aa, >5281_DBASSP_#_#_hem... *
+>Cluster 387
+0	44aa, >966_DBASSP_#_#_hem... *
+>Cluster 388
+0	43aa, >11220_DBASSP_AMD_#_hem... *
+>Cluster 389
+0	41aa, >5177_DBASSP_#_#_hem... *
+>Cluster 390
+0	39aa, >1238_DBASSP_#_#_hem... *
+>Cluster 391
+0	37aa, >1813_Hemolytik_Free_Free_50%... *
+>Cluster 392
+0	37aa, >1472_DBASSP_#_#_hem... *
+>Cluster 393
+0	37aa, >9678_DBASSP_#_#_hem... *
+>Cluster 394
+0	37aa, >9679_DBASSP_#_#_hem... *
+>Cluster 395
+0	37aa, >1775_DBASSP_#_#_hem... *
+>Cluster 396
+0	37aa, >1778_DBASSP_#_#_hem... *
+>Cluster 397
+0	37aa, >1886_DBASSP_#_#_hem... *
+>Cluster 398
+0	37aa, >2257_DBASSP_#_#_hem... *
+>Cluster 399
+0	37aa, >10719_DBASSP_#_#_hem... *
+>Cluster 400
+0	37aa, >708_DBASSP_#_#_hem... *
+>Cluster 401
+0	37aa, >2196_DBASSP_#_#_hem... *
+>Cluster 402
+0	37aa, >3567_DBASSP_#_#_hem... *
+>Cluster 403
+0	37aa, >5515_DBASSP_#_#_hem... *
+>Cluster 404
+0	37aa, >6704_DBASSP_#_#_hem... *
+>Cluster 405
+0	37aa, >7987_DBASSP_#_#_hem... *
+>Cluster 406
+0	37aa, >8065_DBASSP_#_#_hem... *
+>Cluster 407
+0	36aa, >8282_DBASSP_#_#_hem... *
+>Cluster 408
+0	35aa, >5446_DBASSP_AMD_#_hem... *
+>Cluster 409
+0	34aa, >5163_DBASSP_#_#_hem... *
+>Cluster 410
+0	34aa, >5385_DBASSP_AMD_#_hem... *
+>Cluster 411
+0	34aa, >5387_DBASSP_AMD_#_hem... *
+>Cluster 412
+0	34aa, >6496_DBASSP_AMD_ACT_hem... *
+>Cluster 413
+0	34aa, >7842_DBASSP_AMD_#_hem... *
+>Cluster 414
+0	33aa, >1069_DBASSP_#_#_hem... *
+>Cluster 415
+0	33aa, >9675_DBASSP_#_#_hem... *
+>Cluster 416
+0	33aa, >2194_DBASSP_#_#_hem... *
+>Cluster 417
+0	33aa, >2199_DBASSP_#_#_hem... *
+>Cluster 418
+0	33aa, >2210_DBASSP_#_#_hem... *
+>Cluster 419
+0	33aa, >10752_DBASSP_#_#_hem... *
+>Cluster 420
+0	33aa, >1893_DBASSP_#_#_hem... *
+>Cluster 421
+0	33aa, >3565_DBASSP_#_#_hem... *
+>Cluster 422
+0	33aa, >5696_DBASSP_#_#_hem... *
+>Cluster 423
+0	33aa, >5697_DBASSP_#_#_hem... *
+>Cluster 424
+0	32aa, >2370_Hemolytik_Free_Free_Hemolytic... *
+>Cluster 425
+0	32aa, >2656_Hemolytik_Free_Free_0.1... *
+>Cluster 426
+0	32aa, >1805_DBASSP_#_#_hem... *
+>Cluster 427
+0	32aa, >3539_DBASSP_#_#_hem... *
+>Cluster 428
+0	32aa, >3568_DBASSP_#_#_hem... *
+>Cluster 429
+0	32aa, >3894_DBASSP_#_#_hem... *
+>Cluster 430
+0	32aa, >4343_DBASSP_#_#_hem... *
+>Cluster 431
+0	32aa, >4937_DBASSP_AMD_#_hem... *
+>Cluster 432
+0	32aa, >5593_DBASSP_AMD_#_hem... *
+>Cluster 433
+0	31aa, >2666_Hemolytik_Free_Free_80%... *
+>Cluster 434
+0	31aa, >3398_Hemolytik_Free_Free_50%... *
+>Cluster 435
+0	31aa, >3399_Hemolytik_Free_Free_50%... *
+>Cluster 436
+0	31aa, >2497_DBASSP_#_#_hem... *
+>Cluster 437
+0	31aa, >2537_DBASSP_#_#_hem... *
+>Cluster 438
+0	31aa, >10919_DBASSP_AMD_#_hem... *
+>Cluster 439
+0	31aa, >1977_DBASSP_#_#_hem... *
+>Cluster 440
+0	31aa, >8066_DBASSP_#_#_hem... *
+>Cluster 441
+0	30aa, >1531_Hemolytik_Free_Free_100%... *
+>Cluster 442
+0	30aa, >3397_Hemolytik_Free_Free_50%... *
+>Cluster 443
+0	30aa, >9680_DBASSP_#_#_hem... *
+>Cluster 444
+0	30aa, >2453_DBASSP_#_#_hem... *
+>Cluster 445
+0	30aa, >4275_DBASSP_#_#_hem... *
+>Cluster 446
+0	30aa, >4480_DBASSP_#_#_hem... *
+>Cluster 447
+0	30aa, >5235_DBASSP_#_#_hem... *
+>Cluster 448
+0	30aa, >5237_DBASSP_#_#_hem... *
+>Cluster 449
+0	30aa, >5239_DBASSP_#_#_hem... *
+>Cluster 450
+0	30aa, >5240_DBASSP_#_#_hem... *
+>Cluster 451
+0	30aa, >7929_DBASSP_#_#_hem... *
+>Cluster 452
+0	29aa, >3396_Hemolytik_Free_Free_50%... *
+>Cluster 453
+0	29aa, >9677_DBASSP_#_#_hem... *
+>Cluster 454
+0	29aa, >1493_DBASSP_#_#_hem... *
+>Cluster 455
+0	29aa, >1771_DBASSP_#_#_hem... *
+>Cluster 456
+0	29aa, >10215_DBASSP_#_#_hem... *
+>Cluster 457
+0	29aa, >2259_DBASSP_#_#_hem... *
+>Cluster 458
+0	29aa, >2493_DBASSP_#_#_hem... *
+>Cluster 459
+0	29aa, >2494_DBASSP_#_#_hem... *
+>Cluster 460
+0	29aa, >2495_DBASSP_#_#_hem... *
+>Cluster 461
+0	29aa, >10743_DBASSP_#_#_hem... *
+>Cluster 462
+0	29aa, >10823_DBASSP_AMD_#_hem... *
+>Cluster 463
+0	29aa, >10824_DBASSP_AMD_#_hem... *
+>Cluster 464
+0	29aa, >11168_DBASSP_#_#_hem... *
+>Cluster 465
+0	29aa, >3786_DBASSP_#_#_hem... *
+>Cluster 466
+0	29aa, >4195_DBASSP_#_#_hem... *
+>Cluster 467
+0	29aa, >4277_DBASSP_#_#_hem... *
+>Cluster 468
+0	29aa, >4287_DBASSP_#_#_hem... *
+>Cluster 469
+0	29aa, >4288_DBASSP_#_#_hem... *
+>Cluster 470
+0	29aa, >4395_DBASSP_#_#_hem... *
+>Cluster 471
+0	29aa, >4405_DBASSP_#_#_hem... *
+>Cluster 472
+0	29aa, >4469_DBASSP_#_#_hem... *
+>Cluster 473
+0	29aa, >4483_DBASSP_AMD_#_hem... *
+>Cluster 474
+0	29aa, >5236_DBASSP_#_#_hem... *
+>Cluster 475
+0	29aa, >5238_DBASSP_#_#_hem... *
+>Cluster 476
+0	29aa, >5286_DBASSP_#_#_hem... *
+>Cluster 477
+0	29aa, >6671_DBASSP_AMD_#_hem... *
+>Cluster 478
+0	29aa, >6527_DBASSP_AMD_ACT_hem... *
+>Cluster 479
+0	29aa, >8050_DBASSP_#_#_hem... *
+>Cluster 480
+0	28aa, >2598_DBASSP_AMD_#_hem... *
+>Cluster 481
+0	28aa, >3401_DBASSP_#_#_hem... *
+>Cluster 482
+0	28aa, >3540_DBASSP_#_#_hem... *
+>Cluster 483
+0	28aa, >3581_DBASSP_#_#_hem... *
+>Cluster 484
+0	28aa, >4231_DBASSP_#_#_hem... *
+>Cluster 485
+0	28aa, >4218_DBASSP_#_#_hem... *
+>Cluster 486
+0	28aa, >4230_DBASSP_#_#_hem... *
+>Cluster 487
+0	28aa, >4286_DBASSP_#_#_hem... *
+>Cluster 488
+0	28aa, >5284_DBASSP_#_#_hem... *
+>Cluster 489
+0	28aa, >5285_DBASSP_#_#_hem... *
+>Cluster 490
+0	28aa, >3193_DBASSP_#_#_hem... *
+>Cluster 491
+0	28aa, >6166_DBASSP_#_#_hem... *
+>Cluster 492
+0	28aa, >6539_DBASSP_AMD_ACT_hem... *
+>Cluster 493
+0	28aa, >6705_DBASSP_#_#_hem... *
+>Cluster 494
+0	28aa, >7944_DBASSP_#_#_hem... *
+>Cluster 495
+0	27aa, >1669_Hemolytik_Free_Free_50%... *
+>Cluster 496
+0	27aa, >1106_DBASSP_AMD_#_hem... *
+>Cluster 497
+0	27aa, >2292_DBASSP_#_#_hem... *
+>Cluster 498
+0	27aa, >3773_DBASSP_#_#_hem... *
+>Cluster 499
+0	27aa, >4149_DBASSP_AMD_#_hem... *
+>Cluster 500
+0	27aa, >4154_DBASSP_AMD_#_hem... *
+>Cluster 501
+0	27aa, >4160_DBASSP_AMD_#_hem... *
+>Cluster 502
+0	27aa, >4406_DBASSP_#_#_hem... *
+>Cluster 503
+0	27aa, >4492_DBASSP_#_#_hem... *
+>Cluster 504
+0	26aa, >778_DBASSP_#_#_hem... *
+>Cluster 505
+0	26aa, >9865_DBASSP_#_#_hem... *
+>Cluster 506
+0	26aa, >1986_DBASSP_AMD_#_hem... *
+>Cluster 507
+0	26aa, >2013_DBASSP_#_#_hem... *
+>Cluster 508
+0	26aa, >10592_DBASSP_#_#_hem... *
+>Cluster 509
+0	26aa, >2577_DBASSP_AMD_#_hem... *
+>Cluster 510
+0	26aa, >10914_DBASSP_#_#_hem... *
+>Cluster 511
+0	26aa, >10915_DBASSP_#_#_hem... *
+>Cluster 512
+0	26aa, >2817_DBASSP_AMD_ACT_hem... *
+>Cluster 513
+0	26aa, >1985_DBASSP_AMD_#_hem... *
+>Cluster 514
+0	26aa, >1989_DBASSP_AMD_#_hem... *
+>Cluster 515
+0	26aa, >3791_DBASSP_#_#_hem... *
+>Cluster 516
+0	26aa, >7646_DBASSP_AMD_#_hem... *
+>Cluster 517
+0	26aa, >7926_DBASSP_#_#_hem... *
+>Cluster 518
+0	26aa, >7941_DBASSP_#_#_hem... *
+>Cluster 519
+0	25aa, >8271_DBASSP_#_#_hem... *
+>Cluster 520
+0	25aa, >478_DBASSP_AMD_#_hem... *
+>Cluster 521
+0	25aa, >2252_DBASSP_#_#_hem... *
+>Cluster 522
+0	25aa, >2288_DBASSP_#_#_hem... *
+>Cluster 523
+0	25aa, >2289_DBASSP_#_#_hem... *
+>Cluster 524
+0	25aa, >2290_DBASSP_#_#_hem... *
+>Cluster 525
+0	25aa, >2367_DBASSP_#_#_hem... *
+>Cluster 526
+0	25aa, >2386_DBASSP_#_#_hem... *
+>Cluster 527
+0	25aa, >3196_DBASSP_#_#_hem... *
+>Cluster 528
+0	25aa, >4147_DBASSP_#_#_hem... *
+>Cluster 529
+0	25aa, >4503_DBASSP_AMD_#_hem... *
+>Cluster 530
+0	25aa, >4504_DBASSP_AMD_#_hem... *
+>Cluster 531
+0	25aa, >4505_DBASSP_AMD_#_hem... *
+>Cluster 532
+0	25aa, >4506_DBASSP_AMD_#_hem... *
+>Cluster 533
+0	25aa, >5166_DBASSP_#_#_hem... *
+>Cluster 534
+0	25aa, >5167_DBASSP_#_#_hem... *
+>Cluster 535
+0	24aa, >1720_Hemolytik_Free_Free_96%hemolysis... *
+>Cluster 536
+0	24aa, >2149_Hemolytik_Free_Free_100%... *
+>Cluster 537
+0	24aa, >8941_DBASSP_AMD_ACT_hem... *
+>Cluster 538
+0	24aa, >1269_DBASSP_#_#_hem... *
+>Cluster 539
+0	24aa, >1506_DBASSP_#_#_hem... *
+>Cluster 540
+0	24aa, >10212_DBASSP_#_#_hem... *
+>Cluster 541
+0	24aa, >1888_DBASSP_#_#_hem... *
+>Cluster 542
+0	24aa, >9895_DBASSP_AMD_#_hem... *
+>Cluster 543
+0	24aa, >2201_DBASSP_#_#_hem... *
+>Cluster 544
+0	24aa, >2305_DBASSP_#_#_hem... *
+>Cluster 545
+0	24aa, >10644_DBASSP_AMD_#_hem... *
+>Cluster 546
+0	24aa, >10742_DBASSP_#_#_hem... *
+>Cluster 547
+0	24aa, >3585_DBASSP_#_#_hem... *
+>Cluster 548
+0	24aa, >10205_DBASSP_#_#_hem... *
+>Cluster 549
+0	24aa, >4194_DBASSP_#_#_hem... *
+>Cluster 550
+0	24aa, >4209_DBASSP_#_#_hem... *
+>Cluster 551
+0	24aa, >4213_DBASSP_#_#_hem... *
+>Cluster 552
+0	24aa, >4214_DBASSP_#_ACT_hem... *
+>Cluster 553
+0	24aa, >4215_DBASSP_#_#_hem... *
+>Cluster 554
+0	24aa, >4220_DBASSP_#_#_hem... *
+>Cluster 555
+0	24aa, >4221_DBASSP_#_#_hem... *
+>Cluster 556
+0	24aa, >5695_DBASSP_#_#_hem... *
+>Cluster 557
+0	24aa, >6167_DBASSP_#_#_hem... *
+>Cluster 558
+0	24aa, >6168_DBASSP_#_#_hem... *
+>Cluster 559
+0	24aa, >6169_DBASSP_#_#_hem... *
+>Cluster 560
+0	24aa, >6170_DBASSP_#_#_hem... *
+>Cluster 561
+0	24aa, >6473_DBASSP_AMD_ACT_hem... *
+>Cluster 562
+0	24aa, >10645_DBASSP_AMD_#_hem... *
+>Cluster 563
+0	24aa, >7989_DBASSP_#_#_hem... *
+>Cluster 564
+0	24aa, >8034_DBASSP_#_#_hem... *
+>Cluster 565
+0	24aa, >8039_DBASSP_#_#_hem... *
+>Cluster 566
+0	23aa, >1967_Hemolytik_Amidation_Free_50%... *
+>Cluster 567
+0	23aa, >123_DBASSP_AMD_#_hem... *
+>Cluster 568
+0	23aa, >125_DBASSP_AMD_#_hem... *
+>Cluster 569
+0	23aa, >1523_DBASSP_#_#_hem... *
+>Cluster 570
+0	23aa, >10345_DBASSP_AMD_#_hem... *
+>Cluster 571
+0	23aa, >2284_DBASSP_#_#_hem... *
+>Cluster 572
+0	23aa, >3006_DBASSP_#_#_hem... *
+>Cluster 573
+0	23aa, >3776_DBASSP_#_#_hem... *
+>Cluster 574
+0	23aa, >3779_DBASSP_#_#_hem... *
+>Cluster 575
+0	23aa, >3817_DBASSP_#_#_hem... *
+>Cluster 576
+0	23aa, >4189_DBASSP_#_#_hem... *
+>Cluster 577
+0	23aa, >4198_DBASSP_AMD_#_hem... *
+>Cluster 578
+0	23aa, >4417_DBASSP_AMD_#_hem... *
+>Cluster 579
+0	23aa, >5513_DBASSP_AMD_#_hem... *
+>Cluster 580
+0	23aa, >2004_DBASSP_#_#_hem... *
+>Cluster 581
+0	23aa, >7830_DBASSP_#_#_hem... *
+>Cluster 582
+0	22aa, >2209_DBASSP_AMD_#_hem... *
+>Cluster 583
+0	22aa, >2256_DBASSP_#_#_hem... *
+>Cluster 584
+0	22aa, >2285_DBASSP_AMD_#_hem... *
+>Cluster 585
+0	22aa, >10591_DBASSP_#_#_hem... *
+>Cluster 586
+0	22aa, >3156_DBASSP_#_#_hem... *
+>Cluster 587
+0	22aa, >11525_DBASSP_#_#_hem... *
+>Cluster 588
+0	22aa, >3820_DBASSP_AMD_#_hem... *
+>Cluster 589
+0	22aa, >4157_DBASSP_AMD_#_hem... *
+>Cluster 590
+0	21aa, >1272_Hemolytik_Free_Free_~90%... *
+>Cluster 591
+0	21aa, >8269_DBASSP_#_#_hem... *
+>Cluster 592
+0	21aa, >9157_DBASSP_AMD_#_hem... *
+>Cluster 593
+0	21aa, >9362_DBASSP_AMD_#_hem... *
+>Cluster 594
+0	21aa, >1495_DBASSP_#_#_hem... *
+>Cluster 595
+0	21aa, >2251_DBASSP_#_#_hem... *
+>Cluster 596
+0	21aa, >2286_DBASSP_AMD_#_hem... *
+>Cluster 597
+0	21aa, >2298_DBASSP_AMD_#_hem... *
+>Cluster 598
+0	21aa, >10830_DBASSP_#_#_hem... *
+>Cluster 599
+0	21aa, >3782_DBASSP_AMD_#_hem... *
+>Cluster 600
+0	21aa, >3929_DBASSP_#_#_hem... *
+>Cluster 601
+0	21aa, >3930_DBASSP_#_#_hem... *
+>Cluster 602
+0	21aa, >4115_DBASSP_AMD_#_hem... *
+>Cluster 603
+0	21aa, >6673_DBASSP_AMD_#_hem... *
+>Cluster 604
+0	21aa, >5307_DBASSP_#_#_hem... *
+>Cluster 605
+0	20aa, >3166_Hemolytik_Amidation_Free_50%... *
+>Cluster 606
+0	20aa, >3429_Hemolytik_Amidation_Free_90-100%... *
+>Cluster 607
+0	20aa, >8197_DBASSP_#_#_hem... *
+>Cluster 608
+0	20aa, >8610_DBASSP_#_#_hem... *
+>Cluster 609
+0	20aa, >1468_DBASSP_#_#_hem... *
+>Cluster 610
+0	20aa, >1470_DBASSP_#_#_hem... *
+>Cluster 611
+0	20aa, >1480_DBASSP_#_#_hem... *
+>Cluster 612
+0	20aa, >9676_DBASSP_#_#_hem... *
+>Cluster 613
+0	20aa, >9753_DBASSP_AMD_#_hem... *
+>Cluster 614
+0	20aa, >9965_DBASSP_AMD_#_hem... *
+>Cluster 615
+0	20aa, >10077_DBASSP_#_#_hem... *
+>Cluster 616
+0	20aa, >10348_DBASSP_AMD_#_hem... *
+>Cluster 617
+0	20aa, >2354_DBASSP_#_#_hem... *
+>Cluster 618
+0	20aa, >2355_DBASSP_#_#_hem... *
+>Cluster 619
+0	20aa, >2359_DBASSP_#_#_hem... *
+>Cluster 620
+0	20aa, >2361_DBASSP_#_#_hem... *
+>Cluster 621
+0	20aa, >2362_DBASSP_#_#_hem... *
+>Cluster 622
+0	20aa, >10880_DBASSP_#_#_hem... *
+>Cluster 623
+0	20aa, >11230_DBASSP_AMD_#_hem... *
+>Cluster 624
+0	20aa, >11232_DBASSP_AMD_#_hem... *
+>Cluster 625
+0	20aa, >11380_DBASSP_AMD_#_hem... *
+>Cluster 626
+0	20aa, >4161_DBASSP_AMD_#_hem... *
+>Cluster 627
+0	20aa, >4169_DBASSP_AMD_#_hem... *
+>Cluster 628
+0	20aa, >4171_DBASSP_AMD_#_hem... *
+>Cluster 629
+0	20aa, >4334_DBASSP_#_#_hem... *
+>Cluster 630
+0	20aa, >6975_DBASSP_AMD_#_hem... *
+>Cluster 631
+0	20aa, >6702_DBASSP_#_#_hem... *
+>Cluster 632
+0	20aa, >6703_DBASSP_#_#_hem... *
+>Cluster 633
+0	20aa, >6901_DBASSP_AMD_#_hem... *
+>Cluster 634
+0	20aa, >6903_DBASSP_AMD_#_hem... *
+>Cluster 635
+0	20aa, >6977_DBASSP_AMD_#_hem... *
+>Cluster 636
+0	20aa, >6978_DBASSP_AMD_#_hem... *
+>Cluster 637
+0	20aa, >6983_DBASSP_AMD_#_hem... *
+>Cluster 638
+0	20aa, >6984_DBASSP_AMD_#_hem... *
+>Cluster 639
+0	20aa, >6991_DBASSP_AMD_#_hem... *
+>Cluster 640
+0	20aa, >6993_DBASSP_AMD_#_hem... *
+>Cluster 641
+0	19aa, >1541_Hemolytik_Free_Free_Mild... *
+>Cluster 642
+0	19aa, >4028_Hemolytik_Free_Free_95.7±4.12%... *
+>Cluster 643
+0	19aa, >352_DBASSP_AMD_ACT_hem... *
+>Cluster 644
+0	19aa, >353_DBASSP_AMD_ACT_hem... *
+>Cluster 645
+0	19aa, >531_DBASSP_AMD_#_hem... *
+>Cluster 646
+0	19aa, >539_DBASSP_AMD_#_hem... *
+>Cluster 647
+0	19aa, >546_DBASSP_AMD_#_hem... *
+>Cluster 648
+0	19aa, >9468_DBASSP_AMD_#_hem... *
+>Cluster 649
+0	19aa, >1998_DBASSP_AMD_#_hem... *
+>Cluster 650
+0	19aa, >1999_DBASSP_AMD_#_hem... *
+>Cluster 651
+0	19aa, >10403_DBASSP_AMD_#_hem... *
+>Cluster 652
+0	19aa, >10404_DBASSP_AMD_#_hem... *
+>Cluster 653
+0	19aa, >2282_DBASSP_AMD_#_hem... *
+>Cluster 654
+0	19aa, >10834_DBASSP_AMD_#_hem... *
+>Cluster 655
+0	19aa, >2847_DBASSP_#_#_hem... *
+>Cluster 656
+0	19aa, >2850_DBASSP_#_#_hem... *
+>Cluster 657
+0	19aa, >2851_DBASSP_#_#_hem... *
+>Cluster 658
+0	19aa, >2000_DBASSP_AMD_#_hem... *
+>Cluster 659
+0	19aa, >2001_DBASSP_AMD_#_hem... *
+>Cluster 660
+0	19aa, >4918_DBASSP_AMD_#_hem... *
+>Cluster 661
+0	19aa, >5411_DBASSP_AMD_#_hem... *
+>Cluster 662
+0	19aa, >5853_DBASSP_AMD_#_hem... *
+>Cluster 663
+0	19aa, >6706_DBASSP_AMD_#_hem... *
+>Cluster 664
+0	19aa, >6715_DBASSP_AMD_ACT_hem... *
+>Cluster 665
+0	19aa, >540_DBASSP_AMD_#_hem... *
+>Cluster 666
+0	18aa, >1045_Hemolytik_Amidation_Free_100%... *
+>Cluster 667
+0	18aa, >1165_Hemolytik_Free_Free_>50%... *
+>Cluster 668
+0	18aa, >1736_Hemolytik_Amidation_Free_~60%... *
+>Cluster 669
+0	18aa, >2087_Hemolytik_Free_Free_75%hemolysis... *
+>Cluster 670
+0	18aa, >2089_Hemolytik_Free_Free_53%... *
+>Cluster 671
+0	18aa, >2949_Hemolytik_Free_Free_MHC... *
+>Cluster 672
+0	18aa, >2951_Hemolytik_Free_Free_MHC... *
+>Cluster 673
+0	18aa, >3980_Hemolytik_Amidation_Free_MHC... *
+>Cluster 674
+0	18aa, >109_DBASSP_AMD_#_hem... *
+>Cluster 675
+0	18aa, >110_DBASSP_AMD_#_hem... *
+>Cluster 676
+0	18aa, >111_DBASSP_AMD_#_hem... *
+>Cluster 677
+0	18aa, >112_DBASSP_AMD_#_hem... *
+>Cluster 678
+0	18aa, >113_DBASSP_AMD_#_hem... *
+>Cluster 679
+0	18aa, >115_DBASSP_AMD_#_hem... *
+>Cluster 680
+0	18aa, >116_DBASSP_AMD_#_hem... *
+>Cluster 681
+0	18aa, >117_DBASSP_AMD_#_hem... *
+>Cluster 682
+0	18aa, >8863_DBASSP_AMD_Abz_hem... *
+>Cluster 683
+0	18aa, >762_DBASSP_AMD_#_hem... *
+>Cluster 684
+0	18aa, >2293_DBASSP_AMD_#_hem... *
+>Cluster 685
+0	18aa, >2369_DBASSP_AMD_#_hem... *
+>Cluster 686
+0	18aa, >10603_DBASSP_#_#_hem... *
+>Cluster 687
+0	18aa, >10605_DBASSP_#_#_hem... *
+>Cluster 688
+0	18aa, >10606_DBASSP_#_#_hem... *
+>Cluster 689
+0	18aa, >10608_DBASSP_#_#_hem... *
+>Cluster 690
+0	18aa, >10611_DBASSP_#_#_hem... *
+>Cluster 691
+0	18aa, >2718_DBASSP_AMD_#_hem... *
+>Cluster 692
+0	18aa, >2719_DBASSP_AMD_#_hem... *
+>Cluster 693
+0	18aa, >11383_DBASSP_#_#_hem... *
+>Cluster 694
+0	18aa, >11389_DBASSP_#_#_hem... *
+>Cluster 695
+0	18aa, >11390_DBASSP_#_#_hem... *
+>Cluster 696
+0	18aa, >11391_DBASSP_#_#_hem... *
+>Cluster 697
+0	18aa, >3348_DBASSP_#_#_hem... *
+>Cluster 698
+0	18aa, >4550_DBASSP_#_#_hem... *
+>Cluster 699
+0	18aa, >4552_DBASSP_#_#_hem... *
+>Cluster 700
+0	18aa, >4587_DBASSP_AMD_#_hem... *
+>Cluster 701
+0	18aa, >4588_DBASSP_AMD_#_hem... *
+>Cluster 702
+0	18aa, >4589_DBASSP_AMD_#_hem... *
+>Cluster 703
+0	18aa, >4590_DBASSP_AMD_#_hem... *
+>Cluster 704
+0	18aa, >4591_DBASSP_AMD_#_hem... *
+>Cluster 705
+0	18aa, >4872_DBASSP_#_#_hem... *
+>Cluster 706
+0	18aa, >4928_DBASSP_AMD_#_hem... *
+>Cluster 707
+0	18aa, >5223_DBASSP_AMD_#_hem... *
+>Cluster 708
+0	18aa, >6251_DBASSP_AMD_#_hem... *
+>Cluster 709
+0	18aa, >10612_DBASSP_#_#_hem... *
+>Cluster 710
+0	18aa, >6550_DBASSP_#_#_hem... *
+>Cluster 711
+0	18aa, >3893_DBASSP_AMD_#_hem... *
+>Cluster 712
+0	18aa, >7033_DBASSP_AMD_#_hem... *
+>Cluster 713
+0	18aa, >10609_DBASSP_#_#_hem... *
+>Cluster 714
+0	18aa, >2165_DBASSP_AMD_#_hem... *
+>Cluster 715
+0	18aa, >8052_DBASSP_AMD_#_hem... *
+>Cluster 716
+0	17aa, >3496_Hemolytik_Amidation_Free_Hemolytic... *
+>Cluster 717
+0	17aa, >8595_DBASSP_AMD_#_hem... *
+>Cluster 718
+0	17aa, >1460_DBASSP_AMD_#_hem... *
+>Cluster 719
+0	17aa, >9469_DBASSP_AMD_#_hem... *
+>Cluster 720
+0	17aa, >1682_DBASSP_AMD_#_hem... *
+>Cluster 721
+0	17aa, >9891_DBASSP_AMD_#_hem... *
+>Cluster 722
+0	17aa, >10173_DBASSP_AMD_#_hem... *
+>Cluster 723
+0	17aa, >10174_DBASSP_AMD_#_hem... *
+>Cluster 724
+0	17aa, >2166_DBASSP_AMD_#_hem... *
+>Cluster 725
+0	17aa, >2167_DBASSP_AMD_#_hem... *
+>Cluster 726
+0	17aa, >10527_DBASSP_AMD_#_hem... *
+>Cluster 727
+0	17aa, >10175_DBASSP_AMD_#_hem... *
+>Cluster 728
+0	17aa, >10178_DBASSP_AMD_#_hem... *
+>Cluster 729
+0	17aa, >3754_DBASSP_AMD_#_hem... *
+>Cluster 730
+0	17aa, >3821_DBASSP_AMD_#_hem... *
+>Cluster 731
+0	17aa, >4393_DBASSP_AMD_#_hem... *
+>Cluster 732
+0	17aa, >4932_DBASSP_AMD_#_hem... *
+>Cluster 733
+0	17aa, >10386_DBASSP_#_#_hem... *
+>Cluster 734
+0	17aa, >5687_DBASSP_AMD_#_hem... *
+>Cluster 735
+0	17aa, >6540_DBASSP_AMD_ACT_hem... *
+>Cluster 736
+0	17aa, >8030_DBASSP_AMD_#_hem... *
+>Cluster 737
+0	17aa, >7632_DBASSP_AMD_#_hem... *
+>Cluster 738
+0	17aa, >7633_DBASSP_AMD_#_hem... *
+>Cluster 739
+0	17aa, >7634_DBASSP_AMD_#_hem... *
+>Cluster 740
+0	17aa, >8031_DBASSP_AMD_#_hem... *
+>Cluster 741
+0	16aa, >3605_Hemolytik_Free_Free_50%... *
+>Cluster 742
+0	16aa, >3844_Hemolytik_Amidation_Free_100%... *
+>Cluster 743
+0	16aa, >8594_DBASSP_AMD_#_hem... *
+>Cluster 744
+0	16aa, >8797_DBASSP_AMD_#_hem... *
+>Cluster 745
+0	16aa, >8806_DBASSP_AMD_#_hem... *
+>Cluster 746
+0	16aa, >8807_DBASSP_AMD_#_hem... *
+>Cluster 747
+0	16aa, >3101_DBASSP_AMD_#_hem... *
+>Cluster 748
+0	16aa, >4360_DBASSP_AMD_#_hem... *
+>Cluster 749
+0	16aa, >4364_DBASSP_AMD_#_hem... *
+>Cluster 750
+0	16aa, >4367_DBASSP_AMD_#_hem... *
+>Cluster 751
+0	16aa, >4368_DBASSP_AMD_#_hem... *
+>Cluster 752
+0	16aa, >4378_DBASSP_AMD_#_hem... *
+>Cluster 753
+0	16aa, >2207_DBASSP_AMD_#_hem... *
+>Cluster 754
+0	16aa, >8918_DBASSP_AMD_#_hem... *
+>Cluster 755
+0	16aa, >9379_DBASSP_#_#_hem... *
+>Cluster 756
+0	16aa, >7762_DBASSP_#_#_hem... *
+>Cluster 757
+0	15aa, >1537_Hemolytik_Free_Free_100%... *
+>Cluster 758
+0	15aa, >8995_DBASSP_AMD_#_hem... *
+>Cluster 759
+0	15aa, >8997_DBASSP_AMD_#_hem... *
+>Cluster 760
+0	15aa, >9329_DBASSP_#_#_hem... *
+>Cluster 761
+0	15aa, >9571_DBASSP_AMD_#_hem... *
+>Cluster 762
+0	15aa, >1479_DBASSP_#_#_hem... *
+>Cluster 763
+0	15aa, >2325_DBASSP_AMD_#_hem... *
+>Cluster 764
+0	15aa, >10829_DBASSP_#_#_hem... *
+>Cluster 765
+0	15aa, >3414_DBASSP_AMD_#_hem... *
+>Cluster 766
+0	15aa, >5060_DBASSP_AMD_#_hem... *
+>Cluster 767
+0	15aa, >5071_DBASSP_AMD_#_hem... *
+>Cluster 768
+0	15aa, >5334_DBASSP_AMD_#_hem... *
+>Cluster 769
+0	15aa, >5338_DBASSP_AMD_#_hem... *
+>Cluster 770
+0	15aa, >5339_DBASSP_AMD_#_hem... *
+>Cluster 771
+0	15aa, >2326_DBASSP_AMD_#_hem... *
+>Cluster 772
+0	15aa, >6310_DBASSP_ETA_FOR_hem... *
+>Cluster 773
+0	15aa, >6312_DBASSP_ETA_FOR_hem... *
+>Cluster 774
+0	15aa, >1188_DBASSP_#_#_hem... *
+>Cluster 775
+0	15aa, >8064_DBASSP_#_#_hem... *
+>Cluster 776
+0	14aa, >1597_Hemolytik_Amidation_Free_100%... *
+>Cluster 777
+0	14aa, >1599_Hemolytik_Amidation_Free_~90%... *
+>Cluster 778
+0	14aa, >3515_Hemolytik_Amidation_Free_~80%... *
+>Cluster 779
+0	14aa, >4149_Hemolytik_Amidation_Free_100%... *
+>Cluster 780
+0	14aa, >498_DBASSP_#_#_hem... *
+>Cluster 781
+0	14aa, >8868_DBASSP_AMD_#_hem... *
+>Cluster 782
+0	14aa, >726_DBASSP_#_#_hem... *
+>Cluster 783
+0	14aa, >9343_DBASSP_AMD_#_hem... *
+>Cluster 784
+0	14aa, >9494_DBASSP_#_#_hem... *
+>Cluster 785
+0	14aa, >10346_DBASSP_AMD_#_hem... *
+>Cluster 786
+0	14aa, >2253_DBASSP_AMD_#_hem... *
+>Cluster 787
+0	14aa, >2264_DBASSP_#_#_hem... *
+>Cluster 788
+0	14aa, >2294_DBASSP_AMD_#_hem... *
+>Cluster 789
+0	14aa, >2337_DBASSP_AMD_#_hem... *
+>Cluster 790
+0	14aa, >2338_DBASSP_AMD_#_hem... *
+>Cluster 791
+0	14aa, >2341_DBASSP_AMD_#_hem... *
+>Cluster 792
+0	14aa, >2342_DBASSP_AMD_#_hem... *
+>Cluster 793
+0	14aa, >10626_DBASSP_#_#_hem... *
+>Cluster 794
+0	14aa, >10627_DBASSP_#_#_hem... *
+>Cluster 795
+0	14aa, >3345_DBASSP_#_#_hem... *
+>Cluster 796
+0	14aa, >3490_DBASSP_#_#_hem... *
+>Cluster 797
+0	14aa, >3561_DBASSP_AMD_#_hem... *
+>Cluster 798
+0	14aa, >3562_DBASSP_AMD_#_hem... *
+>Cluster 799
+0	14aa, >3588_DBASSP_AMD_#_hem... *
+>Cluster 800
+0	14aa, >727_DBASSP_#_#_hem... *
+>Cluster 801
+0	14aa, >4686_DBASSP_AMD_#_hem... *
+>Cluster 802
+0	14aa, >5604_DBASSP_#_#_hem... *
+>Cluster 803
+0	14aa, >2345_DBASSP_AMD_#_hem... *
+>Cluster 804
+0	14aa, >2347_DBASSP_AMD_#_hem... *
+>Cluster 805
+0	13aa, >3659_Hemolytik_Amidation_Free_100%... *
+>Cluster 806
+0	13aa, >3837_Hemolytik_Free_Free_100%... *
+>Cluster 807
+0	13aa, >3969_Hemolytik_Amidation_Free_MHC... *
+>Cluster 808
+0	13aa, >643_DBASSP_#_#_hem... *
+>Cluster 809
+0	13aa, >1129_DBASSP_AMD_#_hem... *
+>Cluster 810
+0	13aa, >1465_DBASSP_AMD_#_hem... *
+>Cluster 811
+0	13aa, >1978_DBASSP_AMD_#_hem... *
+>Cluster 812
+0	13aa, >10354_DBASSP_AMD_#_hem... *
+>Cluster 813
+0	13aa, >2202_DBASSP_AMD_#_hem... *
+>Cluster 814
+0	13aa, >2204_DBASSP_AMD_#_hem... *
+>Cluster 815
+0	13aa, >2205_DBASSP_AMD_#_hem... *
+>Cluster 816
+0	13aa, >2255_DBASSP_AMD_#_hem... *
+>Cluster 817
+0	13aa, >10464_DBASSP_AMD_#_hem... *
+>Cluster 818
+0	13aa, >3103_DBASSP_AMD_#_hem... *
+>Cluster 819
+0	13aa, >3104_DBASSP_AMD_#_hem... *
+>Cluster 820
+0	13aa, >3105_DBASSP_AMD_#_hem... *
+>Cluster 821
+0	13aa, >3247_DBASSP_AMD_#_hem... *
+>Cluster 822
+0	13aa, >3403_DBASSP_AMD_#_hem... *
+>Cluster 823
+0	13aa, >3453_DBASSP_AMD_#_hem... *
+>Cluster 824
+0	13aa, >3454_DBASSP_AMD_#_hem... *
+>Cluster 825
+0	13aa, >3476_DBASSP_AMD_#_hem... *
+>Cluster 826
+0	13aa, >3481_DBASSP_AMD_#_hem... *
+>Cluster 827
+0	13aa, >3483_DBASSP_AMD_#_hem... *
+>Cluster 828
+0	13aa, >3587_DBASSP_AMD_#_hem... *
+>Cluster 829
+0	13aa, >3647_DBASSP_#_#_hem... *
+>Cluster 830
+0	13aa, >8800_DBASSP_AMD_#_hem... *
+>Cluster 831
+0	13aa, >10211_DBASSP_AMD_#_hem... *
+>Cluster 832
+0	13aa, >4212_DBASSP_AMD_#_hem... *
+>Cluster 833
+0	13aa, >4222_DBASSP_AMD_#_hem... *
+>Cluster 834
+0	13aa, >4331_DBASSP_AMD_#_hem... *
+>Cluster 835
+0	13aa, >4572_DBASSP_AMD_#_hem... *
+>Cluster 836
+0	13aa, >4620_DBASSP_AMD_#_hem... *
+>Cluster 837
+0	13aa, >4628_DBASSP_AMD_#_hem... *
+>Cluster 838
+0	13aa, >4630_DBASSP_AMD_#_hem... *
+>Cluster 839
+0	13aa, >4662_DBASSP_AMD_#_hem... *
+>Cluster 840
+0	13aa, >4753_DBASSP_AMD_#_hem... *
+>Cluster 841
+0	13aa, >4754_DBASSP_AMD_#_hem... *
+>Cluster 842
+0	13aa, >4760_DBASSP_AMD_#_hem... *
+>Cluster 843
+0	13aa, >4766_DBASSP_AMD_#_hem... *
+>Cluster 844
+0	13aa, >4767_DBASSP_AMD_#_hem... *
+>Cluster 845
+0	13aa, >4820_DBASSP_AMD_#_hem... *
+>Cluster 846
+0	13aa, >4821_DBASSP_AMD_#_hem... *
+>Cluster 847
+0	13aa, >4822_DBASSP_AMD_#_hem... *
+>Cluster 848
+0	13aa, >4823_DBASSP_AMD_#_hem... *
+>Cluster 849
+0	13aa, >4824_DBASSP_AMD_#_hem... *
+>Cluster 850
+0	13aa, >4829_DBASSP_AMD_#_hem... *
+>Cluster 851
+0	13aa, >4834_DBASSP_AMD_#_hem... *
+>Cluster 852
+0	13aa, >4835_DBASSP_AMD_#_hem... *
+>Cluster 853
+0	13aa, >4836_DBASSP_AMD_#_hem... *
+>Cluster 854
+0	13aa, >4837_DBASSP_AMD_#_hem... *
+>Cluster 855
+0	13aa, >4838_DBASSP_AMD_#_hem... *
+>Cluster 856
+0	13aa, >4844_DBASSP_AMD_#_hem... *
+>Cluster 857
+0	13aa, >4846_DBASSP_AMD_#_hem... *
+>Cluster 858
+0	13aa, >2206_DBASSP_AMD_#_hem... *
+>Cluster 859
+0	13aa, >5140_DBASSP_AMD_#_hem... *
+>Cluster 860
+0	13aa, >5143_DBASSP_AMD_#_hem... *
+>Cluster 861
+0	13aa, >5287_DBASSP_AMD_#_hem... *
+>Cluster 862
+0	13aa, >5301_DBASSP_#_#_hem... *
+>Cluster 863
+0	13aa, >5799_DBASSP_AMD_#_hem... *
+>Cluster 864
+0	13aa, >5801_DBASSP_AMD_#_hem... *
+>Cluster 865
+0	13aa, >5802_DBASSP_AMD_#_hem... *
+>Cluster 866
+0	13aa, >9160_DBASSP_#_#_hem... *
+>Cluster 867
+0	13aa, >10710_DBASSP_AMD_#_hem... *
+>Cluster 868
+0	13aa, >7285_DBASSP_AMD_#_hem... *
+>Cluster 869
+0	13aa, >1882_DBASSP_AMD_#_hem... *
+>Cluster 870
+0	13aa, >7629_DBASSP_AMD_#_hem... *
+>Cluster 871
+0	13aa, >7630_DBASSP_AMD_#_hem... *
+>Cluster 872
+0	13aa, >10909_DBASSP_AMD_#_hem... *
+>Cluster 873
+0	13aa, >8126_DBASSP_AMD_#_hem... *
+>Cluster 874
+0	13aa, >8127_DBASSP_AMD_#_hem... *
+>Cluster 875
+0	12aa, >2291_Hemolytik_Free_Free_100%... *
+>Cluster 876
+0	12aa, >3380_Hemolytik_Amidation_Fmoc_~60%... *
+>Cluster 877
+0	12aa, >3839_Hemolytik_Free_Free_100%... *
+>Cluster 878
+0	12aa, >3840_Hemolytik_Free_Free_100%... *
+>Cluster 879
+0	12aa, >524_DBASSP_#_#_hem... *
+>Cluster 880
+0	12aa, >1714_DBASSP_#_#_hem... *
+>Cluster 881
+0	12aa, >1204_DBASSP_AMD_#_hem... *
+>Cluster 882
+0	12aa, >1522_DBASSP_#_#_hem... *
+>Cluster 883
+0	12aa, >1715_DBASSP_#_#_hem... *
+>Cluster 884
+0	12aa, >10625_DBASSP_#_#_hem... *
+>Cluster 885
+0	12aa, >10965_DBASSP_AMD_#_hem... *
+>Cluster 886
+0	12aa, >3314_DBASSP_#_#_hem... *
+>Cluster 887
+0	12aa, >3315_DBASSP_#_#_hem... *
+>Cluster 888
+0	12aa, >3326_DBASSP_AMD_#_hem... *
+>Cluster 889
+0	12aa, >3346_DBASSP_AMD_#_hem... *
+>Cluster 890
+0	12aa, >3361_DBASSP_AMD_#_hem... *
+>Cluster 891
+0	12aa, >3367_DBASSP_AMD_#_hem... *
+>Cluster 892
+0	12aa, >3368_DBASSP_AMD_#_hem... *
+>Cluster 893
+0	12aa, >3369_DBASSP_AMD_#_hem... *
+>Cluster 894
+0	12aa, >3374_DBASSP_AMD_#_hem... *
+>Cluster 895
+0	12aa, >3376_DBASSP_AMD_#_hem... *
+>Cluster 896
+0	12aa, >3377_DBASSP_AMD_#_hem... *
+>Cluster 897
+0	12aa, >3378_DBASSP_AMD_#_hem... *
+>Cluster 898
+0	12aa, >3379_DBASSP_AMD_#_hem... *
+>Cluster 899
+0	12aa, >3382_DBASSP_AMD_#_hem... *
+>Cluster 900
+0	12aa, >4433_DBASSP_AMD_#_hem... *
+>Cluster 901
+0	12aa, >5570_DBASSP_AMD_#_hem... *
+>Cluster 902
+0	12aa, >5571_DBASSP_AMD_#_hem... *
+>Cluster 903
+0	12aa, >5572_DBASSP_AMD_#_hem... *
+>Cluster 904
+0	12aa, >5721_DBASSP_AMD_#_hem... *
+>Cluster 905
+0	12aa, >5722_DBASSP_AMD_#_hem... *
+>Cluster 906
+0	12aa, >6139_DBASSP_#_#_hem... *
+>Cluster 907
+0	12aa, >6140_DBASSP_#_#_hem... *
+>Cluster 908
+0	12aa, >6141_DBASSP_#_#_hem... *
+>Cluster 909
+0	12aa, >6143_DBASSP_#_#_hem... *
+>Cluster 910
+0	12aa, >6147_DBASSP_#_#_hem... *
+>Cluster 911
+0	12aa, >6149_DBASSP_#_#_hem... *
+>Cluster 912
+0	12aa, >6273_DBASSP_AMD_ACT_hem... *
+>Cluster 913
+0	12aa, >6963_DBASSP_AMD_#_hem... *
+>Cluster 914
+0	12aa, >6965_DBASSP_AMD_#_hem... *
+>Cluster 915
+0	12aa, >6967_DBASSP_AMD_#_hem... *
+>Cluster 916
+0	12aa, >6968_DBASSP_AMD_#_hem... *
+>Cluster 917
+0	12aa, >6969_DBASSP_AMD_#_hem... *
+>Cluster 918
+0	12aa, >7109_DBASSP_AMD_#_hem... *
+>Cluster 919
+0	12aa, >7115_DBASSP_AMD_#_hem... *
+>Cluster 920
+0	12aa, >7116_DBASSP_AMD_#_hem... *
+>Cluster 921
+0	12aa, >7118_DBASSP_AMD_#_hem... *
+>Cluster 922
+0	11aa, >3842_Hemolytik_Free_Free_100%... *
+>Cluster 923
+0	11aa, >1555_Hemolytik_Amidation_Free_MHC... *
+>Cluster 924
+0	11aa, >2594_Hemolytik_Amidation_Free_MHC... *
+>Cluster 925
+0	11aa, >2600_Hemolytik_Amidation_Free_MHC... *
+>Cluster 926
+0	11aa, >646_DBASSP_#_#_hem... *
+>Cluster 927
+0	11aa, >663_DBASSP_#_#_hem... *
+>Cluster 928
+0	11aa, >9739_DBASSP_#_#_hem... *
+>Cluster 929
+0	11aa, >10347_DBASSP_AMD_#_hem... *
+>Cluster 930
+0	11aa, >2869_DBASSP_AMD_#_hem... *
+>Cluster 931
+0	11aa, >11399_DBASSP_AMD_#_hem... *
+>Cluster 932
+0	11aa, >11400_DBASSP_AMD_#_hem... *
+>Cluster 933
+0	11aa, >2875_DBASSP_AMD_#_hem... *
+>Cluster 934
+0	11aa, >5047_DBASSP_#_#_hem... *
+>Cluster 935
+0	11aa, >6282_DBASSP_AMD_ACT_hem... *
+>Cluster 936
+0	11aa, >7744_DBASSP_#_C8_hem... *
+>Cluster 937
+0	11aa, >7746_DBASSP_#_C8_hem... *
+>Cluster 938
+0	10aa, >8591_DBASSP_AMD_#_hem... *
+>Cluster 939
+0	10aa, >8634_DBASSP_AMD_#_hem... *
+>Cluster 940
+0	10aa, >8636_DBASSP_AMD_#_hem... *
+>Cluster 941
+0	10aa, >2262_DBASSP_#_#_hem... *
+>Cluster 942
+0	10aa, >3121_DBASSP_AMD_#_hem... *
+>Cluster 943
+0	10aa, >3123_DBASSP_AMD_#_hem... *
+>Cluster 944
+0	10aa, >3124_DBASSP_AMD_#_hem... *
+>Cluster 945
+0	10aa, >3135_DBASSP_AMD_#_hem... *
+>Cluster 946
+0	10aa, >3136_DBASSP_AMD_#_hem... *
+>Cluster 947
+0	10aa, >3137_DBASSP_AMD_#_hem... *
+>Cluster 948
+0	10aa, >3138_DBASSP_AMD_#_hem... *
+>Cluster 949
+0	10aa, >3140_DBASSP_AMD_#_hem... *
+>Cluster 950
+0	10aa, >3142_DBASSP_AMD_#_hem... *
+>Cluster 951
+0	10aa, >3143_DBASSP_AMD_#_hem... *
+>Cluster 952
+0	10aa, >3144_DBASSP_AMD_#_hem... *
+>Cluster 953
+0	10aa, >3145_DBASSP_AMD_#_hem... *
+>Cluster 954
+0	10aa, >3147_DBASSP_AMD_#_hem... *
+>Cluster 955
+0	10aa, >3149_DBASSP_AMD_#_hem... *
+>Cluster 956
+0	10aa, >3150_DBASSP_AMD_#_hem... *
+>Cluster 957
+0	10aa, >3151_DBASSP_AMD_#_hem... *
+>Cluster 958
+0	10aa, >3152_DBASSP_AMD_#_hem... *
+>Cluster 959
+0	10aa, >3153_DBASSP_AMD_#_hem... *
+>Cluster 960
+0	10aa, >3316_DBASSP_#_#_hem... *
+>Cluster 961
+0	10aa, >7435_DBASSP_AMD_#_hem... *
+>Cluster 962
+0	10aa, >4880_DBASSP_#_#_hem... *
+>Cluster 963
+0	10aa, >4883_DBASSP_#_#_hem... *
+>Cluster 964
+0	10aa, >4885_DBASSP_#_#_hem... *
+>Cluster 965
+0	10aa, >6090_DBASSP_#_#_hem... *
+>Cluster 966
+0	10aa, >6091_DBASSP_#_#_hem... *
+>Cluster 967
+0	10aa, >6092_DBASSP_#_#_hem... *
+>Cluster 968
+0	10aa, >6093_DBASSP_#_#_hem... *
+>Cluster 969
+0	10aa, >6094_DBASSP_#_#_hem... *
+>Cluster 970
+0	10aa, >7430_DBASSP_AMD_#_hem... *
+>Cluster 971
+0	10aa, >7431_DBASSP_AMD_#_hem... *
+>Cluster 972
+0	10aa, >7433_DBASSP_AMD_#_hem... *
+>Cluster 973
+0	10aa, >7455_DBASSP_AMD_#_hem... *
+>Cluster 974
+0	9aa, >8812_DBASSP_AMD_#_hem... *
+>Cluster 975
+0	9aa, >5034_DBASSP_#_#_hem... *
+>Cluster 976
+0	9aa, >5038_DBASSP_#_#_hem... *
+>Cluster 977
+0	9aa, >5443_DBASSP_AMD_#_hem... *
+>Cluster 978
+0	9aa, >5444_DBASSP_AMD_#_hem... *
+>Cluster 979
+0	9aa, >5937_DBASSP_AMD_#_hem... *
+>Cluster 980
+0	9aa, >5938_DBASSP_AMD_#_hem... *
+>Cluster 981
+0	9aa, >5939_DBASSP_AMD_#_hem... *
+>Cluster 982
+0	9aa, >5940_DBASSP_AMD_#_hem... *
+>Cluster 983
+0	8aa, >3665_Hemolytik_Free_Free_100%... *
+>Cluster 984
+0	8aa, >9659_DBASSP_#_#_hem... *
+>Cluster 985
+0	8aa, >9818_DBASSP_#_#_hem... *
+>Cluster 986
+0	8aa, >9819_DBASSP_#_#_hem... *
+>Cluster 987
+0	8aa, >9820_DBASSP_#_#_hem... *
+>Cluster 988
+0	8aa, >2263_DBASSP_#_#_hem... *
+>Cluster 989
+0	8aa, >10630_DBASSP_AMD_#_hem... *
+>Cluster 990
+0	8aa, >10631_DBASSP_AMD_#_hem... *
+>Cluster 991
+0	8aa, >10632_DBASSP_AMD_#_hem... *
+>Cluster 992
+0	8aa, >10634_DBASSP_AMD_#_hem... *
+>Cluster 993
+0	8aa, >10635_DBASSP_AMD_#_hem... *
+>Cluster 994
+0	8aa, >3227_DBASSP_#_#_hem... *
+>Cluster 995
+0	8aa, >3232_DBASSP_AMD_#_hem... *
+>Cluster 996
+0	8aa, >7688_DBASSP_AMD_#_hem... *
+>Cluster 997
+0	8aa, >10633_DBASSP_AMD_#_hem... *
+>Cluster 998
+0	7aa, >3889_Hemolytik_Free_Free_100%... *
+>Cluster 999
+0	7aa, >9632_DBASSP_#_#_hem... *
+>Cluster 1000
+0	7aa, >9651_DBASSP_#_#_hem... *

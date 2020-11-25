@@ -1,0 +1,8 @@
+AMD	C=CC(=O)N
+Ome	CC(C(=O)OC)N.Cl
+Lac=p-amidophenyl-β-D-lactopyranoside	CC(C)CC(CO)N
+ETA	CCCCCCC=CCCCCCCCC(=O)NCCO
+EN	C(CN)N
+MeOH	CO
+AM	CC(=O)N
+EN	C(CN)N
