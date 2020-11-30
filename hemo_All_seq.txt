@@ -1,0 +1,4218 @@
+>1541_Hemolytik_Free_Free_Mild hemolytic activity at 50μM
+LGFGTFVLMLLGLVVELIK
+>1815_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
+SELAGTIIDGASLTFEVLDKVLGELGKVSRK
+>1816_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
+ELAGTIIDGASLTFEVLDKVLGELGKVSRK
+>1817_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
+SLTFEVLDKVLGELGKVSRK
+>1818_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
+ALAGTIIAGASLTFQVLDKVLEELGKVSRK
+>1819_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
+SLTFQVLDKVLEELGKVSRK
+>2369_Hemolytik_Free_Free_Hemolytic at 110µM
+SIGSALKKALPVAKKIGKIALPIAKAALPVAAGLVG
+>2370_Hemolytik_Free_Free_Hemolytic 645µM
+SLGGVISGAKKVAKVAIPIGKAVLPVVAKLVG
+>2371_Hemolytik_Free_Free_Hemolytic at 84µM
+SIGTAVKKAVPIAKKVGKVAIPIAKAVLSVVGQLVG
+>2372_Hemolytik_Free_Free_Hemolytic at960µM
+SIGSALKKALPVAKKIGKIALPIAKAALP
+>2420_Hemolytik_Free_Free_Strong hemolysis
+VOLfPVOLfP
+>2421_Hemolytik_Free_Free_Strong hemolysis
+VKLyPVKLyP
+>2423_Hemolytik_Free_Free_Very strong hemolysis
+VKLKVyPLKVKLyP
+>2656_Hemolytik_Free_Free_0.1 hemolytic at 50.0μg/ml
+VKVGINGFGRIGRLVTRAAFHGKKVEVVAIND
+>3496_Hemolytik_Amidation_Free_Hemolytic activity i.e. 16.6HU/mg
+GFLSALKKYLPIVLKHV
+>3661_Hemolytik_Free_Free_Strongly hemolytic at 40µg/ml
+KFFKFFKFF
+>1038_Hemolytik_Amidation_Free_100% hemolysis at 100μg/ml
+ILPWKWPWWPWRR
+>1042_Hemolytik_Amidation_Free_100% hemolysis at 21.3μg/ml
+RRWCFRVCYRGFCYRKCR
+>1043_Hemolytik_Amidation_Free_100% hemolysis at 42.6μg/ml
+RRWCFRVCYRGRFCYRKCR
+>1044_Hemolytik_Amidation_Free_100% hemolysis at 85μg/ml
+RRWCFRVCYKGFCRYKCR
+>1045_Hemolytik_Amidation_Free_100% hemolysis at 85μg/ml
+FRWCFRVCYKGRCRYKCR
+>1076_Hemolytik_Amidation_Free_100% hemolysis at 2μM
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>1119_Hemolytik_Amidation_Free_~50% hemolysis at 100μg/ml
+KILRGVCKKIMRTFLRRISKDILTGKK
+>1163_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCVGR
+>1164_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGGLCYCRRRFCVCVGR
+>1165_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRGWICFCVGR
+>1166_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRPRFCVCVGR
+>1169_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+LCYCRRRFCVCVGR
+>1171_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCV
+>1172_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCICV
+>1175_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+LCYCRRRFCVCV
+>1198_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+VCYCRRRFCVCVGR
+>1199_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+ICYCRRRFCVCVGR
+>1200_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+FCYCRRRFCVCVGR
+>1201_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+WCYCRRRFCVCVGR
+>1203_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCY
+>1206_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCL
+>1207_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCI
+>1208_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCF
+>1209_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+RGGRLCYCRRRFCVCW
+>1217_Hemolytik_Free_Free_>50% hemolysis at 80μg/ml
+LCYCRRRFCFCV
+>1249_Hemolytik_Amidation_Free_100% hemolysis at 25μM
+FFHHIFRGIVHVGKTIHRLVTG
+>1250_Hemolytik_Amidation_Free_96% hemolysis at 12.5μM
+FFHHIFRGIVHVGKTIHRLVTG
+>1251_Hemolytik_Amidation_Free_92%hemolysis at 6.25μM
+FFHHIFRGIVHVGKTIHRLVTG
+>1260_Hemolytik_Amidation_Acetylation_67% hemolysis at 64μM
+KWKLFKKIGKVLKVL
+>1265_Hemolytik_Free_Free_100% hemolysis at >0.5mg/ml
+PICTRNGLPVCGETCFGGTCNTPGCTCTW
+>1266_Hemolytik_Free_Free_100% hemolysis at >0.5mg/ml
+PVCTRNGLPVCGETCVGGTCNTPGCTCSW
+>1267_Hemolytik_Free_Free_100% hemolysis at >0.5mg/ml
+PICKRNGLPVCGETCTLGTCYTQGCTCSW
+>1272_Hemolytik_Free_Free_~90% hemolysis at 0.8μM
+TQTVYEWCGVATQLLAAYILL
+>1365_Hemolytik_Free_Free_50% hemolysis at 40μM
+RFGRFLRKIRRFRPKVTITIQGSARFG
+>1366_Hemolytik_Amidation_Free_60% hemolysis at 40μM
+RFGRFLRKIRRFRPKVTITIQGSARF
+>1418_Hemolytik_Amidation_Free_57.58% hemolysis at 200μg/ml
+KKLLKWLLKLL
+>1424_Hemolytik_Amidation_Free_64.43% hemolysis at 200μg/ml
+LKLLKWLLKLL
+>1450_Hemolytik_Amidation_Free_100% hemolysis at 64μM
+ILPWKWPWWPWRR
+>1455_Hemolytik_Amidation_Acetylation_100% hemolysis at >50μg/ml
+KLLLKLWLKLLK
+>1531_Hemolytik_Free_Free_100% hemolysis at 0.77mM
+NPVLVKDATGSTQFGPVQALGAQYSMWKLK
+>1532_Hemolytik_Free_Free_100% hemolysis at 0.77mM
+PAICQRATATLGTVGSNTSGTTEIEACILL
+>1533_Hemolytik_Free_Free_100% hemolysis at 0.77mM
+PAIAQRATATLGTVGSNTSGTTEIEACILL
+>1534_Hemolytik_Free_Free_90% hemolysis at 0.77mM
+PAICQRATATLGTVGSNTSGTTEIEAAILL
+>1535_Hemolytik_Free_Free_80% hemolysis at 0.77mM
+PAICQRATATLGTVGSNTSGTTAIEACILL
+>1536_Hemolytik_Free_Free_95% hemolysis at 0.77mM
+PAICQRATATLGTVGSNTSGTTEIAACILL
+>1537_Hemolytik_Free_Free_100% hemolysis at 0.77mM
+PAICQRAEIEACILL
+>1562_Hemolytik_Free_Free_91.73% hemolysis at 10μg
+NAGSLLSGWG
+>1596_Hemolytik_Amidation_Free_100% hemolysis at 6.2x10-5M
+INWLKLGKMVIDAL
+>1597_Hemolytik_Amidation_Free_100% hemolysis at 6.2x10-5M
+IDWLKLGKMVMDVL
+>1599_Hemolytik_Amidation_Free_~90% hemolysisat 10-4M
+INWLKLGKAIIDAL
+>1606_Hemolytik_Free_Free_189.2% hemolysis at 100µg/ml
+FLPLLAGLAANFLPKIFCKITRKC
+>1626_Hemolytik_Free_Formylation_~90% hemolysis at 30µM
+MAQDIISTIGDLVKWIIDTVNKFTKK
+>1627_Hemolytik_Free_Free_~95% hemolysis at 30µM
+MAQDIISTIGDLVKWIIDTVNKFTKK
+>1628_Hemolytik_Free_Free_>75% hemolysis at 30µM
+AQDIISTIGDLVKWIIDTVNKFTKK
+>1629_Hemolytik_Free_Free_100% hemolysis at 5µM
+IISTIGDLVKWIIDTVNKFTKK
+>1631_Hemolytik_Free_Free_<50% hemolysis at 30µM
+IGDLVKWIIDTVNKFTKK
+>1658_Hemolytik_Amidation_Free_100% hemolysis at 50μg/ml
+DAACAAHCLWR
+>1669_Hemolytik_Free_Free_50% hemolysis at 450µM
+KQLKKVSAVAKVAMKKGAALLKKMGVK
+>1671_Hemolytik_Free_Free_50% hemolysis at 274µM
+KFGKIVGKVLKQLKKVSAVAKVAMKKG
+>1672_Hemolytik_Free_Free_50% hemolysis at 117µM
+GKVLDKFGKIVGKVLKQLKKVSAVAKV
+>1673_Hemolytik_Free_Free_50% hemolysis at 90µM
+FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV
+>1674_Hemolytik_Free_Free_50% hemolysis at 296µM
+FKIKPGKVLDKFGKIVGKVLKQLKKVS
+>1685_Hemolytik_Free_Free_68±7.5% hemolysis at 360µM
+KLKFKLKQ
+>1686_Hemolytik_Free_Free_81 ±5.3% hemolysis at 360µM
+KLKLKFKLKQ
+>1720_Hemolytik_Free_Free_96%hemolysis at 20µg/ml
+FLPLAVSLAANFLPKLFCKITKKC
+>1731_Hemolytik_Amidation_Free_97% of hemolysis at 50mM
+ILGTILGLLKGL
+>1733_Hemolytik_Amidation_Free_~100% hemolysis at above 100µg/ml
+RGGRLCYCRRRFCVCVGR
+>1736_Hemolytik_Amidation_Free_~60% hemolysis at above 100µg/ml
+RGGRLCYTRpRFTVCVGR
+>1813_Hemolytik_Free_Free_50% hemolysis at 128µg/ml
+DHYICAKKGGTCNFSPCPLFNRIEGTCYSGKAKCCIR
+>1844_Hemolytik_Amidation_Benzoylation_71±2.3% hemolysis at 150µM
+KKLFKKILKVL
+>1845_Hemolytik_Amidation_Free_84±6.5% hemolysis at 150µM
+KKLFKKILKWL
+>1846_Hemolytik_Amidation_Free_63±5.9% hemolysis at 150µM
+FKLFKKILKFL
+>1848_Hemolytik_Amidation_Tosylation_85±7.4% hemolysis at 150µM
+KKLFKKILKFL
+>1849_Hemolytik_Amidation_Free_65±1.5% hemolysis at 150µM
+LKLFKKILKFL
+>1851_Hemolytik_Amidation_Tosylation_79±6.5% hemolysis at 150µM
+KKLFKKILKYL
+>1852_Hemolytik_Amidation_Benzoylation_83±13.5% hemolysis at 150µM
+KKLFKKILKYL
+>1853_Hemolytik_Amidation_Free_91±6.2% hemolysis at 150µM
+LKLFKKILKYL
+>1854_Hemolytik_Amidation_Tosylation_81±3.7% hemolysis at 150µM
+YKLFKKILKKL
+>1857_Hemolytik_Free_Free_50-60% hemolysis at 10-3M
+SLLSLIRKLIT
+>1858_Hemolytik_Amidation_Free_100% hemolysis at 10-3M
+SLLSLIRKLIT
+>1967_Hemolytik_Amidation_Free_50% hemolysis at 40µM
+AVGIGALFLGFLGAAGSTMGARS
+>1969_Hemolytik_Amidation_Free_~50% hemolysis at 40µM
+AAGLAMLFLGILSAAGSTMGARA
+>1970_Hemolytik_Amidation_Free_55-60% hemolysis at 80µM
+AAGLAMLFLGILSAAGSTMGARA
+>1973_Hemolytik_Amidation_Free_~85% hemolysis at 15µM
+LKLKSIVSWAKKVL
+>1985_Hemolytik_Free_Free_65-70% hemolysis at 10µg/ml
+WEAKLAKALAKALAKHLAKALAKALKACEA
+>1986_Hemolytik_Free_Free_80-85% hemolysis at 100µg/ml
+WEAKLAKALAKALAKHLAKALAKALKACEA
+>1987_Hemolytik_Free_Free_50-60% hemolysis at 10µg/ml
+WEAKLAKALAKALAKHLAKALAKALKACEA
+>1988_Hemolytik_Free_Free_90-95% hemolysis at 100µg/ml
+WEAKLAKALAKALAKHLAKALAKALKACEA
+>2031_Hemolytik_Amidation_Free_100% hemolysis at 200µg/ml
+KLLLKLLLKLLK
+>2069_Hemolytik_Free_Free_~70% hemolysis at 128µM
+LRRLWLRANRLLRRLWLRANRL
+>2087_Hemolytik_Free_Free_75%hemolysis at 120µM
+FPFSLIPHAIGGLISAIK
+>2089_Hemolytik_Free_Free_53% hemolysis at 120µM
+FLFSLIPKAIGGLISAFK
+>2095_Hemolytik_Free_Free_100% hemolysis at 30µg/mL
+PKLLKTFLSKWIG
+>2096_Hemolytik_Free_Free_95-100% hemolysis at 60µg/mL
+GIWKSLFTKLLKG
+>2097_Hemolytik_Amidation_Free_95-100% hemolysis at 60µg/mL
+GIWKSLFTKLLKG
+>2147_Hemolytik_Free_Free_100% hemolysis at 0.7μM
+FLPLLAGLAANFLPKIFCKITRKC
+>2148_Hemolytik_Free_Free_100% hemolysisat 5μM
+FLPLLAGLAANFLPKIFCAcmKITRKCAcm
+>2149_Hemolytik_Free_Free_100% hemolysis at 7μM
+FLPLLAGLCKITRKCAANFLPKIF
+>2152_Hemolytik_Amidation_Free_100% hemolysis at 225µM
+FLPLIGRVLSGIL
+>2176_Hemolytik_Free_Free_70.2% hemolysis at 80μg/ml
+KNLRRIIRKIIHIIKKYG
+>2177_Hemolytik_Free_Free_55.0% hemolysis at 40μg/ml
+KNLRRIIRKIIHIIKKYG
+>2207_Hemolytik_Free_Free_>80% hemolysis at 200µg/ml
+VRRFPWWWPFLRR
+>2208_Hemolytik_Free_Free_>60% hemolysis at 200µg/ml
+VRRFGWWWGFLRR
+>2209_Hemolytik_Free_Free_~ 90% hemolysis at 200µg/ml
+VRRFAWWWAFLRR
+>2212_Hemolytik_Amidation_Free_~ 80% hemolysis at 200µg/ml
+ILPWKWPWWPWRR
+>2278_Hemolytik_Amidation_Free_100% hemolysis at 1μM
+FFGWLIKGAIHAGKAIHGLIHRRRH
+>2279_Hemolytik_Amidation_Free_100% hemolysis at 1μM
+FFGWLIRGAIHAGKAIHGLIHRRRH
+>2280_Hemolytik_Amidation_Free_100% hemolysis at 5μM
+FIGLLISAGKAIHDLIRRRH
+>2285_Hemolytik_Free_Free_~60% hemolysis at 200μg/ml
+RRFPWWWPFRR
+>2288_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+KyPKyP
+>2289_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+VKyPKLyP
+>2290_Hemolytik_Free_Free_100% hemolysis at 51–100µg/mL
+VKLyPVKLyP
+>2291_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+VKLKyPKVKLyP
+>2292_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKLKVyPLKVKLyP
+>2295_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKlKVyPLKVKLyP
+>2296_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+VKLkVyPLKVKLyP
+>2297_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml
+VKLKvyPLKVKLyP
+>2299_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKLKVypLKVKLyP
+>2300_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml
+VKLKVyPlKVKLyP
+>2301_Hemolytik_Free_Free_100% hemolysis at 51–100µg/ml
+VKLKVyPLkVKLyP
+>2302_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKLKVyPLKvKLyP
+>2303_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml
+VKLKVyPLKVkLyP
+>2304_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml
+VKLKVyPLKVKlyP
+>2305_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKLKVyPLKVKLYP
+>2306_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+VKLKVyPLKVKLyp
+>2307_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml
+VKKLVyPLKVKLyP
+>2308_Hemolytik_Free_Free_100% hemolysis at <15µg/ml
+LKLkLfPLKLKLfP
+>2309_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml
+LKLkLyPLKLKLyP
+>2310_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml
+VKLkVfPLKVKLfP
+>2311_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+VKLkVyPLKVKLyP
+>2312_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+AKLkAyPLKAKLyP
+>2313_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+VKAkVyPAKVKAyP
+>2314_Hemolytik_Free_Free_100% hemolysis at >150µg/ml
+AKAkAyPAKAKAyP
+>2425_Hemolytik_Free_Free_100% hemolysis at 1.5µg/ml
+VKLKVyPLKVKLyP
+>2426_Hemolytik_Free_Free_100% hemolysis at 12.5µg/ml
+LKLkLfPLKLKLfP
+>2427_Hemolytik_Free_Free_100% hemolysis at 25µg/ml
+LKLkLyPLKLKLyP
+>2428_Hemolytik_Free_Free_100% hemolysis at 40µg/ml
+VKLkVfPLKVKLfP
+>2429_Hemolytik_Free_Free_100% hemolysis at 200µg/ml
+VKLkVyPLKVKLyP
+>2430_Hemolytik_Free_Free_100% hemolysis at >800µg/ml
+AKLkAyPLKAKLyP
+>2431_Hemolytik_Free_Free_100% hemolysis at >800µg/ml
+VKAkVyPAKVKAyP
+>2432_Hemolytik_Free_Free_100% hemolysis at >800µg/ml
+AKAkAyPAKAKAyP
+>2435_Hemolytik_Amidation_Free_66.5% hemolysis at 80µg/ml
+KWCFRVCYRGICYRRCR
+>2436_Hemolytik_Amidation_Free_70.3% hemolysis at 80µg/ml
+RGGRLCYCRRRFCVCVGR
+>2437_Hemolytik_Amidation_Free_90% hemolysis at 80µg/ml
+rggrlcycrrrfcvcvgr
+>2441_Hemolytik_Free_Free_94.6% hemolysis at 80µg/ml
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>2450_Hemolytik_Free_Free_89% hemolysis at 80µg/ml
+FLPVLAGIAAKVVPALFCKITKKC
+>2472_Hemolytik_Amidation_Free_50% hemolysis at >200µg/ml
+GIGAVLKVLTTGLpALISWIKRKRQQ
+>2473_Hemolytik_Amidation_Free_50% hemolysis at >80µg/ml
+GIGAVLKVLTTGLpALISWIKFKRQQ
+>2486_Hemolytik_Free_Free_100% hemolytic at 10μg/ml
+VKLKVyPLKVKLyP
+>2487_Hemolytik_Free_Free_100% hemolytic at 100μg/ml
+VKLKVyPLKVKLyP
+>2508_Hemolytik_Amidation_Free_100% hemolytic at 100μg/ml
+GIGKFLHAAKKFAKAFVAEIMNS
+>2552_Hemolytik_Free_Free_100% hemolytic at 1.5μg/ml
+VKLKVyPLKVKLyP
+>2553_Hemolytik_Free_Free_100% hemolytic at 6.2μg/ml
+VKLKVyPLKvKLyP
+>2554_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml
+VKlKVyPLKVKLyP
+>2555_Hemolytik_Free_Free_100% hemolytic at 6.2μg/ml
+VKLKVyPLKVKLyp
+>2556_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml
+VKLKVypLKVKLyP
+>2557_Hemolytik_Free_Free_100% hemolytic at 40μg/ml
+VKLKVyPLKVKLyP
+>2558_Hemolytik_Free_Free_100% hemolytic at 25μg/ml
+VKLKVyPLKVKlyP
+>2559_Hemolytik_Free_Free_100% hemolytic at 150μg/ml
+VKLKvyPLKVKLyP
+>2560_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml
+VKLKVyPLKVKLYP
+>2561_Hemolytik_Free_Free_100% hemolytic at 50μg/ml
+VKLKVyPlKVKLyP
+>2562_Hemolytik_Free_Free_100% hemolytic at 25μg/ml
+VKLKVYPLKVKLyP
+>2563_Hemolytik_Free_Free_100% hemolytic at 50μg/ml
+VkLKVyPLKVKLyP
+>2564_Hemolytik_Free_Free_100% hemolytic at 100μg/ml
+VKLKVyPLkVKLyP
+>2565_Hemolytik_Free_Free_100% hemolytic at 200μg/ml
+VKLkVyPLKVKLyP
+>2566_Hemolytik_Free_Free_100% hemolytic at 150μg/ml
+VKLKVyPLKVkLyP
+>2567_Hemolytik_Free_Free_100% hemolytic at >200μg/ml
+VkLkVyPLKVKLyP
+>2568_Hemolytik_Free_Free_100% hemolytic at >200μg/ml
+VkLkVyPLkVkLyP
+>2586_Hemolytik_Free_Free_50% hemolytic at 128μmol/L
+GLFDIIKKIAESF
+>2608_Hemolytik_Free_Free_60% hemolytic at 100µg/ml
+GECIWDAIFHGAKHFLHRLVNP
+>2610_Hemolytik_Free_Free_100% hemolytic at 100 µg/ml
+FIHHIIGGLFSAGKAIHRLIRRRRR
+>2615_Hemolytik_Free_Free_83% hemolytic at 25mM
+FFGSLLSLGSKLLPSVFKLFQRKKE
+>2666_Hemolytik_Free_Free_80% hemolytic at 256μg/mL
+GLWDTIKQAGKKFFLNVLDKIRCKVAGGCRT
+>2674_Hemolytik_Amidation_Free_~54% hemolytic at 60μM
+KIGAKIKIGAKIKIGAKI
+>2700_Hemolytik_Free_Free_>80% hemolytic at 25μM at pH 8
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>2701_Hemolytik_Free_Free_<60% hemolytic at 25μM at pH 6
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>2702_Hemolytik_Free_Free_<80% hemolytic at 25μM at pH 8
+GIGAVLKVLTTGLPALISWI
+>2704_Hemolytik_Free_Free_<70% hemolytic at 25μM at pH 6
+GIGAILKVLATGLPTLISWIKNKRKQ
+>2705_Hemolytik_Free_Free_~80% hemolytic at 25μM at pH 8
+GIGAILKVLATGLPTLISWIKNKRKQ
+>2706_Hemolytik_Free_Free_<60% hemolytic at 25μM at pH 5
+GIGAILKVLATGLPTLISWI
+>2707_Hemolytik_Free_Free_~80% hemolytic at 25μM at pH 8
+GIGAILKVLATGLPTLISWI
+>2708_Hemolytik_Free_Free_58% hemolytic at 10μg/mL
+MGIIAGIIKVIKSLIEQFTGK
+>2711_Hemolytik_Free_Free_52% hemolytic at 10μg/mL
+VGTIIKIIKAIIDIFAK
+>2770_Hemolytik_Amidation_Free_100% hemolytic at 0.4μM & 23μM
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>2833_Hemolytik_Amidation_Free_78% hemolytic at 6μM
+LLQWLSKLLGRWL
+>2834_Hemolytik_Amidation_Free_80% hemolytic at 6μM
+FVQWFSKFLLRIL
+>2842_Hemolytik_Amidation_Free_52% hemolytic at 6μM
+FVRWFSKFLGRIL
+>2847_Hemolytik_Amidation_Free_54 ±0.1% hemolytic at 250μM
+KKLFKKILKYL
+>2855_Hemolytik_Amidation_Free_51±0.5% hemolytic at 250μM
+KkLFKKILKYL
+>2856_Hemolytik_Amidation_Free_53 ±1.1% hemolytic at 250μM
+KKLFKkILKYL
+>2857_Hemolytik_Amidation_Free_71±0.4% hemolytic at 250μM
+kKLFKKILKYL
+>2868_Hemolytik_Amidation_Free_58±5.7% hemolytic at 250μM
+KKLfkkilkyl
+>2869_Hemolytik_Amidation_Free_65±1.9% hemolytic at 250μM
+KKlfkkilkyl
+>2870_Hemolytik_Amidation_Free_66±2.9% hemolytic at 250μM
+Kklfkkilkyl
+>2878_Hemolytik_Amidation_Free_50±2.1% hemolytic at 250μM
+kklfkkilkyl
+>2881_Hemolytik_Amidation_Free_62.5% hemolytic at 40μM
+ALPLIGRVLSGIL
+>2885_Hemolytik_Amidation_Free_100% hemolytic at 40μM
+FLALIGRVLSGIL
+>2891_Hemolytik_Amidation_Free_97% hemolytic at 40μM
+FLPLIARVLSGIL
+>2899_Hemolytik_Amidation_Free_70% hemolytic at 40μM
+FLPLIGRVLAGIL
+>2901_Hemolytik_Amidation_Free_100% hemolytic at 40μM
+FLPLIGRVLSAIL
+>2916_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GKGRWLERIGKAGGIIIGGALDHL
+>2917_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+WLRRIGKGVKIIGGAALDHL
+>2918_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GRRKRKWLRRIGKGVKIIGGAALDHL
+>2919_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWGSFFKKAAHVGKHVGKAALTHYL
+>2920_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+FLGALIKGAIHGGRFIHGMIQNHH
+>2921_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWGSIFKHGRHAAKHIGHAAVNHYL
+>2922_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+RWGKWFKKATHVGKHVGKAALTAYL
+>2923_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+RSTEDIIKSISGGGFLNAMNA
+>2924_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+FFRLLFHGVHHGGGYLNAA
+>2925_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+FFRLLFHGVHHVGKIKPRA
+>2926_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWKSVFRKAKKVGKTVGGLALDHYL
+>2927_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWKKWFNRAKKVGKTVGGLAVDHYL
+>2928_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWRTLLKKAEVKTVGKLALKHYL
+>2929_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+AGWGSIFKHIFKAGKFIHGAIQAHND
+>2930_Hemolytik_Amidation_Free_50% hemolytic at 64μg/ml
+GFWGKLFKLGLHGIGLLHLHL
+>2931_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWKKWLRKGAKHLGQAAIK
+>2932_Hemolytik_Free_Free_50% hemolytic at >256μg/ml
+GWKKWLRKGAKHLGQAAIKGLAS
+>2933_Hemolytik_Free_Free_50% hemolytic at >256μg/ml
+GWKKWFTKGERLSQRHFA
+>2934_Hemolytik_Amidation_Free_50% hemolytic at 16μg/ml
+FLGLLFHGVHHVGKWIHGLIHGHH
+>2935_Hemolytik_Free_Free_50% hemolytic at >256μg/ml
+GFLGILFHGVHHGRKKALHMNSERRS
+>2936_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWKDWFRKAKKVGKTVGGLALNHYL
+>2937_Hemolytik_Free_Free_50% hemolytic at >256μg/ml
+GIRKWFKKAAHVGKEVGKVALNACL
+>2938_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GLKKWFKKAVHVGKKVGKVALNAYL
+>2939_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GWRKWIKKATHVGKHIGKAALDAYI
+>2940_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GCKKWFKKAAHVGKNVGKVALNAYL
+>2941_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GIRKWFKKAAHVGKKVGKVALNAYL
+>2942_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GrrkrkWLrrIGkGVkIIGGAALDHL
+>2943_Hemolytik_Amidation_Biotin_50% hemolytic at >256μg/ml
+GRRKRKWLRRIGKGVKIIGGAALDHL
+>2944_Hemolytik_Amidation_Free_50% hemolytic at >256μg/ml
+GIGKFLHSAKKFGKAFVGEIMNS
+>3009_Hemolytik_Free_Free_51.3±1.6% hemolytic at 25μM
+GLPVCGETCVGGTCNTPGCKCSWPVCTRN
+>3011_Hemolytik_Free_Free_54.5±0.9% hemolytic at 25μM
+GLPVCGETCVGGTCNTPGCTCSWPVCTRK
+>3013_Hemolytik_Free_Free_64.4±2.2% hemolytic at 25μM
+GLPVCGETCVGGTCNTPGCNCSWPVCTRK
+>3099_Hemolytik_Amidation_Free_60% hemolysis at 40μg/ml
+LKWLLKWLL
+>3103_Hemolytik_Amidation_Free_55-60% hemolysis at 40μg/ml
+LLKWLLKWLLK
+>3108_Hemolytik_Amidation_Free_65% hemolysis at 80μg/ml
+LKWLLKWLL
+>3109_Hemolytik_Amidation_Free_70% hemolysis at 160μg/ml
+LKWLLKWLL
+>3112_Hemolytik_Amidation_Free_50-60% hemolysis at 80μg/ml
+LLKWLLKWLKK
+>3113_Hemolytik_Amidation_Free_60-65% hemolysis at 160μg/ml
+LLKWLLKWLKK
+>3114_Hemolytik_Amidation_Free_60-70% hemolysis at 80μg/ml
+LLKWLLKWLLK
+>3115_Hemolytik_Amidation_Free_70-75% hemolysis at 160μg/ml
+LLKWLLKWLLK
+>3166_Hemolytik_Amidation_Free_50% hemolysis at 0.72mg/ml
+KIKIPWGKVKDFLVGGMKAV
+>3188_Hemolytik_Amidation_Free_100% hemolysis at 48μM
+FVQWFSKFLGRIL
+>3189_Hemolytik_Amidation_Free_94% hemolysis at 24μM
+FVQWFSKFLGRIL
+>3190_Hemolytik_Amidation_Free_92% hemolysis at 12μM
+FVQWFSKFLGRIL
+>3194_Hemolytik_Amidation_Free_100% hemolysis at 48μM
+FVPWFSKFLGRIL
+>3195_Hemolytik_Amidation_Free_92% hemolysis at 24μM
+FVPWFSKFLGRIL
+>3206_Hemolytik_Amidation_Free_94% hemolysis at 48μM
+FVPWFSKfLGRIL
+>3270_Hemolytik_Amidation_Free_70% hemolysis at 16μM
+FLSTIWNGIKSLL
+>3271_Hemolytik_Amidation_Free_81% hemolysis at 32μM
+IFGAIWKGISSLL
+>3272_Hemolytik_Amidation_Free_100% hemolysis at 32μM
+FLSTIWNGIKSLL
+>3273_Hemolytik_Amidation_Free_100% hemolysis at 64μM
+IFGAIWKGISSLL
+>3294_Hemolytik_Amidation_Free_100% hemolysis at 120μM
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>3295_Hemolytik_Amidation_Acetylation_100% hemolysis at 120μM compared with melittin
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>3296_Hemolytik_Lac=p-amidophenyl-β-D-lactopyranoside_Free_120% hemolysis at 120μM compared with melittin
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>3313_Hemolytik_Free_Formylation_82% hemolysis at 25μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3314_Hemolytik_Free_Formylation_100% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3315_Hemolytik_Free_Formylation_73% hemolysis at 25μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3316_Hemolytik_Free_Formylation_85% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3317_Hemolytik_Free_Formylation_92% hemolysis at 25μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3318_Hemolytik_Free_Formylation_100% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3319_Hemolytik_Free_Formylation_87% hemolysis at 25μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3320_Hemolytik_Free_Formylation_100% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3322_Hemolytik_Free_Formylation_80% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3324_Hemolytik_Free_Formylation_55% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3328_Hemolytik_Free_Formylation_55% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3332_Hemolytik_Free_Free_60% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3333_Hemolytik_Free_Free_50% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3334_Hemolytik_Free_Free_58% hemolysis at 75μg
+MAQDIISTIGDLVKWIIDTVNKFPKK
+>3345_Hemolytik_Free_Free_51% hemolysis at 500μg
+DLVKWIIDTVNKFTKK
+>3365_Hemolytik_Free_Fmoc_59% hemolysis at 75μg
+MLQDWLSSLGDLLKSLLDTVNKFTKK
+>3367_Hemolytik_Free_Fmoc_91% hemolysis at 75μg
+MLQDWLSSLGDLLKSLLDTVNKFTKK
+>3371_Hemolytik_Free_Free_66% hemolysis at 75μg
+MLQDWLSSLGDLLKSLLDTVNKFTKK
+>3378_Hemolytik_Amidation_Fmoc_100% hemolysis at 8μg
+LALILRKIVTAL
+>3379_Hemolytik_Amidation_Free_~90% hemolysis at 80μg
+LALILRKIVTAL
+>3380_Hemolytik_Amidation_Fmoc_~60% hemolysis at 80μg
+LKLIPRKIVTAL
+>3382_Hemolytik_Amidation_Fmoc_~80% hemolysis at 8μg
+LPLILRKIVTAL
+>3396_Hemolytik_Free_Free_50% hemolysis at >400μM
+CTCSWPVCTRNGLPVCGETCVGGTCNTPG
+>3397_Hemolytik_Free_Free_50% hemolysis at >400μM
+CSCKNKVCYRNGIPCGESCVWIPCISAALG
+>3398_Hemolytik_Free_Free_50% hemolysis at >400μM
+CSCKNKVCYRNGVIPCGESCVFIPCISTLLG
+>3399_Hemolytik_Free_Free_50% hemolysis at >400μM
+CSCKSKVCYKNSIPCGESCVFIPCTVTALLG
+>3410_Hemolytik_Free_Free_~90% hemolysis at 100μg/ml
+FFHHIFRGIVHVGKTIHRLVTG
+>3412_Hemolytik_Free_Free_~90% hemolysis at 100μg/ml
+FFHHIFRGIVHVGKTIHKLVTG
+>3422_Hemolytik_Amidation_Free_100% hemolysis at 80μM
+FFHHIFRGIVHVGKTIHKLVTG
+>3423_Hemolytik_Amidation_Free_80% hemolysis at 40μM
+FFHHIFRGIVHVGKTIHKLVTG
+>3424_Hemolytik_Amidation_Free_100% hemolysis at 80μM
+FFHHIFRGIVHVGKTIHKLVTG
+>3428_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml
+ILGPVISTIGGVLGGLLKNL
+>3429_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml
+ILGPVLSMVGSALGGLIKKI
+>3430_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml
+ILGPVLGLVGNALGGLIKKI
+>3431_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml
+ILGPVISKIGGVLGGLLKNL
+>3454_Hemolytik_Free_Free_100% hemolysis at 65μg/ml
+PKLLKTFLSKWIG
+>3455_Hemolytik_Free_Free_100% hemolysis at 40μg/ml
+CKLLKTFLSKWIC
+>3456_Hemolytik_Amidation_Free_100% hemolysis at 5μg/ml
+CKLLKTFLSKWIC
+>3473_Hemolytik_Free_Free_100% hemolysis at 1μM
+KLLKLLLKLWLKLLKLLL
+>3497_Hemolytik_Amidation_Free_>95% hemolysis at 30μM
+LKLKSIVSWAKKVL
+>3501_Hemolytik_Amidation_Free_>95% hemolysis at 30μM
+LKLNSIVSWAKKVL
+>3503_Hemolytik_Amidation_Free_~80% hemolysis at 30μM
+LKLLSIVSWAKKVL
+>3511_Hemolytik_Amidation_Free_>80% hemolysis at 30μM
+LKLKSIVSWALKVL
+>3513_Hemolytik_Amidation_Free_~70% hemolysis at 30μM
+LKLKSIVSWAKLVL
+>3515_Hemolytik_Amidation_Free_~80% hemolysis at 30μM
+LKLKSIVSWALLVL
+>3526_Hemolytik_Amidation_Free_98% hemolysis at 150μM
+GIGKFIHAAKKFGKLFIGEIMNS
+>3528_Hemolytik_Free_Free_100% hemolysis at 40μM
+GLGSVFGRLARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ
+>3534_Hemolytik_Amidation_Free_~70% hemolysis at 20μg/ml
+FLRFIGSVIHGIGHLVHHIGVAL
+>3535_Hemolytik_Amidation_Free_75% hemolysis at 80μg/ml
+FLRFIGSVIHGIGHLVHHIGVAL
+>3554_Hemolytik_Free_Free_90.5±0.8% hemolysis at 44.5μM
+FWGALAKGALKLIPSLFSSFSKKD
+>3555_Hemolytik_Free_Free_51.4±0.5% hemolysis at 22.2μM
+FWGALAKGALKLIPSLFSSFSKKD
+>3599_Hemolytik_Free_Free_100% hemolysis at ~25μM
+IISTIGKLVKWIIDTV
+>3601_Hemolytik_Free_Free_>50% hemolysis at 40μM
+IISTIGDLVKWIIKTV
+>3602_Hemolytik_Free_Free_80% hemolysis at 60μM
+IISTIGDLVKWIIKTV
+>3603_Hemolytik_Free_Free_~90% hemolysis at 80μM
+IISTIGDLVKWIIKTV
+>3604_Hemolytik_Free_Free_100% hemolysis at ~90μM
+IISTIGDLVKWIIKTV
+>3605_Hemolytik_Free_Free_50% hemolysis at ~15μM
+IISTIGKLVKWIIKTV
+>3614_Hemolytik_Amidation_Free_59.2% hemolysis at 12.5µM
+IFGAIAGLLKNIF
+>3615_Hemolytik_Amidation_Free_>90% hemolysis at 25µM
+IFGAIAGLLKNIF
+>3616_Hemolytik_Free_Free_74% hemolysis at 6.25µM
+FFGHLFKLATKIIPSLFQ
+>3617_Hemolytik_Free_Free_>90% hemolysis at 12.5µM
+FFGHLFKLATKIIPSLFQ
+>3618_Hemolytik_Free_Free_>95% hemolysis at 25µM
+FFGHLFKLATKIIPSLFQ
+>3650_Hemolytik_Free_Free_60±7.1% hemolysis at 50µg/ml
+GLLGKILGVEKKVLCGLSGMC
+>3651_Hemolytik_Free_Free_65.5±7.7% hemolysis at 50µg/ml
+GLLSGILGAGKHIICGLSGLC
+>3652_Hemolytik_Free_Free_87.2±2.6% hemolysis at 50µg/ml
+GLLSGILGAGKQKVCGLSGLC
+>3653_Hemolytik_Free_Free_100% hemolysis at 50µg/ml
+GLLSGVLGVGKKVLCGLSGLC
+>3657_Hemolytik_Amidation_Free_~100% hemolysis at 30µM
+ILPWKWPWWPWRR
+>3659_Hemolytik_Amidation_Free_100% hemolysis at 20µg/ml
+ILAWKWAWWAWRR
+>3664_Hemolytik_Free_Free_100% hemolysis at >1600µg/ml
+yPKyPK
+>3665_Hemolytik_Free_Free_100% hemolysis at >1600µg/ml
+yPVKyPKL
+>3666_Hemolytik_Free_Free_100% hemolysis at 67µg/ml
+yPVKLyPVKL
+>3667_Hemolytik_Free_Free_100% hemolysis at 250µg/ml
+yPVKLKyPKVKL
+>3668_Hemolytik_Free_Free_100% hemolysis at 6µg/ml
+yPVKLKVyPLKVKL
+>3669_Hemolytik_Free_Free_100% hemolysis at 92µg/ml
+yPLKVKyPKLKV
+>3670_Hemolytik_Free_Free_100% hemolysis at 400µg/ml
+fPVKLKfPKVKL
+>3675_Hemolytik_[NH(CH2)2NH2]2_Free_>100% hemolysis at 12µM
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE
+>3690_Hemolytik_Free_Free_100% hemolysis at >70µM
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ
+>3691_Hemolytik_Free_Free_100% hemolysis at 70µM
+ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ
+>3692_Hemolytik_Free_Free_100% hemolysis at 80µM
+ALWKNMLKGIGKLAGKAALGAVKKLVGAES
+>3693_Hemolytik_Free_Free_100% hemolysis at 1µM
+ALWMTLLKKVLKAAAKAALNAVLVGANA
+>3694_Hemolytik_Free_Free_100% hemolysis at >90µM
+GLWSKIKTAGKSVAKAAAKAAVKAVTNAV
+>3752_Hemolytik_Free_Free_50% hemolysis at 38µM
+FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ
+>3785_Hemolytik_Free_Free_50% hemolysis at 75μg/ml
+SLSRYAKLANRLANPKLLETFLSKWIG
+>3786_Hemolytik_Free_Free_85% hemolysis at 120μg/ml
+SLSRYAKLANRLANPKLLETFLSKWIG
+>3787_Hemolytik_Free_Free_90% hemolysis at 150μg/ml
+SLSRYAKLANRLANPKLLETFLSKWIG
+>3788_Hemolytik_Free_Free_100% hemolysis at 180μg/ml
+SLSRYAKLANRLANPKLLETFLSKWIG
+>3789_Hemolytik_Free_Free_100% hemolysis at 14μg/ml
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE
+>3791_Hemolytik_Amidation_Free_100% hemolysis at 33μg/ml
+GFFALIAKIISSPLFKTL
+>3792_Hemolytik_Amidation_Free_100% hemolysis at 56μg/ml
+GFFALIAQIISSPLFQTL
+>3836_Hemolytik_Free_Free_100% hemolysis at 40μM
+PKLLKTFLSKWIG
+>3837_Hemolytik_Free_Free_100% hemolysis at 175μM
+PKLLKKFLKKWIG
+>3838_Hemolytik_Free_Free_100% hemolysis at 85μM
+PKLLKTFLSKWKKIG
+>3839_Hemolytik_Free_Free_100% hemolysis at 63μM
+PKLLKFLSKWIG
+>3840_Hemolytik_Free_Free_100% hemolysis at >330μM
+PKLLKTFLKWIG
+>3842_Hemolytik_Free_Free_100% hemolysis at 365μM
+PKLLKFLKWIG
+>3843_Hemolytik_Amidation_Free_100% hemolysis at 100μg/ml
+GLPALISWIKRKRQQG
+>3844_Hemolytik_Amidation_Free_100% hemolysis at 110μg/ml
+GLKKLISWIKRAAQQG
+>3889_Hemolytik_Free_Free_100% hemolysis at 15μM
+QlLVDlI
+>4025_Hemolytik_Free_Free_85.52±3.26% hemolysis at 100μg/ml
+SLWETIKNAGKGFILNILDKIRCKVAGGCKT
+>4028_Hemolytik_Free_Free_95.7±4.12% hemolysis at 100μg/ml
+FLPLVLGALSGILPKILGK
+>4038_Hemolytik_Free_Free_57.1% hemolysis at 1mg/ml
+KSLRPRCWIKIKFRCKSLKF
+>4048_Hemolytik_Free_Free_66.3% hemolysis at 1mg/ml
+RPRCWIKIKFRCKSLKF
+>4064_Hemolytik_Free_Free_50% hemolysis at 6μM
+FWGALAKGALKLIPSLFSSFSKKD
+>4065_Hemolytik_Free_Free_85% hemolysis at 12.5μM
+FWGALAKGALKLIPSLFSSFSKKD
+>4066_Hemolytik_Free_Free_100% hemolysis at 25μM
+FWGALAKGALKLIPSLFSSFSKKD
+>4069_Hemolytik_Free_Free_50% hemolysis at 12.5μM
+FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ
+>4070_Hemolytik_Free_Free_60% hemolysis at 25μM
+FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ
+>4149_Hemolytik_Amidation_Free_100% hemolysis at 25 µM
+INLKALAALAKALL
+>1085_Hemolytik_Amidation_Acetylation_MHC =62.5μg/ml
+KWKSFLKTFKSAKKTVLHTALKLISS
+>1086_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml
+KWKSFLKTFKSLKKTVLHTALKAISS
+>1087_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml
+KWKSFLKTFKSAKKTVLHTLLKAISS
+>1088_Hemolytik_Amidation_Acetylation_MHC =15.6μg/ml
+KWKSFLKTFKSLKKTVLHTALKLISS
+>1089_Hemolytik_Amidation_Acetylation_MHC =8μg/ml
+KWKSFLKTFKSLKKTVLHTLLKAISS
+>1090_Hemolytik_Amidation_Acetylation_MHC =4μg/ml
+KWKSFLKTFKSLKKTVLHTLLKLISS
+>1143_Hemolytik_Amidation_Acetylation_MHC <7.8μg/ml
+KWKSFLKTFKSAKKKVLHKALKAISS
+>1144_Hemolytik_Amidation_Acetylation_MHC <7.8μg/ml
+KWKSFLKTFKSAKKKVLHKALKAISK
+>1495_Hemolytik_Amidation_Free_MHC = 3.0x10-5 g/ml
+ILPWKWPWWPWRR
+>1553_Hemolytik_Amidation_Free_MHC =25μg/ml
+FLGWLFKWASK
+>1554_Hemolytik_Amidation_Free_MHC =50μg/ml
+FLGWLFKWAWK
+>1555_Hemolytik_Amidation_Free_MHC =25μg/ml
+FLWWLFKWAWK
+>1556_Hemolytik_Amidation_Free_MHC =50μg/ml
+FLGWLFKWAKK
+>1557_Hemolytik_Amidation_Free_MHC =6.3μg/ml
+FLKWLFKWAKK
+>1558_Hemolytik_Amidation_Free_MHC =12.5μg/ml
+FLKWLFKWLKK
+>1585_Hemolytik_Free_Free_MHC =5µg/ml
+VKLlVyPLKVKLyP
+>1586_Hemolytik_Free_Free_MHC =2µg/ml
+VKLfVyPLKVKLyP
+>1587_Hemolytik_Free_Free_MHC =5µg/ml
+VKLyVyPLKVKLyP
+>1588_Hemolytik_Free_Free_MHC =62µg/ml
+VKLnVyPLKVKLyP
+>2592_Hemolytik_Amidation_Free_MHC =32μg/mL
+WLKKLLKKLLK
+>2593_Hemolytik_Amidation_Free_MHC =16μg/mL
+KWLKKLLKKLL
+>2594_Hemolytik_Amidation_Free_MHC =64μg/mL
+LKWLKKLLKKL
+>2596_Hemolytik_Amidation_Free_MHC =64μg/mL
+KLLKWLKKLLK
+>2597_Hemolytik_Amidation_Free_MHC =32μg/mL
+KKLLKWLKKLL
+>2600_Hemolytik_Amidation_Free_MHC =64μg/mL
+KLLKKLLKWLK
+>2601_Hemolytik_Amidation_Free_MHC =32μg/mL
+KKLLKKLLKWL
+>2634_Hemolytik_Amidation_Acetylation_MHC =5.20±0.02μmol/L
+KWKSFLKTFKSLKKTVLHTLLKAISS
+>2635_Hemolytik_Amidation_Acetylation_MHC =10.4±0.04μmol/L
+KWKSFLkTFKSLKKTVLHTLLKAISS
+>2636_Hemolytik_Amidation_Acetylation_MHC =5.20±0.02μmol/L
+KWKSFLKTFKSLKkTVLHTLLKAISS
+>2637_Hemolytik_Amidation_Acetylation_MHC =20.81±0.10 μmol/L
+KWKSFLKTFKSLKKTVLHTLLkAISS
+>2638_Hemolytik_Amidation_Acetylation_MHC =20.81±0.15μmol/L
+KWKSFLkTFKSLKkTVLHTLLKAISS
+>2639_Hemolytik_Amidation_Acetylation_MHC =20.81±0.06μmol/L
+KWKSFLKTFKSLKkTVLHTLLkAISS
+>2644_Hemolytik_Amidation_Acetylation_MHC =10.40±0.08μmol/L
+KWKSFlKTFKSLKKTVLHTLLKAISS
+>2645_Hemolytik_Amidation_Acetylation_MHC =20.81±0.03μmol/L
+KWKSFLKTFKSlKKTVLHTLLKAISS
+>2646_Hemolytik_Amidation_Acetylation_MHC =20.81±0.13μmol/L
+KWKSFLKTFKSLKKTVLHTlLKAISS
+>2647_Hemolytik_Amidation_Acetylation_MHC =20.81±0.10 μmol/L
+KWKSFlKTFKSlKKTVLHTLLKAISS
+>2664_Hemolytik_Amidation_Free_MHC =19.6μM
+IWRIFRRIFRIF
+>2665_Hemolytik_Amidation_Free_MHC =15μM
+IWRIFRRIFRIFIRF
+>2945_Hemolytik_Free_Free_MHC =3.46μM
+SWLRDIWDWICEVLSDFK
+>2946_Hemolytik_Free_Free_MHC =13.84μM
+SWLRDLWDWICEVLSDFK
+>2947_Hemolytik_Free_Free_MHC =6.92μM
+SWLRDIWDWLCEVLSDFK
+>2948_Hemolytik_Free_Free_MHC =3.44μM
+SWLRDIWDWICELLSDFK
+>2949_Hemolytik_Free_Free_MHC =6.92μM
+SWLRDLWDWLCEVLSDFK
+>2951_Hemolytik_Free_Free_MHC =3.44μM
+SWLRDIWDWLCELLSDFK
+>2954_Hemolytik_Free_Free_MHC =13.93μM
+SWLRDIWDWVCEVLSDFK
+>2955_Hemolytik_Free_Free_MHC =14.10μM
+SWLRDIWDWACEVLSDFK
+>2956_Hemolytik_Free_Free_MHC =28.38μM
+SWLRDIWDWGCEVLSDFK
+>2957_Hemolytik_Free_Free_MHC =28.00μM
+SWLRDIWDWSCEVLSDFK
+>3590_Hemolytik_Free_Free_MHC =8μg/ml
+KWKSFIKKLTSAAKKVVTTAKPLISS
+>3593_Hemolytik_Free_Free_MHC=64μg/ml
+KWKSFLKKLTSAAKKVLTTALKPISS
+>3595_Hemolytik_Free_Free_MHC =32μg/ml
+KWKSFLRTFKSPVRTVFHTALKPISS
+>3938_Hemolytik_Free_Free_MHC >1μg/ml
+RWCVYAYVRVRGVLVRYRRCW
+>3939_Hemolytik_Free_Free_MHC >1μg/ml
+RWSVYAYVRVRGVLVRYRRSW
+>3943_Hemolytik_Free_Free_MHC =12.5μg/ml
+VOLfPVOLfP
+>3944_Hemolytik_Free_Free_MHC =1.5μg/ml
+VKLKVyPLKVKLyP
+>3947_Hemolytik_Amidation_Free_MHC =25μg/ml
+ILPWKWPWWPWRR
+>3953_Hemolytik_Free_Free_MHC <10μg/ml
+KILRGVSKKIMRTFLRRILTGKK
+>3959_Hemolytik_Amidation_Free_MHC <10μg/ml
+GLGSVFGRLARIGRVIPKV
+>3960_Hemolytik_Amidation_Free_MHC <10μg/ml
+GLLSKFGRLARKLARVIPKV
+>3965_Hemolytik_Amidation_Free_MHC >5μg/ml
+VRRFPWWWPFLRR
+>3966_Hemolytik_Amidation_Free_MHC =50μg/ml
+VRRFPWWWPFLRR
+>3967_Hemolytik_Amidation_Free_MHC >1μg/ml
+VRRF(Nphe)WWW(Nphe)FLRR
+>3969_Hemolytik_Amidation_Free_MHC >5μg/ml
+VRRFKWWWKFLRR
+>3970_Hemolytik_Amidation_Free_MHC >1μg/ml
+VRRF(Nleu)WWW(Nleu)FLRR
+>3973_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml
+KWKSFLKTFKSAAKTVLHTALKAISS
+>3974_Hemolytik_Amidation_Acetylation_MHC =7.8μg/ml
+KWKSFLKTFKSAVKTVLHTALKAISS
+>3975_Hemolytik_Amidation_Acetylation_MHC =7.8μg/ml
+kwksflktfksavktvlhtalkaiss
+>3980_Hemolytik_Amidation_Free_MHC =50μM
+KWKLFKKIPKFLHLAKKF
+>4160_Hemolytik_Free_Free_MHC =2µg/ml
+VKLKVyPLKVKLyP
+>4161_Hemolytik_Free_Free_MHC =3µg/ml
+VKLLVyPLKVKLyP
+>4162_Hemolytik_Free_Free_MHC =3µg/ml
+VKLFVyPLKVKLyP
+>4163_Hemolytik_Free_Free_MHC =8µg/ml
+VKLYVyPLKVKLyP
+>4164_Hemolytik_Free_Free_MHC =2µg/ml
+VKLNVyPLKVKLyP
+>4165_Hemolytik_Free_Free_MHC =3µg/ml
+VKLGVyPLKVKLyP
+>8197_DBASSP_Free_Free_hem
+FLPLILPSIVTALSSFLKQG
+>11_DBASSP_Free_Free_hem
+RVKRVWPLVIRTVIAGYNLYRAIKKK
+>14_DBASSP_AMD_Free_hem
+GIWDTIKSMGKVFAGKILQNL
+>8209_DBASSP_Free_Free_hem
+GIGAVLKVLTTGLCALISWIKRKRQQ
+>8266_DBASSP_Free_Free_hem
+LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW
+>8268_DBASSP_Free_Free_hem
+KWKLFKKIFKRIVQRIKDFLR
+>8269_DBASSP_Free_Free_hem
+KWKLFKKIAKKFAKAFVAEIM
+>8270_DBASSP_Free_Free_hem
+FKRIVQRIKDFLRGIGKFLHSAKKF
+>8271_DBASSP_Free_Free_hem
+GIGKFLHSAKKFFKRIVQRIKDFLR
+>8282_DBASSP_Free_Free_hem
+DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+>107_DBASSP_AMD_Free_hem
+ALWKTLLKKVLKAAAK
+>108_DBASSP_AMD_Free_hem
+ALWKTLLKKVLKA
+>109_DBASSP_AMD_Free_hem
+KLALKAALKAWKAAAKLA
+>110_DBASSP_AMD_Free_hem
+KLALKAAAKAWKAAAKAA
+>111_DBASSP_AMD_Free_hem
+KAIAKSILKWIKSIAKAI
+>112_DBASSP_AMD_Free_hem
+KALAALLKKWAKLLAALK
+>113_DBASSP_AMD_Free_hem
+KLLAKAALKWLLKALKAA
+>115_DBASSP_AMD_Free_hem
+KALKKLLAKWLAAAKALL
+>116_DBASSP_AMD_Free_hem
+KITLKLAIKAWKLALKAA
+>117_DBASSP_AMD_Free_hem
+KALAKALAKLWKALAKAA
+>120_DBASSP_AMD_Free_hem
+GIGKFIHSAKKFGKLFVGEIMNS
+>121_DBASSP_AMD_Free_hem
+GIGKFIHAAKKFGKLFIGEIMNS
+>123_DBASSP_AMD_Free_hem
+GIGKFIHSVKKWGKTFIGEIMNS
+>125_DBASSP_AMD_Free_hem
+GIGKFLHTLKTFGKKWVGEIMNS
+>126_DBASSP_AMD_Free_hem
+GIGHFLHKVKSFGKSWIGEIMNS
+>9006_DBASSP_AMD_Free_hem
+FFHHVFRGIVHVGKTIHRLVTG
+>160_DBASSP_Free_Free_hem
+VRRFPWWWPFLRR
+>167_DBASSP_Free_Free_hem
+KWKLFKKIGIGAVLKVLTTGLPALKLTK
+>8373_DBASSP_Free_Free_hem
+FLPGLIKAAVGVGSTILCKITKKC
+>8388_DBASSP_Free_Free_hem
+GIGKALHSAKKFGKAFVGEIMNS
+>197_DBASSP_AMD_Free_hem
+KKLFKKILKYL
+>8392_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKAAVGEIMNS
+>205_DBASSP_AMD_Free_hem
+KkLFKKILKYL
+>206_DBASSP_AMD_Free_hem
+KKLFKkILKYL
+>207_DBASSP_AMD_Free_hem
+kKLFKKILKYL
+>218_DBASSP_AMD_Free_hem
+KKLfkkilkyl
+>219_DBASSP_AMD_Free_hem
+KKlfkkilkyl
+>220_DBASSP_AMD_Free_hem
+Kklfkkilkyl
+>228_DBASSP_AMD_Free_hem
+kklfkkilkyl
+>8437_DBASSP_AMD_Free_hem
+LPFFLLSLIPSAISAIKKI
+>8438_DBASSP_AMD_Free_hem
+FFLLSLIPSAISAIKKI
+>8439_DBASSP_Free_Free_hem
+FWGFLGKLAMKAVPSLIGGNKSSSK
+>256_DBASSP_AMD_Free_hem
+LKLLKKLLKKLLKLL
+>270_DBASSP_AMD_ACT_hem
+KWKSFLKTFKSLKKTVLHTLLKAISS
+>271_DBASSP_AMD_ACT_hem
+KWKSFLKTFKSLKKTVLHTLLKLISS
+>352_DBASSP_AMD_ACT_hem
+CFKFKFKFGSGFKFKFKFC
+>353_DBASSP_AMD_ACT_hem
+CWKWKWKWGSGWKWKWKWC
+>1427_DBASSP_AMD_Free_hem
+RRWCFRVCYKGFCRYKCR
+>1429_DBASSP_AMD_Free_hem
+FFRLLFHGVHHVGKIKPRA
+>8591_DBASSP_AMD_Free_hem
+GXLXRIKXLX
+>8592_DBASSP_AMD_Free_hem
+GLFDVIKKVLKKIGGL
+>8593_DBASSP_AMD_Free_hem
+GLFDVIKKLLKKIGGL
+>8594_DBASSP_AMD_Free_hem
+GLFDVIKKLLKKIKGL
+>8595_DBASSP_AMD_Free_hem
+GLLKRIKKLLKKIKKLL
+>8610_DBASSP_Free_Free_hem
+KRFWQLVPLAIKIYRAWKRR
+>8633_DBASSP_AMD_Free_hem
+GXLKRIKTLL
+>8634_DBASSP_AMD_Free_hem
+GXXKRIKTXX
+>8636_DBASSP_AMD_Free_hem
+GXLKRIKTXL
+>447_DBASSP_AMD_Free_hem
+KWKLFKKIGAVLKVL
+>9632_DBASSP_Free_Free_hem
+LRXLKXG
+>79_DBASSP_AMD_Free_hem
+ALWKTLLKKVLKAAA
+>478_DBASSP_AMD_Free_hem
+KKAAAAFAAFAAWFAAFAAAAKKKK
+>488_DBASSP_Free_Free_hem
+KRLFKKLLFSLRKY
+>496_DBASSP_Free_Free_hem
+KRLFKELLFSLRKY
+>497_DBASSP_Free_Free_hem
+KRLFKKLKFSLRKY
+>498_DBASSP_Free_Free_hem
+LLLFLLKKRKKRKY
+>2814_DBASSP_AMD_ACT_hem
+kwksflktfskakkkalktllkaisk
+>506_DBASSP_AMD_Free_hem
+FLPLIGRVLSGIL
+>520_DBASSP_Free_Free_hem
+RRGWVLALVLRYGRR
+>9644_DBASSP_Free_Free_hem
+XRXLRXG
+>522_DBASSP_Free_Free_hem
+RRGWVLALYLRYGRR
+>524_DBASSP_Free_Free_hem
+RRGWALRLVLAY
+>526_DBASSP_Free_Free_hem
+WVLVLRLGY
+>9645_DBASSP_Free_Free_hem
+LRXXRXG
+>531_DBASSP_AMD_Free_hem
+GXXQXXGEXXXEXXXQXGY
+>532_DBASSP_AMD_Free_hem
+GXXQQXGXXXXQXXQXXGY
+>533_DBASSP_AMD_Free_hem
+GXXQQXXXXXXQXXQXXGY
+>536_DBASSP_Free_Free_hem
+GLFGKLIKKFGRKAISYAVKKARGKH
+>537_DBASSP_AMD_Free_hem
+GXXQQXXXXXXQXXQXXGY
+>538_DBASSP_AMD_Free_hem
+GXXQXXGQXXXQXXXXXGY
+>539_DBASSP_AMD_Free_hem
+GXXQXXGEXXXXXXXXXGY
+>541_DBASSP_AMD_Free_hem
+GXXQXXGQXXXQXXXXXGY
+>9648_DBASSP_Free_Free_hem
+LRXXRXG
+>546_DBASSP_AMD_Free_hem
+GXXQXXPXXXXXXPXXXGY
+>547_DBASSP_AMD_Free_hem
+GXXXXXXXXXXXXXXXXGY
+>549_DBASSP_AMD_Free_hem
+GxxxxxxxxxxxxxxxxGy
+>551_DBASSP_AMD_Free_hem
+GXXXXXXXXXXXXXXGY
+>552_DBASSP_AMD_Free_hem
+GXXXXXXXXXXXXGY
+>553_DBASSP_AMD_Free_hem
+GXXXXXXXXXXXGY
+>555_DBASSP_AMD_Free_hem
+GXXXXXXXXXXGY
+>556_DBASSP_AMD_Free_hem
+GXXXXXXXXXXXGY
+>8751_DBASSP_AMD_Free_hem
+GfGalfkflakkvaktvakqaakqGakyvvnkqme
+>565_DBASSP_AMD_Free_hem
+GFFGKMKEYFKKFGASFKRRFANLKKRL
+>1460_DBASSP_AMD_Free_hem
+FLPVILPVIGKLLSGIL
+>573_DBASSP_AMD_Free_hem
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL
+>8797_DBASSP_AMD_Free_hem
+RQIKIWFQNRRLKWKK
+>606_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAKAALNAVLVGANA
+>607_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAKAALDAVLVGANA
+>608_DBASSP_Free_Free_hem
+ALWDTLLKKVLKAAAKAALNAVLVGANA
+>8801_DBASSP_AMD_Free_hem
+RIWFQNRRMRWRR
+>8802_DBASSP_AMD_Free_hem
+KIWFQNKKMKWKK
+>611_DBASSP_Free_Free_hem
+ALWKTLLKKVLKAAAKAALNAVLVGANA
+>8804_DBASSP_AMD_Free_hem
+RWFKIQMQIRRWKNKK
+>8805_DBASSP_AMD_Free_hem
+RWFKIQLQIRRWKNKK
+>8806_DBASSP_AMD_Free_hem
+KWFKIQLQIKKWKNKK
+>8807_DBASSP_AMD_Free_hem
+RWFRIQLQIRRWRNRR
+>616_DBASSP_Free_Free_hem
+TLLKKVLKAAAKAALNAVLVGANA
+>1468_DBASSP_Free_Free_hem
+FLSLALAALPKFLCLVFKKC
+>618_DBASSP_Free_Free_hem
+AAAKAALNAVLVGANA
+>619_DBASSP_Free_Free_hem
+ALWKTLLKKVLKAAAK
+>620_DBASSP_AMD_Free_hem
+ALWKTLLKKV
+>8828_DBASSP_AMD_Free_hem
+AKLWLKAAKLWLKAAKLWLKAAKLWLKA
+>643_DBASSP_Free_Free_hem
+WLGALFKVASKVL
+>646_DBASSP_Free_Free_hem
+FLWALFKVASK
+>663_DBASSP_Free_Free_hem
+FLGALFKVAWK
+>8863_DBASSP_AMD_Abz_hem
+IDGLKAIVKKVADLLKNT
+>8868_DBASSP_AMD_Free_hem
+FILGKLWKGVKSIF
+>699_DBASSP_AMD_Free_hem
+GIWKTIKSMGKVFAGKILQNL
+>700_DBASSP_AMD_Free_hem
+GIWDTIKSMGKVFAGAILQNL
+>701_DBASSP_AMD_Free_hem
+GIWDTIKSMGKVFAGLILQNL
+>702_DBASSP_AMD_Free_hem
+GIWDTIKSMGKVFAGKIKQNL
+>704_DBASSP_AMD_Free_hem
+GIWKTIKSMGKVFAGAILQNL
+>705_DBASSP_AMD_Free_hem
+GIWKTIKSMGKVFAGAIKQNL
+>8900_DBASSP_AMD_Free_hem
+GIMSSLMKKLAKIIAK
+>8905_DBASSP_AMD_Free_hem
+GILSSLLKKLKKIIAK
+>8913_DBASSP_AMD_Free_hem
+GILSSLWKKLKKIIAK
+>8914_DBASSP_AMD_Free_hem
+Gilsslwkklkkiiak
+>8917_DBASSP_AMD_Free_hem
+GILSSLLKKLKKWIAK
+>726_DBASSP_Free_Free_hem
+KRLFKELKFSLRKY
+>732_DBASSP_AMD_Free_hem
+AKRHHGYKRKFH
+>734_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCTCSWPVCTRN
+>4219_DBASSP_Free_Free_hem
+GILSSFKGVAKGVAKNLAGKLLDELKCKITGC
+>8941_DBASSP_AMD_ACT_hem
+CVRVRVRVRVRpGRVRVRVRVRVC
+>8943_DBASSP_Free_Free_hem
+GMASLLAKVLPHVVKLIK
+>8944_DBASSP_Free_Free_hem
+GMAKLLAKVLPHVVKLIK
+>8945_DBASSP_Free_Free_hem
+GMASKLAKVLPHVVKLIK
+>8946_DBASSP_Free_Free_hem
+GMASLLAKVLPKVVKLIK
+>8947_DBASSP_Free_Free_hem
+GMASLWAKVLPHVVKLIK
+>8948_DBASSP_Free_Free_hem
+GMASLwAKVLPHVVKLIK
+>759_DBASSP_Free_Free_hem
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+>760_DBASSP_AMD_Free_hem
+AYRIPAIAGERRYGTIYQGRLWAF
+>762_DBASSP_AMD_Free_hem
+IAAERRYATIYQARLWAF
+>763_DBASSP_AMD_Free_hem
+GIGKFLKKAKKFGKAFVKILKK
+>764_DBASSP_Free_Free_hem
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+>8957_DBASSP_Free_Free_hem
+RIKRFWPVVIRTVVAGYNLYRAIK
+>774_DBASSP_Free_Free_hem
+RVKRVWPLVIRTVIAGYNLYRAI
+>776_DBASSP_Free_Free_hem
+VWPLVIRTVIAGYNLYRAIKKK
+>777_DBASSP_Free_Free_hem
+RVKRVWPLVIRTVIALYNLYRAIKKK
+>778_DBASSP_Free_Free_hem
+RVKRVWKLVIRLVKALYKLYRAIKKK
+>779_DBASSP_AMD_Free_hem
+GLFDIIKKIAESF
+>8981_DBASSP_Free_Free_hem
+IKRFWPVVIRTVVAGYNLYRAIKKK
+>8982_DBASSP_Free_Free_hem
+KRFWPVVIRTVVAGYNLYRAIKKK
+>8983_DBASSP_Free_Free_hem
+RFWPVVIRTVVAGYNLYRAIKKK
+>8984_DBASSP_Free_Free_hem
+FWPVVIRTVVAGYNLYRAIKKK
+>8995_DBASSP_AMD_Free_hem
+LRRLRKWLRRLLKLL
+>8997_DBASSP_AMD_Free_hem
+FRRFRKWFRRFLKLF
+>806_DBASSP_AMD_Free_hem
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>9004_DBASSP_AMD_Free_hem
+FFHHIFRGAVHVGKTIHRLVTG
+>9007_DBASSP_AMD_Free_hem
+FFHHIFRGVVHVGKTIHRLVTG
+>9008_DBASSP_AMD_Free_hem
+FFHHIFRGIVHVGKTVHRLVTG
+>9009_DBASSP_AMD_Free_hem
+FFHHFARGIVHVGKTIHRLVTG
+>9010_DBASSP_AMD_Free_hem
+FFHHIFRGIVHIGKTIHRLVTG
+>1714_DBASSP_Free_Free_hem
+fPVXLXfPXVXL
+>9073_DBASSP_Free_Free_hem
+fwGalakGalklipslfssfskkd
+>904_DBASSP_AMD_Free_hem
+WKLFKKILKVL
+>905_DBASSP_AMD_ACT_hem
+WKLFKKILKVL
+>906_DBASSP_AMD_Tos_hem
+WKLFKKILKVL
+>907_DBASSP_AMD_BZO_hem
+WKLFKKILKVL
+>908_DBASSP_AMD_BZY_hem
+WKLFKKILKVL
+>909_DBASSP_AMD_C16_hem
+WKLFKKILKVL
+>911_DBASSP_AMD_Free_hem
+WKLFKKILKWL
+>912_DBASSP_AMD_Free_hem
+WKLFKKILKFL
+>913_DBASSP_AMD_Free_hem
+WKLFKKILKYL
+>914_DBASSP_AMD_Free_hem
+LKLFKKILKVL
+>915_DBASSP_AMD_Free_hem
+KKLFKKILKFL
+>4425_DBASSP_AMD_Free_hem
+IKLSPKTKKNLKKVLKGAIKGAIAVAKMV
+>932_DBASSP_AMD_Free_hem
+GLLALISWIKRKRQQ
+>933_DBASSP_AMD_Free_hem
+GLSALISWIKRKRQQ
+>943_DBASSP_AMD_Free_hem
+FLKWLFKWAKK
+>944_DBASSP_AMD_Free_hem
+FLKWLFKWLKK
+>948_DBASSP_Free_Free_hem
+FWGALAKGALKLIPSLFSSFSKKD
+>952_DBASSP_Free_Free_hem
+RRFPWWWPFRR
+>964_DBASSP_Free_Free_hem
+FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ
+>9157_DBASSP_AMD_Free_hem
+VWLSALKFIGKHLAKHQLSKL
+>966_DBASSP_Free_Free_hem
+GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS
+>968_DBASSP_Free_Free_hem
+GLFGKLQKKFGRKAISYAVKKARGKH
+>969_DBASSP_Free_Free_hem
+GLFGKLIKKKGRKAISYAVKKARGKH
+>970_DBASSP_Free_Free_hem
+GLFGKLIKKFLRKAISYAVKKARGKH
+>971_DBASSP_Free_Free_hem
+GKLIKKFGRKAISYAVKKARGKH
+>972_DBASSP_AMD_Free_hem
+GFFGKRKEYFKKFGASFKRRFANLKKRL
+>973_DBASSP_AMD_Free_hem
+GKMKEYFKKFGASFKRRFANLKKRL
+>9175_DBASSP_AMD_Free_hem
+WWPWRR
+>991_DBASSP_Free_Free_hem
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ
+>995_DBASSP_AMD_Free_hem
+GWKSVFRKAKKVGKTVGGLALDHYL
+>998_DBASSP_AMD_Free_hem
+AGWGSIFKHIFKAGKFIHGAIQAHND
+>999_DBASSP_AMD_Free_hem
+GFWGKLFKLGLHGIGLLHLHL
+>1000_DBASSP_Free_Free_hem
+GWKKWFTKGERLSQRHFA
+>1001_DBASSP_AMD_Free_hem
+FLGLLFHGVHHVGKWIHGLIHGHH
+>1002_DBASSP_Free_Free_hem
+GFLGILFHGVHHGRKKALHMNSERRS
+>1005_DBASSP_AMD_Free_hem
+GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME
+>1006_DBASSP_Free_Free_hem
+GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME
+>1008_DBASSP_Free_Free_hem
+GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHME
+>1026_DBASSP_AMD_Free_hem
+FVQWFSKFLGRIL
+>11094_DBASSP_Free_Free_hem
+XRWRWRW
+>1030_DBASSP_AMD_Free_hem
+KLALKLALKALKAALKLA
+>1031_DBASSP_AMD_ACT_hem
+KLALKLALKALKAALKLA
+>11098_DBASSP_Free_Free_hem
+RWRWRWX
+>1069_DBASSP_Free_Free_hem
+GIMDTLKNLAKTAGKGALQSLLNKASCKLSGQC
+>1544_DBASSP_Free_Free_hem
+GLLGKILGVEKKVLCGLSGMC
+>1074_DBASSP_Free_Free_hem
+KNLRRIIRKIIHIIKKYG
+>1077_DBASSP_Free_Free_hem
+FLPLLAGLAANFLPKIFCKITRKC
+>1078_DBASSP_Free_Free_hem
+GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+>9737_DBASSP_Free_Free_hem
+MQFITDLIKKAVDVFKGLFGNK
+>1104_DBASSP_Free_Free_hem
+GEILCNLCTGLINTLENLLTTKGADKVKDYISSLCNKASGFIATLCTKVLDFGIDKLIQLIEDKVDANAICAKIHAC
+>1105_DBASSP_Free_Free_hem
+GFIATLCTKVLDFGIDKLIQLIEDK
+>1106_DBASSP_AMD_Free_hem
+GEILCNLCTGLINTLENLLTTKRKRQQ
+>1127_DBASSP_AMD_Free_hem
+FLPIVGKLLSGLL
+>1129_DBASSP_AMD_Free_hem
+FLPIIGKLLSGLL
+>9329_DBASSP_Free_Free_hem
+GRRPRPRPRPWWWWW
+>9343_DBASSP_AMD_Free_hem
+RRPRPRPRPFFFFF
+>9362_DBASSP_AMD_Free_hem
+GFLDIVKGVGKVALGAVSKLF
+>9370_DBASSP_Free_Free_hem
+LKKLLKLLKKLLKLAG
+>9371_DBASSP_AMD_Free_hem
+LKKLLKLLKKLLKLAG
+>9372_DBASSP_EN_Free_hem
+LKKLLKLLKKLLKLAG
+>9373_DBASSP_Free_ACT_hem
+LKKLLKLLKKLLKLAG
+>9374_DBASSP_AMD_ACT_hem
+LKKLLKLLKKLLKLAG
+>8389_DBASSP_Free_Free_hem
+GIGKFAHSAKKFGKAFVGEIMNS
+>9376_DBASSP_Free_SUC_hem
+LKKLLKLLKKLLKLAG
+>9377_DBASSP_AMD_SUC_hem
+LKKLLKLLKKLLKLAG
+>9378_DBASSP_EN_SUC_hem
+LKKLLKLLKKLLKLAG
+>1187_DBASSP_Free_Free_hem
+KWKLFKKIGAVLKVL
+>9380_DBASSP_Free_Free_hem
+CKKLLKLLKKLCKLAG
+>8390_DBASSP_Free_Free_hem
+GIGKFLHSAKKAGKAFVGEIMNS
+>9386_DBASSP_Free_Free_hem
+GIGAVLKVLTTGLPACISWCKRKRQQ
+>1195_DBASSP_AMD_Free_hem
+GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV
+>1204_DBASSP_AMD_Free_hem
+RRWRIVVIRVRR
+>8394_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKAFVAEIMNS
+>9406_DBASSP_AMD_ACT_hem
+IFGAIWPLALGALKNLIK
+>9407_DBASSP_AMD_Free_hem
+DIFGAIWPLALGALKNLIK
+>8396_DBASSP_Free_Free_hem
+GIGKFXHSAKKFGKAFVGEIMNS
+>8397_DBASSP_Free_Free_hem
+GIGKFLHSAKKFXKAFVGEIMNS
+>8398_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKXFVGEIMNS
+>1238_DBASSP_Free_Free_hem
+ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD
+>1241_DBASSP_AMD_Free_hem
+ILGTILGLLKGL
+>8399_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKAXVGEIMNS
+>8400_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKAFXGEIMNS
+>8401_DBASSP_Free_Free_hem
+GIGKFLHSAKKFGKAFVXEIMNS
+>1269_DBASSP_Free_Free_hem
+RRWVRRVRRWVRRVVRVVRRWVRR
+>9466_DBASSP_AMD_Free_hem
+FLSLIPHIVSGVASLAKHF
+>9468_DBASSP_AMD_Free_hem
+FLSMIPHIVSGVAALAKHL
+>9469_DBASSP_AMD_Free_hem
+FLPAALAGIGGILGKLF
+>9494_DBASSP_Free_Free_hem
+INLKILARLAKKIL
+>1348_DBASSP_AMD_Free_hem
+IxGPVLGLVGSALGGLLKKI
+>1352_DBASSP_AMD_Free_hem
+IIGPVLGLVGSALGGLLKKI
+>11229_DBASSP_AMD_Free_hem
+KIAKGALKALKIAKGALKAL
+>1682_DBASSP_AMD_Free_hem
+ILGPILGLVSNALGGLL
+>9571_DBASSP_AMD_Free_hem
+KKWRWWLKALAKKLL
+>1404_DBASSP_AMD_Free_hem
+RSTEDIIKSISGGGFLNAMNA
+>1409_DBASSP_AMD_Free_hem
+GWRTLLKKAEVKTVGKLALKHYL
+>1410_DBASSP_AMD_Free_hem
+GKGRWLERIGKAGGIIIGGALDHL
+>1412_DBASSP_AMD_Free_hem
+GRRKRKWLRRIGKGVKIIGGAALDHL
+>1413_DBASSP_AMD_Free_hem
+FLGALIKGAIHGGRFIHGMIQNHH
+>1420_DBASSP_AMD_Free_hem
+GWGSIFKHGRHAAKHIGHAAVNHYL
+>1428_DBASSP_AMD_Free_hem
+FFRLLFHGVHHGGGYLNAA
+>1434_DBASSP_AMD_Free_hem
+GWKKWLRKGAKHLGQAAIK
+>1435_DBASSP_Free_Free_hem
+GWKKWLRKGAKHLGQAAIKGLAS
+>9629_DBASSP_Free_Free_hem
+LRXLRXG
+>1440_DBASSP_AMD_ACT_hem
+KWKSFLKTFKSALKTVLHTALKAISS
+>9636_DBASSP_Free_Free_hem
+LRXLRXX
+>9637_DBASSP_Free_Free_hem
+LRXLRXX
+>9638_DBASSP_Free_Free_hem
+LRXLRXX
+>9639_DBASSP_Free_Free_hem
+LRXLRXX
+>9651_DBASSP_Free_Free_hem
+LRXLRYG
+>9655_DBASSP_Free_Free_hem
+LRxXRXG
+>9656_DBASSP_Free_Free_hem
+LRXxRXG
+>1465_DBASSP_AMD_Free_hem
+FIGAIARLLSKIF
+>9659_DBASSP_Free_Free_hem
+LRXXRXXX
+>9660_DBASSP_Free_Free_hem
+LRXLRXG
+>1469_DBASSP_Free_Free_hem
+FLSLALAALPKLFCLIFKKC
+>1470_DBASSP_Free_Free_hem
+FLPLLLAGLPKLLCLFFKKC
+>1472_DBASSP_Free_Free_hem
+GLFSVVTGVLKAVGKNVAKNVGGSLLEQLKCKISGGC
+>1479_DBASSP_Free_Free_hem
+VWPLGLVICKALKIC
+>1480_DBASSP_Free_Free_hem
+FLPLLLAGLPLKLCFLFKKC
+>9675_DBASSP_Free_Free_hem
+KRMGIFHLFWAGLRKLGNLIKNKIQQGIENFLG
+>9676_DBASSP_Free_Free_hem
+KRIGLIRLIGKILRGLRRLG
+>9677_DBASSP_Free_Free_hem
+KRIRFFERIRDRLRDLGNRIKNRIRDFFS
+>9678_DBASSP_Free_Free_hem
+TFKRKNGSRKNGHRPGGYSLIALGNKKVLKAPYMESI
+>9679_DBASSP_Free_Free_hem
+KREDFLDQIIRDFRNFIYQKYRRLRDEFRKLRDILSG
+>9680_DBASSP_Free_Free_hem
+GIKHILFMAKTKLPRATCTAEIKENCDRKK
+>1493_DBASSP_Free_Free_hem
+GFMDTAKNAAKNVAVTLLDNLKCKITKAC
+>1495_DBASSP_Free_Free_hem
+GIFGKILGVGKKVLCGLSGVC
+>1506_DBASSP_Free_Free_hem
+VIPFVASVAAEMMQHVYCAASKKC
+>1522_DBASSP_Free_Free_hem
+GLLSGTSVRGSI
+>1523_DBASSP_Free_Free_hem
+GLFGKSSVWGRKYYVDLAGCAKA
+>1525_DBASSP_Free_Free_hem
+GLLSGVLGVGKKVLCGLSGLC
+>10212_DBASSP_Free_Free_hem
+FLPAIIGMAAKVLPAFLCKITKKC
+>1542_DBASSP_Free_Free_hem
+GLLSGILGAGKHIICGLSGLC
+>1543_DBASSP_Free_Free_hem
+GLLSGILGAGKQKVCGLSGLC
+>9736_DBASSP_Free_Free_hem
+MQFITDLIKKAVDFFKGLFDNK
+>9739_DBASSP_Free_Free_hem
+KWLRRVXRWWR
+>9744_DBASSP_Free_Free_hem
+KWLRRVWRWWR
+>9753_DBASSP_AMD_Free_hem
+KIAKVALKALKIAKVALKAL
+>1585_DBASSP_AMD_Free_hem
+ILGTILGLLKSL
+>4363_DBASSP_AMD_Free_hem
+ILGKLLSTAAGLLKNL
+>9818_DBASSP_Free_Free_hem
+WWWLKRIW
+>9819_DBASSP_Free_Free_hem
+WWWLRKIW
+>9820_DBASSP_Free_Free_hem
+WWWLKKIW
+>9821_DBASSP_Free_Free_hem
+WWWLRRIW
+>9858_DBASSP_Free_C14_hem
+ATYRTGRATRESLSGVEISGRLYRLR
+>9859_DBASSP_Free_C14_hem
+ATYrTGrATrESLSGVEISGrLYrLR
+>1672_DBASSP_Free_Free_hem
+SLWETIKNAGKGFILNILDKIRCKVAGGCKT
+>9865_DBASSP_Free_Free_hem
+FFGTLFKLGSKLIPGVMKLFSKKKER
+>9868_DBASSP_AMD_Free_hem
+FLGMIPGLIGGLISAFK
+>9869_DBASSP_AMD_Free_hem
+FIGMIPGLIGGLISAFK
+>9879_DBASSP_AMD_Free_hem
+GVVVRVGRVVVRWV
+>9880_DBASSP_AMD_Free_hem
+GVVVRVGRVVVRWVRR
+>1689_DBASSP_Free_Free_hem
+VKLKVyPLKVKLyP
+>9882_DBASSP_AMD_Free_hem
+GVVVRVPRVVVRWVRR
+>9883_DBASSP_AMD_Free_hem
+GVVVRVARVVVRWVRR
+>1693_DBASSP_Free_Free_hem
+VKLKVypLKVKLyP
+>9888_DBASSP_AMD_Free_hem
+WKWKWKWKpGKWKWKWKW
+>1697_DBASSP_Free_Free_hem
+VKLKVyPLKVKLYP
+>9891_DBASSP_AMD_Free_hem
+KKKALFALWLAFLAKKK
+>1701_DBASSP_Free_Free_hem
+VKLKVyPLkVKLyP
+>1703_DBASSP_Free_Free_hem
+VKLKVyPLKVkLyP
+>1705_DBASSP_Free_Free_hem
+VkLkVyPLkVkLyP
+>1709_DBASSP_Free_Free_hem
+yPVKLyPVKL
+>1710_DBASSP_Free_Free_hem
+yPVKLKyPKVKL
+>1711_DBASSP_Free_Free_hem
+yPVKLKVyPLKVKL
+>1712_DBASSP_Free_Free_hem
+yPLKVKyPKLKV
+>1713_DBASSP_Free_Free_hem
+fPVKLKfPKVKL
+>1715_DBASSP_Free_Free_hem
+fPLXLXfPXLXL
+>9922_DBASSP_Free_Free_hem
+KKYRYHLKPFSKK
+>9923_DBASSP_AMD_Free_hem
+KKYRYHLKPFSKK
+>9924_DBASSP_Free_Free_hem
+KKYRYHLKPFCKK
+>1740_DBASSP_Free_Free_hem
+GIPCGESCVWIPCISSAIGCSCKSKVCYRN
+>1748_DBASSP_AMD_Free_hem
+ILKWKWPWWPWRR
+>1756_DBASSP_AMD_Free_hem
+KWPWWPWRR
+>1760_DBASSP_AMD_Free_hem
+PWWPWRR
+>1770_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCSCSWPVCTRN
+>1771_DBASSP_Free_Free_hem
+GVPICGETCTLGTCYTAGCSCSWPVCTRN
+>9965_DBASSP_AMD_Free_hem
+FRIRVRVAKKFGKAFVGEIM
+>1775_DBASSP_Free_Free_hem
+RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES
+>1777_DBASSP_Free_Free_hem
+LLGDFFRKAREKIGEEFKRIVQRIKDFLRNLVPRTES
+>1778_DBASSP_Free_Free_hem
+RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS
+>1784_DBASSP_AMD_ACT_hem
+GIGKFLHAAKKFAKAFVAEIMNS
+>1790_DBASSP_AMD_Free_hem
+GIGAVLAVLTTGLPALISWIKRKRQQ
+>1791_DBASSP_AMD_Free_hem
+GIGAVLDVLTTGLPALISWIKRKRQQ
+>1792_DBASSP_AMD_Free_hem
+GIGAVLEVLTTGLPALISWIKRKRQQ
+>9986_DBASSP_AMD_Free_hem
+FFHHIFRGIVHVGKKIHRLVTG
+>9987_DBASSP_Free_Free_hem
+FFHHIFRGIVHVGKkIHRLVTG
+>1804_DBASSP_Free_Free_hem
+GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC
+>1805_DBASSP_Free_Free_hem
+GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC
+>10001_DBASSP_AMD_C8_hem
+IKQVKKLFKK
+>10003_DBASSP_AMD_C12_hem
+IKQVKKLFKK
+>10004_DBASSP_AMD_C14_hem
+IKQVKKLFKK
+>10005_DBASSP_AMD_C16_hem
+IKQVKKLFKK
+>10006_DBASSP_AMD_4-OMe-C10_hem
+IKQVKKLFKK
+>10007_DBASSP_AMD_C11_hem
+IKQVKKLFKK
+>10008_DBASSP_AMD_17-ME-C18_hem
+IKQVKKLFKK
+>10009_DBASSP_AMD_C17_hem
+IKQVKKLFKK
+>10010_DBASSP_AMD_C20_hem
+IKQVKKLFKK
+>10013_DBASSP_AMD_C5_hem
+WWVXARAXRR
+>10014_DBASSP_AMD_C5_hem
+WWVXARAXRR
+>10015_DBASSP_AMD_C6_hem
+WWVXAFAXRRR
+>10016_DBASSP_AMD_C6_hem
+WWVXAFAXRRR
+>10022_DBASSP_AMD_Free_hem
+AKRHHGYKRKFHAKRHHGYKRKFH
+>10023_DBASSP_AMD_Free_hem
+AKRHHGYKRKFHAKRHHGYKRKFHAKRHHGYKRKFH
+>9881_DBASSP_AMD_Free_hem
+GVVVRVGRVVVRWVRRRR
+>10031_DBASSP_AMD_Free_hem
+RWRWRWX
+>10033_DBASSP_AMD_Free_hem
+rWRWRwX
+>10068_DBASSP_AMD_Free_hem
+rwRWRWX
+>1881_DBASSP_AMD_Free_hem
+FLPFVGNLLKGLL
+>10077_DBASSP_Free_Free_hem
+KWRQWQSKWRRTNPWFWIRR
+>1886_DBASSP_Free_Free_hem
+SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC
+>1887_DBASSP_Free_Free_hem
+GLWNTIKEAGKKFAINVLDKIRCGIAGGCKT
+>1888_DBASSP_Free_Free_hem
+FLSTALKVAANVVPTLFCKITKKC
+>1889_DBASSP_Free_Free_hem
+FLPIVAGLAANFLPKIVCKITKKC
+>1890_DBASSP_Free_Free_hem
+FLSTLLNVASNVVPTLICKITKKC
+>1891_DBASSP_Free_Free_hem
+FLSTLLNVASKVVPTLFCKITKKC
+>10084_DBASSP_AMD_Free_hem
+rwRWRwX
+>10085_DBASSP_AMD_Free_hem
+ALWKTMLKKLGTMALHAGKAALGAAADTI
+>10087_DBASSP_AMD_Free_hem
+ALWTTMLKKLGKMALHAGKAALGAAADTI
+>10088_DBASSP_AMD_Free_hem
+ALWKTMLKKLGTMALHAGK
+>10089_DBASSP_AMD_Free_hem
+ALXKTMLKKLGTMAL
+>10090_DBASSP_AMD_Free_hem
+ALHKTMLKKLGTMAL
+>10091_DBASSP_AMD_Free_hem
+KALXKTMLKKLGTMAL
+>10092_DBASSP_AMD_Free_hem
+ALWKTMLKKLGTMA
+>10093_DBASSP_AMD_Free_hem
+ALWKTMLKKLGTM
+>10094_DBASSP_AMD_Free_hem
+ALWKTMLKKLGT
+>10095_DBASSP_AMD_Free_hem
+ALWKTMLKKLGTMAL
+>10096_DBASSP_AMD_Free_hem
+ALXKTMLKKLGTMAL
+>10097_DBASSP_AMD_Free_hem
+ALXKTMLKKLGTMAL
+>10098_DBASSP_AMD_Free_hem
+ALFKTMLKKLGTMAL
+>10103_DBASSP_AMD_Free_hem
+ALYKTMLKKLGTMAL
+>10104_DBASSP_AMD_Free_hem
+ALLKTMLKKLGTMAL
+>10105_DBASSP_AMD_Free_hem
+KALWKTMLKKLGTMAL
+>10111_DBASSP_AMD_Free_hem
+ilGtilGllkGl
+>10116_DBASSP_AMD_Free_hem
+KIAGKIAKKAGKIAK
+>10117_DBASSP_AMD_Free_hem
+KIAGKIAKKAGKIAKIA
+>10118_DBASSP_AMD_Free_hem
+KIAGKIAAIAGKIAKIAGKIAK
+>10119_DBASSP_AMD_Free_hem
+KIAGKIAAIAGKIAKIAGKIAKIA
+>10120_DBASSP_AMD_Free_hem
+KIAGKIAAIAGKIAKIAGAIAKIAGK
+>10121_DBASSP_AMD_Free_hem
+KIAGKIAAIAGKIAKIAGAIAKIAGKIA
+>10125_DBASSP_AMD_Free_hem
+KIAGKIASIAGKIAKIAGKIAK
+>10126_DBASSP_AMD_Free_hem
+KIAGKIASIAGKIAKIAGKIAKIA
+>10127_DBASSP_AMD_Free_hem
+KIAGKIASIAGKIAKIAGSIAKIAGK
+>10128_DBASSP_AMD_Free_hem
+KIAGKIASIAGKIAKIAGSIAKIAGKIA
+>10133_DBASSP_AMD_Free_hem
+KIAGKIAKIAGKIAKIAGKIAK
+>10134_DBASSP_AMD_Free_hem
+KIAGKIAKIAGKIAKIAGKIAKIA
+>10135_DBASSP_AMD_Free_hem
+KIAGKIAKIAGKIAKIAGKIAKIAGK
+>10136_DBASSP_AMD_Free_hem
+KIAGKIAKIAGKIAKIAGKIAKIAGKIA
+>10137_DBASSP_Free_Free_hem
+GWLDVAKKIGKAAFNVAKNFL
+>1690_DBASSP_Free_Free_hem
+VKLKVyPLKvKLyP
+>1691_DBASSP_Free_Free_hem
+VKlKVyPLKVKLyP
+>10151_DBASSP_AMD_Free_hem
+rWRwrwX
+>1692_DBASSP_Free_Free_hem
+VKLKVyPLKVKLyp
+>10169_DBASSP_AMD_Free_hem
+KFWSLLKKALRLWANVL
+>1978_DBASSP_AMD_Free_hem
+FLAGLIGGLAKML
+>1695_DBASSP_Free_Free_hem
+VKLKVyPLKVKlyP
+>10173_DBASSP_AMD_Free_hem
+kFwKLLkKALrLwAkVL
+>10174_DBASSP_AMD_Free_hem
+lFwKLLlKAlrLwAkVL
+>1984_DBASSP_AMD_Free_hem
+KKALLXHALHXLALLAXHLAHXLKKA
+>1696_DBASSP_Free_Free_hem
+VKLKvyPLKVKLyP
+>1986_DBASSP_AMD_Free_hem
+FFKKLXHALHXLALLAXHLAHXLKKA
+>1987_DBASSP_AMD_Free_hem
+KKALLXHPLHXLALLAXHLAHXLKKA
+>1698_DBASSP_Free_Free_hem
+VKLKVyPlKVKLyP
+>1998_DBASSP_AMD_Free_hem
+KWASLWNWFNITNWLWYIK
+>1999_DBASSP_AMD_Free_hem
+KWARLWRWFRITRWLWYIK
+>1699_DBASSP_Free_Free_hem
+VKLKVYPLKVKLyP
+>10199_DBASSP_AMD_Free_hem
+rwrwrWX
+>10200_DBASSP_AMD_Free_hem
+rwrwrwX
+>1700_DBASSP_Free_Free_hem
+VkLKVyPLKVKLyP
+>2012_DBASSP_Free_Free_hem
+KWKSFLKTFKSAVKTVLHTALKAISS
+>2013_DBASSP_Free_Free_hem
+KWKSFLRTLKSPAKTVFHTALKAISS
+>2014_DBASSP_Free_Free_hem
+KWKSFLRTFKSPVRTVFHTALKPISS
+>2015_DBASSP_AMD_Free_hem
+RRWCFRVCYRGFCYRKCR
+>2018_DBASSP_AMD_Free_hem
+KILRGVCKKIMRTFLRRISKDILTGKK
+>2020_DBASSP_AMD_Free_hem
+KILRGVSKKIMRTFLRRISKDILTGKK
+>1702_DBASSP_Free_Free_hem
+VKLkVyPLKVKLyP
+>10215_DBASSP_Free_Free_hem
+GLWTTIKEGLKKFSLGVLDKIRCKIAGGC
+>9895_DBASSP_AMD_Free_hem
+WRPGRWWRPGRWWRPGRWWRPGRW
+>3069_DBASSP_AMD_Free_hem
+ILKWKWKWWPWRR
+>1704_DBASSP_Free_Free_hem
+VkLkVyPLKVKLyP
+>2054_DBASSP_Free_DNS_hem
+KLLLKLLLKLLK
+>10248_DBASSP_Free_Free_hem
+FFPGIIKVASAILPTAICAITKRC
+>2057_DBASSP_Free_DNS_hem
+KLLKLLLKLLLKLLK
+>2058_DBASSP_Free_DNS_hem
+KLLLKLLKLLLKLLLKLLK
+>2059_DBASSP_Free_DNS_hem
+KLLKLLLKLLKLLLKLLLKLLK
+>10252_DBASSP_AMD_Free_hem
+FFPGIIKVAGAILPTAICAITKRC
+>9889_DBASSP_AMD_Free_hem
+WKWKWKWKWKpGKWKWKWKWKW
+>11270_DBASSP_AMD_Free_hem
+FFSLIPKLVKGLISAFK
+>10284_DBASSP_AMD_Free_hem
+FRRFFKWFRRFFKFF
+>10285_DBASSP_AMD_Free_hem
+FRRPFKWFRRFFKFF
+>10300_DBASSP_Free_Free_hem
+KrKiFlRtKiLv
+>10301_DBASSP_Free_Free_hem
+kRkIfLrTkIlV
+>10302_DBASSP_Free_Free_hem
+vLiKtRlFiKrK
+>10303_DBASSP_Free_Free_hem
+VlIkTrLfIkRk
+>10304_DBASSP_Free_Free_hem
+KRKIFLRTKILV
+>10305_DBASSP_Free_Free_hem
+VLIKTRLFIKRK
+>7709_DBASSP_Free_C16_hem
+RCpGRTRQIGTIFpGRIKCRSW
+>10345_DBASSP_AMD_Free_hem
+VCRTGRSRWRDVCRNFMRRYQSR
+>10346_DBASSP_AMD_Free_hem
+YKQCHKKGGKKGSG
+>10347_DBASSP_AMD_Free_hem
+YGRKKRRQRRR
+>10348_DBASSP_AMD_Free_hem
+TKPKGTKPKGTKPKGTKPKG
+>2159_DBASSP_AMD_Free_hem
+ILGKIWEGIKSLF
+>10354_DBASSP_AMD_Free_hem
+FASGIAGMAGKLF
+>2166_DBASSP_AMD_Free_hem
+SAPRGCWTKSYPPKPCK
+>2167_DBASSP_AMD_Free_hem
+GALRGCWTKSYPPKPCK
+>2189_DBASSP_AMD_Free_hem
+GLGSVFGRLARILGRVIPKV
+>2190_DBASSP_AMD_Free_hem
+GLLSKFGRLARKLARVIPKV
+>2193_DBASSP_Free_Free_hem
+GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC
+>2194_DBASSP_Free_Free_hem
+GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC
+>2197_DBASSP_Free_Free_hem
+GLLSGILGAGKNIVCGLSGLC
+>2199_DBASSP_Free_Free_hem
+GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC
+>2200_DBASSP_Free_Free_hem
+GILSSFKGVAKGVAKDLAGKLLETLKCKITGC
+>2201_DBASSP_Free_Free_hem
+FLPILAGLAAKIVPKLFCLATKKC
+>2202_DBASSP_AMD_Free_hem
+FLPLVTGLLSGLL
+>2203_DBASSP_AMD_Free_hem
+NFLGTLVNLAKKIL
+>2204_DBASSP_AMD_Free_hem
+FLSGIVGMLGKLF
+>2205_DBASSP_AMD_Free_hem
+FLPIVTNLLSGLL
+>2209_DBASSP_AMD_Free_hem
+FLGSIVGALASALPSLISKIRN
+>2210_DBASSP_Free_Free_hem
+GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC
+>10403_DBASSP_AMD_Free_hem
+GLLWKWGWKWKEFLRIVGY
+>10404_DBASSP_AMD_Free_hem
+GLLRKWGKKWKEFLRRVWK
+>3101_DBASSP_AMD_Free_hem
+LLRRLLRRLLRRLLRR
+>2229_DBASSP_AMD_Free_hem
+KWCFRVCYRGICYRRCR
+>10437_DBASSP_AMD_Free_hem
+IIGPVLGLIGKALGGLL
+>2251_DBASSP_Free_Free_hem
+FLPKMSTKLRVPYRRGTKDYH
+>2252_DBASSP_Free_Free_hem
+GILKKFMLHRGTKVYKMRTLSKRSH
+>2253_DBASSP_AMD_Free_hem
+IKWKKLLRAAKRIL
+>2255_DBASSP_AMD_Free_hem
+FFGKVLKLIRKIF
+>2256_DBASSP_Free_Free_hem
+VFIDILDKMENAIHKAAQAGIG
+>2257_DBASSP_Free_Free_hem
+KWKLFKKIEKVGQNIRDGIIKAGPAVAWVGQATQIAK
+>2258_DBASSP_Free_Free_hem
+KWKVFKKIEKNGRNIRNGIVKAGPAIAVLGEAKAL
+>2259_DBASSP_Free_Free_hem
+SWLSKTAKKLENSAKKRISEGIAIAQGPR
+>2260_DBASSP_Free_Free_hem
+GIGAVLTTGLPALISWIKRKRQQ
+>2261_DBASSP_Free_Free_hem
+KWCFRVCYRGICYRRCR
+>2262_DBASSP_Free_Free_hem
+PRRRRSSSRP
+>2263_DBASSP_Free_Free_hem
+VRRRRRPR
+>2264_DBASSP_Free_Free_hem
+VSRRRRRRGGRRRR
+>2265_DBASSP_AMD_Free_hem
+GRFKRFRKKFKKLFKKLSPVIPLLHLG
+>10464_DBASSP_AMD_Free_hem
+ILGKLWEGLKSLF
+>2278_DBASSP_AMD_Free_hem
+GFKkLLKGAAKALVKTVLF
+>2282_DBASSP_AMD_Free_hem
+GVIKSVLKGVAKTVALGML
+>2284_DBASSP_Free_Free_hem
+GLKEVLHSTKKFAKGFITGLTGQ
+>2285_DBASSP_AMD_Free_hem
+GMATKAGTALGKVAKAVIGAAL
+>2286_DBASSP_AMD_Free_hem
+GMATAAGTTLGKLAKFVIGAV
+>2288_DBASSP_Free_Free_hem
+GLASTIGSLLGKFAKGGAQAFLQPK
+>2289_DBASSP_Free_Free_hem
+GFWTTAAEGLKKFAKAGLASILNPK
+>2290_DBASSP_Free_Free_hem
+GVWTTILGGLKKFAKGGLEALTNPK
+>2291_DBASSP_Free_Free_hem
+GFLGPLLKLGLKGVAKVIPHLIPSRQQ
+>2292_DBASSP_Free_Free_hem
+GFLGPLLKLGLKGAAKLLPQLLPSRQQ
+>2293_DBASSP_AMD_Free_hem
+GFLGSLLKTGLKVGSNLL
+>2294_DBASSP_AMD_Free_hem
+FLGALLGPLMNLLQ
+>2298_DBASSP_AMD_Free_hem
+GLLGLLGSVVSHVVPAIVGHF
+>2300_DBASSP_AMD_Free_hem
+GFKDLLKGAAKALVKTVLF
+>2302_DBASSP_Free_Free_hem
+GFKDLLKGAAKALVKTVLF
+>2303_DBASSP_Free_Free_hem
+GFRDVLKGAAKAFVKTVAGHIAN
+>2304_DBASSP_AMD_Free_hem
+GFRDVLKGAAKAFVKTVAGHIAN
+>2305_DBASSP_Free_Free_hem
+GIKDWIKGAAKKLIKTVASHIANQ
+>10511_DBASSP_AMD_ACT_hem
+alksllktlskakaaklktllkalsk
+>10512_DBASSP_AMD_ACT_hem
+alksllktlsaakkkklatllkalsk
+>10513_DBASSP_AMD_ACT_hem
+alksllatlskakkkklktllaalsk
+>10514_DBASSP_AMD_ACT_hem
+alasllktlskakkkklktllkalsa
+>10515_DBASSP_AMD_ACT_hem
+alksllktlskaaaaalktllkalsk
+>10516_DBASSP_AMD_ACT_hem
+alksllktlsaaakkalatllkalsk
+>2325_DBASSP_AMD_Free_hem
+KLKLLKLLKLLKLLK
+>10518_DBASSP_AMD_ACT_hem
+alasllktlskaakkalktllkalsa
+>10525_DBASSP_Free_Free_hem
+NLLNDALGTVNGLLGRS
+>10526_DBASSP_Free_Free_hem
+NLLNKALGTVNGLLGRS
+>10527_DBASSP_AMD_Free_hem
+NLLKSALKTVNKLLAAS
+>2336_DBASSP_AMD_Free_hem
+XFLGTLVNLAKKIL
+>2337_DBASSP_AMD_Free_hem
+HXLGTLVNLAKKIL
+>2338_DBASSP_AMD_Free_hem
+HFXGTLVNLAKKIL
+>2339_DBASSP_AMD_Free_hem
+HFLXTLVNLAKKIL
+>2340_DBASSP_AMD_Free_hem
+HFLGXLVNLAKKIL
+>2341_DBASSP_AMD_Free_hem
+HFLGTXVNLAKKIL
+>2342_DBASSP_AMD_Free_hem
+HFLGTLXNLAKKIL
+>2343_DBASSP_AMD_Free_hem
+HFLGTLVXLAKKIL
+>2344_DBASSP_AMD_Free_hem
+HFLGTLVNXAKKIL
+>10537_DBASSP_Free_Free_hem
+GLPTCGETCTLGKCNTPKCTCNWPICYKD
+>2346_DBASSP_AMD_Free_hem
+HFLGTLVNLAKKXL
+>10539_DBASSP_Free_Free_hem
+GLPTCGETCTLGKCNTPKCTCNWPICYKN
+>10540_DBASSP_Free_Free_hem
+GKYTCGETCFKGKCYTPGCTCSYPICKKD
+>10541_DBASSP_Free_Free_hem
+GKPTCGETCFKGKCYTPGCTCSYPLCKKD
+>2354_DBASSP_Free_Free_hem
+GAKYAKYIYNFYKYIAKYIW
+>2355_DBASSP_Free_Free_hem
+GAKYAKIIYNYLKKIANALW
+>2359_DBASSP_Free_Free_hem
+GLTFLKKILNFAKKIYTAIW
+>2361_DBASSP_Free_Free_hem
+GANAAKKFANLIKKIFNYIW
+>2362_DBASSP_Free_Free_hem
+GYKYINNIIKYINKFFKYIW
+>2367_DBASSP_Free_Free_hem
+IWLTALKFLGKHAAKHLAKQQLSKL
+>2369_DBASSP_AMD_Free_hem
+GFLSILKKVLPKVMAHMK
+>2383_DBASSP_AMD_Free_hem
+GGLRSLGRKILRAWKKYGPIIVPIIRIG
+>2386_DBASSP_Free_Free_hem
+SMLSVLKNLGKVGLGFVASKINKQS
+>2389_DBASSP_Free_Free_hem
+SMLGVLKNLGKVGLGFVACKINKQC
+>2391_DBASSP_Free_Free_hem
+SMLSVLKNLGRVGLGFVACKINKQC
+>2395_DBASSP_Free_Free_hem
+SMLKVLKNLGKVGLGFVACKINKQC
+>10591_DBASSP_Free_Free_hem
+TRRKFWKKVLNGALKIAPFLLG
+>10592_DBASSP_Free_Free_hem
+TRWLWLLRGGLKAAGWGIRAHLNRNQ
+>2401_DBASSP_Free_Free_hem
+SMLSVLKNLGKVGLGFVACKINKKC
+>2403_DBASSP_AMD_Free_hem
+GLKEIFKAGLGSLVKGIAAHVAN
+>2404_DBASSP_AMD_Free_hem
+GLKEIFKAGLGSLVKGIAAHVAS
+>2407_DBASSP_AMD_Free_hem
+ILGKLLSTAAGLLSNL
+>10601_DBASSP_Free_Free_hem
+GCRRLCYKQRCVTYCRGR
+>10602_DBASSP_Free_Free_hem
+GCRRLCWKQRCVTYCRGR
+>10603_DBASSP_Free_Free_hem
+GCRRLCYKQRCVTWCRGR
+>10604_DBASSP_Free_Free_hem
+GCRRLCYRQRCVTYCRGR
+>10605_DBASSP_Free_Free_hem
+GCRRLCWRQRCVTWCRGR
+>10606_DBASSP_Free_Free_hem
+GCRALCYKQRCVTYCRGA
+>10607_DBASSP_Free_Free_hem
+KCRRLCYRQRCVTYCRGR
+>10608_DBASSP_Free_Free_hem
+GXRRLXYKQRXVTYXRGR
+>10610_DBASSP_Free_Free_hem
+GCRRLCYKQRCVTYCRGpPR
+>10611_DBASSP_Free_Free_hem
+KCRRYCYRQRCVTYCRGR
+>2426_DBASSP_AMD_Free_hem
+GLPALISWIKRKRQ
+>10625_DBASSP_Free_Free_hem
+WKRRIKIWKKIR
+>10626_DBASSP_Free_Free_hem
+WIRRIKKWIRRVHK
+>10627_DBASSP_Free_Free_hem
+WLRRIKAWLRRKRK
+>10628_DBASSP_AMD_Free_hem
+wlrrikawlrrika
+>10629_DBASSP_AMD_Free_hem
+WWWLRRIW
+>10630_DBASSP_AMD_Free_hem
+RWWLRRIW
+>10631_DBASSP_AMD_Free_hem
+WRWLRRIW
+>10632_DBASSP_AMD_Free_hem
+WWRLRRIW
+>10634_DBASSP_AMD_Free_hem
+WWWLRRRW
+>10635_DBASSP_AMD_Free_hem
+WWWLRRIR
+>2446_DBASSP_AMD_Free_hem
+DAACAAHCLWR
+>10640_DBASSP_AMD_Free_hem
+GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG
+>2451_DBASSP_Free_Free_hem
+GLPICGETCVGGTCNTPGCSCSWPVCTRN
+>10644_DBASSP_AMD_Free_hem
+GVFRRLRKVTRKVLKKIGKVLKWI
+>2453_DBASSP_Free_Free_hem
+GLPVCGETCFGGTCNTPGCSCETWPVCSRN
+>2493_DBASSP_Free_Free_hem
+GYPICGESCVGGICNIPGCSCSWPVCTTN
+>2494_DBASSP_Free_Free_hem
+GLPICGETCVGGTCNTPGCFCTWPVCTRN
+>2495_DBASSP_Free_Free_hem
+GLPVCGETCFTGSCYTPGCSCNWPVCNRN
+>2496_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCSCSWPVCFRN
+>2497_DBASSP_Free_Free_hem
+GTLPCGESCVWIPCISSVVGCACKSKVCYKD
+>2504_DBASSP_AMD_Free_hem
+GFMKYIGPLIPHAVKAISDLI
+>2510_DBASSP_AMD_Free_hem
+GFMKYIKPLIPHAVKAIKKLI
+>2512_DBASSP_Free_Free_hem
+GFMKYIGPLIPHAVKAISKLI
+>2513_DBASSP_Free_Free_hem
+GFMKYIKPLIPHAVKAISKLI
+>2514_DBASSP_Free_Free_hem
+GFMKYIKPLIPHAVKAIKKLI
+>2515_DBASSP_AMD_Free_hem
+GFMKYIGPLIPHAVKAISkLI
+>2517_DBASSP_AMD_Free_hem
+GFMKYIGPLIPHAVKAIkkLI
+>10719_DBASSP_Free_Free_hem
+GFGCPFNARRCHRHCRSIRRRAGYCAGRLRLTCTCVR
+>2537_DBASSP_Free_Free_hem
+SISCGESCAMISFCFTEVIGCSCKNKVCYLN
+>7251_DBASSP_AMD_Free_hem
+GFGMALKLLKKVl
+>10742_DBASSP_Free_Free_hem
+FFGPLIKIATGVLPNLICKALGKC
+>10743_DBASSP_Free_Free_hem
+GIGSMLLGLAKNVGMSLLNKAQCKISGKC
+>10752_DBASSP_Free_Free_hem
+NPEKALEPLIAIQIAIKGMLNGWFTGVGFRRKR
+>10754_DBASSP_Free_Free_hem
+EKALEKLIAIQKAIKGMLAGWFTGVGARRKR
+>1793_DBASSP_AMD_Free_hem
+GIGAVLGVLTTGLPALISWIKRKRQQ
+>2577_DBASSP_AMD_Free_hem
+KWKLFKKIEKVGQGIGAVLKVLTTGL
+>1795_DBASSP_AMD_Free_hem
+GIGAVLLVLTTGLPALISWIKRKRQQ
+>2580_DBASSP_AMD_Free_hem
+KWKLFKKILKVL
+>1796_DBASSP_AMD_Free_hem
+GIGAVLVVLTTGLPALISWIKRKRQQ
+>1797_DBASSP_AMD_Free_hem
+GIGAVLWVLTTGLPALISWIKRKRQQ
+>2598_DBASSP_AMD_Free_hem
+RVIRVVQGACRAIRHIPRRIRQGLRRIL
+>10805_DBASSP_AMD_Free_hem
+GKGLXXFKXXKFXXFKXXKFXXFKXXFKR
+>10806_DBASSP_AMD_Free_hem
+GFXXGKXXGFXXGKXKKKK
+>10807_DBASSP_AMD_Free_hem
+KLXXGKXXGFXXGKXKKKK
+>10808_DBASSP_AMD_ACT_hem
+FXXKXXFXXKXKKKK
+>10823_DBASSP_AMD_Free_hem
+GKGLXXGLXXGKXXGLXXGKXXGLXXGLR
+>10824_DBASSP_AMD_Free_hem
+GKGLXXGKXXGLXXGKXXGLXXGKXXGKR
+>10827_DBASSP_Free_Free_hem
+IIPLPLGYFAKKP
+>10828_DBASSP_Free_Free_hem
+IIPLPLGYFAKKKKKKDPVPLDQ
+>10829_DBASSP_Free_Free_hem
+VLPLVGNLLNDLLGK
+>10830_DBASSP_Free_Free_hem
+VLPLLETCSMTCWENNQTFGK
+>10834_DBASSP_AMD_Free_hem
+FFSMIPKIAGGIASLVKNL
+>10837_DBASSP_AMD_Free_hem
+IIGPVLGLVGKALGGLL
+>8635_DBASSP_AMD_Free_hem
+GXLKRIKTLX
+>10880_DBASSP_Free_Free_hem
+NRFTARFRRTPWRLCLQFRQ
+>2712_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKGLLFKL
+>2713_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKPLLFKL
+>2714_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKGLLIKL
+>2715_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKPLLIKL
+>2716_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKGLLPKL
+>2717_DBASSP_AMD_Free_hem
+YKLLKLLLPKLKPLLPKL
+>2718_DBASSP_AMD_Free_hem
+YKLLKKLLKKLKKLLKKL
+>2719_DBASSP_AMD_Free_hem
+YKLLKWLLLKLKALLEKL
+>10914_DBASSP_Free_Free_hem
+RRGYGLKLALAKDGWALMLRLGFGRR
+>10915_DBASSP_Free_Free_hem
+RRGFSLKLALAKDGWALMLRLGYGRR
+>10919_DBASSP_AMD_Free_hem
+AMWKDVLKKIGTVALHAGKAALGAVADTISQ
+>2758_DBASSP_AMD_ACT_hem
+kwksflktfksavktvlhtalkaiss
+>10965_DBASSP_AMD_Free_hem
+KWLKKWLKWLKK
+>10969_DBASSP_AMD_Free_hem
+RIGSILGALAKGLPTLISWIKNR
+>10970_DBASSP_AMD_Free_hem
+AIGSILGRLAKGLPTLISWIKNR
+>10973_DBASSP_AMD_Free_hem
+RIGSILGRLAKGLPTLISWIKNR
+>11387_DBASSP_AMD_Free_hem
+RGGRLXYCRRRFCVXVGR
+>11388_DBASSP_Free_Free_hem
+RGGRLXYCRRRFCVXVGR
+>2812_DBASSP_AMD_ACT_hem
+kwksflktfksakktvlhtalkaiss
+>2813_DBASSP_AMD_ACT_hem
+kwksflktfskakkkvlktalkaisk
+>1694_DBASSP_Free_Free_hem
+vKLKVyPLKVKLyP
+>2817_DBASSP_AMD_ACT_hem
+klksllktlskakkkllktalkalsk
+>2842_DBASSP_Free_Free_hem
+IGKKFKRIVQRIKDFLRNL
+>2843_DBASSP_Free_Free_hem
+IGKKFKRIVQRIKKFLRNL
+>2846_DBASSP_Free_Free_hem
+IGKLFKRIVQRIKKFLRNL
+>2847_DBASSP_Free_Free_hem
+IGKLFKRIVQRILKFLRNL
+>2848_DBASSP_Free_Free_hem
+IGKLFKRIVKRILKFLRKL
+>2849_DBASSP_Free_Free_hem
+ILKLFKRIVKRILKFLRKL
+>2850_DBASSP_Free_Free_hem
+IGKKWKRIVKRIKKFLRKL
+>2851_DBASSP_Free_Free_hem
+IGKKFKRIVKRIKKWLRKL
+>2862_DBASSP_AMD_Free_hem
+LKWLLKWLL
+>2865_DBASSP_AMD_Free_hem
+LLKWLLKWLKK
+>2866_DBASSP_AMD_Free_hem
+LLKWLLKWLLK
+>2869_DBASSP_AMD_Free_hem
+KKWKKWKKWKK
+>2873_DBASSP_AMD_Free_hem
+KLWKLWLKWLK
+>2874_DBASSP_AMD_Free_hem
+KLWKLWLKWLL
+>11091_DBASSP_Free_Free_hem
+XRWRWRW
+>11092_DBASSP_Free_Free_hem
+XRWRWRW
+>11093_DBASSP_Free_Free_hem
+XRWRWRW
+>11099_DBASSP_Free_Free_hem
+RWRWRWX
+>9646_DBASSP_Free_Free_hem
+XRXLRXG
+>11168_DBASSP_Free_Free_hem
+TRSRWRRFIRGAGRFARRYGWRIALGLVG
+>9647_DBASSP_Free_Free_hem
+LRXXRXG
+>102_DBASSP_Free_Free_hem
+ALWKTLLKKVLKAAAKAALKAVLVGANA
+>3006_DBASSP_Free_Free_hem
+FHPSLWVLIPQYIQLIRKILKSG
+>3008_DBASSP_Free_Free_hem
+FLPVLAGIAAKVVPALFCKITKKC
+>11220_DBASSP_AMD_Free_hem
+GVWDWLKKTAKNVWNSDIVKQLKGKAINAAKNYVAEKIGATPS
+>11228_DBASSP_AMD_Free_hem
+KIAKGALKALKIAKVALKAL
+>11230_DBASSP_AMD_Free_hem
+KIGKALGKALKALGKALGKA
+>11232_DBASSP_AMD_Free_hem
+KIALKALKALKALGKALKAL
+>3068_DBASSP_AMD_Free_hem
+ILPWKWPWWKWRR
+>3078_DBASSP_Free_Free_hem
+VRRFGWWWGFLRR
+>11271_DBASSP_AMD_Free_hem
+FFKLIPKLVKGLISAFK
+>3096_DBASSP_AMD_Free_hem
+FFRRFFRRFFRR
+>3100_DBASSP_AMD_Free_hem
+FFRRFFRRFFRRFFRR
+>1467_DBASSP_Free_Free_hem
+GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+>3102_DBASSP_AMD_Free_hem
+LLKKLLKKLLKKLLKK
+>3103_DBASSP_AMD_Free_hem
+FLSSIGKILGNLL
+>3104_DBASSP_AMD_Free_hem
+FLSIIAKVLGSLF
+>3105_DBASSP_AMD_Free_hem
+FLPLVTMLLGKLF
+>1884_DBASSP_AMD_Free_hem
+FLPILGNLLNGLL
+>1885_DBASSP_AMD_Free_hem
+FLPFVGNLLNGLL
+>3121_DBASSP_AMD_Free_hem
+GLLKAIKTLL
+>3123_DBASSP_AMD_Free_hem
+GLLKRIATLL
+>3124_DBASSP_AMD_Free_hem
+GLLKRIKALL
+>3135_DBASSP_AMD_Free_hem
+GLLKVIKTLL
+>3136_DBASSP_AMD_Free_hem
+GLLKLIKTLL
+>3137_DBASSP_AMD_Free_hem
+GLLKIIKTLL
+>3138_DBASSP_AMD_Free_hem
+GLLKFIKTLL
+>3140_DBASSP_AMD_Free_hem
+GLLKWIKTLL
+>3142_DBASSP_AMD_Free_hem
+GLLKRIKVLL
+>3143_DBASSP_AMD_Free_hem
+GLLKRIKLLL
+>3144_DBASSP_AMD_Free_hem
+GLLKRIKILL
+>3145_DBASSP_AMD_Free_hem
+GLLKRIKFLL
+>3147_DBASSP_AMD_Free_hem
+GLLKRIKWLL
+>3149_DBASSP_AMD_Free_hem
+KLLKRIKTLL
+>3150_DBASSP_AMD_Free_hem
+GLLKVIKVLL
+>3151_DBASSP_AMD_Free_hem
+KLLKFIKTLL
+>3152_DBASSP_AMD_Free_hem
+KLLKRIKKLL
+>3153_DBASSP_AMD_Free_hem
+KLLKVIKKLL
+>3154_DBASSP_Free_Free_hem
+GFLGPLLKLAAKGVAKVIPHLIPSRQQ
+>3156_DBASSP_Free_Free_hem
+GVFLDALKKFAKGGMNAVLNPK
+>3157_DBASSP_AMD_Free_hem
+GLLGPLLKIAAKVGSNLL
+>1892_DBASSP_Free_Free_hem
+FLPMLAGLAANFLPKIVCKITKKC
+>527_DBASSP_Free_Free_hem
+WVLVLRlGY
+>1893_DBASSP_Free_Free_hem
+GILDKLKEFGISAARGVAQSLLNTASCKLAKTC
+>3173_DBASSP_AMD_Free_hem
+FFGWLIKGAIHAGKAIHGLIHRRRH
+>3174_DBASSP_AMD_Free_hem
+FFGWLIRGAIHAGKAIHGLIHRRRH
+>3175_DBASSP_AMD_Free_hem
+FIGLLISAGKAIHDLIRRRH
+>11380_DBASSP_AMD_Free_hem
+GILSKLGKALKKAAKHAAKA
+>11383_DBASSP_Free_Free_hem
+GLLRRLRKKIGEIFKKYG
+>3192_DBASSP_AMD_Free_hem
+GLWSKIKAAGKEAAKAAAKAAGKAALNAVSEAV
+>11385_DBASSP_Free_Free_hem
+RGGRLCYCRRRFCVCVGR
+>3194_DBASSP_Free_Free_hem
+ALWKTMLKKLGTMALHAGKAAFGAAADTISQ
+>3195_DBASSP_Free_Free_hem
+ALWKNMLKGIGKLAGQAALGAVKTLVGAES
+>3196_DBASSP_Free_Free_hem
+GLWSKIKEAAKTAGLMAMGFVNDMV
+>11389_DBASSP_Free_Free_hem
+RGGRLCYXRRRFXVCVGR
+>11390_DBASSP_Free_Free_hem
+RGGCLXYCRRRFCVXVCR
+>11391_DBASSP_Free_Free_hem
+RGGRLXYXRRRFXVCXGR
+>11399_DBASSP_AMD_Free_hem
+YRMWRWAWRWR
+>11400_DBASSP_AMD_Free_hem
+YRMWRWRWRWR
+>3227_DBASSP_Free_Free_hem
+FFHLHFHX
+>3232_DBASSP_AMD_Free_hem
+FFFLSRIF
+>3247_DBASSP_AMD_Free_hem
+IFGAIWNGIKSLF
+>3257_DBASSP_AMD_Free_hem
+KKLLKWLLKLL
+>3258_DBASSP_AMD_Free_hem
+LKLLKWLLKLL
+>3259_DBASSP_AMD_Free_hem
+LKKLLKWLLKLLK
+>3260_DBASSP_AMD_Free_hem
+LLKLLKWLLKLLK
+>3314_DBASSP_Free_Free_hem
+VXLfPyVXLfPy
+>3315_DBASSP_Free_Free_hem
+VXLfPkVXLfPk
+>3316_DBASSP_Free_Free_hem
+fPFfNQYVXL
+>554_DBASSP_AMD_Free_hem
+GXXXXXXXXXXGY
+>3326_DBASSP_AMD_Free_hem
+ILGIITSLLKSL
+>11525_DBASSP_Free_Free_hem
+FFRNLWKGAKAAFRAGHAAWRA
+>3345_DBASSP_Free_Free_hem
+FFPLALLCKVFKKC
+>3346_DBASSP_AMD_Free_hem
+ILPILSLIGGLL
+>3347_DBASSP_Free_Free_hem
+IIPLPLGYFAKKT
+>3355_DBASSP_AMD_Free_hem
+GLNALKKVFQGIHEAIKLINNHVQ
+>3358_DBASSP_AMD_Free_hem
+GIRDVLKGAAKAFVKTVAGHIAN
+>3360_DBASSP_AMD_Free_hem
+LNWGAILKHIIK
+>3361_DBASSP_AMD_Free_hem
+NLWAGILKHIIK
+>3362_DBASSP_AMD_Free_hem
+KNWGAILKHIIK
+>3363_DBASSP_AMD_Free_hem
+LKWGAILKHIIK
+>3364_DBASSP_AMD_Free_hem
+LNKGAILKHIIK
+>3365_DBASSP_AMD_Free_hem
+LNWKAILKHIIK
+>3366_DBASSP_AMD_Free_hem
+LNWGKILKHIIK
+>3367_DBASSP_AMD_Free_hem
+LNWGAKLKHIIK
+>3368_DBASSP_AMD_Free_hem
+LNWGAIKKHIIK
+>3369_DBASSP_AMD_Free_hem
+LNWGAILKKIIK
+>3370_DBASSP_AMD_Free_hem
+LNWGAILKHKIK
+>3371_DBASSP_AMD_Free_hem
+LNWGAILKHIKK
+>3372_DBASSP_AMD_Free_hem
+KNWGKILKHIIK
+>3373_DBASSP_AMD_Free_hem
+KNWKAILKHIIK
+>3374_DBASSP_AMD_Free_hem
+LNWGAVLKHVVK
+>3375_DBASSP_AMD_Free_hem
+LNWGAXLKHXXK
+>3376_DBASSP_AMD_Free_hem
+LNWGAALKHAAK
+>3377_DBASSP_AMD_Free_hem
+LNWGAFLKHFFK
+>3378_DBASSP_AMD_Free_hem
+LNWGAGLKHGGK
+>3379_DBASSP_AMD_Free_hem
+LNWGALLKHLLK
+>3380_DBASSP_AMD_Free_hem
+LNWGAXLKHXXK
+>3381_DBASSP_AMD_Free_hem
+LNWGAXLKHXXK
+>3382_DBASSP_AMD_Free_hem
+LNWGAWLKHWWK
+>3383_DBASSP_Free_Free_hem
+LDVKKIICVACKIKPNPACKKICPK
+>3384_DBASSP_Free_Free_hem
+LDVKKIIXVAXKIKPNPAXKKIXPK
+>3385_DBASSP_Free_Free_hem
+LDVKKIICVACKIRPNPACKKICPK
+>3386_DBASSP_Free_Free_hem
+LDVKKIIXVAXKIRPNPAXKKIXPK
+>3396_DBASSP_Free_Free_hem
+GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC
+>3397_DBASSP_Free_Free_hem
+GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC
+>3398_DBASSP_Free_Free_hem
+GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC
+>3399_DBASSP_Free_Free_hem
+GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC
+>3400_DBASSP_Free_Free_hem
+GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC
+>3401_DBASSP_Free_Free_hem
+GLMDVFKGAAKNLLASALDKIRCKVTKC
+>3402_DBASSP_AMD_Free_hem
+ILPILGNLLNGLL
+>3403_DBASSP_AMD_Free_hem
+ILPILGNLLNSLL
+>3414_DBASSP_AMD_Free_hem
+VNWKKILGKIIKVVK
+>9661_DBASSP_Free_Free_hem
+LRXLRXG
+>3442_DBASSP_AMD_Free_hem
+GFGMALKLLKKVL
+>3444_DBASSP_AMD_Free_hem
+GfGmalkllkkvl
+>3445_DBASSP_AMD_Free_hem
+AFGMALKLLKKVL
+>3446_DBASSP_AMD_Free_hem
+LFGMALKLLKKVL
+>3447_DBASSP_AMD_Free_hem
+GFGMaLKLLKKVL
+>3448_DBASSP_AMD_Free_hem
+GfGMALKLLKKVL
+>3449_DBASSP_AMD_Free_hem
+GFKMALKLLKKVL
+>3451_DBASSP_AMD_Free_hem
+GFGMALKLlKKVL
+>3452_DBASSP_AMD_Free_hem
+GFGmALKLLKKVL
+>3453_DBASSP_AMD_Free_hem
+GFGMALXLLXXVL
+>3454_DBASSP_AMD_Free_hem
+GFGMALRLLRRVL
+>3455_DBASSP_AMD_Free_hem
+GFGMALKLXKKVL
+>3456_DBASSP_AMD_Free_hem
+GFGMALKXLKKVL
+>3457_DBASSP_AMD_Free_hem
+GFGMAXKLLKKVL
+>3476_DBASSP_AMD_Free_hem
+FLSTLWNAAKSIF
+>3479_DBASSP_AMD_Free_hem
+GFWGKLWEGVKNAI
+>3481_DBASSP_AMD_Free_hem
+ILSAIWSGIKSLF
+>3483_DBASSP_AMD_Free_hem
+IPPFIKKVLTTVF
+>3490_DBASSP_Free_Free_hem
+GILGKLWEGFKSIV
+>3491_DBASSP_Free_Free_hem
+FLSTIWNGIKSLL
+>3536_DBASSP_Free_Free_hem
+FLPILASLAAKFGPKLFCLVTKKC
+>3537_DBASSP_Free_Free_hem
+FLPILASLAAKLGPKLFCLVTKKC
+>3539_DBASSP_Free_Free_hem
+GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC
+>3540_DBASSP_Free_Free_hem
+GIMDSVKGLAKNLAGKLLDSLKCKITGC
+>3553_DBASSP_AMD_Free_hem
+INWLKLGKMVIDAL
+>3561_DBASSP_AMD_Free_hem
+AILTTLANWARKFL
+>3562_DBASSP_AMD_Free_hem
+NILNTIINLAKKIL
+>3563_DBASSP_Free_Free_hem
+FLPLIASLAANFVPKIFCKITKKC
+>3564_DBASSP_Free_Free_hem
+FLPLIASVAANLVPKIFCKITKKC
+>3565_DBASSP_Free_Free_hem
+SLLGTVKDLLIGAGKSAAQSVLKGLSCKLSKDC
+>3568_DBASSP_Free_Free_hem
+GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC
+>3581_DBASSP_Free_Free_hem
+GIMNTVKDVATGVATHLLNMVKCKITGC
+>3582_DBASSP_Free_Free_hem
+FLPVLTGLTPSIVPKLVCLLTKKC
+>3583_DBASSP_Free_Free_hem
+FLPVLAGLTPSIVPKLVCLLTKKC
+>3585_DBASSP_Free_Free_hem
+FLPMLAGLAASMVPKLVCLITKKC
+>3587_DBASSP_AMD_Free_hem
+FLPIITNLLGKLL
+>3588_DBASSP_AMD_Free_hem
+NFLDTLINLAKKFI
+>3079_DBASSP_Free_Free_hem
+VRRFAWWWAFLRR
+>8798_DBASSP_AMD_Free_hem
+RQIRIWFQNRRMRWRR
+>8799_DBASSP_AMD_Free_hem
+KQIKIWFQNKKMKWKK
+>3647_DBASSP_Free_Free_hem
+TSRCIFYRRKKCS
+>8800_DBASSP_AMD_Free_hem
+KIWFQNRRMKWKK
+>7435_DBASSP_AMD_Free_hem
+GLXKRIKTLL
+>609_DBASSP_Free_Free_hem
+ALWDTLLKKVLKAAAKAALDAVLVGANA
+>610_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAKAALKAVLVGANA
+>1977_DBASSP_Free_Free_hem
+SLWENFKNAGKQFILNILDKIRCRVAGGCRT
+>612_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAKAALN
+>10170_DBASSP_AMD_Free_hem
+kFwSLLkKALRLwANVL
+>613_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAK
+>614_DBASSP_Free_Free_hem
+ALWMTLLKKVLK
+>615_DBASSP_Free_Free_hem
+TLLKKVLKAAAK
+>617_DBASSP_Free_Free_hem
+KVLKAAAKAALNAVLVGANA
+>3348_DBASSP_Free_Free_hem
+SAVGRHGRRFGLRKHRKH
+>10175_DBASSP_AMD_Free_hem
+WFKKLLKKALRLWKKVL
+>1985_DBASSP_AMD_Free_hem
+ALALLXHALHXLALLAXHLAHXLALA
+>8812_DBASSP_AMD_Free_hem
+WRRRRRRRR
+>10178_DBASSP_AMD_Free_hem
+wFwKLLwKAlrLwWkVL
+>1989_DBASSP_AMD_Free_hem
+akklxhalhxallalxhlphxlkkff
+>3754_DBASSP_AMD_Free_hem
+FFSLLPSLIGGLVSAIK
+>3770_DBASSP_Free_Free_hem
+GVGKFLHSAKKFGQALVSEIMKS
+>3773_DBASSP_Free_Free_hem
+GLGSLLGKALKFGLKAAGKFMGGEPQQ
+>2198_DBASSP_Free_Free_hem
+GLFGKILGVGKKVLCGLSGMC
+>3776_DBASSP_Free_Free_hem
+GVSKILHSAGKFGKAFLGEIMKS
+>3779_DBASSP_Free_Free_hem
+GIGKFLHSAGKFGKAFIGEIMKS
+>3782_DBASSP_AMD_Free_hem
+GMASKAGSVLGKITKIALGAL
+>3783_DBASSP_Free_Free_hem
+GLGSLLGKAFKFGLKTVGKMMGGAPREQ
+>3784_DBASSP_Free_Free_hem
+GLGSLLGKAFKFGLKTVGKMMGGAPREE
+>3785_DBASSP_AMD_Free_hem
+IKLSPETKDNLKKVLKGAIKGAIAVAKMV
+>3786_DBASSP_Free_Free_hem
+LKIPGFVKDTLKKVAKGIFSAVAGAMTPS
+>3787_DBASSP_Free_Free_hem
+IKIPAVVKDTLKKVAKGVLSAVAGALTQ
+>3788_DBASSP_Free_Free_hem
+IKIPAFVKDTLKKVAKGVISAVAGALTQ
+>8826_DBASSP_AMD_Free_hem
+AKLWLKAAKLWLKAAKLWLKA
+>2000_DBASSP_AMD_Free_hem
+KWAKKWKWFAKAAWKWYKK
+>2001_DBASSP_AMD_Free_hem
+KFAKKFKWFAKAAFKFFKK
+>3817_DBASSP_Free_Free_hem
+GIKEFAHSLGKFGKAFVGGILNQ
+>3820_DBASSP_AMD_Free_hem
+GMASTAGSVLGKLAKAVAIGAL
+>3821_DBASSP_AMD_Free_hem
+GLGSVLGKALKIGANLL
+>3829_DBASSP_EN_Free_hem
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQX
+>3830_DBASSP_EN_Free_hem
+GFFALIpKIISSPLFKTLLSAVGSALSSSGGQX
+>3831_DBASSP_EN_Free_hem
+GFFALIPKIISSPLFKTllSAVGSALSSSGGQX
+>640_DBASSP_Free_Free_hem
+FLKALFKVASKVL
+>641_DBASSP_Free_Free_hem
+FLKALFKVALKVL
+>2007_DBASSP_Free_Free_hem
+GFFGNTWKKIKGKADKIMLKKAVKIMVKKEGISKEEAQAKVDAMSKKQIRLYLLKYYGKKALQKASEKL
+>10205_DBASSP_Free_Free_hem
+FLPLLAGLAANFLPTIICKIARKC
+>3889_DBASSP_AMD_Free_hem
+FLSLIPHIVSGVASIAKHF
+>3892_DBASSP_AMD_Free_hem
+IFGAILPLALGALKNLIK
+>3894_DBASSP_Free_Free_hem
+GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS
+>9405_DBASSP_AMD_Free_hem
+IFGAIWPLALGALKNLIK
+>10211_DBASSP_AMD_Free_hem
+FLPFLAGLFGKIF
+>3929_DBASSP_Free_Free_hem
+FALGAVTKLLPSLLCMITRKC
+>3930_DBASSP_Free_Free_hem
+FALGAVTKRLPSLFCLITRKC
+>2023_DBASSP_AMD_Free_hem
+KILRGVSKKIMRTFLRRILTGKK
+>671_DBASSP_Free_Free_hem
+FLGWLFKWASK
+>672_DBASSP_AMD_Free_hem
+RGGRLCYCRRRFCVCVGR
+>4105_DBASSP_Free_Free_hem
+KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+>4115_DBASSP_AMD_Free_hem
+GLLDFVTGVGKDIFAQLIKQI
+>4146_DBASSP_Free_Free_hem
+MQFITDLIKKAVDFFKGLFGNK
+>4147_DBASSP_Free_Free_hem
+MAADIISTIGDLVKLIINTVKKFQK
+>4149_DBASSP_AMD_Free_hem
+GIGTKFLGGVKTALKGALKELASTYVN
+>4154_DBASSP_AMD_Free_hem
+GIGGKILGGLRTALKGAAKELAATYLH
+>4157_DBASSP_AMD_Free_hem
+GIGGALLSAGKAALKGLAKVLV
+>4160_DBASSP_AMD_Free_hem
+GIGGALLSVGKLALKGLANVLADKFAN
+>4161_DBASSP_AMD_Free_hem
+ILGPVIKTIGGVIGGLLKNL
+>4166_DBASSP_AMD_Free_hem
+ILGPVLGLVGNALGGLIKKL
+>4168_DBASSP_AMD_Free_hem
+ILGPVLGLVGSALGGLI
+>4169_DBASSP_AMD_Free_hem
+ILGLVISTIGNVLGGLLKNL
+>4171_DBASSP_AMD_Free_hem
+ILGPVISTIGNALGGLLKNL
+>4231_DBASSP_Free_Free_hem
+GLMDTIKGVAKNVAASLLEKLKCKVTGC
+>4189_DBASSP_Free_Free_hem
+RIGVLLARLPKLFSLFKLMGKKV
+>4193_DBASSP_AMD_Free_hem
+FLRFIGSVIHGIGHLVHHIGVAL
+>4194_DBASSP_Free_Free_hem
+DSMGAVKLAKLLIDKMKCEVTKAC
+>4195_DBASSP_Free_Free_hem
+GFMDTAKNVAKNVAVTLIDKLRCKVTGGC
+>4197_DBASSP_AMD_Free_hem
+GECIWDAIFHGAKHFLHRLVNP
+>4198_DBASSP_AMD_Free_hem
+FIHHIIGGLFSVGKHIHSLIHGH
+>4199_DBASSP_AMD_Free_hem
+FIHHIIGGLFSAGKAIHRLIRRRRR
+>4209_DBASSP_Free_Free_hem
+FFPIIAGMAAKLIPSLFCKITKKC
+>4210_DBASSP_Free_Free_hem
+FLPIIAGMAAKVICAITKKC
+>4211_DBASSP_Free_Free_hem
+FFPIIAGMAAKVICAITKKC
+>4212_DBASSP_AMD_Free_hem
+FLSAITSLLGKLL
+>4213_DBASSP_Free_Free_hem
+FLPAIVGAAAKFLPKIFCAISKKC
+>4214_DBASSP_Free_ACT_hem
+FLPIIAGIAAKFLPKIFCTISKKC
+>4215_DBASSP_Free_Free_hem
+FLPVIAGVAANFLPKLFCAISKKC
+>4216_DBASSP_Free_Free_hem
+FLPIIAGAAAKVVQKIFCAISKKC
+>4217_DBASSP_Free_Free_hem
+FLPIIAGAAAKVVEKIFCAISKKC
+>4218_DBASSP_Free_Free_hem
+GLMDTIKGVAKTVAASWLDKLKCKITGC
+>703_DBASSP_AMD_Free_hem
+GIWKTIKSMGKVFAGKIKQNL
+>4220_DBASSP_Free_Free_hem
+FLPILAGLAAKLVPKVFCSITKKC
+>4221_DBASSP_Free_Free_hem
+FLPILAGLAANILPKVFCSITKKC
+>4222_DBASSP_AMD_Free_hem
+FLPIIGQLLSGLL
+>4226_DBASSP_Free_Free_hem
+FLPIIAGVAAKVLPKLFCAITKKC
+>4227_DBASSP_Free_Free_hem
+FLPVIAGLAAKVLPKLFCAITKKC
+>4229_DBASSP_Free_Free_hem
+GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC
+>4230_DBASSP_Free_Free_hem
+GLMDTVKNAAKNLAGQLLDRLKCKITGC
+>8899_DBASSP_AMD_Free_hem
+GIMSSLMKKLAAIIAK
+>708_DBASSP_Free_Free_hem
+GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS
+>4275_DBASSP_Free_Free_hem
+GEFLKCGESCVQGECYTPGCSCDWPICKKN
+>4276_DBASSP_Free_Free_hem
+GIPCGESCVFIPCITGAIGCSCKSKVCYRN
+>4277_DBASSP_Free_Free_hem
+GLPTCGETCTLGTCYVPDCSCSWPICMKN
+>4278_DBASSP_Free_Free_hem
+GIPCGESCVFIPCITAAIGCSCKSKVCYRN
+>4282_DBASSP_Free_Free_hem
+GDACGETCFTGICFTAGCSCNPWPTCTRN
+>4283_DBASSP_Free_Free_hem
+GIPCAESCVWIPCTITALMGCSCKNNVCYNN
+>4284_DBASSP_Free_Free_hem
+GIPCAESCVWIPCTITALXGCSCKNNVCYNN
+>4285_DBASSP_Free_Free_hem
+GASCGETCFTGICFTAGCSCNPWPTCTRN
+>4286_DBASSP_Free_Free_hem
+IPCGESCVWIPCITAIAGCSCKNKVCYT
+>4287_DBASSP_Free_Free_hem
+AIPCGESCVWIPCISTVIGCSCSNKVCYR
+>4288_DBASSP_Free_Free_hem
+GEYCGESCYLIPCFTPGCYCVSRQCVNKN
+>4289_DBASSP_Free_Free_hem
+IPCGESCVWIPCISGMFGCSCKDKVCYS
+>4290_DBASSP_Free_Free_hem
+IPCGESCVWIPCISGXFGCSCKDKVCYS
+>8911_DBASSP_AMD_Free_hem
+GIWSSLLKKLKKIIAK
+>4330_DBASSP_AMD_Free_hem
+ILGKIWEGIKSIF
+>4331_DBASSP_AMD_Free_hem
+ILSYLWNGIKSIF
+>4334_DBASSP_Free_Free_hem
+AWNTYDYMKREHSLVKPYQG
+>4343_DBASSP_Free_Free_hem
+GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD
+>5539_DBASSP_Free_Free_hem
+GWMSEKKVQGILDKKLPEGIIRNAAKAIVHKMAKNQFGCFANVDVKGDCKRHCKAEDKEGICHGTKCKCGVPISYL
+>4360_DBASSP_AMD_Free_hem
+ILKKLLSTAAGLLSNL
+>4361_DBASSP_AMD_Free_hem
+ILGKLLKTAAGLLSNL
+>4362_DBASSP_AMD_Free_hem
+ILGKLLSTAAKLLSNL
+>727_DBASSP_Free_Free_hem
+WSPQEEDRIIEGGI
+>4364_DBASSP_AMD_Free_hem
+ILGKLLSTAAGLLSKL
+>4365_DBASSP_AMD_Free_hem
+ILGKLLKTAAKLLSNL
+>4366_DBASSP_AMD_Free_hem
+ILGKLLSTAAKLLSKL
+>4367_DBASSP_AMD_Free_hem
+ILGKLLSWAAGLLSNL
+>4368_DBASSP_AMD_Free_hem
+ILGKLLSTWAGLLSNL
+>4369_DBASSP_AMD_Free_hem
+ILGKLLSTAWGLLSNL
+>4370_DBASSP_AMD_Free_hem
+ILGKLLSTAWGLLSKL
+>4371_DBASSP_AMD_Free_hem
+ILGKLLkTAAGLLSNL
+>4372_DBASSP_AMD_Free_hem
+ILGKLLSTAAkLLSNL
+>4374_DBASSP_AMD_Free_hem
+ILGKLLkTAAkLLSNL
+>4375_DBASSP_AMD_Free_hem
+ILGKLLSTAAkLLSKL
+>4376_DBASSP_AMD_Free_hem
+ILGKLLSTAWkLLSNL
+>4377_DBASSP_AMD_Free_hem
+ILGKLLSTAWGLLSkL
+>4378_DBASSP_AMD_Free_hem
+ILGKLLSTAWkLLSkL
+>4386_DBASSP_Free_Free_hem
+GFSSIFRGVAKFASKGLGKKLAKLGVKLVACKISKQC
+>4387_DBASSP_Free_Free_hem
+GFSSIFRGVAKFASKGLGKDLAKLGVDLVASKISKQS
+>4388_DBASSP_Free_Free_hem
+GFSSIFRGVAKFASKGLGKDLAKLGVDLVA
+>4393_DBASSP_AMD_Free_hem
+ILGAILPLVSGLLSNKL
+>4395_DBASSP_Free_Free_hem
+GLMDTVKNAAKNLAGQMLDKLKCKITGSC
+>4405_DBASSP_Free_Free_hem
+IKIPSFFRNILKKVGKEAVSLIAGALKQS
+>4406_DBASSP_Free_Free_hem
+GIFPIFAKLLGKVIKVASSLISKGRTE
+>4407_DBASSP_AMD_Free_hem
+IKLSPkTKkNLKKVLKGAIKGAIAVAKMV
+>4416_DBASSP_AMD_C16_hem
+GLKKIFKAGLGSLVKGIAAHVAS
+>4417_DBASSP_AMD_Free_hem
+GLKKIFKAGLGSLVKGIXAHVAS
+>4418_DBASSP_Free_Free_hem
+FLPILASLAAKFGPKLFSLVTKKS
+>4419_DBASSP_Free_Free_hem
+FLPILASLAAKFGPKLFXLVTKKX
+>4420_DBASSP_AMD_Free_hem
+IKLSKETKDNLKKVLKGAIKGAIAVAKMV
+>4421_DBASSP_AMD_Free_hem
+IKLSPKTKDNLKKVLKGAIKGAIAVAKMV
+>4422_DBASSP_AMD_Free_hem
+IKLSPETKKNLKKVLKGAIKGAIAVAKMV
+>4423_DBASSP_AMD_Free_hem
+IKLSKKTKDNLKKVLKGAIKGAIAVAKMV
+>4424_DBASSP_AMD_Free_hem
+IKLSKETKKNLKKVLKGAIKGAIAVAKMV
+>2875_DBASSP_AMD_Free_hem
+KLWLLWLKWLL
+>4426_DBASSP_AMD_Free_hem
+IKLSPkTKDNLKKVLKGAIKGAIAVAKMV
+>4433_DBASSP_AMD_Free_hem
+RVCSWIPLPICH
+>4451_DBASSP_Free_Free_hem
+FFGSLLSLGSKLLPSVFKLFQRKKE
+>4469_DBASSP_Free_Free_hem
+AWLDKLKSLGKVVGKVALGVAQNYLNPQQ
+>4480_DBASSP_Free_Free_hem
+GIRCPKSWKCKAFKQRVLKRLLAMLRQHAF
+>4483_DBASSP_AMD_Free_hem
+SGTSEKERESGRLLGVVKRLIVCFRSPFP
+>4492_DBASSP_Free_Free_hem
+KRFWPLVPVAINTVAAGINLYKAIRRK
+>4499_DBASSP_AMD_Free_hem
+kklallalkkwllalkklallalkk
+>4500_DBASSP_AMD_Free_hem
+kklallalkkwlpalkklallalkk
+>4501_DBASSP_AMD_Free_hem
+kklalalakkwlalakklalalakk
+>4502_DBASSP_AMD_Free_hem
+kklalalakkwlplakklalalakk
+>4503_DBASSP_AMD_Free_hem
+kklalhalkkwlhalkklahlalkk
+>4504_DBASSP_AMD_Free_hem
+kkalahalkkwlpalkklahalakk
+>4505_DBASSP_AMD_Free_hem
+kkalakalkhwlpalhklakalakk
+>4506_DBASSP_AMD_Free_hem
+kkalkhalakwlpalkalahklakk
+>4542_DBASSP_AMD_Free_hem
+FVKLKKILNIINSIFKK
+>4543_DBASSP_AMD_Free_hem
+FVKLKKILNIILSIFKK
+>4544_DBASSP_AMD_Free_hem
+FVDLKKIANIINSIFGK
+>4548_DBASSP_Free_Free_hem
+QCRRLCYKQRCVTYCRGR
+>4550_DBASSP_Free_Free_hem
+QXRRLCYKQRCVTYXRGR
+>4552_DBASSP_Free_Free_hem
+QTRRLTYKpRTVTYTRGR
+>4554_DBASSP_AMD_Free_hem
+LRRLWLRANRLLRRLWLRANRL
+>4572_DBASSP_AMD_Free_hem
+FIKRIARLLRKIF
+>4573_DBASSP_AMD_Free_hem
+IWRIFR
+>4574_DBASSP_AMD_Free_hem
+IWRIFRRIF
+>4575_DBASSP_AMD_Free_hem
+IWRIFRRIFRIF
+>4576_DBASSP_AMD_Free_hem
+IWRIFRRIFRIFIRF
+>4584_DBASSP_AMD_Free_hem
+KWLRRVWRWWR
+>4587_DBASSP_AMD_Free_hem
+LLIILRRRIRKQAHAHSK
+>4588_DBASSP_AMD_Free_hem
+LLIILRRRWRKQARARSK
+>4589_DBASSP_AMD_Free_hem
+LLIILRRRWRKQAKAKSK
+>4590_DBASSP_AMD_Free_hem
+LLIILRRRWRRQARARSR
+>4591_DBASSP_AMD_Free_hem
+LLIILKKKWKKQAKAKSK
+>4594_DBASSP_Free_Free_hem
+GIIKKIIKKIIKKI
+>4595_DBASSP_Free_Free_hem
+GIIKKIIKKIIKKIIKKI
+>4612_DBASSP_Free_Free_hem
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE
+>4614_DBASSP_AMD_Free_hem
+GFFALIAKIISSPLFKTL
+>4615_DBASSP_AMD_Free_hem
+GFFALIAQIISSPLFQTL
+>4616_DBASSP_AMD_Free_hem
+LLQWLSKLLGRLL
+>4617_DBASSP_AMD_Free_hem
+LLQWLSKLLGRWL
+>4618_DBASSP_AMD_Free_hem
+FVQWFSKFLLRIL
+>4619_DBASSP_AMD_Free_hem
+FVPWFSKFLGRIL
+>4620_DBASSP_AMD_Free_hem
+FLPWFSKFLGRIL
+>4623_DBASSP_AMD_Free_hem
+FVQWFSKFLGKIL
+>4624_DBASSP_AMD_Free_hem
+FVQWFSKFLGXIL
+>4625_DBASSP_AMD_Free_hem
+FVQWFSRFLGRIL
+>4626_DBASSP_AMD_Free_hem
+FVRWFSKFLGRIL
+>4627_DBASSP_AMD_Free_hem
+FVRWFSRFLGRIL
+>4628_DBASSP_AMD_Free_hem
+FVPWFSKFLGXIL
+>4629_DBASSP_AMD_Free_hem
+fvqwfskflGril
+>4630_DBASSP_AMD_Free_hem
+lirGlfksfwqvf
+>4652_DBASSP_Free_Free_hem
+FFGWLIKGAIHAGKAIHGLIHRRRH
+>4654_DBASSP_AMD_Free_hem
+ALPLIGRVLSGIL
+>4656_DBASSP_AMD_Free_hem
+FAPLIGRVLSGIL
+>4658_DBASSP_AMD_Free_hem
+FLALIGRVLSGIL
+>4661_DBASSP_AMD_Free_hem
+FLPLIARVLSGIL
+>4662_DBASSP_AMD_Free_hem
+FLPLIGAVLSGIL
+>4667_DBASSP_AMD_Free_hem
+FLPLIGRVLAGIL
+>4668_DBASSP_AMD_Free_hem
+FLPLIGRVLSAIL
+>6975_DBASSP_AMD_Free_hem
+KRRLILRILRLAIRALVKKR
+>4680_DBASSP_Free_Free_hem
+RGGRLCYCRRRFCVCI
+>4686_DBASSP_AMD_Free_hem
+FDLLGLVKSVVSAL
+>10249_DBASSP_AMD_Free_hem
+FFPGIIKVASAILPTAICAITKRC
+>4724_DBASSP_Free_Free_hem
+GIWSSIKNLASKAWNSDIGQSLRNKAAGAINKFVADKIGVTPSQAAS
+>4726_DBASSP_Free_Free_hem
+NGVQPKY
+>4727_DBASSP_Free_Free_hem
+NAGSLLSGWG
+>1794_DBASSP_AMD_Free_hem
+GIGAVLIVLTTGLPALISWIKRKRQQ
+>4732_DBASSP_AMD_ACT_hem
+kwksflktfksakktvlhtllkaiss
+>4733_DBASSP_AMD_ACT_hem
+kwksflktfkslkktvlhtllkaiss
+>4734_DBASSP_AMD_ACT_hem
+kwksflktfkslkktvlhtllkliss
+>4735_DBASSP_AMD_ACT_hem
+kwksflktfkslkktklhtllkliss
+>2156_DBASSP_AMD_Free_hem
+AIGSILGALAKGLPTLISWIKNR
+>4750_DBASSP_AMD_Free_hem
+GIGAVLKVLALISWIKRKR
+>4751_DBASSP_AMD_Free_hem
+GIGAvLKvLAlISWIkRKR
+>4752_DBASSP_AMD_Free_hem
+ILPLKWPWWPWRR
+>4753_DBASSP_AMD_Free_hem
+ILPWKLPWWPWRR
+>4754_DBASSP_AMD_Free_hem
+ILPWKWPLWPWRR
+>4760_DBASSP_AMD_Free_hem
+ILPLKLPLLPLRR
+>4766_DBASSP_AMD_Free_hem
+ILPWKWPLLPWRR
+>4767_DBASSP_AMD_Free_hem
+ILPWKWPYLPWRR
+>4776_DBASSP_AMD_Free_hem
+RRWPWWPWKWPLI
+>4798_DBASSP_AMD_Free_hem
+KLKKLLKKWLKLLKKLLK
+>4800_DBASSP_AMD_Free_hem
+KLKKLlKKWLKlLKKLLk
+>4801_DBASSP_AMD_Free_hem
+KLKKlLKKWlKLLKkLLK
+>4804_DBASSP_AMD_Free_hem
+KLKKLLKKWlkllkkllk
+>4805_DBASSP_AMD_ACT_hem
+ILPWKWPWWPWRR
+>4806_DBASSP_Free_Free_hem
+ILPWKWPWWPWRR
+>4807_DBASSP_AMD_Free_hem
+ILPWKWPWWPWR
+>4808_DBASSP_AMD_Free_hem
+ILPWKWPWWPW
+>4809_DBASSP_AMD_Free_hem
+ILPWKWPWWP
+>4810_DBASSP_AMD_Free_hem
+ILPWKWPWW
+>4811_DBASSP_AMD_Free_hem
+ILPWKWPW
+>4812_DBASSP_AMD_Free_hem
+LPWKWPWWPWRR
+>4813_DBASSP_AMD_Free_hem
+PWKWPWWPWRR
+>4814_DBASSP_AMD_Free_hem
+WKWPWWPWRR
+>4815_DBASSP_AMD_Free_hem
+WPWWPWRR
+>4816_DBASSP_AMD_Free_hem
+ALPWKWPWWPWRR
+>4817_DBASSP_AMD_Free_hem
+IAPWKWPWWPWRR
+>4818_DBASSP_AMD_Free_hem
+ILAWKWPWWPWRR
+>4819_DBASSP_AMD_Free_hem
+ILPAKWPWWPWRR
+>4820_DBASSP_AMD_Free_hem
+ILPWAWPWWPWRR
+>4821_DBASSP_AMD_Free_hem
+ILPWKAPWWPWRR
+>4822_DBASSP_AMD_Free_hem
+ILPWKWAWWPWRR
+>4823_DBASSP_AMD_Free_hem
+ILPWKWPAWPWRR
+>4824_DBASSP_AMD_Free_hem
+ILPWKWPWAPWRR
+>4825_DBASSP_AMD_Free_hem
+ILPWKWPWWAWRR
+>4826_DBASSP_AMD_Free_hem
+ILPWKWPWWPWAR
+>4827_DBASSP_AMD_Free_hem
+ILPWKWPWWPWRA
+>4829_DBASSP_AMD_Free_hem
+ILPIKIPIIPIRR
+>4834_DBASSP_AMD_Free_hem
+ILPWRWPWWPWRR
+>4835_DBASSP_AMD_Free_hem
+ILPWXWPWWPWRR
+>4836_DBASSP_AMD_Free_hem
+ILPWKWPWWPWKK
+>4837_DBASSP_AMD_Free_hem
+ILPWKWPWWPWXX
+>4838_DBASSP_AMD_Free_hem
+ILGWKWGWWGWRR
+>4841_DBASSP_AMD_Free_hem
+ilpwkwpwwpwrr
+>4842_DBASSP_AMD_Free_hem
+rrwpwwpwkwpli
+>4843_DBASSP_AMD_Free_hem
+RRFPFFPFKFPLI
+>4844_DBASSP_AMD_Free_hem
+ilpfkfpffpfrr
+>4845_DBASSP_AMD_Free_hem
+rrfpffpfkfpli
+>4846_DBASSP_AMD_Free_hem
+ILPWKWPFFPWRR
+>4867_DBASSP_Free_Free_hem
+FFHHIFRGIVHVGKTIHRLVTG
+>4868_DBASSP_Free_Free_hem
+FFHHIFRAIVHVGKTIHRLVTG
+>4869_DBASSP_Free_Free_hem
+FFHHIFRGIVHVAKTIHRLVTG
+>4872_DBASSP_Free_Free_hem
+KNLRRIIRKGIHIIKKYF
+>4873_DBASSP_Free_Free_hem
+FFHHIFRAIVHVAKTIHRLVTG
+>4874_DBASSP_Free_Free_hem
+FFHHIFRPIVHVGKTIHRLVTG
+>4875_DBASSP_Free_Free_hem
+FFHHIFRGIVHVPKTIHRLVTG
+>4880_DBASSP_Free_Free_hem
+fPVXLfPXXL
+>4882_DBASSP_Free_Free_hem
+FFHHIFRPIVHVPKTIHRLVTG
+>4883_DBASSP_Free_Free_hem
+fPVXLfPVXX
+>4884_DBASSP_Free_Free_hem
+FFHHIFRAIVHVPKTIHRLVTG
+>4885_DBASSP_Free_Free_hem
+fPVXXfPVXX
+>4886_DBASSP_Free_Free_hem
+fPXXXfPXXX
+>4887_DBASSP_Free_Free_hem
+FFHHIFRPIVHVAKTIHRLVTG
+>4890_DBASSP_Free_Free_hem
+fPXXXfPXXX
+>815_DBASSP_Free_Free_hem
+XCRRLCYKQRCVTYCRGR
+>4892_DBASSP_Free_Free_hem
+FFHHIFRaIVHVaKTIHRLVTG
+>4895_DBASSP_Free_Free_hem
+fPXXXfPXXX
+>4900_DBASSP_AMD_Free_hem
+GFKKLLKGAAKALVKTVLF
+>4906_DBASSP_AMD_Free_hem
+GFKDLLKKAAKALVKTVLF
+>4911_DBASSP_AMD_Free_hem
+GFKDLLKkAAKALVKTVLF
+>4918_DBASSP_AMD_Free_hem
+GFKDLLKGAAKALVKAVLF
+>4922_DBASSP_AMD_Free_hem
+GLLGKLLKIAAKVGSNLL
+>4924_DBASSP_AMD_Free_hem
+GLLGPLLKIAAKVGKNLL
+>4925_DBASSP_AMD_Free_hem
+GLLGPLLKIAAKVGKKLL
+>4926_DBASSP_AMD_Free_hem
+GLLGPLLKIAAKVGSKLL
+>4927_DBASSP_AMD_Free_hem
+GLLGKLLKIAAKVGKKLL
+>4928_DBASSP_AMD_Free_hem
+GLLKKLLKIAAKVGKKLL
+>4932_DBASSP_AMD_Free_hem
+KKKKKKALFALWLAFLA
+>4937_DBASSP_AMD_Free_hem
+GXLXXAAXSVGXFXXXHXXXIXAAWQIGKHAL
+>4946_DBASSP_AMD_Free_hem
+DAACAAHCLWR
+>4947_DBASSP_AMD_Free_hem
+DAACAAKCLWR
+>4948_DBASSP_AMD_Free_hem
+KAACAAHCLWR
+>4950_DBASSP_AMD_Free_hem
+KAACAAKCLWR
+>4952_DBASSP_AMD_Free_hem
+LKLASIVSWAKKVL
+>4954_DBASSP_AMD_Free_hem
+LKLKSIVSWAKAVL
+>4965_DBASSP_Free_Free_hem
+WKKVFKRLEKLFSKIWNWK
+>10386_DBASSP_Free_Free_hem
+RWCVYACVRGVCYRRCW
+>4978_DBASSP_AMD_BZO_hem
+KKLFKKILKVL
+>4980_DBASSP_AMD_Free_hem
+KKLFKKILKWL
+>4981_DBASSP_AMD_Free_hem
+FKLFKKILKFL
+>4982_DBASSP_AMD_ACT_hem
+KKLFKKILKFL
+>4983_DBASSP_AMD_Tos_hem
+KKLFKKILKFL
+>4984_DBASSP_AMD_Free_hem
+LKLFKKILKFL
+>2196_DBASSP_Free_Free_hem
+GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC
+>4986_DBASSP_AMD_BZO_hem
+KKLFKKILKYL
+>4987_DBASSP_AMD_Free_hem
+LKLFKKILKYL
+>4988_DBASSP_AMD_Tos_hem
+YKLFKKILKKL
+>5000_DBASSP_AMD_Free_hem
+KWKKLLKKLLKLLKKLLK
+>5017_DBASSP_AMD_Free_hem
+HFLKTLVNLAKKIL
+>5018_DBASSP_AMD_Free_hem
+HFLGKLVNLAKKIL
+>3567_DBASSP_Free_Free_hem
+GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC
+>5021_DBASSP_AMD_Free_hem
+HFLGTLVKLAKKIL
+>5027_DBASSP_AMD_Free_hem
+HFLkTLVNLAKKIL
+>5029_DBASSP_AMD_Free_hem
+HFLGTLVNLAkKIL
+>5031_DBASSP_AMD_Free_hem
+HFLGTLVNXAKKIL
+>5032_DBASSP_AMD_Free_hem
+HFLGTLVNLAKKXL
+>5033_DBASSP_AMD_Free_hem
+HFLGTLVNXAKKXL
+>5034_DBASSP_Free_Free_hem
+KWRRWVRWI
+>5038_DBASSP_Free_Free_hem
+KWRRWIRWL
+>5041_DBASSP_Free_Free_hem
+KKLFKKILKFL
+>2206_DBASSP_AMD_Free_hem
+FLSHIAGFLSNLF
+>5047_DBASSP_Free_Free_hem
+KKLIKKILKIL
+>2207_DBASSP_AMD_Free_hem
+AVDLAKIANKVLSSLF
+>5060_DBASSP_AMD_Free_hem
+XLXKXLXLXKXLXLX
+>5061_DBASSP_AMD_Free_hem
+XLXLXLXKXLXKXLX
+>5064_DBASSP_AMD_Free_hem
+KWKKLLKKLLKLLKKLLKKLKKLLK
+>5066_DBASSP_AMD_Free_hem
+KWKKLLKKLLKLLKKLLKKLK
+>5067_DBASSP_AMD_Free_hem
+KWKKLLKKLLPLLKKLLKKLK
+>5068_DBASSP_AMD_Free_hem
+KWKKLLKKLLKLLKKLL
+>5070_DBASSP_AMD_Free_hem
+XLXLXLXLXLXKXLX
+>5071_DBASSP_AMD_Free_hem
+XFXLXLXFXFXKXLX
+>5079_DBASSP_Free_Free_hem
+KFGKIVGKVLKQLKKVSAVAKVAMKKG
+>5080_DBASSP_Free_Free_hem
+GKVLDKFGKIVGKVLKQLKKVSAVAKV
+>5081_DBASSP_Free_Free_hem
+FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV
+>5083_DBASSP_Free_Free_hem
+FKIKPGKVLDKFGKIVGKVLKQLKKVS
+>5084_DBASSP_Free_Free_hem
+FKIKASKVLDKFGKIVGKVLKQLKKVSAVAKV
+>5085_DBASSP_Free_Free_hem
+FSISPGKVLDKFGKIVGKVLKQLKKVSAVAKV
+>5097_DBASSP_Free_Free_hem
+VKLLVyPLKVKLyP
+>5098_DBASSP_Free_Free_hem
+VKLlVyPLKVKLyP
+>5099_DBASSP_Free_Free_hem
+VKLFVyPLKVKLyP
+>5101_DBASSP_Free_Free_hem
+VKLfVyPLKVKLyP
+>5103_DBASSP_Free_Free_hem
+VKLYVyPLKVKLyP
+>5104_DBASSP_Free_Free_hem
+VKLyVyPLKVKLyP
+>5120_DBASSP_Free_Free_hem
+VKLNVyPLKVKLyP
+>5121_DBASSP_Free_Free_hem
+VKLnVyPLKVKLyP
+>5122_DBASSP_Free_Free_hem
+VKLGVyPLKVKLyP
+>5131_DBASSP_Free_Free_hem
+PICTRNGLPVCGETCFGGTCNTPGCTCTW
+>5132_DBASSP_Free_Free_hem
+PVCTRNGLPVCGETCVGGTCNTPGCTCSW
+>5133_DBASSP_Free_Free_hem
+PICKRNGLPVCGETCTLGTCYTQGCTCSW
+>5135_DBASSP_AMD_Free_hem
+VRRFPWWWPFLRR
+>5137_DBASSP_AMD_Free_hem
+VRRFAWWWAFLRR
+>5140_DBASSP_AMD_Free_hem
+VRRYPWWWPYLRR
+>5143_DBASSP_AMD_Free_hem
+VRRFPWWWAFLRR
+>5163_DBASSP_Free_Free_hem
+HAEHKVKIKVKQKYGQFPQGTEVTYTCSGNYFLM
+>5165_DBASSP_Free_Free_hem
+GWGSFFKKAAHVAKHVAKAALTHYL
+>5166_DBASSP_Free_Free_hem
+AWASFFKKAAHVAKHVAKAALTHYL
+>5167_DBASSP_Free_Free_hem
+GWGSFFKKAAAVGKAVGKAALTAYL
+>5177_DBASSP_Free_Free_hem
+GILDTIKSIASKVWNSKTVQDLKRKGINWVANKLGVSPQAA
+>5185_DBASSP_Free_Free_hem
+GlpvcGetcvGGtcntpGctcswpvctrn
+>5193_DBASSP_Free_Free_hem
+KLFKRHLKWKII
+>5196_DBASSP_Free_C12_hem
+KLFKRHLKWKII
+>5220_DBASSP_AMD_Free_hem
+KWKKLLKKLXKLLKKLLK
+>5221_DBASSP_AMD_Free_hem
+KWKKLLKKLLXLLKKLLK
+>5223_DBASSP_AMD_Free_hem
+KWKKLLXKLLXLLKKLLK
+>5226_DBASSP_AMD_Free_hem
+RRWCFRVCYRGRFCYRKCR
+>5229_DBASSP_AMD_Free_hem
+RGLRRLGRKIAHGVKKYGATVLRIIRIA
+>5235_DBASSP_Free_Free_hem
+GTPCGESCVYIPCISGVIGCSCTDKVCYLN
+>5236_DBASSP_Free_Free_hem
+GLPVCGETCFGGTCNTPGCSCTWPICTRD
+>5237_DBASSP_Free_Free_hem
+GLPTCGETCFGGTCNTPGCSCSSWPICTRN
+>5238_DBASSP_Free_Free_hem
+GLPVCGETCTLGTCYTQGCTCSWPICKRN
+>5239_DBASSP_Free_Free_hem
+GIPCAESCVYIPCTVTALLGCSCSNRVCYN
+>5240_DBASSP_Free_Free_hem
+GLPVCGETCFGGTCNTPGCICDPWPVCTRN
+>5281_DBASSP_Free_Free_hem
+GIFPKIIGKGIVNGIKSLAKGVGMKVFKAGLNNIGNTGCNNRDEC
+>5282_DBASSP_Free_Free_hem
+GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC
+>5283_DBASSP_Free_Free_hem
+GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC
+>5284_DBASSP_Free_Free_hem
+GLMDTVKNAAKNLAGQLLDTIKCKMTGC
+>5285_DBASSP_Free_Free_hem
+GILDTIKNAAKTVAVGLLEKIKCKMTGC
+>5286_DBASSP_Free_Free_hem
+GFISTVKNLATNVAGTVIDTIKCKVTGGC
+>5287_DBASSP_AMD_Free_hem
+FLPIVGRLISGLL
+>5288_DBASSP_Free_Free_hem
+VKKLVyPLKVKLyP
+>5289_DBASSP_Free_Free_hem
+LKLkLfPLKLKLfP
+>5290_DBASSP_Free_Free_hem
+LKLkLyPLKLKLyP
+>5291_DBASSP_Free_Free_hem
+VKLkVfPLKVKLfP
+>5296_DBASSP_Free_Free_hem
+VKLyPVKLyP
+>5297_DBASSP_Free_Free_hem
+VKyPKLyP
+>5298_DBASSP_Free_Free_hem
+KyPKyP
+>5299_DBASSP_Free_Free_hem
+SIGSALKKALPVAKKIGKIALPIAKAALPVAAGLVG
+>5301_DBASSP_Free_Free_hem
+NWKGIAAMAKKLL
+>3177_DBASSP_AMD_Free_hem
+SLLSLIRKLIT
+>5304_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGENWELM
+>5305_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGENWKLM
+>5306_DBASSP_Free_Free_hem
+SIGTAVKKAVPIAKKVGKVAIPIAKAVLSVVGQLVG
+>3615_DBASSP_AMD_Free_hem
+GFWGKLWEGVKSAI
+>5309_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGKNWELMEK
+>5310_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGKNWELMKK
+>5311_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGKNWKLMKK
+>5312_DBASSP_AMD_Free_hem
+KNWKGIAGMAKKLLGKNWKLM
+>5313_DBASSP_Free_Free_hem
+KNWKGIAGMAKKLLGKNWKLM
+>5324_DBASSP_AMD_Free_hem
+GFLSILKKVLPKVXAHXK
+>5326_DBASSP_AMD_Free_hem
+GFLSILKKVLPKXXAHXK
+>5328_DBASSP_AMD_Free_hem
+GFLSXLKKXLPKVXAHXK
+>5329_DBASSP_AMD_Free_hem
+GFLSXLKKXLPKXXAHXK
+>5330_DBASSP_AMD_Free_hem
+GFXSILKKVXPKVXAHXK
+>5331_DBASSP_AMD_Free_hem
+GFXSILKKVXPKVXAHXK
+>5332_DBASSP_AMD_Free_hem
+GFLSXLKKXLGKXXAHXK
+>5333_DBASSP_AMD_Free_hem
+GFLSXLKKXLAKXXAHXK
+>5334_DBASSP_AMD_Free_hem
+VNWKKXLGKXIKVVK
+>4985_DBASSP_AMD_Tos_hem
+KKLFKKILKYL
+>5338_DBASSP_AMD_Free_hem
+VNWKKILGKXIKVXK
+>5339_DBASSP_AMD_Free_hem
+VXWKKXLGKIIKVVK
+>5340_DBASSP_AMD_Free_hem
+VNXKKIXGKXIKVXK
+>5341_DBASSP_AMD_Free_hem
+VNXKKILGKXIKVVK
+>5342_DBASSP_AMD_Free_hem
+VNXKKILGKXIKVVK
+>5343_DBASSP_AMD_Free_hem
+VNXKKIXPKXIKVXK
+>5344_DBASSP_AMD_Free_hem
+WLRRIGKGVKIIGGAALDHL
+>5345_DBASSP_AMD_Free_hem
+KWKKLLKKLLKLL
+>5351_DBASSP_Free_Free_hem
+GLFDIIKKIAESFKFSEAIKKIIDFLG
+>5352_DBASSP_Free_Free_hem
+MGIIAGIIKVIKSLIEQFTGK
+>5354_DBASSP_Free_Free_hem
+MAIVGTIIKIIKAIIDIFAK
+>5355_DBASSP_Free_Free_hem
+VGTIIKIIKAIIDIFAK
+>5360_DBASSP_AMD_Free_hem
+GWKDWFRKAKKVGKTVGGLALNHYL
+>5361_DBASSP_Free_Free_hem
+GIRKWFKKAAHVGKEVGKVALNACL
+>5362_DBASSP_AMD_Free_hem
+GLKKWFKKAVHVGKKVGKVALNAYL
+>5363_DBASSP_AMD_Free_hem
+GWRKWIKKATHVGKHIGKAALDAYI
+>5364_DBASSP_AMD_Free_hem
+GCKKWFKKAAHVGKNVGKVALNAYL
+>5365_DBASSP_AMD_Free_hem
+GIRKWFKKAAHVGKKVGKVALNAYL
+>5366_DBASSP_AMD_Free_hem
+GrrkrkWLrrIGkGVkIIGGAALDHL
+>5367_DBASSP_AMD_Biotin_hem
+GRRKRKWLRRIGKGVKIIGGAALDHL
+>5368_DBASSP_AMD_Free_hem
+GIGKFLHSAKKFGKAFVGEIMNS
+>5369_DBASSP_AMD_Free_hem
+GLVGTLLGHIGKAILG
+>5370_DBASSP_AMD_Free_hem
+GLVGTLLGHIGKAILS
+>5372_DBASSP_Free_Free_hem
+MVALLKSLERRRLMITISTMLQFGLFLIALIGLVIKLIELSNKK
+>5373_DBASSP_Free_Free_hem
+MITISTMLQFGLFLIALIGLVIKLIELSNKK
+>5382_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCKCSWPVCTRN
+>5385_DBASSP_AMD_Free_hem
+KRFKKFFKKLKNSVKKRVKKFFRKPRVIGVTFPF
+>5387_DBASSP_AMD_Free_hem
+KRFKKFFMKLKKSVKKRVMKFFKKPMVIGVTFPF
+>5389_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCNCSWPVCTRK
+>5405_DBASSP_AMD_Free_hem
+rGGrlcycrrrfcvcvGr
+>5411_DBASSP_AMD_Free_hem
+RLGTALPALLKTLLAGLNG
+>5417_DBASSP_Free_Free_hem
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>5428_DBASSP_AMD_Free_hem
+GIGAVLKVLTTGLpALISWIKRKRQQ
+>5429_DBASSP_AMD_Free_hem
+GIGAVLKVLTTGLpALISWIKFKRQQ
+>5430_DBASSP_AMD_Free_hem
+KIGAKXKIGAKIKIGAKI
+>5432_DBASSP_AMD_Free_hem
+KIGAKIKXGAKIKIGAKI
+>5434_DBASSP_AMD_Free_hem
+KIGAKIKIGAKXKIGAKI
+>5436_DBASSP_AMD_Free_hem
+KIGAKIKIGAKIKXGAKI
+>5443_DBASSP_AMD_Free_hem
+FLGFLKNLF
+>5444_DBASSP_AMD_Free_hem
+FLGFLHHLF
+>5446_DBASSP_AMD_Free_hem
+GFGTILKALAKIAGKVVKKLATKPGATYMLKENLK
+>5447_DBASSP_AMD_Free_hem
+GAGALAKFLAKKVAKTVAKQAAKQGAKYVVNKQME
+>5448_DBASSP_AMD_Free_hem
+GKGALKKFLAKKVAKTVAKQAAKQGAKYVVNKQME
+>5455_DBASSP_Free_Free_hem
+GIGAVLKVLSTGLPALISWIKRKRQQ
+>5481_DBASSP_AMD_Free_hem
+klALKLALKALKAALKLA
+>5482_DBASSP_AMD_Free_hem
+KLalKLALKALKAALKLA
+>5483_DBASSP_AMD_Free_hem
+KLALklALKALKAALKLA
+>5484_DBASSP_AMD_Free_hem
+KLALKLalKALKAALKLA
+>5485_DBASSP_AMD_Free_hem
+KLALKLALkaLKAALKLA
+>5487_DBASSP_AMD_Free_hem
+KLALKLALKALKaaLKLA
+>5488_DBASSP_AMD_Free_hem
+KLALKLALKALKAAlkLA
+>5489_DBASSP_AMD_Free_hem
+KLALKLALKALKAALKla
+>5490_DBASSP_Free_Free_hem
+GLGSVFGRLARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ
+>5504_DBASSP_AMD_Free_hem
+FVPWFSKfLGRIL
+>5512_DBASSP_AMD_Free_hem
+GIGKFLHKVKSFGKSWIGEIMNS
+>5513_DBASSP_AMD_Free_hem
+GIGKFLHKVGSFIKSWKGEIMNS
+>5515_DBASSP_Free_Free_hem
+GYGCPFNQYQCHSHCSGIRGYKGGYCKGTFKQTCKCY
+>5520_DBASSP_Free_Free_hem
+KWKSFLKKLTSAAKKVLTTALKPISS
+>5521_DBASSP_Free_Free_hem
+KWKSFLKTLKSPVKTVFYTALKPISS
+>5522_DBASSP_Free_Free_hem
+KWKSFLKTFKSPVKTVFYTALKPISS
+>5523_DBASSP_Free_Free_hem
+KWKSFLKTFKSPARTVLYTALKPISS
+>5524_DBASSP_Free_Free_hem
+KWKSFLKTFKSPARTVLHTALKPISS
+>5530_DBASSP_Free_Free_hem
+ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ
+>5531_DBASSP_Free_Free_hem
+ALWMTLLKKVLKAAAKALNAVLVGANA
+>5532_DBASSP_Free_Free_hem
+GLWSKIKTAGKSVAKAAAKAAVKAVTNAV
+>5535_DBASSP_AMD_Free_hem
+ALWKNMLKGIGKLAGK
+>5538_DBASSP_AMD_Free_hem
+ALWKNMLKGI
+>5540_DBASSP_Free_Free_hem
+KSTVGQKLKKKLNQAVDKVKEVLNKSEYMCPVVSSFCKQHCARLGKSGQCDLLECIC
+>5541_DBASSP_Free_Free_hem
+KFFKFFKFF
+>5550_DBASSP_AMD_Free_hem
+GFFALIPKIISSPLFKTLLSAX
+>5570_DBASSP_AMD_Free_hem
+KWllLLKlLlLK
+>5571_DBASSP_AMD_Free_hem
+KLllLWKlLlLK
+>5572_DBASSP_AMD_Free_hem
+KLllLLKlLlWK
+>5588_DBASSP_AMD_Free_hem
+XCRRLCYKQRCVTYCRGR
+>5593_DBASSP_AMD_Free_hem
+RLYRRLYRRLYRRLYRRLYRRLYRRLYRRLYR
+>5604_DBASSP_Free_Free_hem
+INLKAITALAKKLL
+>5623_DBASSP_Free_Free_hem
+FIHHIIGGLFSAGKAIHRLIRRRRR
+>8918_DBASSP_AMD_Free_hem
+GILSSLWKKLKKWIAK
+>5687_DBASSP_AMD_Free_hem
+FFPFLLGALGSLLPKIF
+>5695_DBASSP_Free_Free_hem
+FMGTALKIAANVLPAAFCKIFKKC
+>5696_DBASSP_Free_Free_hem
+GLRDKIKNVAIDVAKGAGTGVLKALLCQLDKSC
+>5697_DBASSP_Free_Free_hem
+GVLDTLKNVAIGVAKGAGTGVLKALLCQLDKSC
+>5721_DBASSP_AMD_Free_hem
+ILPIRSLIKKLL
+>5722_DBASSP_AMD_Free_hem
+FLPLKKLRFGLL
+>165_DBASSP_Free_Free_hem
+KWKSFIKKLTSAAKKVVTTAKPLISS
+>10517_DBASSP_AMD_ACT_hem
+alksllatlskaakkalktllaalsk
+>2326_DBASSP_AMD_Free_hem
+KKKLLLLLLLLLKKK
+>3193_DBASSP_Free_Free_hem
+ALWKTLLKNVGKAAGKAALNAVTDMVNQ
+>5795_DBASSP_AMD_Free_hem
+GLLSLLSLLGKLL
+>5796_DBASSP_AMD_Free_hem
+GLLPLLSLLGKLL
+>5799_DBASSP_AMD_Free_hem
+FFGSVLKLIPKIL
+>5801_DBASSP_AMD_Free_hem
+FFGSLLKLLPKLL
+>5802_DBASSP_AMD_Free_hem
+LLGSLLKLLPKLL
+>9160_DBASSP_Free_Free_hem
+VRRFPXWXPFLRR
+>2335_DBASSP_AMD_Free_hem
+HFLGTLVNLAKKIL
+>5842_DBASSP_Free_Free_hem
+FWGALAKGALKLIGSLFSSFSKKD
+>5843_DBASSP_Free_Free_hem
+FWGALAKGALKLIGPGSLFSSFSKKD
+>5853_DBASSP_AMD_Free_hem
+GLLKKWLKKWKEFKRIVGY
+>5859_DBASSP_Free_Free_hem
+LVQRGRFGRFLRKIRRFRPKVTITIQGSARF
+>5863_DBASSP_Free_Free_hem
+RRFRPKVTITIQGSARF
+>2345_DBASSP_AMD_Free_hem
+HFLGTLVNLXKKIL
+>2347_DBASSP_AMD_Free_hem
+HFLGTLVNLAKKIX
+>10544_DBASSP_Free_Free_hem
+GLPTCGETCFKGKCYTPGCSCSYPICKKD
+>10545_DBASSP_Free_Free_hem
+GLPTCGETCFKGKCYTPGCSCSYPICKKN
+>5937_DBASSP_AMD_Free_hem
+RLWLAIKRR
+>5938_DBASSP_AMD_Free_hem
+RLWLAWKRR
+>5939_DBASSP_AMD_Free_hem
+RLWLAIGRG
+>5940_DBASSP_AMD_Free_hem
+RLWLAIGRR
+>5973_DBASSP_AMD_Free_hem
+GRFKRFRKKFKKLFKKLSPVIPLLHL
+>996_DBASSP_AMD_Free_hem
+GWKKWFNRAKKVGKTVGGLAVDHYL
+>997_DBASSP_AMD_Free_hem
+RWGKWFKKATHVGKHVGKAALTAYL
+>5998_DBASSP_AMD_Free_hem
+GGARSLGRKILRAWKKYGPIIVPIIRI
+>6001_DBASSP_AMD_Free_hem
+GGLRSLGRKALRAWKKYGPIIVPIIRI
+>6003_DBASSP_AMD_Free_hem
+GGARSLGRKALRAWKKYGPIIVPIIRI
+>2004_DBASSP_Free_Free_hem
+VFQFLGKIIKKVGNFVKGFSKVF
+>6045_DBASSP_AMD_Free_hem
+YKLFKKILKVL
+>6090_DBASSP_Free_Free_hem
+fPFfNQYVKL
+>6091_DBASSP_Free_Free_hem
+fPWfNQYVXL
+>6092_DBASSP_Free_Free_hem
+fPWfNQYVKL
+>6093_DBASSP_Free_Free_hem
+fPWwNQYVXL
+>6094_DBASSP_Free_Free_hem
+fPWwNQYVKL
+>6138_DBASSP_Free_Free_hem
+VXLfPxVXLfPx
+>6139_DBASSP_Free_Free_hem
+VXLfPvVXLfPv
+>6140_DBASSP_Free_Free_hem
+VXLfPlVXLfPl
+>6141_DBASSP_Free_Free_hem
+VXLfPfVXLfPf
+>6142_DBASSP_Free_Free_hem
+VXLfPxVXLfPx
+>6143_DBASSP_Free_Free_hem
+VXLfPqVXLfPq
+>6147_DBASSP_Free_Free_hem
+VXLfPhVXLfPh
+>6149_DBASSP_Free_Free_hem
+VXLfPrVXLfPr
+>6166_DBASSP_Free_Free_hem
+GIMDTIKGAAKDLAGQLLDKLKCKITKC
+>6167_DBASSP_Free_Free_hem
+FLGAIAGVAAKFLPKVFCFITKKC
+>6168_DBASSP_Free_Free_hem
+FLPLIAGVAANFLPKIFCLISKKC
+>6169_DBASSP_Free_Free_hem
+FLPVIASVAAKVLPKVFCFITKKC
+>6170_DBASSP_Free_Free_hem
+FLPLIAGVAASILPKIFCFITKKC
+>6190_DBASSP_Free_Free_hem
+VKLKyPLKVKLyP
+>6191_DBASSP_Free_Free_hem
+VKLVyPLKVKLyP
+>6194_DBASSP_Free_Free_hem
+VKLKVyPKLKVKLyP
+>2398_DBASSP_Free_Free_hem
+SMLSVLKKLGKVGLGFVACKINKQC
+>6204_DBASSP_Free_Free_hem
+XGVSCLRNGGFCIPIRCPGHTRQIGTCFGPRVKCCRKW
+>6207_DBASSP_Free_Free_hem
+GFCIPIRCPGHTRQIGTCFGPRVKSCRKW
+>6208_DBASSP_Free_Free_hem
+RCPGHTRQIGTSFGPRVKSCRKW
+>6209_DBASSP_Free_Free_hem
+RCPGHTRQIGTSFGPRVKSCRKW
+>6497_DBASSP_AMD_ACT_hem
+GIGKFLKKAKKFGKAFVKILKK
+>3769_DBASSP_Free_Free_hem
+GVGKFLHSAKKFGQALASEIMKS
+>6247_DBASSP_Free_Free_hem
+RRRRRWFWFW
+>6249_DBASSP_Free_Free_hem
+RRRRRRWFWFWF
+>6251_DBASSP_AMD_Free_hem
+KLALKLALKAWKLALKAA
+>6273_DBASSP_AMD_ACT_hem
+XKAXWKXVKXVK
+>6279_DBASSP_AMD_ACT_hem
+KWXWKXWKXVK
+>6280_DBASSP_AMD_ACT_hem
+KWXWKXWKXWK
+>6282_DBASSP_AMD_ACT_hem
+KWXWKXVKXAK
+>6306_DBASSP_ETA_FOR_hem
+VGAlAvVvWlWlWlW
+>6307_DBASSP_ETA_FOR_hem
+VGAlAvVvWkWlWlW
+>6308_DBASSP_ETA_FOR_hem
+VGAlAvVvWlWlWkW
+>6309_DBASSP_ETA_FOR_hem
+VGAlAvVvWkWlWkW
+>6310_DBASSP_ETA_FOR_hem
+VGAlAvVvWkWkWlW
+>6311_DBASSP_ETA_FOR_hem
+VGAlAvVvWkWkWkW
+>6312_DBASSP_ETA_FOR_hem
+VGAlAvVvWrWrWrW
+>6320_DBASSP_Free_Free_hem
+SISCKAGRVGCFASCQVQNCATGYCRGSTCVCSRCGKGTTPFNKFKIWNQLRVLVQKMVDEERA
+>10612_DBASSP_Free_Free_hem
+KXRRYXYRQRXVTYXRGR
+>3791_DBASSP_Free_Free_hem
+GFGSFLGSLFKTGLKIIPKLLPSIQQ
+>6400_DBASSP_AMD_C12_hem
+GATAIKQVKKLFKKKGG
+>6406_DBASSP_AMD_C8_hem
+GATAIKQVKKLWKKKGG
+>6450_DBASSP_AMD_Free_hem
+ffhhifrGivhvGktihrlvtG
+>6451_DBASSP_AMD_Free_hem
+ffhhifrpivhvGktihrlvtG
+>6452_DBASSP_AMD_Free_hem
+ffhhifrGivhkGktihrlvtG
+>6453_DBASSP_AMD_Free_hem
+ffhhifrGkvhvGktihrlvtG
+>6454_DBASSP_AMD_Free_hem
+alwmtllkkvlkaaakalnavlvGana
+>6455_DBASSP_AMD_Free_hem
+alwmtlkkkvlkaaakalnavlvGana
+>6460_DBASSP_AMD_Free_hem
+alwmtlkkkvlkakakalnavlvGana
+>6468_DBASSP_AMD_ACT_hem
+KWKLFKKIFKRIVQRIKDFLR
+>6473_DBASSP_AMD_ACT_hem
+WRSLGRTLLRLSHALKPLARRSGW
+>6480_DBASSP_AMD_ACT_hem
+LVIRTVIAGYNLYRAIKKK
+>6488_DBASSP_AMD_ACT_hem
+FKRIVQRIKDFLRGIGKFLHSAKKF
+>6489_DBASSP_AMD_ACT_hem
+GLFGKLIKKFGRKAISYAVKKARGKH
+>2447_DBASSP_AMD_Free_hem
+DAACAAKCLWR
+>6493_DBASSP_AMD_ACT_hem
+KNIRRIIRKIIHIIKKYG
+>6496_DBASSP_AMD_ACT_hem
+GFWKKVGSAAWGGVKAAAKGAAVGGLNALAKHIQ
+>2448_DBASSP_AMD_Free_hem
+KAACAAHCLWR
+>6501_DBASSP_AMD_ACT_hem
+GLKALKKVFQGIHKAIKLINNHVQ
+>2449_DBASSP_AMD_Free_hem
+KAACAAKCLWR
+>6505_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAGGGGGSHVDKKVADKVLLLKQLRIMRLLTRL
+>2399_DBASSP_Free_Free_hem
+SMLSVLKNLGKVGLGFVKCKINKQC
+>6525_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRTAT
+>6526_DBASSP_AMD_ACT_hem
+RGLRRLGKKIAHGVKKYGPTVLRIIRIAG
+>10645_DBASSP_AMD_Free_hem
+GVFRVLRKVTRVVLKVIGKVLKWI
+>6528_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKGGPTVLRIIRIAG
+>6529_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAGGGGGSC
+>6530_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAGKKTWWKTWWTKWSQPKKKRKV
+>6531_DBASSP_AMD_ACT_hem
+KKTWWKTWWTKWSQPKKKRKV
+>6532_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAG
+>6533_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKY
+>6535_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYG
+>6539_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVKRIKRKA
+>6540_DBASSP_AMD_ACT_hem
+RKLRRLKRKIAHKVKKY
+>6541_DBASSP_AMD_ACT_hem
+KNLRRIIRKGIHIIKKYG
+>6543_DBASSP_Free_Free_hem
+RPPQFTRAQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR
+>6544_DBASSP_Free_Free_hem
+TIAMRAINNYRWRSKNQNTFLR
+>6545_DBASSP_Free_Free_hem
+RPPQFTRAQWFAIQHISLN
+>6546_DBASSP_Free_Free_hem
+AQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR
+>6547_DBASSP_Free_Free_hem
+AQWFAIQHISLNPPRSTIAMRAINNYRWR
+>6548_DBASSP_Free_Free_hem
+TRAQWFAIQHISXSTIAMRAINNYRWR
+>6549_DBASSP_Free_Free_hem
+AQWFAIQHXSTIAMRAINNYRWR
+>6550_DBASSP_Free_Free_hem
+AQWFAIQHXSTIAMRAIN
+>6551_DBASSP_Free_Free_hem
+ISLNPPRSTIAMRAINNYRWRSKNQNTFLR
+>6552_DBASSP_Free_Free_hem
+RPPQFTRAQWFAIQHISLNPPRCTIAMRAINNYRWRCKNQNTFLRTTFANVVNVCGNQSIRCPHNRTLNNCHRSRFRVPLLHCDLINPGAQNISNCTYADRPGRRFYVVACDNRDPRDSPRYPVVPVHLDTTI
+>8391_DBASSP_Free_Free_hem
+GIGKFLHSAKKFAKAFVGEIMNS
+>6649_DBASSP_AMD_Free_hem
+KALWKTLLKKVLKA
+>6650_DBASSP_AMD_Free_hem
+ALWMTLLKKVLKA
+>6651_DBASSP_AMD_NC2_hem
+KALWKTLLKKVLKA
+>6652_DBASSP_AMD_NC4_hem
+KALWKTLLKKVLKA
+>6653_DBASSP_AMD_NC6_hem
+KALWKTLLKKVLKA
+>6654_DBASSP_AMD_ACT_hem
+ALWMTLLKKVLKA
+>6655_DBASSP_AMD_C4_hem
+ALWMTLLKKVLKA
+>6658_DBASSP_AMD_C6_hem
+ALWMTLLKKVLKA
+>6660_DBASSP_AMD_Ch_hem
+ALWKTLLKKVLKA
+>6663_DBASSP_AMD_FMOC_hem
+ALWKTLLKKVLKA
+>6664_DBASSP_AMD_SUC_hem
+ALWKTLLKKVLKA
+>6665_DBASSP_AMD_C4_hem
+KALWKTLLKKVLKA
+>6666_DBASSP_AMD_C8_hem
+KALWKTLLKKVLKA
+>6667_DBASSP_AMD_NC12_hem
+KALWKTLLKKVLKA
+>6668_DBASSP_AMD_NC12_hem
+ALWKTLLKKVLKA
+>6671_DBASSP_AMD_Free_hem
+GKGLXXGRXXGFXXGRXXGFXXGRXXGKR
+>6672_DBASSP_AMD_Free_hem
+GKGLXXFKXXKFXXFKXXKFXXFKFKR
+>6673_DBASSP_AMD_Free_hem
+KLXXKXXFXXKXXFXXKXXKR
+>6687_DBASSP_AMD_Free_hem
+KLXXGKXXGFXXGKKKKK
+>6688_DBASSP_AMD_ACT_hem
+FXXKXXFXXKKKKK
+>6701_DBASSP_AMD_Free_hem
+FVDLKKIANIINSIF
+>6702_DBASSP_Free_Free_hem
+FLPFLLSALPKVFCFFSKKC
+>6703_DBASSP_Free_Free_hem
+FLPLLLSALPSFLCLVFKKC
+>6704_DBASSP_Free_Free_hem
+GIMRVFKGVLKTAGKSVAKNVAGSFLDRLKCKISGGC
+>6705_DBASSP_Free_Free_hem
+GLADYWRTAFRANFANLGPGIRCKSARC
+>6706_DBASSP_AMD_Free_hem
+LALKSGGWLRLFGLKDKKH
+>6715_DBASSP_AMD_ACT_hem
+GFFXGKFXGFFXGKFKKKK
+>6716_DBASSP_AMD_ACT_hem
+XFXXXKXXXFXXXKXKKKK
+>6719_DBASSP_AMD_ACT_hem
+XFXXXKXXXFXXXKXKKKK
+>6725_DBASSP_AMD_ACT_hem
+FXXKXXFXXKXKKKKKK
+>6726_DBASSP_AMD_ACT_hem
+GFXXGKXXGFXXGKXKKKKK
+>6727_DBASSP_AMD_ACT_hem
+XFXXXKXXXFXXXKXKKKKK
+>7589_DBASSP_AMD_Free_hem
+RWWRWWRRWWW
+>5227_DBASSP_AMD_Free_hem
+RRWCFRVCYKGRCRYKCR
+>8956_DBASSP_Free_Free_hem
+RIKRFWPVVIRTVVAGYNLYRAIKK
+>6830_DBASSP_AMD_Free_hem
+KRIVKLILKWLR
+>6831_DBASSP_AMD_Free_hem
+LRIVKLILKWLR
+>6841_DBASSP_AMD_Free_hem
+RRLFRRILRWL
+>6842_DBASSP_AMD_Free_hem
+RRLFRRILRYL
+>2507_DBASSP_AMD_Free_hem
+GFMKYIGPLIPHAVKAISKLI
+>2508_DBASSP_AMD_Free_hem
+GFMKYIGPLIPHAVKAIKKLI
+>2509_DBASSP_AMD_Free_hem
+GFMKYIKPLIPHAVKAISKLI
+>6503_DBASSP_AMD_ACT_hem
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAGEKRHVDKKVADKVLLLKQLRIMRLLTRL
+>10706_DBASSP_AMD_Free_hem
+FLGGLIKWKWPWWPWRR
+>6897_DBASSP_AMD_Free_hem
+LLKALKKLLKKLL
+>6898_DBASSP_AMD_Free_hem
+LRFLKKILKHLF
+>10707_DBASSP_AMD_Free_hem
+FLGGLIKKWPWWPWRR
+>6901_DBASSP_AMD_Free_hem
+KRRLIARILRLAARALVKKR
+>6903_DBASSP_AMD_Free_hem
+KRKLIFLAAFLAALALFKKR
+>10708_DBASSP_AMD_Free_hem
+FLGGLIKWPWWPWRR
+>10710_DBASSP_AMD_Free_hem
+FLGGLIKWWPWRR
+>2519_DBASSP_AMD_Free_hem
+GFMKYIkPLIPHAVKAIkkLI
+>6924_DBASSP_Free_Free_hem
+GLNALKKVFKGIHEAIKLINNHVQ
+>6925_DBASSP_Free_Free_hem
+GLNALKKVFQGIHKAIKLINNHVQ
+>6926_DBASSP_Free_Free_hem
+GLNALKKVFQGIHEAIKLINKHVQ
+>6928_DBASSP_Free_Free_hem
+GLKALKKVFQGIHKAIKLINNHVQ
+>6931_DBASSP_Free_Free_hem
+GLKALKKVFKGIHKAIKLINKHVQ
+>6932_DBASSP_Free_Free_hem
+GLKALKKVFKGIHKAIKLINKHVK
+>6934_DBASSP_Free_Free_hem
+GLNALKKFFQGIHEAIKLINNHVQ
+>6936_DBASSP_Free_Free_hem
+GLNALKKVFQGIHEAFKLINNHVQ
+>6962_DBASSP_AMD_Free_hem
+LRFLKKILKKLF
+>6963_DBASSP_AMD_Free_hem
+LRFLKKALKKLF
+>6965_DBASSP_AMD_Free_hem
+LRFIKKILKKLI
+>6967_DBASSP_AMD_Free_hem
+LRIIRRILRRLI
+>6968_DBASSP_AMD_Free_hem
+LRILRRLLRRLF
+>6969_DBASSP_AMD_Free_hem
+LRFLRRILRRLL
+>3893_DBASSP_AMD_Free_hem
+LLGMIPLAISAISALSKL
+>6977_DBASSP_AMD_Free_hem
+KRRLIFRILKLFFRFLVKKR
+>6978_DBASSP_AMD_Free_hem
+KRRILIRILKLIIKLILKKR
+>6979_DBASSP_AMD_Free_hem
+KRRKLIKILKLIIKLIRKKR
+>6980_DBASSP_AMD_Free_hem
+KRRKLIKILKLIAKLIRKKR
+>6983_DBASSP_AMD_Free_hem
+KRRLALFRAFRLALKSVLKK
+>6984_DBASSP_AMD_Free_hem
+KRRLALFRLFRLALKLVLKK
+>6985_DBASSP_AMD_C3_hem
+ALWKTLLKKVLKA
+>6986_DBASSP_AMD_C4_hem
+ALWKTLLKKVLKA
+>6987_DBASSP_AMD_C5_hem
+ALWKTLLKKVLKA
+>6988_DBASSP_AMD_C6_hem
+ALWKTLLKKVLKA
+>6989_DBASSP_AMD_C8_hem
+ALWKTLLKKVLKA
+>6990_DBASSP_AMD_C10_hem
+ALWKTLLKKVLKA
+>6991_DBASSP_AMD_Free_hem
+KRRLFLFRLFRLFLRLFLKK
+>6993_DBASSP_AMD_Free_hem
+KRRKLAFRLFRLFLKLVLKK
+>6998_DBASSP_AMD_C12_hem
+ALWKTLLKKVLKA
+>6999_DBASSP_AMD_C14_hem
+ALWKTLLKKVLKA
+>7000_DBASSP_AMD_C16_hem
+ALWKTLLKKVLKA
+>7001_DBASSP_AMD_NC2_hem
+ALWKTLLKKVLKA
+>7002_DBASSP_AMD_NC4_hem
+ALWKTLLKKVLKA
+>7003_DBASSP_AMD_C12_hem
+GIGKFLKKAKKFGKAFVKILKK
+>7004_DBASSP_AMD_NC12_hem
+GIGKFLKKAKKFGKAFVKILKK
+>7010_DBASSP_AMD_Free_hem
+KIFGAIWPLALGALKNLIK
+>7031_DBASSP_AMD_Free_hem
+XCRRLCWKQRCVTYCRGR
+>7033_DBASSP_AMD_Free_hem
+XCRRLCYKWRCVTYCRGR
+>9375_DBASSP_EN_ACT_hem
+LKKLLKLLKKLLKLAG
+>7109_DBASSP_AMD_Free_hem
+VQLRIRVAVIRA
+>7115_DBASSP_AMD_Free_hem
+FPVTWPTKWWKG
+>7116_DBASSP_AMD_Free_hem
+FPVTWRTKWWKG
+>7118_DBASSP_AMD_Free_hem
+FAVTWATKWWKG
+>9379_DBASSP_Free_Free_hem
+CKKLLKLCKKLLKLAG
+>1188_DBASSP_Free_Free_hem
+KWKKFKKIGAVLKVL
+>9383_DBASSP_Free_Free_hem
+CKKLLKLLKKLCKLAG
+>9385_DBASSP_Free_Free_hem
+GIGAVLKVLTTGLPACISWCKRKRQQ
+>7164_DBASSP_Free_Free_hem
+WLRRIKAWLRRIKA
+>7167_DBASSP_Free_Free_hem
+AFHHIFRGIVHVGKTIHRLVTG
+>7169_DBASSP_Free_Free_hem
+FFHHIARGIVHVGKTIHRLVTG
+>7170_DBASSP_Free_Free_hem
+KFHHIFRGIVHVGKTIHRLVTG
+>10753_DBASSP_Free_Free_hem
+EKALEKLIAIQKAIKGMLNGWFTGVGFRRKR
+>7188_DBASSP_Free_Free_hem
+WFHHIFRGIVHVGKTIHRLVTG
+>7189_DBASSP_Free_Free_hem
+FWHHIFRGIVHVGKTIHRLVTG
+>7190_DBASSP_Free_Free_hem
+FFHHIWRGIVHVGKTIHRLVTG
+>7213_DBASSP_Free_Free_hem
+FFHHIFRGIKHVGKTIHRLVTG
+>8030_DBASSP_AMD_Free_hem
+FLPLLFGALSTLLPKIF
+>7242_DBASSP_AMD_Free_hem
+LVKKLLKLAMGFG
+>7243_DBASSP_AMD_Free_hem
+lvkkllklamGfG
+>7247_DBASSP_AMD_Free_hem
+GFGMALKLXKKVL
+>7248_DBASSP_AMD_Free_hem
+GFGMALKXLKKVL
+>7249_DBASSP_AMD_Free_hem
+GFGMAXKLLKKVL
+>7252_DBASSP_AMD_Free_hem
+GFGMALKLLKKvL
+>7253_DBASSP_AMD_Free_hem
+GFGMALKLLKkVL
+>7254_DBASSP_AMD_Free_hem
+GFGMALKLLkKVL
+>7255_DBASSP_AMD_Free_hem
+GFGMALKlLKKVL
+>7256_DBASSP_AMD_Free_hem
+GFGMALkLLKKVL
+>7257_DBASSP_AMD_Free_hem
+GFGMAlKLLKKVL
+>7265_DBASSP_AMD_Free_hem
+GVVDILKGAAKDIAGHLLSKVMNKL
+>5307_DBASSP_Free_Free_hem
+KNWKKIAGMAKKLLKKNWKLM
+>7269_DBASSP_AMD_Free_hem
+GVVDILKGAAKDILGHLASKVMNKL
+>7271_DBASSP_AMD_Free_hem
+GVVDILKGAAKAIAGHLASKVMNKL
+>7273_DBASSP_AMD_Free_hem
+GVVDILKGALKDIAGHLASKVMNKL
+>7274_DBASSP_AMD_Free_hem
+GVVDILKGLAKDIAGHLASKVMNKL
+>7284_DBASSP_AMD_Free_hem
+aFGMALKLLKKVL
+>7285_DBASSP_AMD_Free_hem
+aFKMALKLLKKVL
+>103_DBASSP_AMD_Free_hem
+KLALKLALKAWKAALKLA
+>10609_DBASSP_Free_Free_hem
+GCRRWCYKQRCVTYCRGR
+>7356_DBASSP_AMD_C12_hem
+ALWKTLLKKVLKAAA
+>7357_DBASSP_AMD_Free_hem
+LLKKVLKAAA
+>7358_DBASSP_AMD_C12_hem
+LLKKVLKAAA
+>7359_DBASSP_AMD_Free_hem
+LKKVLKAAA
+>7360_DBASSP_AMD_C12_hem
+LKKVLKAAA
+>7361_DBASSP_AMD_Free_hem
+KKVLKAAA
+>7362_DBASSP_AMD_C12_hem
+KKVLKAAA
+>7363_DBASSP_AMD_Free_hem
+KVLKAAA
+>7364_DBASSP_AMD_C12_hem
+KVLKAAA
+>7365_DBASSP_AMD_C14_hem
+KKVLKAAA
+>7366_DBASSP_AMD_C14_hem
+KVLKAAA
+>2593_DBASSP_AMD_Free_hem
+GIGKFLKKAKKFGKAFVKMKK
+>1882_DBASSP_AMD_Free_hem
+FFPIVGKLLSGLF
+>10251_DBASSP_Free_Free_hem
+FFPGIIKVAGAILPTAICAITKRC
+>10789_DBASSP_Free_Free_hem
+llGdffrkskekiGkefkrivqrikdflrnlvprtes
+>1883_DBASSP_AMD_Free_hem
+FLPIVGKLLSGLF
+>7430_DBASSP_AMD_Free_hem
+GLLKKIKWLL
+>7431_DBASSP_AMD_Free_hem
+GLLKWIKKLL
+>7433_DBASSP_AMD_Free_hem
+GLLKFIKWLL
+>7434_DBASSP_AMD_Free_hem
+GXLKRIKTLL
+>7437_DBASSP_AMD_Free_hem
+GLLKRIKTXL
+>7455_DBASSP_AMD_Free_hem
+GLLKRIKTLX
+>7456_DBASSP_AMD_Free_hem
+GXLKRIKTLL
+>7459_DBASSP_AMD_Free_hem
+GLLKRIKTXL
+>7461_DBASSP_AMD_Free_hem
+GXLKRIKTLX
+>7490_DBASSP_Free_Free_hem
+KKLKXFKKLQ
+>7491_DBASSP_Free_Free_hem
+KKLKXFKKLQ
+>7492_DBASSP_Free_Free_hem
+KKLKXFKKLQ
+>7493_DBASSP_Free_Free_hem
+KKLKXFKKLQ
+>7494_DBASSP_Free_Free_hem
+KKLKXFKKLQ
+>3065_DBASSP_AMD_Free_hem
+ILPWKWKWWPWRR
+>7554_DBASSP_Free_Free_hem
+AKKVFKRLEKLFSKIWNWK
+>7583_DBASSP_AMD_Free_hem
+NGVQPKYKWWKWWKKWWW
+>7584_DBASSP_Free_Free_hem
+NGVQPKYRWWRWWRRWW
+>7585_DBASSP_Free_Free_hem
+NGVQPKYRWWRWWRRWWW
+>7586_DBASSP_AMD_Free_hem
+NGVQPWYKWWKWWKKWW
+>7587_DBASSP_AMD_Free_hem
+NGVQPKYRWWRWWRRWWWW
+>7588_DBASSP_AMD_Free_hem
+RWWRWWRRWW
+>6527_DBASSP_AMD_ACT_hem
+GALRRLGRKITHAVKKYGPTVLRIIRIAG
+>4891_DBASSP_Free_Free_hem
+fPXXXfPXXX
+>7629_DBASSP_AMD_Free_hem
+GGHGLLKRIKTLL
+>7630_DBASSP_AMD_Free_hem
+VIHGLLKRIKTLL
+>7632_DBASSP_AMD_Free_hem
+DAHKLAKLAKKLAKLAK
+>7633_DBASSP_AMD_Free_hem
+GGHKLAKLAKKLAKLAK
+>7634_DBASSP_AMD_Free_hem
+VIHKLAKLAKKLAKLAK
+>7646_DBASSP_AMD_Free_hem
+KWKLWKKIEKWGQGIGAVLKWLTTWL
+>7657_DBASSP_AMD_Free_hem
+WCRRLCYKQRCVTYCRGR
+>7670_DBASSP_AMD_Free_hem
+GWLDVAKKIGKAAFNVAKNFI
+>7671_DBASSP_AMD_Free_hem
+GWLDvAKKIGKAAFNvAKNFI
+>7673_DBASSP_AMD_Free_hem
+GWLDVAKKIGKAAFNvAKNFI
+>7674_DBASSP_AMD_Free_hem
+GWLDVAKKKGKAAFNVAKNFI
+>2165_DBASSP_AMD_Free_hem
+LVRGCWTKSYPPKPCFVR
+>7688_DBASSP_AMD_Free_hem
+HxRWXKFV
+>7707_DBASSP_Free_C16_hem
+RCPGRTRQIGTIFGPRIKCRSW
+>7708_DBASSP_Free_C16_hem
+RXPGRTRQIGTIFGPRIKXRSW
+>8440_DBASSP_Free_Free_hem
+FWGFLGKLAMKAVPSLIGGNKK
+>7710_DBASSP_Free_C16_hem
+RXpGRTRQIGTIFpGRIKXRSW
+>7711_DBASSP_Free_ACT_hem
+RCPGRTRQIGTIFGPRIKCRSW
+>7712_DBASSP_Free_ACT_hem
+RXPGRTRQIGTIFGPRIKXRSW
+>7713_DBASSP_Free_ACT_hem
+RCpGRTRQIGTIFpGRIKCRSW
+>7714_DBASSP_Free_ACT_hem
+RXpGRTRQIGTIFpGRIKXRSW
+>1688_DBASSP_Free_Free_hem
+VXLfPVXLfP
+>5386_DBASSP_Free_Free_hem
+GLPVCGETCVGGTCNTPGCTCSWPVCTRK
+>7744_DBASSP_Free_C8_hem
+XGLXGKLXGIX
+>7746_DBASSP_Free_C8_hem
+XGLXGGLXKIX
+>7762_DBASSP_Free_Free_hem
+GGLFYVKHKEQQRKRF
+>7765_DBASSP_AMD_Free_hem
+RFRRLRKKIRKRLKKI
+>7766_DBASSP_AMD_Free_hem
+RFRRLRKKKRKRLKKI
+>7767_DBASSP_AMD_Free_hem
+RFRRLRKKFRKRLKKI
+>7819_DBASSP_Free_Free_hem
+SFKKFWGGVKAIFKGARKGWK
+>7820_DBASSP_Free_Free_hem
+FFKKFWGGVKAIFKGARKGWK
+>7826_DBASSP_AMD_Free_hem
+VXXFPWWWPFLXX
+>7830_DBASSP_Free_Free_hem
+GWGDTFLKTMAKIAKVGPKLLHS
+>7831_DBASSP_AMD_Free_hem
+VXXFPWWWPFLXX

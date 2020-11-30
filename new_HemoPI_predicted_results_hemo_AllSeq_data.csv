@@ -1,0 +1,2173 @@
+Name,Prediction
+10001_DASSP_AMD_C8_hem,0.22
+10003_DASSP_AMD_C12_hem,0.22
+10004_DASSP_AMD_C14_hem,0.22
+10005_DASSP_AMD_C16_hem,0.22
+10006_DASSP_AMD_4-Me-C10_hem,0.22
+10007_DASSP_AMD_C11_hem,0.22
+10008_DASSP_AMD_17-ME-C18_hem,0.22
+10009_DASSP_AMD_C17_hem,0.22
+1000_DASSP_#_#_hem,0.62
+10010_DASSP_AMD_C20_hem,0.22
+10013_DASSP_AMD_C5_hem,0.44
+10014_DASSP_AMD_C5_hem,0.44
+10015_DASSP_AMD_C6_hem,0.45
+10016_DASSP_AMD_C6_hem,0.45
+1001_DASSP_AMD_#_hem,0.83
+10022_DASSP_AMD_#_hem,0.39
+10023_DASSP_AMD_#_hem,0.39
+1002_DASSP_#_#_hem,0.83
+10031_DASSP_AMD_#_hem,0.17
+10033_DASSP_AMD_#_hem,0.44
+1005_DASSP_AMD_#_hem,0.83
+10068_DASSP_AMD_#_hem,0.44
+1006_DASSP_#_#_hem,0.83
+10077_DASSP_#_#_hem,0.49
+10084_DASSP_AMD_#_hem,0.44
+10085_DASSP_AMD_#_hem,0.81
+10087_DASSP_AMD_#_hem,0.81
+10088_DASSP_AMD_#_hem,0.78
+10089_DASSP_AMD_#_hem,0.6
+1008_DASSP_#_#_hem,0.83
+10090_DASSP_AMD_#_hem,0.6
+10091_DASSP_AMD_#_hem,0.62
+10092_DASSP_AMD_#_hem,0.67
+10093_DASSP_AMD_#_hem,0.62
+10094_DASSP_AMD_#_hem,0.69
+10095_DASSP_AMD_#_hem,0.66
+10096_DASSP_AMD_#_hem,0.6
+10097_DASSP_AMD_#_hem,0.6
+10098_DASSP_AMD_#_hem,0.61
+10103_DASSP_AMD_#_hem,0.61
+10104_DASSP_AMD_#_hem,0.58
+10105_DASSP_AMD_#_hem,0.7
+10111_DASSP_AMD_#_hem,0.44
+10116_DASSP_AMD_#_hem,0.38
+10117_DASSP_AMD_#_hem,0.35
+10118_DASSP_AMD_#_hem,0.38
+10119_DASSP_AMD_#_hem,0.39
+10120_DASSP_AMD_#_hem,0.42
+10121_DASSP_AMD_#_hem,0.43
+10125_DASSP_AMD_#_hem,0.36
+10126_DASSP_AMD_#_hem,0.38
+10127_DASSP_AMD_#_hem,0.41
+10128_DASSP_AMD_#_hem,0.42
+10133_DASSP_AMD_#_hem,0.33
+10134_DASSP_AMD_#_hem,0.34
+10135_DASSP_AMD_#_hem,0.35
+10136_DASSP_AMD_#_hem,0.35
+10137_DASSP_#_#_hem,1
+10151_DASSP_AMD_#_hem,0.44
+10169_DASSP_AMD_#_hem,0.5
+10170_DASSP_AMD_#_hem,0.41
+10173_DASSP_AMD_#_hem,0.44
+10174_DASSP_AMD_#_hem,0.44
+10175_DASSP_AMD_#_hem,0.53
+10178_DASSP_AMD_#_hem,0.44
+10199_DASSP_AMD_#_hem,0.44
+10200_DASSP_AMD_#_hem,0.44
+10205_DASSP_#_#_hem,0.79
+10211_DASSP_AMD_#_hem,0.55
+10212_DASSP_#_#_hem,0.95
+10215_DASSP_#_#_hem,0.95
+10248_DASSP_#_#_hem,0.67
+10249_DASSP_AMD_#_hem,0.67
+10251_DASSP_#_#_hem,0.68
+10252_DASSP_AMD_#_hem,0.68
+1026_DASSP_AMD_#_hem,0.89
+10284_DASSP_AMD_#_hem,0.44
+10285_DASSP_AMD_#_hem,0.42
+102_DASSP_#_#_hem,0.87
+10300_DASSP_#_#_hem,0.44
+10301_DASSP_#_#_hem,0.44
+10302_DASSP_#_#_hem,0.44
+10303_DASSP_#_#_hem,0.44
+10304_DASSP_#_#_hem,0.75
+10305_DASSP_#_#_hem,0.75
+1030_DASSP_AMD_#_hem,0.83
+1031_DASSP_AMD_ACT_hem,0.83
+10345_DASSP_AMD_#_hem,0.57
+10346_DASSP_AMD_#_hem,0.43
+10347_DASSP_AMD_#_hem,0.23
+10348_DASSP_AMD_#_hem,0.44
+10354_DASSP_AMD_#_hem,0.64
+10386_DASSP_#_#_hem,0.68
+1038_Hemolytik_Amidation_Free_100% hemolysis at 100μg/ml,0.83
+103_DASSP_AMD_#_hem,0.84
+10403_DASSP_AMD_#_hem,0.62
+10404_DASSP_AMD_#_hem,0.63
+1042_Hemolytik_Amidation_Free_100% hemolysis at 21.3μg/ml,0.91
+10437_DASSP_AMD_#_hem,0.59
+1043_Hemolytik_Amidation_Free_100% hemolysis at 42.6μg/ml,0.83
+1044_Hemolytik_Amidation_Free_100% hemolysis at 85μg/ml,0.83
+1045_Hemolytik_Amidation_Free_100% hemolysis at 85μg/ml,0.83
+10464_DASSP_AMD_#_hem,0.79
+10511_DASSP_AMD_ACT_hem,0.44
+10512_DASSP_AMD_ACT_hem,0.44
+10513_DASSP_AMD_ACT_hem,0.44
+10514_DASSP_AMD_ACT_hem,0.44
+10515_DASSP_AMD_ACT_hem,0.44
+10516_DASSP_AMD_ACT_hem,0.44
+10517_DASSP_AMD_ACT_hem,0.44
+10518_DASSP_AMD_ACT_hem,0.44
+10525_DASSP_#_#_hem,0.49
+10526_DASSP_#_#_hem,0.56
+10527_DASSP_AMD_#_hem,0.46
+10537_DASSP_#_#_hem,0.59
+10539_DASSP_#_#_hem,0.55
+10540_DASSP_#_#_hem,0.59
+10541_DASSP_#_#_hem,0.53
+10544_DASSP_#_#_hem,0.67
+10545_DASSP_#_#_hem,0.67
+10591_DASSP_#_#_hem,1
+10592_DASSP_#_#_hem,0.5
+10601_DASSP_#_#_hem,0.79
+10602_DASSP_#_#_hem,0.76
+10603_DASSP_#_#_hem,0.76
+10604_DASSP_#_#_hem,0.8
+10605_DASSP_#_#_hem,0.6
+10606_DASSP_#_#_hem,0.36
+10607_DASSP_#_#_hem,0.78
+10608_DASSP_#_#_hem,0.42
+10609_DASSP_#_#_hem,0.76
+10610_DASSP_#_#_hem,0.63
+10611_DASSP_#_#_hem,0.69
+10612_DASSP_#_#_hem,0.37
+10625_DASSP_#_#_hem,0.47
+10626_DASSP_#_#_hem,0.45
+10627_DASSP_#_#_hem,0.28
+10628_DASSP_AMD_#_hem,0.44
+10629_DASSP_AMD_#_hem,0.49
+10630_DASSP_AMD_#_hem,0.6
+10631_DASSP_AMD_#_hem,0.6
+10632_DASSP_AMD_#_hem,0.6
+10633_DASSP_AMD_#_hem,0.43
+10634_DASSP_AMD_#_hem,0.44
+10635_DASSP_AMD_#_hem,0.6
+10640_DASSP_AMD_#_hem,0.3
+10644_DASSP_AMD_#_hem,0.57
+10645_DASSP_AMD_#_hem,0.44
+1069_DASSP_#_#_hem,0.83
+10706_DASSP_AMD_#_hem,0.59
+10707_DASSP_AMD_#_hem,0.54
+10708_DASSP_AMD_#_hem,0.59
+10710_DASSP_AMD_#_hem,0.56
+10719_DASSP_#_#_hem,0.4
+10742_DASSP_#_#_hem,0.92
+10743_DASSP_#_#_hem,0.77
+1074_DASSP_#_#_hem,0.83
+10752_DASSP_#_#_hem,0.69
+10753_DASSP_#_#_hem,0.81
+10754_DASSP_#_#_hem,0.62
+1076_Hemolytik_Amidation_Free_100% hemolysis at 2μM,0.9
+1077_DASSP_#_#_hem,0.83
+10789_DASSP_#_#_hem,0.44
+1078_DASSP_#_#_hem,0.83
+107_DASSP_AMD_#_hem,0.84
+10805_DASSP_AMD_#_hem,0.53
+10806_DASSP_AMD_#_hem,0.45
+10807_DASSP_AMD_#_hem,0.42
+10808_DASSP_AMD_ACT_hem,0.44
+10823_DASSP_AMD_#_hem,0.46
+10824_DASSP_AMD_#_hem,0.44
+10827_DASSP_#_#_hem,0.4
+10828_DASSP_#_#_hem,0.37
+10829_DASSP_#_#_hem,0.48
+10830_DASSP_#_#_hem,0.53
+10834_DASSP_AMD_#_hem,0.95
+10837_DASSP_AMD_#_hem,0.59
+1085_Hemolytik_Amidation_Acetylation_MHC =62.5μg/ml,0.83
+1086_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml,0.83
+1087_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml,0.83
+10880_DASSP_#_#_hem,0.51
+1088_Hemolytik_Amidation_Acetylation_MHC =15.6μg/ml,0.89
+1089_Hemolytik_Amidation_Acetylation_MHC =8μg/ml,0.89
+108_DASSP_AMD_#_hem,0.68
+10909_DASSP_AMD_#_hem,0.83
+1090_Hemolytik_Amidation_Acetylation_MHC =4μg/ml,0.83
+10914_DASSP_#_#_hem,0.41
+10915_DASSP_#_#_hem,0.37
+10919_DASSP_AMD_#_hem,0.75
+10965_DASSP_AMD_#_hem,0.2
+10969_DASSP_AMD_#_hem,0.84
+10970_DASSP_AMD_#_hem,0.84
+10973_DASSP_AMD_#_hem,0.67
+109_DASSP_AMD_#_hem,0.67
+1104_DASSP_#_#_hem,0.83
+1105_DASSP_#_#_hem,0.83
+1106_DASSP_AMD_#_hem,0.56
+11091_DASSP_#_#_hem,0.17
+11092_DASSP_#_#_hem,0.17
+11093_DASSP_#_#_hem,0.17
+11094_DASSP_#_#_hem,0.17
+11098_DASSP_#_#_hem,0.17
+11099_DASSP_#_#_hem,0.17
+110_DASSP_AMD_#_hem,0.45
+11168_DASSP_#_#_hem,0.47
+1119_Hemolytik_Amidation_Free_~50% hemolysis at 100μg/ml,0.79
+111_DASSP_AMD_#_hem,0.39
+11220_DASSP_AMD_#_hem,0.8
+11228_DASSP_AMD_#_hem,0.53
+11229_DASSP_AMD_#_hem,0.47
+11230_DASSP_AMD_#_hem,0.46
+11232_DASSP_AMD_#_hem,0.8
+11270_DASSP_AMD_#_hem,0.84
+11271_DASSP_AMD_#_hem,0.76
+1127_DASSP_AMD_#_hem,0.83
+1129_DASSP_AMD_#_hem,0.83
+112_DASSP_AMD_#_hem,0.84
+11380_DASSP_AMD_#_hem,0.39
+11383_DASSP_#_#_hem,0.53
+11385_DASSP_#_#_hem,0.87
+11387_DASSP_AMD_#_hem,0.54
+11388_DASSP_#_#_hem,0.54
+11389_DASSP_#_#_hem,0.54
+11390_DASSP_#_#_hem,0.89
+11391_DASSP_#_#_hem,0.42
+11399_DASSP_AMD_#_hem,0.49
+113_DASSP_AMD_#_hem,0.84
+11400_DASSP_AMD_#_hem,0.44
+1143_Hemolytik_Amidation_Acetylation_MHC <7.8μg/ml,0.46
+1144_Hemolytik_Amidation_Acetylation_MHC <7.8μg/ml,0.4
+11525_DASSP_#_#_hem,0.46
+115_DASSP_AMD_#_hem,0.84
+1163_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.87
+1164_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.83
+1165_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.82
+1166_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.8
+1169_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.66
+116_DASSP_AMD_#_hem,0.69
+1171_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.89
+1172_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.83
+1175_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.27
+117_DASSP_AMD_#_hem,0.67
+1187_DASSP_#_#_hem,0.83
+1188_DASSP_#_#_hem,0.71
+1189_DASSP_#_#_hem,0.62
+1195_DASSP_AMD_#_hem,0.65
+1198_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.77
+1199_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.81
+11_DASSP_#_#_hem,0.83
+1200_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.79
+1201_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.83
+1203_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.83
+1204_DASSP_AMD_#_hem,0.51
+1206_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.7
+1207_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.83
+1208_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.85
+1209_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.89
+120_DASSP_AMD_#_hem,0.91
+1217_Hemolytik_Free_Free_50% hemolysis at 80μg/ml,0.39
+121_DASSP_AMD_#_hem,0.83
+1238_DASSP_#_#_hem,0.37
+123_DASSP_AMD_#_hem,0.8
+1241_DASSP_AMD_#_hem,0.56
+1249_Hemolytik_Amidation_Free_100% hemolysis at 25μM,0.83
+1250_Hemolytik_Amidation_Free_96% hemolysis at 12.5μM,0.83
+1251_Hemolytik_Amidation_Free_92%hemolysis at 6.25μM,0.83
+125_DASSP_AMD_#_hem,0.97
+1260_Hemolytik_Amidation_Acetylation_67% hemolysis at 64μM,0.62
+1265_Hemolytik_Free_Free_100% hemolysis at 0.5mg/ml,0.83
+1266_Hemolytik_Free_Free_100% hemolysis at 0.5mg/ml,0.76
+1267_Hemolytik_Free_Free_100% hemolysis at 0.5mg/ml,0.83
+1269_DASSP_#_#_hem,0.73
+126_DASSP_AMD_#_hem,0.8
+1272_Hemolytik_Free_Free_~90% hemolysis at 0.8μM,0.74
+1348_DASSP_AMD_#_hem,0.75
+1352_DASSP_AMD_#_hem,0.74
+1365_Hemolytik_Free_Free_50% hemolysis at 40μM,0.66
+1366_Hemolytik_Amidation_Free_60% hemolysis at 40μM,0.68
+1404_DASSP_AMD_#_hem,0.83
+1409_DASSP_AMD_#_hem,0.83
+1410_DASSP_AMD_#_hem,0.79
+1412_DASSP_AMD_#_hem,0.48
+1413_DASSP_AMD_#_hem,0.83
+1418_Hemolytik_Amidation_Free_57.58% hemolysis at 200μg/ml,0.87
+1420_DASSP_AMD_#_hem,0.8
+1424_Hemolytik_Amidation_Free_64.43% hemolysis at 200μg/ml,0.8
+1427_DASSP_AMD_#_hem,0.83
+1428_DASSP_AMD_#_hem,0.83
+1429_DASSP_AMD_#_hem,0.83
+1434_DASSP_AMD_#_hem,0.83
+1435_DASSP_#_#_hem,0.83
+1440_DASSP_AMD_ACT_hem,0.83
+1450_Hemolytik_Amidation_Free_100% hemolysis at 64μM,0.83
+1455_Hemolytik_Amidation_Acetylation_100% hemolysis at 50μg/ml,0.83
+1460_DASSP_AMD_#_hem,0.83
+1465_DASSP_AMD_#_hem,0.61
+1467_DASSP_#_#_hem,0.89
+1468_DASSP_#_#_hem,0.83
+1469_DASSP_#_#_hem,0.84
+1470_DASSP_#_#_hem,0.83
+1472_DASSP_#_#_hem,0.83
+1479_DASSP_#_#_hem,0.83
+1480_DASSP_#_#_hem,0.83
+1493_DASSP_#_#_hem,0.75
+1495_DASSP_#_#_hem,0.83
+1495_Hemolytik_Amidation_Free_MHC = 3.0x10-5 g/ml,0.83
+14_DASSP_AMD_#_hem,0.99
+1506_DASSP_#_#_hem,0.61
+1522_DASSP_#_#_hem,0.72
+1523_DASSP_#_#_hem,0.56
+1525_DASSP_#_#_hem,0.71
+1531_Hemolytik_Free_Free_100% hemolysis at 0.77mM,0.67
+1532_Hemolytik_Free_Free_100% hemolysis at 0.77mM,0.51
+1533_Hemolytik_Free_Free_100% hemolysis at 0.77mM,0.5
+1534_Hemolytik_Free_Free_90% hemolysis at 0.77mM,0.5
+1535_Hemolytik_Free_Free_80% hemolysis at 0.77mM,0.5
+1536_Hemolytik_Free_Free_95% hemolysis at 0.77mM,0.5
+1537_Hemolytik_Free_Free_100% hemolysis at 0.77mM,0.45
+1541_Hemolytik_Free_Free_Mild hemolytic activity at 50μM,0.61
+1542_DASSP_#_#_hem,0.6
+1543_DASSP_#_#_hem,0.83
+1544_DASSP_#_#_hem,0.76
+1553_Hemolytik_Amidation_Free_MHC =25μg/ml,0.83
+1554_Hemolytik_Amidation_Free_MHC =50μg/ml,0.83
+1555_Hemolytik_Amidation_Free_MHC =25μg/ml,0.83
+1556_Hemolytik_Amidation_Free_MHC =50μg/ml,0.83
+1557_Hemolytik_Amidation_Free_MHC =6.3μg/ml,0.69
+1558_Hemolytik_Amidation_Free_MHC =12.5μg/ml,0.83
+1562_Hemolytik_Free_Free_91.73% hemolysis at 10μg,0.48
+1585_DASSP_AMD_#_hem,0.72
+1585_Hemolytik_Free_Free_MHC =5µg/ml,0.44
+1586_Hemolytik_Free_Free_MHC =2µg/ml,0.44
+1587_Hemolytik_Free_Free_MHC =5µg/ml,0.44
+1588_Hemolytik_Free_Free_MHC =62µg/ml,0.44
+1596_Hemolytik_Amidation_Free_100% hemolysis at 6.2x10-5M,0.72
+1597_Hemolytik_Amidation_Free_100% hemolysis at 6.2x10-5M,0.44
+1599_Hemolytik_Amidation_Free_~90% hemolysisat 10-4M,0.75
+1606_Hemolytik_Free_Free_189.2% hemolysis at 100µg/ml,0.83
+160_DASSP_#_#_hem,0.83
+1626_Hemolytik_Free_Formylation_~90% hemolysis at 30µM,0.62
+1627_Hemolytik_Free_Free_~95% hemolysis at 30µM,0.62
+1628_Hemolytik_Free_Free_75% hemolysis at 30µM,0.6
+1629_Hemolytik_Free_Free_100% hemolysis at 5µM,0.65
+1631_Hemolytik_Free_Free_<50% hemolysis at 30µM,0.46
+1658_Hemolytik_Amidation_Free_100% hemolysis at 50μg/ml,0.61
+165_DASSP_#_#_hem,0.7
+1669_Hemolytik_Free_Free_50% hemolysis at 450µM,0.26
+1671_Hemolytik_Free_Free_50% hemolysis at 274µM,0.66
+1672_DASSP_#_#_hem,1
+1672_Hemolytik_Free_Free_50% hemolysis at 117µM,0.66
+1673_Hemolytik_Free_Free_50% hemolysis at 90µM,0.83
+1674_Hemolytik_Free_Free_50% hemolysis at 296µM,0.75
+167_DASSP_#_#_hem,0.83
+1682_DASSP_AMD_#_hem,0.62
+1685_Hemolytik_Free_Free_68±7.5% hemolysis at 360µM,0.19
+1686_Hemolytik_Free_Free_81 ±5.3% hemolysis at 360µM,0.17
+1688_DASSP_#_#_hem,0.44
+1689_DASSP_#_#_hem,0.44
+1690_DASSP_#_#_hem,0.45
+1691_DASSP_#_#_hem,0.44
+1692_DASSP_#_#_hem,0.44
+1693_DASSP_#_#_hem,0.44
+1694_DASSP_#_#_hem,0.45
+1695_DASSP_#_#_hem,0.44
+1696_DASSP_#_#_hem,0.45
+1697_DASSP_#_#_hem,0.44
+1698_DASSP_#_#_hem,0.44
+1699_DASSP_#_#_hem,0.44
+1700_DASSP_#_#_hem,0.44
+1701_DASSP_#_#_hem,0.44
+1702_DASSP_#_#_hem,0.44
+1703_DASSP_#_#_hem,0.44
+1704_DASSP_#_#_hem,0.44
+1705_DASSP_#_#_hem,0.44
+1709_DASSP_#_#_hem,0.44
+1710_DASSP_#_#_hem,0.45
+1711_DASSP_#_#_hem,0.44
+1712_DASSP_#_#_hem,0.45
+1713_DASSP_#_#_hem,0.45
+1714_DASSP_#_#_hem,0.44
+1715_DASSP_#_#_hem,0.44
+1720_Hemolytik_Free_Free_96%hemolysis at 20µg/ml,0.82
+1731_Hemolytik_Amidation_Free_97% of hemolysis at 50mM,0.56
+1733_Hemolytik_Amidation_Free_~100% hemolysis at above 100µg/ml,0.87
+1736_Hemolytik_Amidation_Free_~60% hemolysis at above 100µg/ml,0.6
+1740_DASSP_#_#_hem,0.83
+1748_DASSP_AMD_#_hem,0.83
+1756_DASSP_AMD_#_hem,0.59
+1760_DASSP_AMD_#_hem,0.49
+1770_DASSP_#_#_hem,0.81
+1771_DASSP_#_#_hem,0.9
+1775_DASSP_#_#_hem,0.82
+1777_DASSP_#_#_hem,0.83
+1778_DASSP_#_#_hem,0.92
+1784_DASSP_AMD_ACT_hem,0.85
+1790_DASSP_AMD_#_hem,0.96
+1791_DASSP_AMD_#_hem,0.86
+1792_DASSP_AMD_#_hem,0.85
+1793_DASSP_AMD_#_hem,0.94
+1794_DASSP_AMD_#_hem,0.97
+1795_DASSP_AMD_#_hem,0.99
+1796_DASSP_AMD_#_hem,0.91
+1797_DASSP_AMD_#_hem,0.97
+1804_DASSP_#_#_hem,0.78
+1805_DASSP_#_#_hem,0.82
+1813_Hemolytik_Free_Free_50% hemolysis at 128µg/ml,0.64
+"1815_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100",0.56
+"1816_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100",0.55
+"1817_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100",0.46
+"1818_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100",0.64
+"1819_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100",0.39
+1844_Hemolytik_Amidation_enzoylation_71±2.3% hemolysis at 150µM,0.55
+1845_Hemolytik_Amidation_Free_84±6.5% hemolysis at 150µM,0.67
+1846_Hemolytik_Amidation_Free_63±5.9% hemolysis at 150µM,0.55
+1848_Hemolytik_Amidation_Tosylation_85±7.4% hemolysis at 150µM,0.83
+1849_Hemolytik_Amidation_Free_65±1.5% hemolysis at 150µM,0.57
+1851_Hemolytik_Amidation_Tosylation_79±6.5% hemolysis at 150µM,0.83
+1852_Hemolytik_Amidation_enzoylation_83±13.5% hemolysis at 150µM,0.83
+1853_Hemolytik_Amidation_Free_91±6.2% hemolysis at 150µM,0.75
+1854_Hemolytik_Amidation_Tosylation_81±3.7% hemolysis at 150µM,0.83
+1857_Hemolytik_Free_Free_50-60% hemolysis at 10-3M,0.58
+1858_Hemolytik_Amidation_Free_100% hemolysis at 10-3M,0.58
+1881_DASSP_AMD_#_hem,0.66
+1882_DASSP_AMD_#_hem,0.69
+1883_DASSP_AMD_#_hem,0.8
+1884_DASSP_AMD_#_hem,0.5
+1885_DASSP_AMD_#_hem,0.52
+1886_DASSP_#_#_hem,0.79
+1887_DASSP_#_#_hem,0.85
+1888_DASSP_#_#_hem,0.83
+1889_DASSP_#_#_hem,1
+1890_DASSP_#_#_hem,0.83
+1891_DASSP_#_#_hem,0.83
+1892_DASSP_#_#_hem,0.88
+1893_DASSP_#_#_hem,0.81
+1967_Hemolytik_Amidation_Free_50% hemolysis at 40µM,0.83
+1969_Hemolytik_Amidation_Free_~50% hemolysis at 40µM,0.83
+1970_Hemolytik_Amidation_Free_55-60% hemolysis at 80µM,0.83
+1973_Hemolytik_Amidation_Free_~85% hemolysis at 15µM,0.21
+1977_DASSP_#_#_hem,0.83
+1978_DASSP_AMD_#_hem,0.72
+197_DASSP_AMD_#_hem,0.83
+1984_DASSP_AMD_#_hem,0.5
+1985_DASSP_AMD_#_hem,0.44
+1985_Hemolytik_Free_Free_65-70% hemolysis at 10µg/ml,0.82
+1986_DASSP_AMD_#_hem,0.47
+1986_Hemolytik_Free_Free_80-85% hemolysis at 100µg/ml,0.82
+1987_DASSP_AMD_#_hem,0.49
+1987_Hemolytik_Free_Free_50-60% hemolysis at 10µg/ml,0.82
+1988_Hemolytik_Free_Free_90-95% hemolysis at 100µg/ml,0.82
+1989_DASSP_AMD_#_hem,0.44
+1998_DASSP_AMD_#_hem,0.41
+1999_DASSP_AMD_#_hem,0.83
+2000_DASSP_AMD_#_hem,0.78
+2001_DASSP_AMD_#_hem,0.8
+2004_DASSP_#_#_hem,0.83
+2007_DASSP_#_#_hem,0.83
+2012_DASSP_#_#_hem,0.77
+2013_DASSP_#_#_hem,0.83
+2014_DASSP_#_#_hem,0.83
+2015_DASSP_AMD_#_hem,0.91
+2018_DASSP_AMD_#_hem,0.79
+2020_DASSP_AMD_#_hem,0.8
+2023_DASSP_AMD_#_hem,0.83
+2031_Hemolytik_Amidation_Free_100% hemolysis at 200µg/ml,0.84
+2054_DASSP_#_DNS_hem,0.84
+2057_DASSP_#_DNS_hem,0.84
+2058_DASSP_#_DNS_hem,0.85
+2059_DASSP_#_DNS_hem,0.85
+205_DASSP_AMD_#_hem,0.72
+2069_Hemolytik_Free_Free_~70% hemolysis at 128µM,0.36
+206_DASSP_AMD_#_hem,0.72
+207_DASSP_AMD_#_hem,0.72
+2087_Hemolytik_Free_Free_75%hemolysis at 120µM,0.55
+2089_Hemolytik_Free_Free_53% hemolysis at 120µM,0.65
+2095_Hemolytik_Free_Free_100% hemolysis at 30µg/mL,0.83
+2096_Hemolytik_Free_Free_95-100% hemolysis at 60µg/mL,0.83
+2097_Hemolytik_Amidation_Free_95-100% hemolysis at 60µg/mL,0.83
+2147_Hemolytik_Free_Free_100% hemolysis at 0.7μM,0.83
+2148_Hemolytik_Free_Free_100% hemolysisat 5μM,0.36
+2149_Hemolytik_Free_Free_100% hemolysis at 7μM,0.83
+2152_Hemolytik_Amidation_Free_100% hemolysis at 225µM,0.7
+2156_DASSP_AMD_#_hem,0.94
+2159_DASSP_AMD_#_hem,0.8
+2165_DASSP_AMD_#_hem,0.55
+2166_DASSP_AMD_#_hem,0.47
+2167_DASSP_AMD_#_hem,0.42
+2176_Hemolytik_Free_Free_70.2% hemolysis at 80μg/ml,0.83
+2177_Hemolytik_Free_Free_55.0% hemolysis at 40μg/ml,0.83
+2189_DASSP_AMD_#_hem,0.83
+218_DASSP_AMD_#_hem,0.44
+2190_DASSP_AMD_#_hem,0.67
+2193_DASSP_#_#_hem,0.77
+2194_DASSP_#_#_hem,0.52
+2196_DASSP_#_#_hem,0.83
+2197_DASSP_#_#_hem,0.64
+2198_DASSP_#_#_hem,0.83
+2199_DASSP_#_#_hem,0.83
+219_DASSP_AMD_#_hem,0.44
+2200_DASSP_#_#_hem,0.85
+2201_DASSP_#_#_hem,0.91
+2202_DASSP_AMD_#_hem,0.55
+2203_DASSP_AMD_#_hem,0.51
+2204_DASSP_AMD_#_hem,0.7
+2205_DASSP_AMD_#_hem,0.6
+2206_DASSP_AMD_#_hem,0.46
+2207_DASSP_AMD_#_hem,0.75
+2207_Hemolytik_Free_Free_80% hemolysis at 200µg/ml,0.83
+2208_Hemolytik_Free_Free_60% hemolysis at 200µg/ml,0.83
+2209_DASSP_AMD_#_hem,0.83
+2209_Hemolytik_Free_Free_~ 90% hemolysis at 200µg/ml,0.52
+220_DASSP_AMD_#_hem,0.44
+2210_DASSP_#_#_hem,0.83
+2212_Hemolytik_Amidation_Free_~ 80% hemolysis at 200µg/ml,0.83
+2229_DASSP_AMD_#_hem,0.72
+2251_DASSP_#_#_hem,0.75
+2252_DASSP_#_#_hem,0.83
+2253_DASSP_AMD_#_hem,0.43
+2255_DASSP_AMD_#_hem,0.74
+2256_DASSP_#_#_hem,0.82
+2257_DASSP_#_#_hem,0.31
+2258_DASSP_#_#_hem,0.77
+2259_DASSP_#_#_hem,0.49
+2260_DASSP_#_#_hem,0.83
+2261_DASSP_#_#_hem,0.72
+2262_DASSP_#_#_hem,0.77
+2263_DASSP_#_#_hem,0.81
+2264_DASSP_#_#_hem,0.8
+2265_DASSP_AMD_#_hem,0.83
+2278_DASSP_AMD_#_hem,0.78
+2278_Hemolytik_Amidation_Free_100% hemolysis at 1μM,0.9
+2279_Hemolytik_Amidation_Free_100% hemolysis at 1μM,0.84
+2280_Hemolytik_Amidation_Free_100% hemolysis at 5μM,0.72
+2282_DASSP_AMD_#_hem,0.56
+2284_DASSP_#_#_hem,0.83
+2285_DASSP_AMD_#_hem,0.74
+2285_Hemolytik_Free_Free_~60% hemolysis at 200μg/ml,0.83
+2286_DASSP_AMD_#_hem,0.69
+2288_DASSP_#_#_hem,0.87
+2288_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.44
+2289_DASSP_#_#_hem,0.83
+2289_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.44
+228_DASSP_AMD_#_hem,0.44
+2290_DASSP_#_#_hem,0.85
+2290_Hemolytik_Free_Free_100% hemolysis at 51–100µg/mL,0.44
+2291_DASSP_#_#_hem,0.83
+2291_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.45
+2292_DASSP_#_#_hem,0.83
+2292_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.44
+2293_DASSP_AMD_#_hem,0.72
+2294_DASSP_AMD_#_hem,0.77
+2295_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.44
+2296_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.44
+2297_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml,0.45
+2298_DASSP_AMD_#_hem,0.5
+2299_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.44
+2300_DASSP_AMD_#_hem,0.78
+2300_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml,0.44
+2301_Hemolytik_Free_Free_100% hemolysis at 51–100µg/ml,0.44
+2302_DASSP_#_#_hem,0.78
+2302_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.45
+2303_DASSP_#_#_hem,0.83
+2303_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml,0.44
+2304_DASSP_AMD_#_hem,0.83
+2304_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml,0.44
+2305_DASSP_#_#_hem,0.66
+2305_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.44
+2306_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.44
+2307_Hemolytik_Free_Free_100% hemolysis at 100–150µg/ml,0.44
+2308_Hemolytik_Free_Free_100% hemolysis at <15µg/ml,0.45
+2309_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml,0.45
+2310_Hemolytik_Free_Free_100% hemolysis at 15-50µg/ml,0.44
+2311_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.44
+2312_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.43
+2313_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.45
+2314_Hemolytik_Free_Free_100% hemolysis at 150µg/ml,0.44
+2325_DASSP_AMD_#_hem,0.83
+2326_DASSP_AMD_#_hem,0.83
+2335_DASSP_AMD_#_hem,0.61
+2336_DASSP_AMD_#_hem,0.52
+2337_DASSP_AMD_#_hem,0.49
+2338_DASSP_AMD_#_hem,0.71
+2339_DASSP_AMD_#_hem,0.35
+2340_DASSP_AMD_#_hem,0.58
+2341_DASSP_AMD_#_hem,0.71
+2342_DASSP_AMD_#_hem,0.65
+2343_DASSP_AMD_#_hem,0.71
+2344_DASSP_AMD_#_hem,0.71
+2345_DASSP_AMD_#_hem,0.54
+2346_DASSP_AMD_#_hem,0.44
+2347_DASSP_AMD_#_hem,0.71
+2354_DASSP_#_#_hem,0.41
+2355_DASSP_#_#_hem,0.42
+2359_DASSP_#_#_hem,0.7
+2361_DASSP_#_#_hem,0.47
+2362_DASSP_#_#_hem,0.43
+2367_DASSP_#_#_hem,0.83
+2369_DASSP_AMD_#_hem,0.67
+2369_Hemolytik_Free_Free_Hemolytic at 110µM,0.86
+2370_Hemolytik_Free_Free_Hemolytic 645µM,0.83
+2371_Hemolytik_Free_Free_Hemolytic at 84µM,0.83
+2372_Hemolytik_Free_Free_Hemolytic at960µM,0.68
+2383_DASSP_AMD_#_hem,0.53
+2386_DASSP_#_#_hem,0.76
+2389_DASSP_#_#_hem,0.89
+2391_DASSP_#_#_hem,0.73
+2395_DASSP_#_#_hem,0.85
+2398_DASSP_#_#_hem,0.85
+2399_DASSP_#_#_hem,0.83
+2400_DASSP_#_#_hem,0.85
+2401_DASSP_#_#_hem,0.83
+2403_DASSP_AMD_#_hem,0.85
+2404_DASSP_AMD_#_hem,0.83
+2407_DASSP_AMD_#_hem,0.83
+2420_Hemolytik_Free_Free_Strong hemolysis,0.44
+2421_Hemolytik_Free_Free_Strong hemolysis,0.44
+2423_Hemolytik_Free_Free_Very strong hemolysis,0.44
+2425_Hemolytik_Free_Free_100% hemolysis at 1.5µg/ml,0.44
+2426_DASSP_AMD_#_hem,0.25
+2426_Hemolytik_Free_Free_100% hemolysis at 12.5µg/ml,0.45
+2427_Hemolytik_Free_Free_100% hemolysis at 25µg/ml,0.45
+2428_Hemolytik_Free_Free_100% hemolysis at 40µg/ml,0.44
+2429_Hemolytik_Free_Free_100% hemolysis at 200µg/ml,0.44
+2430_Hemolytik_Free_Free_100% hemolysis at 800µg/ml,0.43
+2431_Hemolytik_Free_Free_100% hemolysis at 800µg/ml,0.45
+2432_Hemolytik_Free_Free_100% hemolysis at 800µg/ml,0.44
+2435_Hemolytik_Amidation_Free_66.5% hemolysis at 80µg/ml,0.72
+2436_Hemolytik_Amidation_Free_70.3% hemolysis at 80µg/ml,0.87
+2437_Hemolytik_Amidation_Free_90% hemolysis at 80µg/ml,0.44
+2441_Hemolytik_Free_Free_94.6% hemolysis at 80µg/ml,0.9
+2446_DASSP_AMD_#_hem,0.61
+2447_DASSP_AMD_#_hem,0.18
+2448_DASSP_AMD_#_hem,0.38
+2449_DASSP_AMD_#_hem,0.17
+2450_Hemolytik_Free_Free_89% hemolysis at 80µg/ml,0.97
+2451_DASSP_#_#_hem,0.87
+2452_DASSP_#_#_hem,0.89
+2453_DASSP_#_#_hem,0.89
+2472_Hemolytik_Amidation_Free_50% hemolysis at 200µg/ml,0.9
+2473_Hemolytik_Amidation_Free_50% hemolysis at 80µg/ml,1
+2486_Hemolytik_Free_Free_100% hemolytic at 10μg/ml,0.44
+2487_Hemolytik_Free_Free_100% hemolytic at 100μg/ml,0.44
+2493_DASSP_#_#_hem,0.83
+2494_DASSP_#_#_hem,0.85
+2495_DASSP_#_#_hem,0.83
+2496_DASSP_#_#_hem,0.83
+2497_DASSP_#_#_hem,0.83
+2504_DASSP_AMD_#_hem,0.83
+2507_DASSP_AMD_#_hem,0.86
+2508_DASSP_AMD_#_hem,0.83
+2508_Hemolytik_Amidation_Free_100% hemolytic at 100μg/ml,0.85
+2509_DASSP_AMD_#_hem,0.84
+2510_DASSP_AMD_#_hem,0.83
+2512_DASSP_#_#_hem,0.86
+2513_DASSP_#_#_hem,0.84
+2514_DASSP_#_#_hem,0.83
+2515_DASSP_AMD_#_hem,0.76
+2517_DASSP_AMD_#_hem,0.62
+2519_DASSP_AMD_#_hem,0.52
+2537_DASSP_#_#_hem,0.83
+2552_Hemolytik_Free_Free_100% hemolytic at 1.5μg/ml,0.44
+2553_Hemolytik_Free_Free_100% hemolytic at 6.2μg/ml,0.45
+2554_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml,0.44
+2555_Hemolytik_Free_Free_100% hemolytic at 6.2μg/ml,0.44
+2556_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml,0.44
+2557_Hemolytik_Free_Free_100% hemolytic at 40μg/ml,0.44
+2558_Hemolytik_Free_Free_100% hemolytic at 25μg/ml,0.44
+2559_Hemolytik_Free_Free_100% hemolytic at 150μg/ml,0.45
+2560_Hemolytik_Free_Free_100% hemolytic at 12.5μg/ml,0.44
+2561_Hemolytik_Free_Free_100% hemolytic at 50μg/ml,0.44
+2562_Hemolytik_Free_Free_100% hemolytic at 25μg/ml,0.44
+2563_Hemolytik_Free_Free_100% hemolytic at 50μg/ml,0.44
+2564_Hemolytik_Free_Free_100% hemolytic at 100μg/ml,0.44
+2565_Hemolytik_Free_Free_100% hemolytic at 200μg/ml,0.44
+2566_Hemolytik_Free_Free_100% hemolytic at 150μg/ml,0.44
+2567_Hemolytik_Free_Free_100% hemolytic at 200μg/ml,0.44
+2568_Hemolytik_Free_Free_100% hemolytic at 200μg/ml,0.44
+256_DASSP_AMD_#_hem,0.83
+2577_DASSP_AMD_#_hem,0.64
+2580_DASSP_AMD_#_hem,0.51
+2586_Hemolytik_Free_Free_50% hemolytic at 128μmol/L,0.79
+2592_Hemolytik_Amidation_Free_MHC =32μg/mL,0.83
+2593_DASSP_AMD_#_hem,0.64
+2593_Hemolytik_Amidation_Free_MHC =16μg/mL,0.83
+2594_Hemolytik_Amidation_Free_MHC =64μg/mL,0.83
+2596_Hemolytik_Amidation_Free_MHC =64μg/mL,0.83
+2597_Hemolytik_Amidation_Free_MHC =32μg/mL,0.83
+2598_DASSP_AMD_#_hem,0.46
+2600_Hemolytik_Amidation_Free_MHC =64μg/mL,0.83
+2601_Hemolytik_Amidation_Free_MHC =32μg/mL,0.83
+2608_Hemolytik_Free_Free_60% hemolytic at 100µg/ml,0.74
+2610_Hemolytik_Free_Free_100% hemolytic at 100 µg/ml,0.82
+2615_Hemolytik_Free_Free_83% hemolytic at 25mM,0.83
+2634_Hemolytik_Amidation_Acetylation_MHC =5.20±0.02μmol/L,0.89
+2635_Hemolytik_Amidation_Acetylation_MHC =10.4±0.04μmol/L,0.9
+2636_Hemolytik_Amidation_Acetylation_MHC =5.20±0.02μmol/L,0.9
+2637_Hemolytik_Amidation_Acetylation_MHC =20.81±0.10 μmol/L,0.9
+2638_Hemolytik_Amidation_Acetylation_MHC =20.81±0.15μmol/L,0.81
+2639_Hemolytik_Amidation_Acetylation_MHC =20.81±0.06μmol/L,0.81
+2644_Hemolytik_Amidation_Acetylation_MHC =10.40±0.08μmol/L,0.82
+2645_Hemolytik_Amidation_Acetylation_MHC =20.81±0.03μmol/L,0.82
+2646_Hemolytik_Amidation_Acetylation_MHC =20.81±0.13μmol/L,0.82
+2647_Hemolytik_Amidation_Acetylation_MHC =20.81±0.10 μmol/L,0.69
+2656_Hemolytik_Free_Free_0.1 hemolytic at 50.0μg/ml,0.31
+2664_Hemolytik_Amidation_Free_MHC =19.6μM,0.79
+2665_Hemolytik_Amidation_Free_MHC =15μM,0.83
+2666_Hemolytik_Free_Free_80% hemolytic at 256μg/mL,0.92
+2674_Hemolytik_Amidation_Free_~54% hemolytic at 60μM,0.35
+2700_Hemolytik_Free_Free_80% hemolytic at 25μM at pH 8,0.9
+2701_Hemolytik_Free_Free_<60% hemolytic at 25μM at pH 6,0.9
+2702_Hemolytik_Free_Free_<80% hemolytic at 25μM at pH 8,0.88
+2704_Hemolytik_Free_Free_<70% hemolytic at 25μM at pH 6,0.92
+2705_Hemolytik_Free_Free_~80% hemolytic at 25μM at pH 8,0.92
+2706_Hemolytik_Free_Free_<60% hemolytic at 25μM at pH 5,0.83
+2707_Hemolytik_Free_Free_~80% hemolytic at 25μM at pH 8,0.83
+2708_Hemolytik_Free_Free_58% hemolytic at 10μg/mL,0.68
+270_DASSP_AMD_ACT_hem,0.89
+2711_Hemolytik_Free_Free_52% hemolytic at 10μg/mL,0.81
+2712_DASSP_AMD_#_hem,0.67
+2713_DASSP_AMD_#_hem,0.58
+2714_DASSP_AMD_#_hem,0.61
+2715_DASSP_AMD_#_hem,0.54
+2716_DASSP_AMD_#_hem,0.54
+2717_DASSP_AMD_#_hem,0.48
+2718_DASSP_AMD_#_hem,0.71
+2719_DASSP_AMD_#_hem,0.68
+271_DASSP_AMD_ACT_hem,0.83
+2758_DASSP_AMD_ACT_hem,0.44
+2770_Hemolytik_Amidation_Free_100% hemolytic at 0.4μM & 23μM,0.9
+2812_DASSP_AMD_ACT_hem,0.44
+2813_DASSP_AMD_ACT_hem,0.44
+2814_DASSP_AMD_ACT_hem,0.44
+2817_DASSP_AMD_ACT_hem,0.44
+2833_Hemolytik_Amidation_Free_78% hemolytic at 6μM,0.83
+2834_Hemolytik_Amidation_Free_80% hemolytic at 6μM,0.83
+2842_DASSP_#_#_hem,0.88
+2842_Hemolytik_Amidation_Free_52% hemolytic at 6μM,0.88
+2843_DASSP_#_#_hem,0.86
+2846_DASSP_#_#_hem,0.9
+2847_DASSP_#_#_hem,0.83
+2847_Hemolytik_Amidation_Free_54 ±0.1% hemolytic at 250μM,0.83
+2848_DASSP_#_#_hem,0.83
+2849_DASSP_#_#_hem,0.62
+2850_DASSP_#_#_hem,0.83
+2851_DASSP_#_#_hem,0.83
+2855_Hemolytik_Amidation_Free_51±0.5% hemolytic at 250μM,0.72
+2856_Hemolytik_Amidation_Free_53 ±1.1% hemolytic at 250μM,0.72
+2857_Hemolytik_Amidation_Free_71±0.4% hemolytic at 250μM,0.72
+2862_DASSP_AMD_#_hem,0.76
+2865_DASSP_AMD_#_hem,0.64
+2866_DASSP_AMD_#_hem,0.77
+2868_Hemolytik_Amidation_Free_58±5.7% hemolytic at 250μM,0.44
+2869_DASSP_AMD_#_hem,0.44
+2869_Hemolytik_Amidation_Free_65±1.9% hemolytic at 250μM,0.44
+2870_Hemolytik_Amidation_Free_66±2.9% hemolytic at 250μM,0.44
+2873_DASSP_AMD_#_hem,0.31
+2874_DASSP_AMD_#_hem,0.57
+2875_DASSP_AMD_#_hem,0.67
+2878_Hemolytik_Amidation_Free_50±2.1% hemolytic at 250μM,0.44
+2881_Hemolytik_Amidation_Free_62.5% hemolytic at 40μM,0.66
+2885_Hemolytik_Amidation_Free_100% hemolytic at 40μM,0.71
+2891_Hemolytik_Amidation_Free_97% hemolytic at 40μM,0.75
+2899_Hemolytik_Amidation_Free_70% hemolytic at 40μM,0.7
+2901_Hemolytik_Amidation_Free_100% hemolytic at 40μM,0.75
+2916_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.79
+2917_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2918_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.48
+2919_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.17
+2920_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2921_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.8
+2922_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.68
+2923_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2924_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2925_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2926_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.81
+2927_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.87
+2928_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2929_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2930_Hemolytik_Amidation_Free_50% hemolytic at 64μg/ml,0.83
+2931_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2932_Hemolytik_Free_Free_50% hemolytic at 256μg/ml,0.83
+2933_Hemolytik_Free_Free_50% hemolytic at 256μg/ml,0.62
+2934_Hemolytik_Amidation_Free_50% hemolytic at 16μg/ml,0.83
+2935_Hemolytik_Free_Free_50% hemolytic at 256μg/ml,0.83
+2936_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.98
+2937_Hemolytik_Free_Free_50% hemolytic at 256μg/ml,0.86
+2938_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.76
+2939_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.77
+2940_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2941_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.94
+2942_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.44
+2943_Hemolytik_Amidation_iotin_50% hemolytic at 256μg/ml,0.48
+2944_Hemolytik_Amidation_Free_50% hemolytic at 256μg/ml,0.83
+2945_Hemolytik_Free_Free_MHC =3.46μM,0.78
+2946_Hemolytik_Free_Free_MHC =13.84μM,0.82
+2947_Hemolytik_Free_Free_MHC =6.92μM,0.82
+2948_Hemolytik_Free_Free_MHC =3.44μM,0.76
+2949_Hemolytik_Free_Free_MHC =6.92μM,0.68
+2951_Hemolytik_Free_Free_MHC =3.44μM,0.65
+2954_Hemolytik_Free_Free_MHC =13.93μM,0.7
+2955_Hemolytik_Free_Free_MHC =14.10μM,0.66
+2956_Hemolytik_Free_Free_MHC =28.38μM,0.67
+2957_Hemolytik_Free_Free_MHC =28.00μM,0.7
+3006_DASSP_#_#_hem,0.79
+3008_DASSP_#_#_hem,0.97
+3009_Hemolytik_Free_Free_51.3±1.6% hemolytic at 25μM,0.67
+3011_Hemolytik_Free_Free_54.5±0.9% hemolytic at 25μM,0.68
+3013_Hemolytik_Free_Free_64.4±2.2% hemolytic at 25μM,0.67
+3065_DASSP_AMD_#_hem,0.83
+3068_DASSP_AMD_#_hem,0.83
+3069_DASSP_AMD_#_hem,0.61
+3078_DASSP_#_#_hem,0.83
+3079_DASSP_#_#_hem,0.52
+3096_DASSP_AMD_#_hem,0.44
+3099_Hemolytik_Amidation_Free_60% hemolysis at 40μg/ml,0.76
+3100_DASSP_AMD_#_hem,0.44
+3101_DASSP_AMD_#_hem,0.43
+3102_DASSP_AMD_#_hem,0.93
+3103_DASSP_AMD_#_hem,0.83
+3103_Hemolytik_Amidation_Free_55-60% hemolysis at 40μg/ml,0.77
+3104_DASSP_AMD_#_hem,0.83
+3105_DASSP_AMD_#_hem,0.83
+3108_Hemolytik_Amidation_Free_65% hemolysis at 80μg/ml,0.76
+3109_Hemolytik_Amidation_Free_70% hemolysis at 160μg/ml,0.76
+3112_Hemolytik_Amidation_Free_50-60% hemolysis at 80μg/ml,0.64
+3113_Hemolytik_Amidation_Free_60-65% hemolysis at 160μg/ml,0.64
+3114_Hemolytik_Amidation_Free_60-70% hemolysis at 80μg/ml,0.77
+3115_Hemolytik_Amidation_Free_70-75% hemolysis at 160μg/ml,0.77
+3121_DASSP_AMD_#_hem,0.74
+3123_DASSP_AMD_#_hem,0.57
+3124_DASSP_AMD_#_hem,0.56
+3135_DASSP_AMD_#_hem,0.47
+3136_DASSP_AMD_#_hem,0.55
+3137_DASSP_AMD_#_hem,0.55
+3138_DASSP_AMD_#_hem,0.64
+3140_DASSP_AMD_#_hem,0.63
+3142_DASSP_AMD_#_hem,0.43
+3143_DASSP_AMD_#_hem,0.53
+3144_DASSP_AMD_#_hem,0.49
+3145_DASSP_AMD_#_hem,0.6
+3147_DASSP_AMD_#_hem,0.56
+3149_DASSP_AMD_#_hem,0.49
+3150_DASSP_AMD_#_hem,0.4
+3151_DASSP_AMD_#_hem,0.57
+3152_DASSP_AMD_#_hem,0.52
+3153_DASSP_AMD_#_hem,0.51
+3154_DASSP_#_#_hem,0.85
+3156_DASSP_#_#_hem,0.83
+3157_DASSP_AMD_#_hem,0.85
+3166_Hemolytik_Amidation_Free_50% hemolysis at 0.72mg/ml,0.67
+3173_DASSP_AMD_#_hem,0.9
+3174_DASSP_AMD_#_hem,0.84
+3175_DASSP_AMD_#_hem,0.72
+3177_DASSP_AMD_#_hem,0.58
+3188_Hemolytik_Amidation_Free_100% hemolysis at 48μM,0.89
+3189_Hemolytik_Amidation_Free_94% hemolysis at 24μM,0.89
+3190_Hemolytik_Amidation_Free_92% hemolysis at 12μM,0.89
+3192_DASSP_AMD_#_hem,0.61
+3193_DASSP_#_#_hem,0.86
+3194_DASSP_#_#_hem,0.83
+3194_Hemolytik_Amidation_Free_100% hemolysis at 48μM,0.83
+3195_DASSP_#_#_hem,0.92
+3195_Hemolytik_Amidation_Free_92% hemolysis at 24μM,0.83
+3196_DASSP_#_#_hem,0.83
+3206_Hemolytik_Amidation_Free_94% hemolysis at 48μM,0.78
+3227_DASSP_#_#_hem,0.44
+3232_DASSP_AMD_#_hem,0.77
+3247_DASSP_AMD_#_hem,0.63
+3257_DASSP_AMD_#_hem,0.87
+3258_DASSP_AMD_#_hem,0.8
+3259_DASSP_AMD_#_hem,0.92
+3260_DASSP_AMD_#_hem,0.82
+3270_Hemolytik_Amidation_Free_70% hemolysis at 16μM,0.75
+3271_Hemolytik_Amidation_Free_81% hemolysis at 32μM,0.83
+3272_Hemolytik_Amidation_Free_100% hemolysis at 32μM,0.75
+3273_Hemolytik_Amidation_Free_100% hemolysis at 64μM,0.83
+3294_Hemolytik_Amidation_Free_100% hemolysis at 120μM,0.9
+3295_Hemolytik_Amidation_Acetylation_100% hemolysis at 120μM compared with melittin,0.9
+3296_Hemolytik_Lac=p-amidophenyl-β-D-lactopyranoside_Free_120% hemolysis at 120μM compared with melittin,0.9
+3313_Hemolytik_Free_Formylation_82% hemolysis at 25μg,0.63
+3314_DASSP_#_#_hem,0.44
+3314_Hemolytik_Free_Formylation_100% hemolysis at 75μg,0.63
+3315_DASSP_#_#_hem,0.44
+3315_Hemolytik_Free_Formylation_73% hemolysis at 25μg,0.63
+3316_DASSP_#_#_hem,0.44
+3316_Hemolytik_Free_Formylation_85% hemolysis at 75μg,0.63
+3317_Hemolytik_Free_Formylation_92% hemolysis at 25μg,0.63
+3318_Hemolytik_Free_Formylation_100% hemolysis at 75μg,0.63
+3319_Hemolytik_Free_Formylation_87% hemolysis at 25μg,0.63
+3320_Hemolytik_Free_Formylation_100% hemolysis at 75μg,0.63
+3322_Hemolytik_Free_Formylation_80% hemolysis at 75μg,0.63
+3324_Hemolytik_Free_Formylation_55% hemolysis at 75μg,0.63
+3326_DASSP_AMD_#_hem,0.83
+3328_Hemolytik_Free_Formylation_55% hemolysis at 75μg,0.63
+3332_Hemolytik_Free_Free_60% hemolysis at 75μg,0.63
+3333_Hemolytik_Free_Free_50% hemolysis at 75μg,0.63
+3334_Hemolytik_Free_Free_58% hemolysis at 75μg,0.63
+3345_DASSP_#_#_hem,0.63
+3345_Hemolytik_Free_Free_51% hemolysis at 500μg,0.24
+3346_DASSP_AMD_#_hem,0.83
+3347_DASSP_#_#_hem,0.46
+3348_DASSP_#_#_hem,0.23
+3355_DASSP_AMD_#_hem,0.82
+3358_DASSP_AMD_#_hem,0.8
+3360_DASSP_AMD_#_hem,0.83
+3361_DASSP_AMD_#_hem,0.83
+3362_DASSP_AMD_#_hem,0.74
+3363_DASSP_AMD_#_hem,0.74
+3364_DASSP_AMD_#_hem,0.76
+3365_DASSP_AMD_#_hem,0.83
+3365_Hemolytik_Free_Fmoc_59% hemolysis at 75μg,0.5
+3366_DASSP_AMD_#_hem,0.73
+3367_DASSP_AMD_#_hem,0.82
+3367_Hemolytik_Free_Fmoc_91% hemolysis at 75μg,0.5
+3368_DASSP_AMD_#_hem,0.74
+3369_DASSP_AMD_#_hem,0.73
+3370_DASSP_AMD_#_hem,0.82
+3371_DASSP_AMD_#_hem,0.82
+3371_Hemolytik_Free_Free_66% hemolysis at 75μg,0.5
+3372_DASSP_AMD_#_hem,0.55
+3373_DASSP_AMD_#_hem,0.57
+3374_DASSP_AMD_#_hem,0.51
+3375_DASSP_AMD_#_hem,0.62
+3376_DASSP_AMD_#_hem,0.61
+3377_DASSP_AMD_#_hem,0.55
+3378_DASSP_AMD_#_hem,0.54
+3378_Hemolytik_Amidation_Fmoc_100% hemolysis at 8μg,0.51
+3379_DASSP_AMD_#_hem,0.83
+3379_Hemolytik_Amidation_Free_~90% hemolysis at 80μg,0.51
+3380_DASSP_AMD_#_hem,0.62
+3380_Hemolytik_Amidation_Fmoc_~60% hemolysis at 80μg,0.53
+3381_DASSP_AMD_#_hem,0.62
+3382_DASSP_AMD_#_hem,0.74
+3382_Hemolytik_Amidation_Fmoc_~80% hemolysis at 8μg,0.52
+3383_DASSP_#_#_hem,0.83
+3384_DASSP_#_#_hem,0.55
+3385_DASSP_#_#_hem,0.82
+3386_DASSP_#_#_hem,0.54
+3396_DASSP_#_#_hem,1
+3396_Hemolytik_Free_Free_50% hemolysis at 400μM,0.76
+3397_DASSP_#_#_hem,1
+3397_Hemolytik_Free_Free_50% hemolysis at 400μM,0.61
+3398_DASSP_#_#_hem,0.83
+3398_Hemolytik_Free_Free_50% hemolysis at 400μM,0.57
+3399_DASSP_#_#_hem,0.88
+3399_Hemolytik_Free_Free_50% hemolysis at 400μM,0.81
+3400_DASSP_#_#_hem,0.89
+3401_DASSP_#_#_hem,0.83
+3402_DASSP_AMD_#_hem,0.5
+3403_DASSP_AMD_#_hem,0.52
+3410_Hemolytik_Free_Free_~90% hemolysis at 100μg/ml,0.83
+3412_Hemolytik_Free_Free_~90% hemolysis at 100μg/ml,0.83
+3414_DASSP_AMD_#_hem,0.83
+3422_Hemolytik_Amidation_Free_100% hemolysis at 80μM,0.83
+3423_Hemolytik_Amidation_Free_80% hemolysis at 40μM,0.83
+3424_Hemolytik_Amidation_Free_100% hemolysis at 80μM,0.83
+3428_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml,0.63
+3429_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml,0.78
+3430_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml,0.73
+3431_Hemolytik_Amidation_Free_90-100% hemolysis at 50μg/ml,0.68
+3442_DASSP_AMD_#_hem,0.64
+3444_DASSP_AMD_#_hem,0.44
+3445_DASSP_AMD_#_hem,0.62
+3446_DASSP_AMD_#_hem,0.54
+3447_DASSP_AMD_#_hem,0.61
+3448_DASSP_AMD_#_hem,0.65
+3449_DASSP_AMD_#_hem,0.64
+3451_DASSP_AMD_#_hem,0.66
+3452_DASSP_AMD_#_hem,0.62
+3453_DASSP_AMD_#_hem,0.53
+3454_DASSP_AMD_#_hem,0.33
+3454_Hemolytik_Free_Free_100% hemolysis at 65μg/ml,0.83
+3455_DASSP_AMD_#_hem,0.63
+3455_Hemolytik_Free_Free_100% hemolysis at 40μg/ml,0.82
+3456_DASSP_AMD_#_hem,0.63
+3456_Hemolytik_Amidation_Free_100% hemolysis at 5μg/ml,0.82
+3457_DASSP_AMD_#_hem,0.63
+3473_Hemolytik_Free_Free_100% hemolysis at 1μM,0.84
+3476_DASSP_AMD_#_hem,0.56
+3479_DASSP_AMD_#_hem,0.64
+3481_DASSP_AMD_#_hem,0.64
+3483_DASSP_AMD_#_hem,0.76
+3490_DASSP_#_#_hem,0.83
+3491_DASSP_#_#_hem,0.75
+3496_Hemolytik_Amidation_Free_Hemolytic activity i.e. 16.6H/mg,0.58
+3497_Hemolytik_Amidation_Free_95% hemolysis at 30μM,0.21
+3501_Hemolytik_Amidation_Free_95% hemolysis at 30μM,0.32
+3503_Hemolytik_Amidation_Free_~80% hemolysis at 30μM,0.35
+3511_Hemolytik_Amidation_Free_80% hemolysis at 30μM,0.35
+3513_Hemolytik_Amidation_Free_~70% hemolysis at 30μM,0.35
+3515_Hemolytik_Amidation_Free_~80% hemolysis at 30μM,0.46
+3526_Hemolytik_Amidation_Free_98% hemolysis at 150μM,0.83
+3528_Hemolytik_Free_Free_100% hemolysis at 40μM,0.56
+352_DASSP_AMD_ACT_hem,0.78
+3534_Hemolytik_Amidation_Free_~70% hemolysis at 20μg/ml,0.76
+3535_Hemolytik_Amidation_Free_75% hemolysis at 80μg/ml,0.76
+3536_DASSP_#_#_hem,0.88
+3537_DASSP_#_#_hem,0.89
+3539_DASSP_#_#_hem,0.89
+353_DASSP_AMD_ACT_hem,0.75
+3540_DASSP_#_#_hem,0.89
+3553_DASSP_AMD_#_hem,0.72
+3554_Hemolytik_Free_Free_90.5±0.8% hemolysis at 44.5μM,0.83
+3555_Hemolytik_Free_Free_51.4±0.5% hemolysis at 22.2μM,0.83
+3561_DASSP_AMD_#_hem,0.58
+3562_DASSP_AMD_#_hem,0.5
+3563_DASSP_#_#_hem,0.83
+3564_DASSP_#_#_hem,0.95
+3565_DASSP_#_#_hem,0.83
+3567_DASSP_#_#_hem,0.75
+3568_DASSP_#_#_hem,0.83
+3581_DASSP_#_#_hem,0.83
+3582_DASSP_#_#_hem,0.77
+3583_DASSP_#_#_hem,0.83
+3585_DASSP_#_#_hem,0.74
+3587_DASSP_AMD_#_hem,0.6
+3588_DASSP_AMD_#_hem,0.53
+3590_Hemolytik_Free_Free_MHC =8μg/ml,0.7
+3593_Hemolytik_Free_Free_MHC=64μg/ml,0.83
+3595_Hemolytik_Free_Free_MHC =32μg/ml,0.83
+3599_Hemolytik_Free_Free_100% hemolysis at ~25μM,0.83
+3601_Hemolytik_Free_Free_50% hemolysis at 40μM,0.83
+3602_Hemolytik_Free_Free_80% hemolysis at 60μM,0.83
+3603_Hemolytik_Free_Free_~90% hemolysis at 80μM,0.83
+3604_Hemolytik_Free_Free_100% hemolysis at ~90μM,0.83
+3605_Hemolytik_Free_Free_50% hemolysis at ~15μM,0.83
+3614_Hemolytik_Amidation_Free_59.2% hemolysis at 12.5µM,0.61
+3615_DASSP_AMD_#_hem,0.66
+3615_Hemolytik_Amidation_Free_90% hemolysis at 25µM,0.61
+3616_Hemolytik_Free_Free_74% hemolysis at 6.25µM,0.83
+3617_Hemolytik_Free_Free_90% hemolysis at 12.5µM,0.83
+3618_Hemolytik_Free_Free_95% hemolysis at 25µM,0.83
+3647_DASSP_#_#_hem,0.68
+3650_Hemolytik_Free_Free_60±7.1% hemolysis at 50µg/ml,0.76
+3651_Hemolytik_Free_Free_65.5±7.7% hemolysis at 50µg/ml,0.6
+3652_Hemolytik_Free_Free_87.2±2.6% hemolysis at 50µg/ml,0.83
+3653_Hemolytik_Free_Free_100% hemolysis at 50µg/ml,0.71
+3657_Hemolytik_Amidation_Free_~100% hemolysis at 30µM,0.83
+3659_Hemolytik_Amidation_Free_100% hemolysis at 20µg/ml,0.46
+3661_Hemolytik_Free_Free_Strongly hemolytic at 40µg/ml,0.78
+3664_Hemolytik_Free_Free_100% hemolysis at 1600µg/ml,0.44
+3665_Hemolytik_Free_Free_100% hemolysis at 1600µg/ml,0.44
+3666_Hemolytik_Free_Free_100% hemolysis at 67µg/ml,0.44
+3667_Hemolytik_Free_Free_100% hemolysis at 250µg/ml,0.45
+3668_Hemolytik_Free_Free_100% hemolysis at 6µg/ml,0.44
+3669_Hemolytik_Free_Free_100% hemolysis at 92µg/ml,0.45
+3670_Hemolytik_Free_Free_100% hemolysis at 400µg/ml,0.45
+3675_Hemolytik_[NH(CH2)2NH2]2_Free_100% hemolysis at 12µM,0.72
+3690_Hemolytik_Free_Free_100% hemolysis at 70µM,0.83
+3691_Hemolytik_Free_Free_100% hemolysis at 70µM,0.86
+3692_Hemolytik_Free_Free_100% hemolysis at 80µM,0.83
+3693_Hemolytik_Free_Free_100% hemolysis at 1µM,0.84
+3694_Hemolytik_Free_Free_100% hemolysis at 90µM,0.71
+3752_Hemolytik_Free_Free_50% hemolysis at 38µM,0.83
+3754_DASSP_AMD_#_hem,0.78
+3769_DASSP_#_#_hem,0.83
+3770_DASSP_#_#_hem,0.86
+3773_DASSP_#_#_hem,0.83
+3776_DASSP_#_#_hem,0.84
+3779_DASSP_#_#_hem,0.75
+3782_DASSP_AMD_#_hem,0.81
+3783_DASSP_#_#_hem,0.85
+3784_DASSP_#_#_hem,0.83
+3785_DASSP_AMD_#_hem,0.81
+3785_Hemolytik_Free_Free_50% hemolysis at 75μg/ml,0.5
+3786_DASSP_#_#_hem,0.83
+3786_Hemolytik_Free_Free_85% hemolysis at 120μg/ml,0.5
+3787_DASSP_#_#_hem,0.77
+3787_Hemolytik_Free_Free_90% hemolysis at 150μg/ml,0.5
+3788_DASSP_#_#_hem,0.83
+3788_Hemolytik_Free_Free_100% hemolysis at 180μg/ml,0.5
+3789_Hemolytik_Free_Free_100% hemolysis at 14μg/ml,0.68
+3791_DASSP_#_#_hem,0.83
+3791_Hemolytik_Amidation_Free_100% hemolysis at 33μg/ml,0.65
+3792_Hemolytik_Amidation_Free_100% hemolysis at 56μg/ml,0.83
+3817_DASSP_#_#_hem,0.83
+3820_DASSP_AMD_#_hem,0.81
+3821_DASSP_AMD_#_hem,0.88
+3829_DASSP_EN_#_hem,0.71
+3830_DASSP_EN_#_hem,0.72
+3831_DASSP_EN_#_hem,0.6
+3836_Hemolytik_Free_Free_100% hemolysis at 40μM,0.83
+3837_Hemolytik_Free_Free_100% hemolysis at 175μM,0.79
+3838_Hemolytik_Free_Free_100% hemolysis at 85μM,0.77
+3839_Hemolytik_Free_Free_100% hemolysis at 63μM,0.79
+3840_Hemolytik_Free_Free_100% hemolysis at 330μM,0.83
+3842_Hemolytik_Free_Free_100% hemolysis at 365μM,0.83
+3843_Hemolytik_Amidation_Free_100% hemolysis at 100μg/ml,0.26
+3844_Hemolytik_Amidation_Free_100% hemolysis at 110μg/ml,0.53
+3889_DASSP_AMD_#_hem,0.69
+3889_Hemolytik_Free_Free_100% hemolysis at 15μM,0.44
+3892_DASSP_AMD_#_hem,0.83
+3893_DASSP_AMD_#_hem,0.63
+3894_DASSP_#_#_hem,0.83
+3929_DASSP_#_#_hem,0.83
+3930_DASSP_#_#_hem,0.83
+3938_Hemolytik_Free_Free_MHC 1μg/ml,0.89
+3939_Hemolytik_Free_Free_MHC 1μg/ml,0.66
+3943_Hemolytik_Free_Free_MHC =12.5μg/ml,0.44
+3944_Hemolytik_Free_Free_MHC =1.5μg/ml,0.44
+3947_Hemolytik_Amidation_Free_MHC =25μg/ml,0.83
+3953_Hemolytik_Free_Free_MHC <10μg/ml,0.83
+3959_Hemolytik_Amidation_Free_MHC <10μg/ml,0.76
+3960_Hemolytik_Amidation_Free_MHC <10μg/ml,0.67
+3965_Hemolytik_Amidation_Free_MHC 5μg/ml,0.83
+3966_Hemolytik_Amidation_Free_MHC =50μg/ml,0.83
+3967_Hemolytik_Amidation_Free_MHC 1μg/ml,0.44
+3969_Hemolytik_Amidation_Free_MHC 5μg/ml,0.48
+3970_Hemolytik_Amidation_Free_MHC 1μg/ml,0.44
+3973_Hemolytik_Amidation_Acetylation_MHC =31.3μg/ml,0.58
+3974_Hemolytik_Amidation_Acetylation_MHC =7.8μg/ml,0.77
+3975_Hemolytik_Amidation_Acetylation_MHC =7.8μg/ml,0.44
+3980_Hemolytik_Amidation_Free_MHC =50μM,0.17
+4025_Hemolytik_Free_Free_85.52±3.26% hemolysis at 100μg/ml,1
+4028_Hemolytik_Free_Free_95.7±4.12% hemolysis at 100μg/ml,0.9
+4038_Hemolytik_Free_Free_57.1% hemolysis at 1mg/ml,0.17
+4048_Hemolytik_Free_Free_66.3% hemolysis at 1mg/ml,0.17
+4064_Hemolytik_Free_Free_50% hemolysis at 6μM,0.83
+4065_Hemolytik_Free_Free_85% hemolysis at 12.5μM,0.83
+4066_Hemolytik_Free_Free_100% hemolysis at 25μM,0.83
+4069_Hemolytik_Free_Free_50% hemolysis at 12.5μM,0.78
+4070_Hemolytik_Free_Free_60% hemolysis at 25μM,0.78
+4105_DASSP_#_#_hem,0.61
+4115_DASSP_AMD_#_hem,0.83
+4146_DASSP_#_#_hem,0.83
+4147_DASSP_#_#_hem,0.83
+4149_DASSP_AMD_#_hem,0.79
+4149_Hemolytik_Amidation_Free_100% hemolysis at 25 µM,0.6
+4154_DASSP_AMD_#_hem,0.73
+4157_DASSP_AMD_#_hem,0.69
+4160_DASSP_AMD_#_hem,0.75
+4160_Hemolytik_Free_Free_MHC =2µg/ml,0.44
+4161_DASSP_AMD_#_hem,0.67
+4161_Hemolytik_Free_Free_MHC =3µg/ml,0.43
+4162_Hemolytik_Free_Free_MHC =3µg/ml,0.45
+4163_Hemolytik_Free_Free_MHC =8µg/ml,0.44
+4164_Hemolytik_Free_Free_MHC =2µg/ml,0.43
+4165_Hemolytik_Free_Free_MHC =3µg/ml,0.46
+4166_DASSP_AMD_#_hem,0.75
+4168_DASSP_AMD_#_hem,0.5
+4169_DASSP_AMD_#_hem,0.62
+4171_DASSP_AMD_#_hem,0.73
+4189_DASSP_#_#_hem,0.83
+4193_DASSP_AMD_#_hem,0.76
+4194_DASSP_#_#_hem,0.78
+4195_DASSP_#_#_hem,0.83
+4197_DASSP_AMD_#_hem,0.74
+4198_DASSP_AMD_#_hem,0.62
+4199_DASSP_AMD_#_hem,0.82
+4209_DASSP_#_#_hem,0.73
+4210_DASSP_#_#_hem,0.83
+4211_DASSP_#_#_hem,0.72
+4212_DASSP_AMD_#_hem,0.69
+4213_DASSP_#_#_hem,0.83
+4214_DASSP_#_ACT_hem,0.68
+4215_DASSP_#_#_hem,0.92
+4216_DASSP_#_#_hem,0.81
+4217_DASSP_#_#_hem,0.82
+4218_DASSP_#_#_hem,0.83
+4219_DASSP_#_#_hem,0.9
+4220_DASSP_#_#_hem,0.94
+4221_DASSP_#_#_hem,0.91
+4222_DASSP_AMD_#_hem,0.72
+4226_DASSP_#_#_hem,1
+4227_DASSP_#_#_hem,0.96
+4229_DASSP_#_#_hem,0.87
+4230_DASSP_#_#_hem,0.8
+4231_DASSP_#_#_hem,0.86
+4275_DASSP_#_#_hem,0.79
+4276_DASSP_#_#_hem,0.83
+4277_DASSP_#_#_hem,0.83
+4278_DASSP_#_#_hem,0.84
+4282_DASSP_#_#_hem,0.83
+4283_DASSP_#_#_hem,0.82
+4284_DASSP_#_#_hem,0.8
+4285_DASSP_#_#_hem,0.82
+4286_DASSP_#_#_hem,0.85
+4287_DASSP_#_#_hem,0.86
+4288_DASSP_#_#_hem,0.82
+4289_DASSP_#_#_hem,0.85
+4290_DASSP_#_#_hem,0.87
+4330_DASSP_AMD_#_hem,0.66
+4331_DASSP_AMD_#_hem,0.64
+4334_DASSP_#_#_hem,0.71
+4343_DASSP_#_#_hem,0.84
+4360_DASSP_AMD_#_hem,0.83
+4361_DASSP_AMD_#_hem,0.9
+4362_DASSP_AMD_#_hem,0.83
+4363_DASSP_AMD_#_hem,0.9
+4364_DASSP_AMD_#_hem,0.86
+4365_DASSP_AMD_#_hem,0.79
+4366_DASSP_AMD_#_hem,0.83
+4367_DASSP_AMD_#_hem,0.83
+4368_DASSP_AMD_#_hem,0.85
+4369_DASSP_AMD_#_hem,0.85
+4370_DASSP_AMD_#_hem,0.88
+4371_DASSP_AMD_#_hem,0.74
+4372_DASSP_AMD_#_hem,0.69
+4374_DASSP_AMD_#_hem,0.55
+4375_DASSP_AMD_#_hem,0.73
+4376_DASSP_AMD_#_hem,0.7
+4377_DASSP_AMD_#_hem,0.73
+4378_DASSP_AMD_#_hem,0.55
+4386_DASSP_#_#_hem,0.83
+4387_DASSP_#_#_hem,0.89
+4388_DASSP_#_#_hem,0.83
+4393_DASSP_AMD_#_hem,0.78
+4395_DASSP_#_#_hem,0.87
+4405_DASSP_#_#_hem,0.87
+4406_DASSP_#_#_hem,0.91
+4407_DASSP_AMD_#_hem,0.75
+4416_DASSP_AMD_C16_hem,0.77
+4417_DASSP_AMD_#_hem,0.78
+4418_DASSP_#_#_hem,0.83
+4419_DASSP_#_#_hem,0.79
+4420_DASSP_AMD_#_hem,0.77
+4421_DASSP_AMD_#_hem,0.76
+4422_DASSP_AMD_#_hem,0.74
+4423_DASSP_AMD_#_hem,0.73
+4424_DASSP_AMD_#_hem,0.71
+4425_DASSP_AMD_#_hem,0.68
+4426_DASSP_AMD_#_hem,0.81
+4433_DASSP_AMD_#_hem,0.41
+4451_DASSP_#_#_hem,0.83
+4469_DASSP_#_#_hem,0.76
+447_DASSP_AMD_#_hem,0.83
+4480_DASSP_#_#_hem,0.34
+4483_DASSP_AMD_#_hem,0.32
+4492_DASSP_#_#_hem,0.83
+4499_DASSP_AMD_#_hem,0.44
+4500_DASSP_AMD_#_hem,0.44
+4501_DASSP_AMD_#_hem,0.44
+4502_DASSP_AMD_#_hem,0.44
+4503_DASSP_AMD_#_hem,0.44
+4504_DASSP_AMD_#_hem,0.44
+4505_DASSP_AMD_#_hem,0.44
+4506_DASSP_AMD_#_hem,0.44
+4542_DASSP_AMD_#_hem,0.63
+4543_DASSP_AMD_#_hem,0.83
+4544_DASSP_AMD_#_hem,0.71
+4548_DASSP_#_#_hem,0.78
+4550_DASSP_#_#_hem,0.67
+4552_DASSP_#_#_hem,0.45
+4554_DASSP_AMD_#_hem,0.36
+4572_DASSP_AMD_#_hem,0.83
+4573_DASSP_AMD_#_hem,0.49
+4574_DASSP_AMD_#_hem,0.69
+4575_DASSP_AMD_#_hem,0.79
+4576_DASSP_AMD_#_hem,0.83
+4584_DASSP_AMD_#_hem,0.83
+4587_DASSP_AMD_#_hem,0.17
+4588_DASSP_AMD_#_hem,0.18
+4589_DASSP_AMD_#_hem,0.17
+4590_DASSP_AMD_#_hem,0.17
+4591_DASSP_AMD_#_hem,0.17
+4594_DASSP_#_#_hem,0.67
+4595_DASSP_#_#_hem,0.74
+4612_DASSP_#_#_hem,0.68
+4614_DASSP_AMD_#_hem,0.65
+4615_DASSP_AMD_#_hem,0.83
+4616_DASSP_AMD_#_hem,0.68
+4617_DASSP_AMD_#_hem,0.83
+4618_DASSP_AMD_#_hem,0.83
+4619_DASSP_AMD_#_hem,0.83
+4620_DASSP_AMD_#_hem,0.83
+4623_DASSP_AMD_#_hem,0.83
+4624_DASSP_AMD_#_hem,0.77
+4625_DASSP_AMD_#_hem,0.77
+4626_DASSP_AMD_#_hem,0.88
+4627_DASSP_AMD_#_hem,0.83
+4628_DASSP_AMD_#_hem,0.71
+4629_DASSP_AMD_#_hem,0.44
+4630_DASSP_AMD_#_hem,0.44
+4652_DASSP_#_#_hem,0.9
+4654_DASSP_AMD_#_hem,0.66
+4656_DASSP_AMD_#_hem,0.81
+4658_DASSP_AMD_#_hem,0.71
+4661_DASSP_AMD_#_hem,0.75
+4662_DASSP_AMD_#_hem,0.83
+4667_DASSP_AMD_#_hem,0.7
+4668_DASSP_AMD_#_hem,0.75
+4680_DASSP_#_#_hem,0.83
+4686_DASSP_AMD_#_hem,0.5
+4724_DASSP_#_#_hem,0.83
+4726_DASSP_#_#_hem,0.77
+4727_DASSP_#_#_hem,0.48
+4732_DASSP_AMD_ACT_hem,0.44
+4733_DASSP_AMD_ACT_hem,0.44
+4734_DASSP_AMD_ACT_hem,0.44
+4735_DASSP_AMD_ACT_hem,0.44
+4750_DASSP_AMD_#_hem,0.86
+4751_DASSP_AMD_#_hem,0.43
+4752_DASSP_AMD_#_hem,0.83
+4753_DASSP_AMD_#_hem,0.83
+4754_DASSP_AMD_#_hem,0.83
+4760_DASSP_AMD_#_hem,0.77
+4766_DASSP_AMD_#_hem,0.6
+4767_DASSP_AMD_#_hem,0.77
+4776_DASSP_AMD_#_hem,0.83
+478_DASSP_AMD_#_hem,0.44
+4798_DASSP_AMD_#_hem,0.83
+4800_DASSP_AMD_#_hem,0.46
+4801_DASSP_AMD_#_hem,0.46
+4804_DASSP_AMD_#_hem,0.44
+4805_DASSP_AMD_ACT_hem,0.83
+4806_DASSP_#_#_hem,0.83
+4807_DASSP_AMD_#_hem,0.67
+4808_DASSP_AMD_#_hem,0.48
+4809_DASSP_AMD_#_hem,0.47
+4810_DASSP_AMD_#_hem,0.49
+4811_DASSP_AMD_#_hem,0.44
+4812_DASSP_AMD_#_hem,0.68
+4813_DASSP_AMD_#_hem,0.54
+4814_DASSP_AMD_#_hem,0.55
+4815_DASSP_AMD_#_hem,0.48
+4816_DASSP_AMD_#_hem,0.63
+4817_DASSP_AMD_#_hem,0.59
+4818_DASSP_AMD_#_hem,0.74
+4819_DASSP_AMD_#_hem,0.59
+4820_DASSP_AMD_#_hem,0.61
+4821_DASSP_AMD_#_hem,0.59
+4822_DASSP_AMD_#_hem,0.74
+4823_DASSP_AMD_#_hem,0.59
+4824_DASSP_AMD_#_hem,0.59
+4825_DASSP_AMD_#_hem,0.74
+4826_DASSP_AMD_#_hem,0.59
+4827_DASSP_AMD_#_hem,0.59
+4829_DASSP_AMD_#_hem,0.44
+4834_DASSP_AMD_#_hem,0.67
+4835_DASSP_AMD_#_hem,0.66
+4836_DASSP_AMD_#_hem,0.34
+4837_DASSP_AMD_#_hem,0.48
+4838_DASSP_AMD_#_hem,0.47
+4841_DASSP_AMD_#_hem,0.44
+4842_DASSP_AMD_#_hem,0.44
+4843_DASSP_AMD_#_hem,0.42
+4844_DASSP_AMD_#_hem,0.44
+4845_DASSP_AMD_#_hem,0.44
+4846_DASSP_AMD_#_hem,0.82
+4867_DASSP_#_#_hem,0.83
+4868_DASSP_#_#_hem,0.89
+4869_DASSP_#_#_hem,0.89
+4872_DASSP_#_#_hem,0.83
+4873_DASSP_#_#_hem,0.83
+4874_DASSP_#_#_hem,0.83
+4875_DASSP_#_#_hem,0.83
+4880_DASSP_#_#_hem,0.44
+4882_DASSP_#_#_hem,0.71
+4883_DASSP_#_#_hem,0.44
+4884_DASSP_#_#_hem,0.83
+4885_DASSP_#_#_hem,0.44
+4886_DASSP_#_#_hem,0.44
+4887_DASSP_#_#_hem,0.83
+488_DASSP_#_#_hem,0.9
+4890_DASSP_#_#_hem,0.44
+4891_DASSP_#_#_hem,0.44
+4892_DASSP_#_#_hem,0.7
+4895_DASSP_#_#_hem,0.44
+4900_DASSP_AMD_#_hem,0.8
+4906_DASSP_AMD_#_hem,0.83
+4911_DASSP_AMD_#_hem,0.79
+4918_DASSP_AMD_#_hem,0.83
+4922_DASSP_AMD_#_hem,0.82
+4924_DASSP_AMD_#_hem,0.83
+4925_DASSP_AMD_#_hem,0.83
+4926_DASSP_AMD_#_hem,0.84
+4927_DASSP_AMD_#_hem,0.83
+4928_DASSP_AMD_#_hem,0.8
+4932_DASSP_AMD_#_hem,0.58
+4937_DASSP_AMD_#_hem,0.81
+4946_DASSP_AMD_#_hem,0.61
+4947_DASSP_AMD_#_hem,0.18
+4948_DASSP_AMD_#_hem,0.38
+4950_DASSP_AMD_#_hem,0.17
+4952_DASSP_AMD_#_hem,0.66
+4954_DASSP_AMD_#_hem,0.66
+4965_DASSP_#_#_hem,0.41
+496_DASSP_#_#_hem,0.83
+4978_DASSP_AMD__hem,0.55
+497_DASSP_#_#_hem,0.83
+4980_DASSP_AMD_#_hem,0.67
+4981_DASSP_AMD_#_hem,0.55
+4982_DASSP_AMD_ACT_hem,0.83
+4983_DASSP_AMD_TS_hem,0.83
+4984_DASSP_AMD_#_hem,0.57
+4985_DASSP_AMD_TS_hem,0.83
+4986_DASSP_AMD__hem,0.83
+4987_DASSP_AMD_#_hem,0.75
+4988_DASSP_AMD_TS_hem,0.83
+498_DASSP_#_#_hem,0.79
+5000_DASSP_AMD_#_hem,0.83
+5017_DASSP_AMD_#_hem,0.17
+5018_DASSP_AMD_#_hem,0.42
+5021_DASSP_AMD_#_hem,0.62
+5027_DASSP_AMD_#_hem,0.39
+5029_DASSP_AMD_#_hem,0.66
+5031_DASSP_AMD_#_hem,0.71
+5032_DASSP_AMD_#_hem,0.44
+5033_DASSP_AMD_#_hem,0.49
+5034_DASSP_#_#_hem,0.83
+5038_DASSP_#_#_hem,0.83
+5041_DASSP_#_#_hem,0.83
+5047_DASSP_#_#_hem,0.8
+5060_DASSP_AMD_#_hem,0.84
+5061_DASSP_AMD_#_hem,0.84
+5064_DASSP_AMD_#_hem,0.79
+5066_DASSP_AMD_#_hem,0.72
+5067_DASSP_AMD_#_hem,0.46
+5068_DASSP_AMD_#_hem,0.96
+506_DASSP_AMD_#_hem,0.7
+5070_DASSP_AMD_#_hem,0.49
+5071_DASSP_AMD_#_hem,0.48
+5079_DASSP_#_#_hem,0.66
+5080_DASSP_#_#_hem,0.66
+5081_DASSP_#_#_hem,0.83
+5083_DASSP_#_#_hem,0.75
+5084_DASSP_#_#_hem,0.81
+5085_DASSP_#_#_hem,0.83
+5097_DASSP_#_#_hem,0.43
+5098_DASSP_#_#_hem,0.44
+5099_DASSP_#_#_hem,0.45
+5101_DASSP_#_#_hem,0.44
+5103_DASSP_#_#_hem,0.44
+5104_DASSP_#_#_hem,0.44
+5120_DASSP_#_#_hem,0.43
+5121_DASSP_#_#_hem,0.44
+5122_DASSP_#_#_hem,0.46
+5131_DASSP_#_#_hem,0.83
+5132_DASSP_#_#_hem,0.76
+5133_DASSP_#_#_hem,0.83
+5135_DASSP_AMD_#_hem,0.83
+5137_DASSP_AMD_#_hem,0.52
+5140_DASSP_AMD_#_hem,0.83
+5143_DASSP_AMD_#_hem,0.7
+5163_DASSP_#_#_hem,0.83
+5165_DASSP_#_#_hem,0.34
+5166_DASSP_#_#_hem,0.66
+5167_DASSP_#_#_hem,0.83
+5177_DASSP_#_#_hem,0.83
+5185_DASSP_#_#_hem,0.44
+5193_DASSP_#_#_hem,0.53
+5196_DASSP_#_C12_hem,0.53
+520_DASSP_#_#_hem,0.82
+5220_DASSP_AMD_#_hem,0.59
+5221_DASSP_AMD_#_hem,0.96
+5223_DASSP_AMD_#_hem,0.99
+5226_DASSP_AMD_#_hem,0.83
+5227_DASSP_AMD_#_hem,0.79
+5229_DASSP_AMD_#_hem,0.65
+522_DASSP_#_#_hem,0.83
+5235_DASSP_#_#_hem,0.85
+5236_DASSP_#_#_hem,0.95
+5237_DASSP_#_#_hem,0.83
+5238_DASSP_#_#_hem,0.83
+5239_DASSP_#_#_hem,0.79
+5240_DASSP_#_#_hem,0.83
+524_DASSP_#_#_hem,0.51
+526_DASSP_#_#_hem,0.77
+527_DASSP_#_#_hem,0.54
+5281_DASSP_#_#_hem,0.81
+5282_DASSP_#_#_hem,0.83
+5283_DASSP_#_#_hem,0.83
+5284_DASSP_#_#_hem,0.83
+5285_DASSP_#_#_hem,0.92
+5286_DASSP_#_#_hem,0.83
+5287_DASSP_AMD_#_hem,0.7
+5288_DASSP_#_#_hem,0.44
+5289_DASSP_#_#_hem,0.45
+5290_DASSP_#_#_hem,0.45
+5291_DASSP_#_#_hem,0.44
+5296_DASSP_#_#_hem,0.44
+5297_DASSP_#_#_hem,0.44
+5298_DASSP_#_#_hem,0.44
+5299_DASSP_#_#_hem,0.86
+5301_DASSP_#_#_hem,0.83
+5304_DASSP_#_#_hem,0.83
+5305_DASSP_#_#_hem,0.97
+5306_DASSP_#_#_hem,0.83
+5307_DASSP_#_#_hem,0.63
+5309_DASSP_#_#_hem,0.94
+5310_DASSP_#_#_hem,0.96
+5311_DASSP_#_#_hem,0.83
+5312_DASSP_AMD_#_hem,0.94
+5313_DASSP_#_#_hem,0.94
+531_DASSP_AMD_#_hem,0.44
+5324_DASSP_AMD_#_hem,0.57
+5326_DASSP_AMD_#_hem,0.45
+5328_DASSP_AMD_#_hem,0.42
+5329_DASSP_AMD_#_hem,0.3
+532_DASSP_AMD_#_hem,0.44
+5330_DASSP_AMD_#_hem,0.69
+5331_DASSP_AMD_#_hem,0.69
+5332_DASSP_AMD_#_hem,0.3
+5333_DASSP_AMD_#_hem,0.28
+5334_DASSP_AMD_#_hem,0.67
+5338_DASSP_AMD_#_hem,0.78
+5339_DASSP_AMD_#_hem,0.7
+533_DASSP_AMD_#_hem,0.44
+5340_DASSP_AMD_#_hem,0.53
+5341_DASSP_AMD_#_hem,0.72
+5342_DASSP_AMD_#_hem,0.72
+5343_DASSP_AMD_#_hem,0.48
+5344_DASSP_AMD_#_hem,0.83
+5345_DASSP_AMD_#_hem,0.9
+5351_DASSP_#_#_hem,0.81
+5352_DASSP_#_#_hem,0.68
+5354_DASSP_#_#_hem,0.74
+5355_DASSP_#_#_hem,0.81
+5360_DASSP_AMD_#_hem,0.98
+5361_DASSP_#_#_hem,0.86
+5362_DASSP_AMD_#_hem,0.76
+5363_DASSP_AMD_#_hem,0.77
+5364_DASSP_AMD_#_hem,0.83
+5365_DASSP_AMD_#_hem,0.94
+5366_DASSP_AMD_#_hem,0.44
+5367_DASSP_AMD_iotin_hem,0.48
+5368_DASSP_AMD_#_hem,0.83
+5369_DASSP_AMD_#_hem,0.6
+536_DASSP_#_#_hem,0.88
+5370_DASSP_AMD_#_hem,0.69
+5372_DASSP_#_#_hem,0.74
+5373_DASSP_#_#_hem,0.89
+537_DASSP_AMD_#_hem,0.44
+5382_DASSP_#_#_hem,0.67
+5385_DASSP_AMD_#_hem,0.27
+5386_DASSP_#_#_hem,0.68
+5387_DASSP_AMD_#_hem,0.35
+5389_DASSP_#_#_hem,0.67
+538_DASSP_AMD_#_hem,0.44
+539_DASSP_AMD_#_hem,0.44
+5405_DASSP_AMD_#_hem,0.44
+540_DASSP_AMD_#_hem,0.44
+5411_DASSP_AMD_#_hem,0.57
+5417_DASSP_#_#_hem,0.9
+541_DASSP_AMD_#_hem,0.44
+5428_DASSP_AMD_#_hem,0.9
+5429_DASSP_AMD_#_hem,1
+5430_DASSP_AMD_#_hem,0.36
+5432_DASSP_AMD_#_hem,0.36
+5434_DASSP_AMD_#_hem,0.36
+5436_DASSP_AMD_#_hem,0.36
+5443_DASSP_AMD_#_hem,0.78
+5444_DASSP_AMD_#_hem,0.79
+5446_DASSP_AMD_#_hem,0.83
+5447_DASSP_AMD_#_hem,0.67
+5448_DASSP_AMD_#_hem,0.57
+5455_DASSP_#_#_hem,0.83
+546_DASSP_AMD_#_hem,0.44
+547_DASSP_AMD_#_hem,0.44
+5481_DASSP_AMD_#_hem,0.65
+5482_DASSP_AMD_#_hem,0.67
+5483_DASSP_AMD_#_hem,0.65
+5484_DASSP_AMD_#_hem,0.67
+5485_DASSP_AMD_#_hem,0.61
+5487_DASSP_AMD_#_hem,0.6
+5488_DASSP_AMD_#_hem,0.65
+5489_DASSP_AMD_#_hem,0.67
+5490_DASSP_#_#_hem,0.56
+549_DASSP_AMD_#_hem,0.44
+5504_DASSP_AMD_#_hem,0.78
+5512_DASSP_AMD_#_hem,0.83
+5513_DASSP_AMD_#_hem,0.83
+5515_DASSP_#_#_hem,0.8
+551_DASSP_AMD_#_hem,0.44
+5520_DASSP_#_#_hem,0.83
+5521_DASSP_#_#_hem,0.91
+5522_DASSP_#_#_hem,0.83
+5523_DASSP_#_#_hem,0.88
+5524_DASSP_#_#_hem,0.9
+552_DASSP_AMD_#_hem,0.44
+5530_DASSP_#_#_hem,0.86
+5531_DASSP_#_#_hem,0.83
+5532_DASSP_#_#_hem,0.71
+5535_DASSP_AMD_#_hem,0.84
+5538_DASSP_AMD_#_hem,0.88
+5539_DASSP_#_#_hem,0.64
+553_DASSP_AMD_#_hem,0.44
+5540_DASSP_#_#_hem,0.52
+5541_DASSP_#_#_hem,0.78
+554_DASSP_AMD_#_hem,0.44
+5550_DASSP_AMD_#_hem,0.67
+555_DASSP_AMD_#_hem,0.44
+556_DASSP_AMD_#_hem,0.44
+5570_DASSP_AMD_#_hem,0.44
+5571_DASSP_AMD_#_hem,0.44
+5572_DASSP_AMD_#_hem,0.44
+5588_DASSP_AMD_#_hem,0.76
+5593_DASSP_AMD_#_hem,0.17
+5604_DASSP_#_#_hem,0.83
+5623_DASSP_#_#_hem,0.82
+565_DASSP_AMD_#_hem,0.56
+5687_DASSP_AMD_#_hem,0.61
+5695_DASSP_#_#_hem,0.86
+5696_DASSP_#_#_hem,0.73
+5697_DASSP_#_#_hem,0.64
+5721_DASSP_AMD_#_hem,0.52
+5722_DASSP_AMD_#_hem,0.65
+573_DASSP_AMD_#_hem,0.76
+5795_DASSP_AMD_#_hem,0.46
+5796_DASSP_AMD_#_hem,0.45
+5799_DASSP_AMD_#_hem,0.85
+5801_DASSP_AMD_#_hem,0.61
+5802_DASSP_AMD_#_hem,0.53
+5842_DASSP_#_#_hem,0.83
+5843_DASSP_#_#_hem,0.87
+5853_DASSP_AMD_#_hem,0.79
+5859_DASSP_#_#_hem,0.7
+5863_DASSP_#_#_hem,0.53
+5937_DASSP_AMD_#_hem,0.3
+5938_DASSP_AMD_#_hem,0.45
+5939_DASSP_AMD_#_hem,0.48
+5940_DASSP_AMD_#_hem,0.39
+5973_DASSP_AMD_#_hem,0.8
+5998_DASSP_AMD_#_hem,0.48
+6001_DASSP_AMD_#_hem,0.52
+6003_DASSP_AMD_#_hem,0.45
+6045_DASSP_AMD_#_hem,0.7
+606_DASSP_#_#_hem,0.84
+607_DASSP_#_#_hem,0.86
+608_DASSP_#_#_hem,0.87
+6090_DASSP_#_#_hem,0.45
+6091_DASSP_#_#_hem,0.44
+6092_DASSP_#_#_hem,0.46
+6093_DASSP_#_#_hem,0.44
+6094_DASSP_#_#_hem,0.46
+609_DASSP_#_#_hem,0.83
+610_DASSP_#_#_hem,0.87
+611_DASSP_#_#_hem,0.86
+612_DASSP_#_#_hem,0.83
+6138_DASSP_#_#_hem,0.44
+6139_DASSP_#_#_hem,0.44
+613_DASSP_#_#_hem,0.84
+6140_DASSP_#_#_hem,0.44
+6141_DASSP_#_#_hem,0.44
+6142_DASSP_#_#_hem,0.44
+6143_DASSP_#_#_hem,0.44
+6147_DASSP_#_#_hem,0.44
+6149_DASSP_#_#_hem,0.44
+614_DASSP_#_#_hem,0.51
+615_DASSP_#_#_hem,0.83
+6166_DASSP_#_#_hem,0.83
+6167_DASSP_#_#_hem,0.85
+6168_DASSP_#_#_hem,0.87
+6169_DASSP_#_#_hem,0.83
+616_DASSP_#_#_hem,0.83
+6170_DASSP_#_#_hem,0.83
+617_DASSP_#_#_hem,0.83
+618_DASSP_#_#_hem,0.83
+6190_DASSP_#_#_hem,0.46
+6191_DASSP_#_#_hem,0.43
+6194_DASSP_#_#_hem,0.45
+619_DASSP_#_#_hem,0.84
+6204_DASSP_#_#_hem,0.5
+6207_DASSP_#_#_hem,0.55
+6208_DASSP_#_#_hem,0.36
+6209_DASSP_#_#_hem,0.36
+620_DASSP_AMD_#_hem,0.55
+6247_DASSP_#_#_hem,0.79
+6249_DASSP_#_#_hem,0.72
+6251_DASSP_AMD_#_hem,0.84
+6273_DASSP_AMD_ACT_hem,0.43
+6279_DASSP_AMD_ACT_hem,0.37
+6280_DASSP_AMD_ACT_hem,0.17
+6282_DASSP_AMD_ACT_hem,0.48
+6306_DASSP_ETA_FR_hem,0.44
+6307_DASSP_ETA_FR_hem,0.44
+6308_DASSP_ETA_FR_hem,0.44
+6309_DASSP_ETA_FR_hem,0.44
+6310_DASSP_ETA_FR_hem,0.44
+6311_DASSP_ETA_FR_hem,0.44
+6312_DASSP_ETA_FR_hem,0.44
+6320_DASSP_#_#_hem,0.48
+6400_DASSP_AMD_C12_hem,0.59
+6406_DASSP_AMD_C8_hem,0.56
+640_DASSP_#_#_hem,0.83
+641_DASSP_#_#_hem,0.83
+643_DASSP_#_#_hem,0.5
+6450_DASSP_AMD_#_hem,0.44
+6451_DASSP_AMD_#_hem,0.44
+6452_DASSP_AMD_#_hem,0.44
+6453_DASSP_AMD_#_hem,0.44
+6454_DASSP_AMD_#_hem,0.44
+6455_DASSP_AMD_#_hem,0.44
+6460_DASSP_AMD_#_hem,0.44
+6468_DASSP_AMD_ACT_hem,0.8
+646_DASSP_#_#_hem,0.83
+6473_DASSP_AMD_ACT_hem,0.31
+6480_DASSP_AMD_ACT_hem,0.81
+6488_DASSP_AMD_ACT_hem,0.92
+6489_DASSP_AMD_ACT_hem,0.88
+6493_DASSP_AMD_ACT_hem,0.7
+6496_DASSP_AMD_ACT_hem,0.72
+6497_DASSP_AMD_ACT_hem,0.62
+6501_DASSP_AMD_ACT_hem,0.84
+6503_DASSP_AMD_ACT_hem,0.48
+6505_DASSP_AMD_ACT_hem,0.62
+6525_DASSP_AMD_ACT_hem,0.59
+6526_DASSP_AMD_ACT_hem,0.56
+6527_DASSP_AMD_ACT_hem,0.7
+6528_DASSP_AMD_ACT_hem,0.57
+6529_DASSP_AMD_ACT_hem,0.48
+6530_DASSP_AMD_ACT_hem,0.58
+6531_DASSP_AMD_ACT_hem,0.17
+6532_DASSP_AMD_ACT_hem,0.57
+6533_DASSP_AMD_ACT_hem,0.17
+6535_DASSP_AMD_ACT_hem,0.23
+6539_DASSP_AMD_ACT_hem,0.25
+6540_DASSP_AMD_ACT_hem,0.44
+6541_DASSP_AMD_ACT_hem,0.75
+6543_DASSP_#_#_hem,0.85
+6544_DASSP_#_#_hem,0.83
+6545_DASSP_#_#_hem,0.82
+6546_DASSP_#_#_hem,0.91
+6547_DASSP_#_#_hem,0.83
+6548_DASSP_#_#_hem,0.71
+6549_DASSP_#_#_hem,0.68
+6550_DASSP_#_#_hem,0.58
+6551_DASSP_#_#_hem,0.83
+6552_DASSP_#_#_hem,0.56
+663_DASSP_#_#_hem,0.83
+6649_DASSP_AMD_#_hem,0.63
+6650_DASSP_AMD_#_hem,0.64
+6651_DASSP_AMD_NC2_hem,0.63
+6652_DASSP_AMD_NC4_hem,0.63
+6653_DASSP_AMD_NC6_hem,0.63
+6654_DASSP_AMD_ACT_hem,0.64
+6655_DASSP_AMD_C4_hem,0.64
+6658_DASSP_AMD_C6_hem,0.64
+6660_DASSP_AMD_Ch_hem,0.68
+6663_DASSP_AMD_FMC_hem,0.68
+6664_DASSP_AMD_SC_hem,0.68
+6665_DASSP_AMD_C4_hem,0.63
+6666_DASSP_AMD_C8_hem,0.63
+6667_DASSP_AMD_NC12_hem,0.63
+6668_DASSP_AMD_NC12_hem,0.68
+6671_DASSP_AMD_#_hem,0.44
+6672_DASSP_AMD_#_hem,0.53
+6673_DASSP_AMD_#_hem,0.8
+6687_DASSP_AMD_#_hem,0.42
+6688_DASSP_AMD_ACT_hem,0.44
+6701_DASSP_AMD_#_hem,0.7
+6702_DASSP_#_#_hem,0.83
+6703_DASSP_#_#_hem,0.83
+6704_DASSP_#_#_hem,0.87
+6705_DASSP_#_#_hem,0.4
+6706_DASSP_AMD_#_hem,0.73
+6715_DASSP_AMD_ACT_hem,0.49
+6716_DASSP_AMD_ACT_hem,0.44
+6719_DASSP_AMD_ACT_hem,0.44
+671_DASSP_#_#_hem,0.83
+6725_DASSP_AMD_ACT_hem,0.41
+6726_DASSP_AMD_ACT_hem,0.45
+6727_DASSP_AMD_ACT_hem,0.42
+672_DASSP_AMD_#_hem,0.87
+6830_DASSP_AMD_#_hem,0.44
+6831_DASSP_AMD_#_hem,0.37
+6841_DASSP_AMD_#_hem,0.39
+6842_DASSP_AMD_#_hem,0.39
+6897_DASSP_AMD_#_hem,0.75
+6898_DASSP_AMD_#_hem,0.57
+6901_DASSP_AMD_#_hem,0.26
+6903_DASSP_AMD_#_hem,0.53
+6924_DASSP_#_#_hem,0.88
+6925_DASSP_#_#_hem,0.85
+6926_DASSP_#_#_hem,0.83
+6928_DASSP_#_#_hem,0.84
+6931_DASSP_#_#_hem,0.83
+6932_DASSP_#_#_hem,0.83
+6934_DASSP_#_#_hem,0.82
+6936_DASSP_#_#_hem,0.83
+6962_DASSP_AMD_#_hem,0.65
+6963_DASSP_AMD_#_hem,0.65
+6965_DASSP_AMD_#_hem,0.7
+6967_DASSP_AMD_#_hem,0.44
+6968_DASSP_AMD_#_hem,0.41
+6969_DASSP_AMD_#_hem,0.41
+6975_DASSP_AMD_#_hem,0.24
+6977_DASSP_AMD_#_hem,0.56
+6978_DASSP_AMD_#_hem,0.5
+6979_DASSP_AMD_#_hem,0.48
+6980_DASSP_AMD_#_hem,0.47
+6983_DASSP_AMD_#_hem,0.37
+6984_DASSP_AMD_#_hem,0.42
+6985_DASSP_AMD_C3_hem,0.68
+6986_DASSP_AMD_C4_hem,0.68
+6987_DASSP_AMD_C5_hem,0.68
+6988_DASSP_AMD_C6_hem,0.68
+6989_DASSP_AMD_C8_hem,0.68
+6990_DASSP_AMD_C10_hem,0.68
+6991_DASSP_AMD_#_hem,0.45
+6993_DASSP_AMD_#_hem,0.5
+6998_DASSP_AMD_C12_hem,0.68
+6999_DASSP_AMD_C14_hem,0.68
+699_DASSP_AMD_#_hem,0.92
+7000_DASSP_AMD_C16_hem,0.68
+7001_DASSP_AMD_NC2_hem,0.68
+7002_DASSP_AMD_NC4_hem,0.68
+7003_DASSP_AMD_C12_hem,0.62
+7004_DASSP_AMD_NC12_hem,0.62
+700_DASSP_AMD_#_hem,1
+7010_DASSP_AMD_#_hem,0.91
+701_DASSP_AMD_#_hem,1
+702_DASSP_AMD_#_hem,0.78
+7031_DASSP_AMD_#_hem,0.73
+7033_DASSP_AMD_#_hem,0.69
+703_DASSP_AMD_#_hem,0.73
+704_DASSP_AMD_#_hem,1
+705_DASSP_AMD_#_hem,0.77
+708_DASSP_#_#_hem,0.5
+7109_DASSP_AMD_#_hem,0.37
+7115_DASSP_AMD_#_hem,0.42
+7116_DASSP_AMD_#_hem,0.43
+7118_DASSP_AMD_#_hem,0.44
+7164_DASSP_#_#_hem,0.39
+7167_DASSP_#_#_hem,0.83
+7169_DASSP_#_#_hem,0.83
+7170_DASSP_#_#_hem,0.83
+7188_DASSP_#_#_hem,0.79
+7189_DASSP_#_#_hem,0.79
+7190_DASSP_#_#_hem,0.79
+7213_DASSP_#_#_hem,0.88
+7242_DASSP_AMD_#_hem,0.64
+7243_DASSP_AMD_#_hem,0.44
+7247_DASSP_AMD_#_hem,0.63
+7248_DASSP_AMD_#_hem,0.63
+7249_DASSP_AMD_#_hem,0.63
+7251_DASSP_AMD_#_hem,0.66
+7252_DASSP_AMD_#_hem,0.64
+7253_DASSP_AMD_#_hem,0.62
+7254_DASSP_AMD_#_hem,0.62
+7255_DASSP_AMD_#_hem,0.66
+7256_DASSP_AMD_#_hem,0.62
+7257_DASSP_AMD_#_hem,0.66
+7265_DASSP_AMD_#_hem,0.62
+7269_DASSP_AMD_#_hem,0.62
+726_DASSP_#_#_hem,0.82
+7271_DASSP_AMD_#_hem,0.77
+7273_DASSP_AMD_#_hem,0.62
+7274_DASSP_AMD_#_hem,0.62
+727_DASSP_#_#_hem,0.73
+7284_DASSP_AMD_#_hem,0.58
+7285_DASSP_AMD_#_hem,0.61
+732_DASSP_AMD_#_hem,0.39
+734_DASSP_#_#_hem,0.76
+7356_DASSP_AMD_C12_hem,0.89
+7357_DASSP_AMD_#_hem,0.82
+7358_DASSP_AMD_C12_hem,0.82
+7359_DASSP_AMD_#_hem,0.65
+7360_DASSP_AMD_C12_hem,0.65
+7361_DASSP_AMD_#_hem,0.47
+7362_DASSP_AMD_C12_hem,0.47
+7363_DASSP_AMD_#_hem,0.55
+7364_DASSP_AMD_C12_hem,0.55
+7365_DASSP_AMD_C14_hem,0.47
+7366_DASSP_AMD_C14_hem,0.55
+7430_DASSP_AMD_#_hem,0.65
+7431_DASSP_AMD_#_hem,0.65
+7433_DASSP_AMD_#_hem,0.69
+7434_DASSP_AMD_#_hem,0.51
+7435_DASSP_AMD_#_hem,0.51
+7437_DASSP_AMD_#_hem,0.51
+7455_DASSP_AMD_#_hem,0.51
+7456_DASSP_AMD_#_hem,0.51
+7459_DASSP_AMD_#_hem,0.51
+7461_DASSP_AMD_#_hem,0.59
+7490_DASSP_#_#_hem,0.12
+7491_DASSP_#_#_hem,0.12
+7492_DASSP_#_#_hem,0.12
+7493_DASSP_#_#_hem,0.12
+7494_DASSP_#_#_hem,0.12
+7554_DASSP_#_#_hem,0.35
+7583_DASSP_AMD_#_hem,0.47
+7584_DASSP_#_#_hem,0.83
+7585_DASSP_#_#_hem,0.83
+7586_DASSP_AMD_#_hem,0.48
+7587_DASSP_AMD_#_hem,0.79
+7588_DASSP_AMD_#_hem,0.34
+7589_DASSP_AMD_#_hem,0.4
+759_DASSP_#_#_hem,0.36
+760_DASSP_AMD_#_hem,0.44
+7629_DASSP_AMD_#_hem,0.63
+762_DASSP_AMD_#_hem,0.44
+7630_DASSP_AMD_#_hem,0.53
+7632_DASSP_AMD_#_hem,0.6
+7633_DASSP_AMD_#_hem,0.47
+7634_DASSP_AMD_#_hem,0.58
+763_DASSP_AMD_#_hem,0.62
+7646_DASSP_AMD_#_hem,0.65
+764_DASSP_#_#_hem,0.88
+7657_DASSP_AMD_#_hem,0.75
+7670_DASSP_AMD_#_hem,0.92
+7671_DASSP_AMD_#_hem,0.47
+7673_DASSP_AMD_#_hem,0.76
+7674_DASSP_AMD_#_hem,0.91
+7688_DASSP_AMD_#_hem,0.44
+7707_DASSP_#_C16_hem,0.43
+7708_DASSP_#_C16_hem,0.43
+7709_DASSP_#_C16_hem,0.37
+7710_DASSP_#_C16_hem,0.43
+7711_DASSP_#_ACT_hem,0.43
+7712_DASSP_#_ACT_hem,0.43
+7713_DASSP_#_ACT_hem,0.37
+7714_DASSP_#_ACT_hem,0.43
+7744_DASSP_#_C8_hem,0.49
+7746_DASSP_#_C8_hem,0.49
+774_DASSP_#_#_hem,0.64
+7762_DASSP_#_#_hem,0.83
+7765_DASSP_AMD_#_hem,0.4
+7766_DASSP_AMD_#_hem,0.4
+7767_DASSP_AMD_#_hem,0.38
+776_DASSP_#_#_hem,0.89
+777_DASSP_#_#_hem,0.83
+778_DASSP_#_#_hem,0.66
+779_DASSP_AMD_#_hem,0.79
+7819_DASSP_#_#_hem,0.83
+7820_DASSP_#_#_hem,0.77
+7826_DASSP_AMD_#_hem,0.46
+7830_DASSP_#_#_hem,0.87
+7831_DASSP_AMD_#_hem,0.46
+7842_DASSP_AMD_#_hem,0.61
+7856_DASSP_#_#_hem,0.83
+7857_DASSP_#_#_hem,0.83
+7858_DASSP_#_#_hem,0.83
+7864_DASSP_#_#_hem,0.83
+7865_DASSP_#_#_hem,0.83
+7867_DASSP_#_#_hem,0.86
+7870_DASSP_#_#_hem,0.86
+7877_DASSP_#_#_hem,0.85
+7879_DASSP_#_#_hem,0.83
+7880_DASSP_#_#_hem,0.86
+7881_DASSP_#_#_hem,0.85
+7882_DASSP_#_#_hem,0.83
+7883_DASSP_#_#_hem,0.85
+7884_DASSP_#_#_hem,0.86
+7885_DASSP_#_#_hem,0.83
+7897_DASSP_#_#_hem,0.86
+7902_DASSP_#_#_hem,0.83
+7903_DASSP_#_#_hem,0.83
+7905_DASSP_#_#_hem,0.83
+7920_DASSP_#_#_hem,0.83
+7921_DASSP_#_#_hem,0.93
+7922_DASSP_#_#_hem,0.88
+7923_DASSP_#_#_hem,0.83
+7924_DASSP_#_#_hem,0.57
+7926_DASSP_#_#_hem,0.75
+7928_DASSP_#_#_hem,0.83
+7929_DASSP_#_#_hem,0.83
+7930_DASSP_#_#_hem,0.82
+7931_DASSP_#_#_hem,0.74
+7932_DASSP_#_#_hem,0.55
+7933_DASSP_#_#_hem,0.83
+7934_DASSP_#_#_hem,0.83
+7935_DASSP_#_#_hem,0.81
+7938_DASSP_#_#_hem,0.83
+7941_DASSP_#_#_hem,0.63
+7944_DASSP_#_#_hem,0.78
+7945_DASSP_#_#_hem,0.7
+7987_DASSP_#_#_hem,0.79
+7989_DASSP_#_#_hem,0.44
+79_DASSP_AMD_#_hem,0.89
+8020_DASSP_AMD_#_hem,0.74
+8021_DASSP_AMD_#_hem,0.7
+8030_DASSP_AMD_#_hem,0.6
+8031_DASSP_AMD_#_hem,0.8
+8033_DASSP_#_#_hem,0.89
+8034_DASSP_#_#_hem,0.83
+8038_DASSP_AMD_#_hem,0.65
+8039_DASSP_#_#_hem,0.83
+8040_DASSP_#_#_hem,0.86
+8048_DASSP_#_#_hem,0.83
+8050_DASSP_#_#_hem,0.83
+8052_DASSP_AMD_#_hem,0.38
+8064_DASSP_#_#_hem,0.83
+8065_DASSP_#_#_hem,0.86
+8066_DASSP_#_#_hem,0.73
+806_DASSP_AMD_#_hem,0.9
+8094_DASSP_#_#_hem,0.83
+8126_DASSP_AMD_#_hem,0.56
+8127_DASSP_AMD_#_hem,0.47
+815_DASSP_#_#_hem,0.76
+8197_DASSP_#_#_hem,0.83
+8209_DASSP_#_#_hem,0.9
+8266_DASSP_#_#_hem,0.83
+8268_DASSP_#_#_hem,0.8
+8269_DASSP_#_#_hem,0.81
+8270_DASSP_#_#_hem,0.92
+8271_DASSP_#_#_hem,0.92
+8282_DASSP_#_#_hem,0.62
+8373_DASSP_#_#_hem,0.88
+8388_DASSP_#_#_hem,0.79
+8389_DASSP_#_#_hem,0.71
+8390_DASSP_#_#_hem,0.79
+8391_DASSP_#_#_hem,0.88
+8392_DASSP_#_#_hem,0.79
+8394_DASSP_#_#_hem,0.88
+8396_DASSP_#_#_hem,0.72
+8397_DASSP_#_#_hem,0.89
+8398_DASSP_#_#_hem,0.83
+8399_DASSP_#_#_hem,0.81
+8400_DASSP_#_#_hem,0.76
+8401_DASSP_#_#_hem,0.89
+8437_DASSP_AMD_#_hem,0.58
+8438_DASSP_AMD_#_hem,0.55
+8439_DASSP_#_#_hem,0.85
+8440_DASSP_#_#_hem,0.92
+8591_DASSP_AMD_#_hem,0.41
+8592_DASSP_AMD_#_hem,0.67
+8593_DASSP_AMD_#_hem,0.74
+8594_DASSP_AMD_#_hem,0.75
+8595_DASSP_AMD_#_hem,0.58
+8610_DASSP_#_#_hem,0.41
+8633_DASSP_AMD_#_hem,0.51
+8634_DASSP_AMD_#_hem,0.43
+8635_DASSP_AMD_#_hem,0.59
+8636_DASSP_AMD_#_hem,0.59
+8751_DASSP_AMD_#_hem,0.44
+8797_DASSP_AMD_#_hem,0.44
+8798_DASSP_AMD_#_hem,0.41
+8799_DASSP_AMD_#_hem,0.36
+8800_DASSP_AMD_#_hem,0.43
+8801_DASSP_AMD_#_hem,0.43
+8802_DASSP_AMD_#_hem,0.35
+8804_DASSP_AMD_#_hem,0.4
+8805_DASSP_AMD_#_hem,0.44
+8806_DASSP_AMD_#_hem,0.27
+8807_DASSP_AMD_#_hem,0.39
+8812_DASSP_AMD_#_hem,0.46
+8826_DASSP_AMD_#_hem,0.64
+8828_DASSP_AMD_#_hem,0.64
+8863_DASSP_AMD_Abz_hem,0.63
+8868_DASSP_AMD_#_hem,0.87
+8899_DASSP_AMD_#_hem,0.57
+8900_DASSP_AMD_#_hem,0.58
+8905_DASSP_AMD_#_hem,0.54
+8911_DASSP_AMD_#_hem,0.52
+8913_DASSP_AMD_#_hem,0.52
+8914_DASSP_AMD_#_hem,0.44
+8917_DASSP_AMD_#_hem,0.55
+8918_DASSP_AMD_#_hem,0.51
+8941_DASSP_AMD_ACT_hem,0.38
+8943_DASSP_#_#_hem,0.51
+8944_DASSP_#_#_hem,0.47
+8945_DASSP_#_#_hem,0.51
+8946_DASSP_#_#_hem,0.43
+8947_DASSP_#_#_hem,0.7
+8948_DASSP_#_#_hem,0.59
+8956_DASSP_#_#_hem,0.74
+8957_DASSP_#_#_hem,0.68
+8981_DASSP_#_#_hem,0.78
+8982_DASSP_#_#_hem,0.75
+8983_DASSP_#_#_hem,0.75
+8984_DASSP_#_#_hem,0.76
+8995_DASSP_AMD_#_hem,0.4
+8997_DASSP_AMD_#_hem,0.44
+9004_DASSP_AMD_#_hem,0.83
+9006_DASSP_AMD_#_hem,0.72
+9007_DASSP_AMD_#_hem,0.72
+9008_DASSP_AMD_#_hem,0.72
+9009_DASSP_AMD_#_hem,0.83
+9010_DASSP_AMD_#_hem,0.82
+904_DASSP_AMD_#_hem,0.52
+905_DASSP_AMD_ACT_hem,0.52
+906_DASSP_AMD_TS_hem,0.52
+9073_DASSP_#_#_hem,0.44
+907_DASSP_AMD__hem,0.52
+908_DASSP_AMD_Y_hem,0.52
+909_DASSP_AMD_C16_hem,0.52
+911_DASSP_AMD_#_hem,0.59
+912_DASSP_AMD_#_hem,0.79
+913_DASSP_AMD_#_hem,0.8
+914_DASSP_AMD_#_hem,0.55
+9157_DASSP_AMD_#_hem,0.67
+915_DASSP_AMD_#_hem,0.83
+9160_DASSP_#_#_hem,0.5
+9175_DASSP_AMD_#_hem,0.46
+9329_DASSP_#_#_hem,0.51
+932_DASSP_AMD_#_hem,0.4
+933_DASSP_AMD_#_hem,0.35
+9343_DASSP_AMD_#_hem,0.38
+9362_DASSP_AMD_#_hem,0.6
+9370_DASSP_#_#_hem,0.7
+9371_DASSP_AMD_#_hem,0.7
+9372_DASSP_EN_#_hem,0.7
+9373_DASSP_#_ACT_hem,0.7
+9374_DASSP_AMD_ACT_hem,0.7
+9375_DASSP_EN_ACT_hem,0.7
+9376_DASSP_#_SC_hem,0.7
+9377_DASSP_AMD_SC_hem,0.7
+9378_DASSP_EN_SC_hem,0.7
+9379_DASSP_#_#_hem,0.53
+9380_DASSP_#_#_hem,0.53
+9383_DASSP_#_#_hem,0.53
+9385_DASSP_#_#_hem,0.6
+9386_DASSP_#_#_hem,0.6
+9405_DASSP_AMD_#_hem,0.91
+9406_DASSP_AMD_ACT_hem,0.91
+9407_DASSP_AMD_#_hem,0.89
+943_DASSP_AMD_#_hem,0.69
+944_DASSP_AMD_#_hem,0.83
+9466_DASSP_AMD_#_hem,0.71
+9468_DASSP_AMD_#_hem,0.71
+9469_DASSP_AMD_#_hem,0.72
+948_DASSP_#_#_hem,0.83
+9494_DASSP_#_#_hem,0.56
+952_DASSP_#_#_hem,0.83
+9571_DASSP_AMD_#_hem,0.49
+9629_DASSP_#_#_hem,0.41
+9632_DASSP_#_#_hem,0.41
+9636_DASSP_#_#_hem,0.43
+9637_DASSP_#_#_hem,0.43
+9638_DASSP_#_#_hem,0.43
+9639_DASSP_#_#_hem,0.43
+9644_DASSP_#_#_hem,0.44
+9645_DASSP_#_#_hem,0.44
+9646_DASSP_#_#_hem,0.44
+9647_DASSP_#_#_hem,0.44
+9648_DASSP_#_#_hem,0.44
+964_DASSP_#_#_hem,0.83
+9651_DASSP_#_#_hem,0.47
+9655_DASSP_#_#_hem,0.5
+9656_DASSP_#_#_hem,0.5
+9659_DASSP_#_#_hem,0.44
+9660_DASSP_#_#_hem,0.41
+9661_DASSP_#_#_hem,0.41
+966_DASSP_#_#_hem,0.83
+9675_DASSP_#_#_hem,0.86
+9676_DASSP_#_#_hem,0.43
+9677_DASSP_#_#_hem,0.53
+9678_DASSP_#_#_hem,0.57
+9679_DASSP_#_#_hem,0.6
+9680_DASSP_#_#_hem,0.61
+968_DASSP_#_#_hem,0.83
+969_DASSP_#_#_hem,0.83
+970_DASSP_#_#_hem,0.79
+971_DASSP_#_#_hem,0.83
+972_DASSP_AMD_#_hem,0.54
+9736_DASSP_#_#_hem,0.66
+9737_DASSP_#_#_hem,0.89
+9739_DASSP_#_#_hem,0.68
+973_DASSP_AMD_#_hem,0.55
+9744_DASSP_#_#_hem,0.83
+9753_DASSP_AMD_#_hem,0.54
+9818_DASSP_#_#_hem,0.5
+9819_DASSP_#_#_hem,0.5
+9820_DASSP_#_#_hem,0.44
+9821_DASSP_#_#_hem,0.49
+9858_DASSP_#_C14_hem,0.41
+9859_DASSP_#_C14_hem,0.44
+9865_DASSP_#_#_hem,0.73
+9868_DASSP_AMD_#_hem,0.7
+9869_DASSP_AMD_#_hem,0.61
+9879_DASSP_AMD_#_hem,0.43
+9880_DASSP_AMD_#_hem,0.38
+9881_DASSP_AMD_#_hem,0.31
+9882_DASSP_AMD_#_hem,0.34
+9883_DASSP_AMD_#_hem,0.37
+9888_DASSP_AMD_#_hem,0.32
+9889_DASSP_AMD_#_hem,0.28
+9891_DASSP_AMD_#_hem,0.58
+9895_DASSP_AMD_#_hem,0.5
+991_DASSP_#_#_hem,0.83
+9922_DASSP_#_#_hem,0.42
+9923_DASSP_AMD_#_hem,0.42
+9924_DASSP_#_#_hem,0.42
+995_DASSP_AMD_#_hem,0.81
+9965_DASSP_AMD_#_hem,0.43
+996_DASSP_AMD_#_hem,0.87
+997_DASSP_AMD_#_hem,0.68
+9986_DASSP_AMD_#_hem,0.85
+9987_DASSP_#_#_hem,0.81
+998_DASSP_AMD_#_hem,0.83
+999_DASSP_AMD_#_hem,0.83
