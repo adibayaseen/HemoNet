@@ -1,3 +1,8 @@
+"""
+Data format
+###############
+">"+str(NonHemoId[n])+"_Hemolytik_"+ C_ter[NonHemoId[n]]+'_'+N_ter[NonHemoId[n]]+"_"+Act_dict[NonHemoId[n]]+"\n"+NonHemoSeq[n]+"\n"
+"""
 >1541_Hemolytik_Free_Free_Mild hemolytic activity at 50μM
 LGFGTFVLMLLGLVVELIK
 >1815_Hemolytik_Amidation_Free_Hemolytic activity expresssed as the initial rate (∆A/∆t, min-1) i.e. at above 100
