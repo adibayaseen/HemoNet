@@ -7,7 +7,7 @@ A neural network that perdict hemolytic activity classification of a peptide seq
 abstract
 # Results
 ======
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/adibayaseen/HemoNet/blob/main/All%20Method%20Comparison.png?raw=true "Title")
 ## Set Up Environment
 ```
 python=3.6
