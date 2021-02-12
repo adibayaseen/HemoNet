@@ -1,12 +1,12 @@
 # HemoNet
-=
+
 HemoNet: Predicting Hemolytic Activity with Integrated Feature Learning
 A neural network that perdict hemolytic activity classification of a peptide sequence along with inforamtion of N/C terminal modifications.This network captures context of amino acid with SeqVec embedding, Circular Fingerprint repersatation of N/C terminal modification's SMILES.
 # Abstract
-======
+
 abstract
 # Results
-======
+
 ![Alt text](https://github.com/adibayaseen/HemoNet/blob/main/All%20Method%20Comparison.png?raw=true "Title")
 ## Set Up Environment
 ```
