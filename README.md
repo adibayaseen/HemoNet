@@ -22,5 +22,3 @@ weights.hdf file have link of google drive in which neural network weights are s
 UMAP.py file is used for visulaization of the data
 Clusterify.py used for making non-redendend clusters
 Final_Baseline_blaster_NN_5fold_cv_from_output_files.py used for Baseline Blast search
-
-
