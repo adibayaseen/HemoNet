@@ -16,8 +16,8 @@ Seprate Hemolytic examples can be downloaded from here https://github.com/adibay
 Non-hemolytic examples can be downloaded from here https://github.com/adibayaseen/HemoNet/blob/main/Nonhemo_All_seq.txt <br/>
 ## Code Structure
 [weights.hdf ](https://github.com/adibayaseen/HemoNet/blob/main/weights.hdf)file have link of google drive in which neural network weights  of SeqVec features are stored <br/>
-[5-foldResultsComparison.py](https://github.com/adibayaseen/HemoNet/blob/code/5-foldResultsComparison.py) is used for 5-fold comparison with existing models and basline results.<br/>
-[HemoNet10RunsResults](https://github.com/adibayaseen/HemoNet/blob/code/HemoNet10RunsResults)( 5-fold and Non-redundant) is used for HemoNet's all methods(5-fold and Non-redundant Cross-Validation Analysis) for 10 runs <br/>
+[5-foldResultsComparison.py](https://github.com/adibayaseen/HemoNet/blob/b000b4522c3a0b64109db32b3667047804ef12d4/5-foldResultsComparison.py) is used for 5-fold comparison with existing models and basline results.<br/>
+[HemoNet10RunsResults](https://github.com/adibayaseen/HemoNet/blob/code/HemoNet10RunsResults)( 5-fold and Non-redundant) is used for HemoNet's all methods(5-fold and Non-redundant Cross-Validation Analysis)<br/>
 [UMAP.py](https://github.com/adibayaseen/HemoNet/blob/code/UMAP.py) file is used for visulaization of the data <br/>
 [Clusterify.py](https://github.com/adibayaseen/HemoNet/blob/code/Clusterify.py) used for making non-redendend clusters <br/>
 [Final_Baseline_blaster_NN_5fold_cv_from_output_files.py](https://github.com/adibayaseen/HemoNet/blob/code/Final_Baseline_blaster_NN_5fold_cv_from_output_files.py) used for Baseline Blast search <br/>
