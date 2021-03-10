@@ -15,7 +15,7 @@ Dataset can be downloaded from this link [https://github.com/adibayaseen/HemoNet
 Seprate Hemolytic examples can be downloaded from here https://github.com/adibayaseen/HemoNet/blob/main/hemo_All_seq.txt<br/>
 Non-hemolytic examples can be downloaded from here https://github.com/adibayaseen/HemoNet/blob/main/Nonhemo_All_seq.txt <br/>
 ## Code Structure
-weights.hdf file have link of google drive in which neural network weights  of SeqVec features are stored
+[weights.hdf ](https://www.google.com) file have link of google drive in which neural network weights  of SeqVec features are stored
 5-foldResultsComparison.py is used for 5-fold comparison with existing models and basline results.
 HemoNet10RunsResults( 5-fold and Non-redundant) is used for HemoNet's all methods(5-fold and Non-redundant Cross-Validation Analysis) for 10 runs 
 UMAP.py file is used for visulaization of the data
