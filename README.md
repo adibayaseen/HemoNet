@@ -26,6 +26,6 @@ Clinical dataset from here https://github.com/adibayaseen/HemoNet/blob/0052f9f33
 [Results.py](https://github.com/adibayaseen/HemoNet/blob/b000b4522c3a0b64109db32b3667047804ef12d4/Results.py) used for result in multiple runs(10)<br/>
 ## Generate predictions
 Input File format <br/>
->Id_Nterminal_CTerminal
-sequence
+>Id_Nterminal_CTerminal<br/>
+sequence<br/>
 [Genearate_Prediction](https://colab.research.google.com/drive/1ihMYIuz_s3JlabfLcrd0o7PXSgeGAGQ9?usp=sharing) used for prediction of test file in given format<br/>
