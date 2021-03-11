@@ -28,3 +28,4 @@ Clinical dataset from here https://github.com/adibayaseen/HemoNet/blob/0052f9f33
 Input File format <br/>
 >Id_Nterminal_CTerminal
 sequence
+[Genearate_Prediction](https://colab.research.google.com/drive/1ihMYIuz_s3JlabfLcrd0o7PXSgeGAGQ9?usp=sharing) used for prediction of test file in given format<br/>
