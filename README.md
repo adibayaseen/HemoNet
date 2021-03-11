@@ -24,3 +24,7 @@ Clinical dataset from here https://github.com/adibayaseen/HemoNet/blob/0052f9f33
 [Clusterify.py](https://github.com/adibayaseen/HemoNet/blob/b000b4522c3a0b64109db32b3667047804ef12d4/Clusterify.py) used for making non-redendend clusters <br/>
 [Final_Baseline_blaster_NN_5fold_cv_from_output_files.py](https://github.com/adibayaseen/HemoNet/blob/b000b4522c3a0b64109db32b3667047804ef12d4/Final_Baseline_blaster_NN_5fold_cv_from_output_files.py) used for Baseline Blast search <br/>
 [Results.py](https://github.com/adibayaseen/HemoNet/blob/b000b4522c3a0b64109db32b3667047804ef12d4/Results.py) used for result in multiple runs(10)<br/>
+## Generate predictions
+Input File format <br/>
+>Id_Nterminal_CTerminal
+sequence
